@@ -2,15 +2,15 @@
 
 Attribute.СписокКонстант.Title=Constants list
 Attribute.СписокКонстант.ИндексКартинки.Title=ZIP Pictures
-Attribute.СписокКонстант.ИндексКартинкиАвторегистрация.Title=ZIP Pictures Auto register
+Attribute.СписокКонстант.ИндексКартинкиAutoрегистрация.Title=ZIP Pictures Auto register
 Attribute.СписокКонстант.МетаПолноеИмя.Title=Attributes Panel Name
 Attribute.СписокКонстант.Наименование.Title=Description
 Command.ВыбратьКонстанту.Title=Select
 Command.ВыбратьКонстанту.ToolTip=Select Constant
 Item.Группа1.Title=Legend
 Item.Декорация1.Title=Auto record picture
-Item.ДекорацияАвторегистрация.Title=Register changes automatically
-Item.СписокКонстантИндексКартинкиАвторегистрация.Title=Auto record
+Item.ДекорацияAutoрегистрация.Title=Register changes automatically
+Item.СписокКонстантИндексКартинкиAutoрегистрация.Title=Auto record
 Item.СписокКонстантКонтекстноеМенюВыбратьКонстанту.Title=Select
 Item.СписокКонстантНаименование.Title=Constant
 Title=Select constant

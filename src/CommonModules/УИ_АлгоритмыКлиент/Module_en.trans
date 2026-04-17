@@ -7,7 +7,7 @@ Method.РедактироватьАлгоритм.Var.ПараметрыФорм
 Method.СоздатьАлгоритм.Name=CreateAlgorithm
 Method.СоздатьАлгоритм.Param.ИдентификаторАлгоритмаКопирования.Name=UUIDOptionKopirovaniya
 Method.СоздатьАлгоритм.Param.ОписаниеОповещенияОЗавершении.Name=DescriptionOpoveshcheniyaDComplete
-Method.СоздатьАлгоритм.String.ЗначениеКопирования.Key=ЗначениеКопирования
+Method.СоздатьАлгоритм.String.ЗначениеКопирования.Key=ZnachenieKopirovaniya
 Method.СоздатьАлгоритм.Var.ПараметрыФормы.Name=ParametersForm
 Region.ПрограммныйИнтерфейс.Name=API
 Region.ПрограммныйИнтерфейс.РедактированиеАлгоритмов.Name=EditMode

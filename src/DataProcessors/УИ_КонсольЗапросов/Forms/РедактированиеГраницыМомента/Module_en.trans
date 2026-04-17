@@ -10,6 +10,6 @@ Method.ПолучитьПредставлениеГраницы.Comment.Дубл
 Method.ПолучитьПредставлениеГраницы.Name=GetBoundaryPresentation
 Method.ПолучитьПредставлениеМомента.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=Dublirovanie Console, konechno, no izbezhim obrashchenie To Files on server. In module Form Has Container_GetPresentation.
 Method.ПолучитьПредставлениеМомента.Name=GetPointInTimePresentation
-Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.Момент.Key=Момент
-Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.времени.Key=времени
+Method.ПриСозданииНаServerе.Var.Заголовок.String.Word.Момент.Key=Moment
+Method.ПриСозданииНаServerе.Var.Заголовок.String.Word.времени.Key=boundary
 Method.СсылкаМоментаПриИзменении.Var.ДатаСсылки.Name=DateReferences

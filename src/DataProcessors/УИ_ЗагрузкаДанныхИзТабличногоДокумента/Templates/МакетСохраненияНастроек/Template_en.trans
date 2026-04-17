@@ -1,10 +1,10 @@
 #Translations for: model
 
-Named.События.Key=События
-Named.СобытияПослеДобавленияСтроки.Key=СобытияПослеДобавленияСтроки
-Named.Строка.Key=Строка
-Named.СтрокаВыражение.Key=СтрокаВыражение
-Named.Шапка.Key=Шапка
+Named.События.Key=error
+Named.СобытияПослеДобавленияСтроки.Key=SobytiyaPosleDobavleniyaStroki
+Named.Строка.Key=Line
+Named.СтрокаВыражение.Key=StrokaVyrazhenie
+Named.Шапка.Key=Shapka
 Row.1.Cell.4.Parameter=ImportMode
 Row.10.Cell.0.Parameter=Check
 Row.10.Cell.1.Parameter=ImyaRekvizita

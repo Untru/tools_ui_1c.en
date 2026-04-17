@@ -1,9 +1,9 @@
 #Translations for: interface
 
-Attribute.КаталогДаныхОтладкиНаСервере.Title=Data directory debugging at server
+Attribute.КаталогДаныхОтладкиНаServerе.Title=Data directory debugging at server
 Attribute.КлючОбъектаНастроек.Title=Settings object key
 Attribute.ТаблицаСохраненныхНастроек.Title=Saved settings table
-Attribute.ТаблицаСохраненныхНастроек.Автор.Title=Avtor
+Attribute.ТаблицаСохраненныхНастроек.Autoр.Title=Avtor
 Attribute.ТаблицаСохраненныхНастроек.АдресВХранилищеДанныхОтладки.Title=Destination In Storage Schema Managed
 Attribute.ТаблицаСохраненныхНастроек.ДатаСоздания.Title=Creation date
 Attribute.ТаблицаСохраненныхНастроек.ИмяОбъектаОтладки.Title=Name Form Managed

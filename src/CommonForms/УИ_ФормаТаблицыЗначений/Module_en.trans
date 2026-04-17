@@ -1,20 +1,20 @@
 #Translations for: model
 
-Method.КомандаОК.String.СтрокаВнутр.Key=СтрокаВнутр
-Method.КомандаОК.String.ТаблицаЗначений.Key=ТаблицаЗначений
+Method.КомандаОК.String.СтрокаВнутр.Key=StrokaVnutr
+Method.КомандаОК.String.ТаблицаЗначений.Key=TablitsaZnacheniy
 Method.КомандаОК.Var.Результат.Name=Result
-Method.ПриСозданииНаСервере.Comment.Если\ не\ Колонка\.ТипЗначения\.СодержитТип(пТипТаблицаЗначений)\ Тогда.Description=If Dont Column.TipZnacheniya.SoderzhitTip(pTipTablitsaZnacheniy) Togda
-Method.ПриСозданииНаСервере.Comment.Если\ не\ Колонка\.ТипЗначения\.СодержитТип(пТипТаблицаЗначений)\ Тогда\nРеквизитыКДобавлению\.Добавить(новый\ РеквизитФормы(Колонка\.Имя,\ Колонка\.ТипЗначения,\ "ТаблицаДанных",\ Колонка\.Заголовок,\ ложь));\nКонецЕсли;.Description=If Dont Column.TipZnacheniya.SoderzhitTip(pTipTablitsaZnacheniy) Togda\nRekvizityKDobavleniyu.Add(New RekvizitFormy(Column.Name, Column.TipZnacheniya, "TablitsaDannykh", Column.Title, lozh));\nKonetsEsli;
-Method.ПриСозданииНаСервере.Comment.КонецЕсли;.Description=KonetsEsli;
-Method.ПриСозданииНаСервере.String.Word.ТаблицаДанных.Key=ТаблицаДанных
-Method.ПриСозданииНаСервере.String.ТаблицаДанных.Key=ТаблицаДанных
-Method.ПриСозданииНаСервере.Var.Значение.Name=Value
-Method.ПриСозданииНаСервере.Var.Колонка.Name=Column
-Method.ПриСозданииНаСервере.Var.РеквизитыКДобавлению.Name=AttributesSDobavleniyu
-Method.ПриСозданииНаСервере.Var.РеквизитыКУдалению.Name=AttributesSUdaleniyu
-Method.ПриСозданииНаСервере.Var.ТипЗначенияРеквизита.Name=TypeFormAttribute
-Method.ПриСозданииНаСервере.Var.ТипМВ.Name=TypemIn
-Method.ПриСозданииНаСервере.Var.ТипТЗ.Name=TypeConfigR
-Method.ПриСозданииНаСервере.Var.ТипТТ.Name=TypeConfigConfig
-Method.ПриСозданииНаСервере.Var.ТипХЗ.Name=TypeVR
+Method.ПриСозданииНаServerе.Comment.Если\ не\ Колонка\.ТипЗначения\.СодержитТип(пТипТаблицаЗначений)\ Тогда.Description=If Dont Column.TipZnacheniya.SoderzhitTip(pTipTablitsaZnacheniy) Togda
+Method.ПриСозданииНаServerе.Comment.Если\ не\ Колонка\.ТипЗначения\.СодержитТип(пТипТаблицаЗначений)\ Тогда\nРеквизитыКДобавлению\.Добавить(новый\ РеквизитФормы(Колонка\.Имя,\ Колонка\.ТипЗначения,\ "ТаблицаДанных",\ Колонка\.Заголовок,\ ложь));\nКонецЕсли;.Description=If Dont Column.TipZnacheniya.SoderzhitTip(pTipTablitsaZnacheniy) Togda\nRekvizityKDobavleniyu.Add(New RekvizitFormy(Column.Name, Column.TipZnacheniya, "TablitsaDannykh", Column.Title, lozh));\nKonetsEsli;
+Method.ПриСозданииНаServerе.Comment.КонецЕсли;.Description=KonetsEsli;
+Method.ПриСозданииНаServerе.String.Word.ТаблицаДанных.Key=TablitsaDannykh
+Method.ПриСозданииНаServerе.String.ТаблицаДанных.Key=TablitsaDannykh
+Method.ПриСозданииНаServerе.Var.Значение.Name=Value
+Method.ПриСозданииНаServerе.Var.Колонка.Name=Column
+Method.ПриСозданииНаServerе.Var.РеквизитыКДобавлению.Name=AttributesSDobavleniyu
+Method.ПриСозданииНаServerе.Var.РеквизитыКУдалению.Name=AttributesSUdaleniyu
+Method.ПриСозданииНаServerе.Var.ТипЗначенияРеквизита.Name=TypeFormAttribute
+Method.ПриСозданииНаServerе.Var.ТипМВ.Name=TypemIn
+Method.ПриСозданииНаServerе.Var.ТипТЗ.Name=TypeConfigR
+Method.ПриСозданииНаServerе.Var.ТипТТ.Name=TypeConfigConfig
+Method.ПриСозданииНаServerе.Var.ТипХЗ.Name=TypeVR
 Method.вТаблицаДанныхКакСтрокаВнутр.Name=DataTableAsStringInternal

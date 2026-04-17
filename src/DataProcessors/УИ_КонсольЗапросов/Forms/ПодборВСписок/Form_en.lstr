@@ -2,7 +2,7 @@
 
 Attribute.СписокЭлементов.Title=Item list
 Attribute.ТипКонтейнера.Title=Container type
-Command.КомандаЗаполнитьИзБуфера.Title=From сlipboard
+Command.КомандаЗаполнитьИзБуфера.Title=From slipboard
 Command.КомандаЗаполнитьИзСтрокиВнутр.Title=From Trailing Internal
 Command.КомандаЗаполнитьИзФайлов.Title=From Collection To diske
 Command.КомандаОК.Title=OK command

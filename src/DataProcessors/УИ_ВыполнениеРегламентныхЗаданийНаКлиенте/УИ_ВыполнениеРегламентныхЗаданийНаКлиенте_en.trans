@@ -1,5 +1,5 @@
 #Translations for: model
 
-Form.ВыполнениеРегламентныхЗаданийНаКлиенте.Name=PerformingSheduledJobsOnTheClient
+Form.ВыполнениеРегламентныхЗаданийНаClientе.Name=PerformingSheduledJobsOnTheClient
 Name=UT_PerformingSheduledJobsOnTheClient
 Template.Макет.Name=Template

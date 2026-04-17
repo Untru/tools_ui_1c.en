@@ -45,8 +45,8 @@ Item.ДеревоТиповГруппаКолонка.Title=Types tree column gr
 Item.ДеревоТиповСтрокаПоиска.Title=rrrrar
 Item.ДлинаСтроки.Title=Length
 Item.ДлинаЧисла.Title=Length
-Item.ДопустамаяДлинаСтрокиФиксированная.EditFormat=БЛ\=Переменная; БИ\=Фиксированная
-Item.ИспользоватьДинамическийСписокДляВыбораСсылочногоЗначения.EditFormat=БЛ\='Стандартная форма'; БИ\='Динамический список'
+Item.ДопустамаяДлинаСтрокиФиксированная.EditFormat=BF\=Variable; BT\=Fixed
+Item.ИспользоватьДинамическийСписокДляВыбораСсылочногоЗначения.EditFormat=BF\='Standard form'; BT\='Dynamic list'
 Item.ИспользоватьДинамическийСписокДляВыбораСсылочногоЗначения.Title=Referential value choice form
 Item.НеограниченнаяДлинаСтроки.Title=Neogranichennaya
 Item.СоставДаты.ChoiceList.0.Presentation=Date

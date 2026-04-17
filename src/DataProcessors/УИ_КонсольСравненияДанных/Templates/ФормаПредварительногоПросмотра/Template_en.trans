@@ -1,12 +1,12 @@
 #Translations for: model
 
-Named.Ключ1.Key=Ключ1
-Named.Ключ2.Key=Ключ2
-Named.Ключ3.Key=Ключ3
-Named.Реквизиты.Key=Реквизиты
-Named.СтрокаБезОшибок.Key=СтрокаБезОшибок
-Named.СтрокаСОшибками.Key=СтрокаСОшибками
-Named.Шапка.Key=Шапка
+Named.Ключ1.Key=Klyuch1
+Named.Ключ2.Key=Klyuch2
+Named.Ключ3.Key=Klyuch3
+Named.Реквизиты.Key=Rekvizity
+Named.СтрокаБезОшибок.Key=StrokaBezOshibok
+Named.СтрокаСОшибками.Key=StrokaSOshibkami
+Named.Шапка.Key=Shapka
 Row.2.Cell.0.Parameter=Klyuch1
 Row.2.Cell.1.Parameter=Key2
 Row.2.Cell.2.Parameter=Key3

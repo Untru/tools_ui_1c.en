@@ -4,8 +4,8 @@ Attribute.ВариантИспользованияКонсолиЗапросов
 Attribute.ИдентификаторКонсолиЗапросов.Name=UUIDConsoleExtension
 Attribute.Объект.Name=Object
 Command.ПодтвердитьВыбор.Name=ConfirmSelection
-Item.АвторегистрацияДвижений.Name=RegisterRecordsAutoRecord
-Item.АвторегистрацияПоследовательностей.Name=SequencesAutoRecord
+Item.AutoрегистрацияДвижений.Name=RegisterRecordsAutoRecord
+Item.AutoрегистрацияПоследовательностей.Name=SequencesAutoRecord
 Item.Группа1.Name=Group1
 Item.Группа2.Name=Group2
 Item.Группа3.Name=Group3

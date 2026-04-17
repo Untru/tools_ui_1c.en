@@ -1,8 +1,8 @@
 #Translations for: model
 
-Method.ПриСозданииНаСервере.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
-Method.ПриСозданииНаСервере.String.ХранилищеКонтейнераЗначения.Key=ХранилищеКонтейнераЗначения
-Method.ПриСозданииНаСервере.Var.ХранилищеКонтейнераЗначения.Name=StorageSuffixForm
+Method.ПриСозданииНаServerе.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
+Method.ПриСозданииНаServerе.String.ХранилищеКонтейнераЗначения.Key=KhranilishcheKonteyneraZnacheniya
+Method.ПриСозданииНаServerе.Var.ХранилищеКонтейнераЗначения.Name=StorageSuffixForm
 Method.СсылкаНачалоВыбора.Var.ДоступныеНаборы.Name=AvailableData
 Method.СсылкаНачалоВыбора.Var.ПараметрыОбработчика.Name=ParametersString
 Method.СсылкаОчистка.Var.ПараметрыОбработчика.Name=ParametersString

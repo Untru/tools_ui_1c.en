@@ -23,8 +23,8 @@ Method.ПоказатьРезультатВыгрузки.Var.Заголовок
 Method.ПолучитьОписаниеВыбранныхМетаданных.Var.Текст.NStr.все\ объекты\ %1\ по\ выбранной\ иерархии\ вида.Lines=All Objects %1 By vybrannoy Parameter Type
 Method.ПолучитьОписаниеВыбранныхМетаданных.Var.Текст.NStr.все\ объекты\ типа\ "%3"\ %1.Lines=All Objects Type "%3" %1
 Method.ПолучитьОписаниеВыбранныхМетаданных.Var.ТекстФлага.NStr.с\ признаком\ авторегистрации.Lines=C priznakom avtoregistratsii
-Method.ПриСозданииНаСервере.NStr.Неверные\ параметры\ команды\ открытия\ "%1".Lines=Nevernye Parameters Commands Open "%1"
-Method.ПриСозданииНаСервере.NStr.Нераспознанная\ команда\ "%1".Lines=Neraspoznannaya Command "%1"
+Method.ПриСозданииНаServerе.NStr.Неверные\ параметры\ команды\ открытия\ "%1".Lines=Nevernye Parameters Commands Open "%1"
+Method.ПриСозданииНаServerе.NStr.Нераспознанная\ команда\ "%1".Lines=Neraspoznannaya Command "%1"
 Method.РедактироватьНомерСообщенияКонстанты.Var.Подсказка.NStr.Номер\ отправленного.Lines=Sent message number
 Method.РедактироватьНомерСообщенияСписокНаборов.Var.Подсказка.NStr.Номер\ отправленного.Lines=Sent message number
 Method.РедактироватьНомерСообщенияСсылки.Var.Подсказка.NStr.Номер\ отправленного.Lines=Sent message number

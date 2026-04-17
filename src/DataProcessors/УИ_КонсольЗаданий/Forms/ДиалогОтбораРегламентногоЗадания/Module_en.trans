@@ -1,7 +1,7 @@
 #Translations for: model
 
 Method.ОК.Var.Отбор.Name=Filter
-Method.ПриСозданииНаСервере.Var.Метаданное.Name=Metadannoe
-Method.ПриСозданииНаСервере.Var.Свойство.Name=Property
+Method.ПриСозданииНаServerе.Var.Метаданное.Name=Metadannoe
+Method.ПриСозданииНаServerе.Var.Свойство.Name=Property
 Region.ОбработчикиСобытийФормы.Name=ReadEventForm
 Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовФормы.Name=ReadEventItemsForm

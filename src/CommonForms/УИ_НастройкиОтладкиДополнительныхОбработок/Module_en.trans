@@ -1,19 +1,19 @@
 #Translations for: model
 
-Method.ИмяФайлаНаСервереНачалоВыбора.String.Word.epf.Key=epf
-Method.ИмяФайлаНаСервереНачалоВыбора.String.Word.erf.Key=erf
-Method.ИмяФайлаНаСервереНачалоВыбора.String.epf.Key=epf
-Method.ИмяФайлаНаСервереНачалоВыбора.String.erf.Key=erf
-Method.ИмяФайлаНаСервереНачалоВыбора.Var.СтруктураОписанияВыбираемогоФайла.Name=StructureLVybiraemogoLog
-Method.ИмяФайлаНаСервереНачалоВыбораЗавершение.Name=FileNameAtServerStartChoiceEnd
-Method.ИмяФайлаНаСервереНачалоВыбораЗавершение.Param.ДополнительныеПараметры.Name=AdditionalParameters
-Method.ИмяФайлаНаСервереНачалоВыбораЗавершение.Param.Результат.Name=Result
-Method.ПриСозданииНаСервере.String.Word.Дополнительная.Key=Дополнительная
-Method.ПриСозданииНаСервере.String.ДополнительнаяОбработка.Key=ДополнительнаяОбработка
-Method.ПриСозданииНаСервере.Var.Вид.Name=Type
-Method.ПриСозданииНаСервере.Var.ДополнительнаяОбработка.Name=AdditionalMode
-Method.ПриСозданииНаСервере.Var.МассивНовыхРеквизитов.Name=ArrayNewAttributes
-Method.ПриСозданииНаСервере.Var.ОписаниеЭлемента.Name=DescriptionName
-Method.ПриСозданииНаСервере.Var.СохраненныеНастройки.Name=SavedSettings
-Method.ПрименитьНаСервере.Name=ApplyAtServer
-Method.ПрименитьНаСервере.Var.СтруктураНастройки.Name=StructureSettings
+Method.ИмяФайлаНаServerеНачалоВыбора.String.Word.epf.Key=epf
+Method.ИмяФайлаНаServerеНачалоВыбора.String.Word.erf.Key=erf
+Method.ИмяФайлаНаServerеНачалоВыбора.String.epf.Key=epf
+Method.ИмяФайлаНаServerеНачалоВыбора.String.erf.Key=erf
+Method.ИмяФайлаНаServerеНачалоВыбора.Var.СтруктураОписанияВыбираемогоФайла.Name=StructureLVybiraemogoLog
+Method.ИмяФайлаНаServerеНачалоВыбораЗавершение.Name=FileNameAtServerStartChoiceEnd
+Method.ИмяФайлаНаServerеНачалоВыбораЗавершение.Param.ДополнительныеПараметры.Name=AdditionalParameters
+Method.ИмяФайлаНаServerеНачалоВыбораЗавершение.Param.Результат.Name=Result
+Method.ПриСозданииНаServerе.String.Word.Дополнительная.Key=Additional
+Method.ПриСозданииНаServerе.String.ДополнительнаяОбработка.Key=DopolnitelnayaObrabotka
+Method.ПриСозданииНаServerе.Var.Вид.Name=Type
+Method.ПриСозданииНаServerе.Var.ДополнительнаяОбработка.Name=AdditionalMode
+Method.ПриСозданииНаServerе.Var.МассивНовыхРеквизитов.Name=ArrayNewAttributes
+Method.ПриСозданииНаServerе.Var.ОписаниеЭлемента.Name=DescriptionName
+Method.ПриСозданииНаServerе.Var.СохраненныеНастройки.Name=SavedSettings
+Method.ПрименитьНаServerе.Name=ApplyAtServer
+Method.ПрименитьНаServerе.Var.СтруктураНастройки.Name=StructureSettings

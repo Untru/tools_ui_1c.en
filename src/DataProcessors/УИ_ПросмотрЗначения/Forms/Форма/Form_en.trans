@@ -14,8 +14,8 @@ Attribute.ДеревоЗначения.ЗначениеТипЗначения.Na
 Attribute.ДеревоЗначения.ЗначениеТипЗначенияПредставление.Name=ValueTypeFormPresentation
 Attribute.ДеревоЗначения.Имя.Name=Name
 Attribute.ДеревоЗначения.ИмяОбъектаМетаданных.Name=NameFormPath
-Attribute.КонтекстКлиента.Name=ContextClient
-Attribute.НаКлиенте.Name=AtClient
+Attribute.КонтекстClientа.Name=ContextClient
+Attribute.НаClientе.Name=AtClient
 Attribute.Объект.Name=Object
 Command.ПоказатьВОтдельномОкне.Name=ShowInOtdelnomWindow
 Item.ГруппаВыражение.Name=GroupExpression

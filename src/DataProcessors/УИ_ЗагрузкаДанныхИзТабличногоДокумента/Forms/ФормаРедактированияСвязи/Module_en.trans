@@ -1,6 +1,6 @@
 #Translations for: model
 
-Method.ОсновныеДействияФормыОК.String.ИскатьПо.Key=ИскатьПо
-Method.ОсновныеДействияФормыОК.String.СвязьПоВладельцу.Key=СвязьПоВладельцу
-Method.ОсновныеДействияФормыОК.String.ФормаРедактированияСвязи.Key=ФормаРедактированияСвязи
+Method.ОсновныеДействияФормыОК.String.ИскатьПо.Key=IskatPo
+Method.ОсновныеДействияФормыОК.String.СвязьПоВладельцу.Key=SvyazPoVladeltsu
+Method.ОсновныеДействияФормыОК.String.ФормаРедактированияСвязи.Key=FormaRedaktirovaniyaSvyazi
 Method.УправлениеВидимостью.Name=VisibilityControl

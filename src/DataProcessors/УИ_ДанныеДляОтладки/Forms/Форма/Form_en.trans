@@ -1,10 +1,10 @@
 #Translations for: model
 
-Attribute.КаталогДаныхОтладкиНаСервере.Name=TechDanykhManagedToServer
+Attribute.КаталогДаныхОтладкиНаServerе.Name=TechDanykhManagedToServer
 Attribute.КлючОбъектаНастроек.Name=KeyFormManager
 Attribute.Объект.Name=Object
 Attribute.ТаблицаСохраненныхНастроек.Name=TableStorageManager
-Attribute.ТаблицаСохраненныхНастроек.Автор.Name=Avtor
+Attribute.ТаблицаСохраненныхНастроек.Autoр.Name=Avtor
 Attribute.ТаблицаСохраненныхНастроек.АдресВХранилищеДанныхОтладки.Name=DestinationInStorageSchemaManaged
 Attribute.ТаблицаСохраненныхНастроек.ДатаСоздания.Name=DateDirectory
 Attribute.ТаблицаСохраненныхНастроек.ИмяОбъектаОтладки.Name=NameFormManaged

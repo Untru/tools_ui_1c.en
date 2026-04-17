@@ -13,7 +13,7 @@ Attribute.ИдентификаторРегламентногоЗадания.Tit
 Attribute.Код.Title=Code
 Attribute.Комментарий.Title=Comment
 Attribute.Кэшировать.Title=Cache
-Attribute.НаКлиенте.Title=At client
+Attribute.НаClientе.Title=At client
 Attribute.Наименование.Title=Description
 Attribute.ПараметрКоллекция.Title=Collection parameter
 Attribute.ПараметрыAPI.Title=Parameters Api
@@ -42,8 +42,8 @@ Command.ПроверкаПараметровПрограммныйИнтерфе
 Command.ПроверкаПараметровПрограммныйИнтерфейс.ToolTip=Api check parameters
 Item.ГрПредупреждение.Title=Group Warning
 Item.ГрПредупреждение.ToolTip=Group Warning
-Item.ГрСервер.Title=Files on server
-Item.ГрСервер.ToolTip=Group Files on server
+Item.ГрServer.Title=Files on server
+Item.ГрServer.ToolTip=Group Files on server
 Item.ГруппаAPI.Title=API
 Item.ГруппаAPI.ToolTip=Group Api
 Item.ГруппаHead.Title=Group Head
@@ -62,8 +62,8 @@ Item.ГруппаПараметры.Title=Parameters
 Item.ГруппаПараметры.ToolTip=Group Parameters
 Item.ГруппаПараметрыВыполнения.Title=Parameters
 Item.Кэшировать.Title=Cache
-Item.НаКлиенте.EditFormat=БЛ\='На сервере'; БИ\='На клиенте'
-Item.НаКлиенте.Title=Files on client
+Item.НаClientе.EditFormat=BF\='On server'; BT\='On client'
+Item.НаClientе.Title=Files on client
 Item.ПолеТекстАлгоритма.Title=Algorithm text
 Item.Предупреждение.Title=Vnimanie \! Sistemnye Settings.
 Item.ТаблицаПараметровТипЗначенияПредставление.Title=Type

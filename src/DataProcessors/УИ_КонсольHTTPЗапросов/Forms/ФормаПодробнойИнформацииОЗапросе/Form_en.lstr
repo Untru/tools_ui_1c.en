@@ -3,7 +3,7 @@
 Attribute.BOM.Title=BOM
 Attribute.HTTPФункция.Title=Method
 Attribute.URLЗапроса.Title=URL
-Attribute.АдресСервера.Title=Server address
+Attribute.АдресServerа.Title=Server address
 Attribute.АдресТелаОтветаСтрокой.Title=Response body string address
 Attribute.ВидТелаЗапроса.Title=Request body type
 Attribute.Дата.Title=Date
@@ -19,7 +19,7 @@ Attribute.ПроксиАутентификацияОС.Title=Proxy OS Authentica
 Attribute.ПроксиПароль.Title=Proxy password
 Attribute.ПроксиПользователь.Title=Proxy user
 Attribute.ПроксиПорт.Title=Proxy port
-Attribute.ПроксиСервер.Title=Proxy server
+Attribute.ПроксиServer.Title=Proxy server
 Attribute.Протокол.Title=Protocol
 Attribute.СтрокаЗапроса.Title=Request row
 Attribute.СтрокаИстории.Title=History row

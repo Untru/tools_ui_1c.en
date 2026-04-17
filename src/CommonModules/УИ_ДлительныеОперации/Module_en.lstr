@@ -1,7 +1,7 @@
 #Translations for: interface
 
 Method.ВыполнитьВФоне.NStr.Ошибка\ выполнения.Lines=Step Executing
-Method.ВыполнитьВФоне.NStr.Параметры\ "ВсегдаНеВФоне"\ и\ "ВсегдаВФоне"\nне\ могут\ одновременно\ принимать\ значение\ Истина\ в\ УИ_ДлительныеОперации\.ВыполнитьВФоне\..Lines=Parameters "VsegdaNeVFone" T "VsegdaVFone"\nne mogut odnovremenno prinimat Value Istina In UT_TimeConsumingOperations.ExecuteInBackground.
+Method.ВыполнитьВФоне.NStr.Параметры\ "AlwaysНеВФоне"\ и\ "AlwaysВФоне"\nне\ могут\ одновременно\ принимать\ значение\ Истина\ в\ УИ_ДлительныеОперации\.ВыполнитьВФоне\..Lines=Parameters "VsegdaNeVFone" T "VsegdaVFone"\nne mogut odnovremenno prinimat Value Istina In UT_TimeConsumingOperations.ExecuteInBackground.
 Method.ВыполнитьПроцедуру.NStr.Неверный\ формат\ параметра\ ИмяПроцедуры\ (переданное\ значение\:\ %1).Lines=Nevernyy Format Value ImyaProtsedury (peredannoe Value\: %1)
 Method.ВыполнитьФоновоеЗадание.NStr.В\ файловой\ информационной\ базе\ можно\ запустить\ фоновое\ задание\ только\ из\ клиентского\ приложения.Lines=In File Directory Base Can Run Background Job Only From klientskogo Application
 Method.ВыполнитьФоновоеЗадание.NStr.В\ файловой\ информационной\ базе\ невозможно\ одновременно\ выполнять\ более\ одного\ фонового\ задания.Lines=In File Directory Base nevozmozhno odnovremenno Execute bolee Single Filter Dialog

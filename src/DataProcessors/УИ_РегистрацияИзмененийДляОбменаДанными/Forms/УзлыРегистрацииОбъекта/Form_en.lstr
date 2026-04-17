@@ -2,7 +2,7 @@
 
 Attribute.ДеревоУзловОбмена.Title=Exchange nodes tree
 Attribute.ДеревоУзловОбмена.ИндексКартинки.Title=ZIP Pictures
-Attribute.ДеревоУзловОбмена.ИндексКартинкиАвторегистрация.Title=ZIP Pictures Auto register
+Attribute.ДеревоУзловОбмена.ИндексКартинкиAutoрегистрация.Title=ZIP Pictures Auto register
 Attribute.ДеревоУзловОбмена.ИсходнаяПометка.Title=Iskhodnaya Check
 Attribute.ДеревоУзловОбмена.Код.Title=Code
 Attribute.ДеревоУзловОбмена.Наименование.Title=Exchange node
@@ -31,7 +31,7 @@ Item.Группа2.ToolTip=Group2
 Item.ГруппаСкрытыхДанных.Title=Hidden data group
 Item.ГруппаСкрытыхДанных.ToolTip=Hidden data group
 Item.ДеревоУзловОбмена.Title=Exchange nodes
-Item.ДеревоУзловОбменаАвторегистрация.Title=Register changes automatically
+Item.ДеревоУзловОбменаAutoрегистрация.Title=Register changes automatically
 Item.ДеревоУзловОбменаГруппа1.Title=Registration details
 Item.ДеревоУзловОбменаКод.Title=Code
 Item.ДеревоУзловОбменаКонтекстноеМенюОткрытьФормуРедактированияОтУзла.Title=Register Edit Writing Node

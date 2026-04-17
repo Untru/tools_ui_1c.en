@@ -5,7 +5,7 @@ Attribute.Алгоритмы.Title=Algorithms
 Attribute.Алгоритмы.Имя.Title=Name
 Attribute.Алгоритмы.Инфо.Title=Info
 Attribute.Алгоритмы.ИспользоватьОбработкуДляВыполненияКода.Title=Use Processor To Executing Console
-Attribute.Алгоритмы.НаКлиенте.Title=At client
+Attribute.Алгоритмы.НаClientе.Title=At client
 Attribute.Алгоритмы.ОригинальныйТекст.Title=Originalnyy Text
 Attribute.Алгоритмы.Переменные.Title=Variables
 Attribute.Алгоритмы.Переменные.Значение.Title=Value
@@ -36,8 +36,8 @@ Command.ПросмотретьЗначениеПеременной.Title=Prosmot
 Command.РедактироватьЗначениеПеременной.Title=Edit Value peremennoy
 Command.СохранитьФайл.Title=Save file
 Command.СохранитьФайлКак.Title=Save file as
-Item.АлгоритмыНаКлиенте.EditFormat=БЛ\='На сервере'; БИ\='На клиенте'
-Item.АлгоритмыНаКлиенте.Title=Context
+Item.АлгоритмыНаClientе.EditFormat=BF\='On server'; BT\='On client'
+Item.АлгоритмыНаClientе.Title=Context
 Item.АлгоритмыПеременныеЗначениеТипЗначенияПредставление.Title=Type of variable
 Item.ГруппаАлгоритмы.Title=Group1
 Item.ГруппаЗначенияПеременных.Title=Form Variables

@@ -29,8 +29,8 @@ Method.НовыйHTTPСоединение.Param.Пользователь.Descrip
 Method.НовыйHTTPСоединение.Param.Пользователь.Name=Username
 Method.НовыйHTTPСоединение.Param.Порт.Description=Port
 Method.НовыйHTTPСоединение.Param.Порт.Name=Port
-Method.НовыйHTTPСоединение.Param.Сервер.Description=Files on server
-Method.НовыйHTTPСоединение.Param.Сервер.Name=Files on server
+Method.НовыйHTTPСоединение.Param.Server.Description=Files on server
+Method.НовыйHTTPСоединение.Param.Server.Name=Files on server
 Method.НовыйHTTPСоединение.Param.Таймаут.Description=Timeout
 Method.НовыйHTTPСоединение.Param.Таймаут.Name=Timeout
 Method.НовыйHTTPСоединение.Return.Description=New HTTPSoedinenie\n@Skip-Check Method-too-many-Params

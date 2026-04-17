@@ -1,6 +1,6 @@
 #Translations for: model
 
-Method.ЗагрузитьИзФайла.Var.ДиалогВыбораФайла.String.Word.Чтение.Key=Чтение
+Method.ЗагрузитьИзФайла.Var.ДиалогВыбораФайла.String.Word.Чтение.Key=Picture
 Method.ЗагрузитьИзФайла.Var.ПараметрыЧтенияФайла.Name=ParametersItemLog
 Method.ЗагрузитьИзФайлаЗаврешениеПомещенияВоВременноеХранилище.Name=ImportFromLogZavresheniePutToTempStorage
 Method.ЗагрузитьИзФайлаЗаврешениеПомещенияВоВременноеХранилище.Param.ДополнительныеПараметры.Name=AdditionalParameters
@@ -13,19 +13,19 @@ Method.ОткрытьВПриложенииПоУмолчанию.Param.Кома
 Method.ПоместитьКартинкуВоВременноеХранилище.Name=PutPictureToTempStorage
 Method.ПоместитьКартинкуВоВременноеХранилище.Param.Картинка.Name=Picture
 Method.ПоместитьКартинкуВоВременноеХранилище.Var.ДвоичныеДанныеКартинки.Name=BinaryDataPictures
-Method.ПриСозданииНаСервере.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
-Method.ПриСозданииНаСервере.String.ХранилищеКонтейнераЗначения.Key=ХранилищеКонтейнераЗначения
-Method.ПриСозданииНаСервере.Var.ХранилищеКонтейнтейнера.Name=StorageKonteynteynera
+Method.ПриСозданииНаServerе.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
+Method.ПриСозданииНаServerе.String.ХранилищеКонтейнераЗначения.Key=KhranilishcheKonteyneraZnacheniya
+Method.ПриСозданииНаServerе.Var.ХранилищеКонтейнтейнера.Name=StorageKonteynteynera
 Method.Применить.Var.ВозвращаемоеЗначение.Name=VozvrashchaemoeValue
-Method.СохранитьВФайл.String.Word.пустая.Key=пустая
-Method.СохранитьВФайл.Var.ДиалогВыбораФайла.String.Word.Сохранение.Key=Сохранение
+Method.СохранитьВФайл.String.Word.пустая.Key=pustaya
+Method.СохранитьВФайл.Var.ДиалогВыбораФайла.String.Word.Сохранение.Key=Picture
 Method.СохранитьВФайл.Var.ПараметрыСохранения.Name=ParametersSettings
 Method.УстановитьКартинкуПоПрочитаномуФайлу.Name=SetPictureByProchitanomuDownload
 Method.УстановитьКартинкуПоПрочитаномуФайлу.Param.ПрочитанныйФайл.Name=ProchitannyyFile
-Method.УстановитьКартинкуПоПрочитаномуФайлу.String.Word.Не.Key=Не
-Method.УстановитьКартинкуПоПрочитаномуФайлу.String.Word.инициализировать.Key=инициализировать
-Method.УстановитьКартинкуПоПрочитаномуФайлу.String.Word.картинку.Key=картинку
-Method.УстановитьКартинкуПоПрочитаномуФайлу.String.Word.удалось.Key=удалось
+Method.УстановитьКартинкуПоПрочитаномуФайлу.String.Word.Не.Key=Exchange
+Method.УстановитьКартинкуПоПрочитаномуФайлу.String.Word.инициализировать.Key=initialize
+Method.УстановитьКартинкуПоПрочитаномуФайлу.String.Word.картинку.Key=kartinku
+Method.УстановитьКартинкуПоПрочитаномуФайлу.String.Word.удалось.Key=read
 Method.УстановитьКартинкуПоПрочитаномуФайлу.Var.АдресДвоичныхДанных.Name=DestinationModuleSchema
 Method.УстановитьКартинкуПоПрочитаномуФайлу.Var.ДвоичныеДанныеКартинки.Name=BinaryDataPictures
 Method.УстановитьПараметрыКартинкиНаФорме.Name=SetParametersPicturesToForm

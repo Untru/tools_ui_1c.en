@@ -2,7 +2,7 @@
 
 Attribute.ДеревоУзловОбмена.Name=TreeChangeEncoding
 Attribute.ДеревоУзловОбмена.ИндексКартинки.Name=PictureIndex
-Attribute.ДеревоУзловОбмена.ИндексКартинкиАвторегистрация.Name=ZIPPicturesAuto register
+Attribute.ДеревоУзловОбмена.ИндексКартинкиAutoрегистрация.Name=ZIPPicturesAuto register
 Attribute.ДеревоУзловОбмена.ИсходнаяПометка.Name=IskhodnayaCheck
 Attribute.ДеревоУзловОбмена.Код.Name=Code
 Attribute.ДеревоУзловОбмена.Наименование.Name=Description
@@ -23,7 +23,7 @@ Command.СнятьПометкуВсемУзлам.Name=UnmarkAllNodes
 Item.Группа1.Name=Group1
 Item.Группа2.Name=Group2
 Item.ГруппаСкрытыхДанных.Name=HiddenDataGroup
-Item.ДеревоУзловОбменаАвторегистрация.Name=ExchangeNodesTreeAutoRecord
+Item.ДеревоУзловОбменаAutoрегистрация.Name=ExchangeNodesTreeAutoRecord
 Item.ДеревоУзловОбменаГруппа1.Name=ExchangeNodesTreeGroup1
 Item.ДеревоУзловОбменаИзменитьРегистрацию.Name=ExchangeNodesTreeEditRegistration
 Item.ДеревоУзловОбменаКонтекстноеМенюГруппа1.Name=TreeChangeEncodingKontekstnoeMenyuGroup1

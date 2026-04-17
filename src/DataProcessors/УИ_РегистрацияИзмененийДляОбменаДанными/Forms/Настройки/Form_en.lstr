@@ -4,8 +4,8 @@ Attribute.ВариантИспользованияКонсолиЗапросов
 Attribute.ИдентификаторКонсолиЗапросов.Title=Query console ID
 Command.ПодтвердитьВыбор.Title=OK
 Command.ПодтвердитьВыбор.ToolTip=Confirm Select
-Item.АвторегистрацияДвижений.Title=Register records with documents
-Item.АвторегистрацияПоследовательностей.Title=Sequences with documents
+Item.AutoрегистрацияДвижений.Title=Register records with documents
+Item.AutoрегистрацияПоследовательностей.Title=Sequences with documents
 Item.Группа1.Title=Auto register
 Item.Группа2.Title=Query console
 Item.Группа7.Title=Setting Exchange Setting On Registration

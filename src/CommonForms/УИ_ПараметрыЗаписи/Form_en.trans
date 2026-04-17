@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute.БезАвторегистрацииИзменений.Name=DebugAvtoregistratsiiChanges
+Attribute.БезAutoрегистрацииИзменений.Name=DebugAvtoregistratsiiChanges
 Attribute.ДополнительныеСвойства.Name=AdditionalProperties
 Attribute.ДополнительныеСвойства.Значение.Name=Value
 Attribute.ДополнительныеСвойства.Ключ.Name=Key

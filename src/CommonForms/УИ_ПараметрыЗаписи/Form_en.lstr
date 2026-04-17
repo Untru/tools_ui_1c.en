@@ -1,6 +1,6 @@
 #Translations for: interface
 
-Attribute.БезАвторегистрацииИзменений.Title=Without changes autorecording
+Attribute.БезAutoрегистрацииИзменений.Title=Without changes autorecording
 Attribute.ДополнительныеСвойства.Title=Additional properties (set before writing the object)
 Attribute.ДополнительныеСвойства.Значение.Title=Value
 Attribute.ДополнительныеСвойства.Ключ.Title=Key

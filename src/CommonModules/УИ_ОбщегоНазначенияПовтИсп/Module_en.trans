@@ -55,7 +55,7 @@ Method.СсылкиПоИменамПредопределенных.Param.Пол
 Method.СсылкиПоИменамПредопределенных.Return.Description=FiksirovannoeSootvetstvie, Neopredeleno, gde\n* Key     - String - Name Predefined,\n* Value - Ref, Null - Ref Predefined Or Null, If Form Objects In IB.\nEsli Step In Name Path Or nepodkhodyashchiy Type Size, to vozvrashchaetsya Neopredeleno.\nEsli predopredelennykh U Size Objects, to vozvrashchaetsya Empty fiksirovannoe Type.\nEsli predopredelennyy opredelen In Path, no Dont sozdan In IB, to To nego In sootvetstvii vozvrashchaetsya Null.
 Method.СсылкиПоИменамПредопределенных.Var.Выборка.Name=Selection
 Method.СсылкиПоИменамПредопределенных.Var.Запрос.Lines.Param.ТекущаяТаблица.Name=CurrentTable
-Method.СсылкиПоИменамПредопределенных.Var.Запрос.String.Word.ТекущаяТаблица.Key=ТекущаяТаблица
+Method.СсылкиПоИменамПредопределенных.Var.Запрос.String.Word.ТекущаяТаблица.Key=TekushchayaTablitsa
 Method.СсылкиПоИменамПредопределенных.Var.ИменаПредопределенных.Name=RulePredopredelennykh
 Method.СсылкиПоИменамПредопределенных.Var.ИмяПредопределенного.Name=PredefinedItemName
 Method.СсылкиПоИменамПредопределенных.Var.МетаданныеОбъекта.Name=MetadataForm

@@ -31,8 +31,8 @@ Command.ФорматироватьТекст.ToolTip=Format Text
 Item.ВыполнитьПроцедуру.Title=Execute
 Item.ГрПредупреждение.Title=Group warning
 Item.ГрПредупреждение.ToolTip=Group Warning
-Item.ГрСервер.Title=Server
-Item.ГрСервер.ToolTip=Group Files on server
+Item.ГрServer.Title=Server
+Item.ГрServer.ToolTip=Group Files on server
 Item.ГруппаAPI.Title=API
 Item.ГруппаAPI.ToolTip=Group Api
 Item.ГруппаHead.Title=Group Head
@@ -53,8 +53,8 @@ Item.ГруппаПараметрыВыполнения.Title=Parameters
 Item.ДобавитьПараметр.Title=Add
 Item.ИзменитьИмя.Title=Rename
 Item.Кэшировать.Title=Sache
-Item.НаКлиенте.EditFormat=БЛ\='На сервере'; БИ\='На клиенте'
-Item.НаКлиенте.Title=Client
+Item.НаClientе.EditFormat=BF\='On server'; BT\='On client'
+Item.НаClientе.Title=Client
 Item.ПолеТекстАлгоритма.Title=Algorithm text
 Item.Предупреждение.Title=Attention! System settings.
 Item.ТаблицаНастроекОбменаОписаниеТипа.Title=Type

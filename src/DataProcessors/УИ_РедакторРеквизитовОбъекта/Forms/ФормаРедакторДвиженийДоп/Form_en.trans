@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute._БыстрыйВызовСервера.Name=BystryyServerCall
+Attribute._БыстрыйВызовServerа.Name=BystryyServerCall
 Attribute._ЗадаватьВопросПриЗакрытии.Name=RequestDataOnClose
 Attribute._ЗаписьВРежимеЗагрузки.Name=ObjectsInExchangeImport
 Attribute._ЗначениеДляЗаполнения.Name=ValueToFill

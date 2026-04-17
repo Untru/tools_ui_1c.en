@@ -2,13 +2,13 @@
 
 Description=@strict-types
 Method.ДоступныеТипыКоллекций.Name=AvailableKeyKollektsiy
-Method.ДоступныеТипыКоллекций.String.Соответствие.Key=Соответствие
-Method.ДоступныеТипыКоллекций.String.ФиксированнаяСтруктура.Key=ФиксированнаяСтруктура
-Method.ДоступныеТипыКоллекций.String.ФиксированноеСоответствие.Key=ФиксированноеСоответствие
+Method.ДоступныеТипыКоллекций.String.Соответствие.Key=Sootvetstvie
+Method.ДоступныеТипыКоллекций.String.ФиксированнаяСтруктура.Key=FiksirovannayaStruktura
+Method.ДоступныеТипыКоллекций.String.ФиксированноеСоответствие.Key=FiksirovannoeSootvetstvie
 Method.ЗапечататьФиксированнуюКоллекцию.Name=ZapechatatFiksirovannuyuCollection
 Method.ЗапечататьФиксированнуюКоллекцию.Param.Коллекция.Name=Collection
 Method.ЗапечататьФиксированнуюКоллекцию.Param.ТипКоллекции.Name=TypeCollection
-Method.ЗапечататьФиксированнуюКоллекцию.String.Фикс.Key=Фикс
+Method.ЗапечататьФиксированнуюКоллекцию.String.Фикс.Key=Fiks
 Method.ЗаполнитьДеревоИзСтруктурыСоответствия.Comment.Произвольный.Description=Arbitrary
 Method.ЗаполнитьДеревоИзСтруктурыСоответствия.Name=Fill in dependent objectsTreeFromStructuresMap
 Method.ЗаполнитьДеревоИзСтруктурыСоответствия.Param.ТекущееЗначение.Name=CurrentValue
@@ -42,7 +42,7 @@ Method.ОписаниеСтрокиДерева.Return.Значение.Name=Val
 Method.ОписаниеСтрокиДерева.Return.Ключ.Name=Key
 Method.ОписаниеСтрокиДерева.Return.ТипКоллекции.Name=TypeCollection
 Method.ПриОткрытии.Var.КорневыеЭлементы.Name=KornevyeItems
-Method.ПрименитьИзменения.String.ЗначениеРеквизита.Key=ЗначениеРеквизита
+Method.ПрименитьИзменения.String.ЗначениеРеквизита.Key=ZnachenieRekvizita
 Method.ПрименитьИзменения.Var.ОписаниеКорня.Name=DescriptionKornya
 Method.ПрименитьИзменения.Var.ПолученноеЗначение.Name=PoluchennoeValue
 Method.РедактируемоеЗначениеПередНачаломДобавления.Param.Группа.Name=Group

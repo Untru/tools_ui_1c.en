@@ -1,11 +1,11 @@
 #Translations for: model
 
-Method.ПриСозданииНаСервере.String.ВидимостьПометки.Key=ВидимостьПометки
-Method.ПриСозданииНаСервере.String.ВидимостьПредставления.Key=ВидимостьПредставления
-Method.ПриСозданииНаСервере.String.ВозвращатьТолькоВыбранныеЗначения.Key=ВозвращатьТолькоВыбранныеЗначения
-Method.ПриСозданииНаСервере.String.РежимПодбора.Key=РежимПодбора
-Method.ПриСозданииНаСервере.String.ТипЭлементов.Key=ТипЭлементов
-Method.ПриСозданииНаСервере.Var.РежимПодбора.Name=ModePodbora
-Method.ПриСозданииНаСервере.Var.ЭлементСписка.Name=ItemDialog
+Method.ПриСозданииНаServerе.String.ВидимостьПометки.Key=VidimostPometki
+Method.ПриСозданииНаServerе.String.ВидимостьПредставления.Key=VidimostPredstavleniya
+Method.ПриСозданииНаServerе.String.ВозвращатьТолькоВыбранныеЗначения.Key=VozvrashchatTolkoVybrannyeZnacheniya
+Method.ПриСозданииНаServerе.String.РежимПодбора.Key=RezhimPodbora
+Method.ПриСозданииНаServerе.String.ТипЭлементов.Key=TipElementov
+Method.ПриСозданииНаServerе.Var.РежимПодбора.Name=ModePodbora
+Method.ПриСозданииНаServerе.Var.ЭлементСписка.Name=ItemDialog
 Method.Применить.Var.СписокВозврата.Name=TasksVozvrata
 Method.Применить.Var.Элемент.Name=Item

@@ -3,7 +3,7 @@
 Command.ВыполнитьАлгоритм.Title=Execute Algorithm
 Item.ВыполнитьВТранзакции.Title=In tranzaktsiii
 Item.Кэшировать.Title=Cache
-Item.НаКлиенте.Title=At client
+Item.НаClientе.Title=At client
 Item.ПодключитьИнтерфейсПользователя.Title=Interface
 Item.ПрограммныйИнтерфейс.Title=Interface
 Item.СписокКомпоновщикНастроекПользовательскиеНастройки.Title=Group Fields Manager

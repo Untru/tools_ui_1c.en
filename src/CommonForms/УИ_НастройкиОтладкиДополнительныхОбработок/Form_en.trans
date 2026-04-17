@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute.ИмяФайлаНаСервере.Name=NameLogToServer
+Attribute.ИмяФайлаНаServerе.Name=NameLogToServer
 Attribute.ОтладкаВключена.Name=DebugVklyuchena
 Attribute.ЭтоОтчет.Name=IsReport
 Command.Применить.Name=Get selection

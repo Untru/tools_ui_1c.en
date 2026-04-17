@@ -1,14 +1,14 @@
 #Translations for: model
 
-Method.АлгоритмВыполняетсяНаКлиенте.Name=AlgorithmVypolnyaetsyaToClient
-Method.АлгоритмВыполняетсяНаКлиенте.Param.Алгоритм.Name=Algorithm
+Method.АлгоритмВыполняетсяНаClientе.Name=AlgorithmVypolnyaetsyaToClient
+Method.АлгоритмВыполняетсяНаClientе.Param.Алгоритм.Name=Algorithm
 Method.ВыполнитьАлгоритм.Var.Алгоритм.Name=Algorithm
 Method.ВыполнитьАлгоритм.Var.МассивАлгоритмов.Name=ArrayMode
 Method.ВыполнитьАлгоритм.Var.Ошибка.Name=Step
 Method.ВыполнитьАлгоритм.Var.СообщениеОбОшибке.Name=MessageOnO
 Method.ВыполнитьАлгоритм.Var.СтруктураПередачи.Name=StructureData
-Method.ВыполнитьАлгоритмНаКлиенте.Name=ExecuteAlgorithmAtClient
-Method.ВыполнитьАлгоритмНаКлиенте.Param.Алгоритм.Name=Algorithm
-Method.ВыполнитьАлгоритмНаКлиенте.Param.СтруктураПередачи.Name=StructureData
-Method.ВыполнитьАлгоритмНаКлиенте.Var.КонтекстВыполнения.Name=ContextExecuting
-Method.ВыполнитьАлгоритмНаКлиенте.Var.РезультатВыполнения.Name=ExecutionResult
+Method.ВыполнитьАлгоритмНаClientе.Name=ExecuteAlgorithmAtClient
+Method.ВыполнитьАлгоритмНаClientе.Param.Алгоритм.Name=Algorithm
+Method.ВыполнитьАлгоритмНаClientе.Param.СтруктураПередачи.Name=StructureData
+Method.ВыполнитьАлгоритмНаClientе.Var.КонтекстВыполнения.Name=ContextExecuting
+Method.ВыполнитьАлгоритмНаClientе.Var.РезультатВыполнения.Name=ExecutionResult

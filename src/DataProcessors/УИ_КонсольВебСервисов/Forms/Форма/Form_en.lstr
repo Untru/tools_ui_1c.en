@@ -74,7 +74,7 @@ Item.ГруппаТочкаИОперации.Title=Group point and operations
 Item.ГруппаТочкаИОперации.ToolTip=Group point and operations
 Item.ГруппаТочкаПодключенияИИмяОперации.Title=Connection point group and operation name
 Item.ГруппаТочкаПодключенияИИмяОперации.ToolTip=Connection point group and operation name
-Item.ДеревоРезультатЗначение.EditFormat=ЧН\=0
+Item.ДеревоРезультатЗначение.EditFormat=NZ\=0
 Item.ДеревоРезультатЗначение.Format=ChN\=0
 Item.ПараметрыОперации.Title=Operations parameters
 Item.ПараметрыОперации.ToolTip=Operation parameters

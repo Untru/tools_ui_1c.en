@@ -1,7 +1,7 @@
 #Translations for: interface
 
-Attribute.Автообновление.Title=Auto update
-Attribute.ПериодАвтообновления.Title=Auto update period (sec)
+Attribute.Autoобновление.Title=Auto update
+Attribute.ПериодAutoобновления.Title=Auto update period (sec)
 Command.ОК.Title=OK
 Command.ОК.ToolTip=Ok
 Title=Settings Dialog

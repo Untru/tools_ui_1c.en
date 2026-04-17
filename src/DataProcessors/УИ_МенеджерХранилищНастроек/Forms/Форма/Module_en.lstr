@@ -1,17 +1,17 @@
 #Translations for: interface
 
 Method.ВопросСкопироватьНастройкиЗавершение.NStr.Копирование\ настроек\ выполнено.Lines=Kopirovanie Manager Completed
-Method.ОбновитьНастройкиВладельцаНаСервере.Var.СтрокаДереваКонфигурация.NStr.\ (Все\ настройки).Lines=(All Settings)
-Method.ОбновитьНастройкиВладельцаНаСервере.Var.СтрокаДереваПрочее.NStr.Прочее.Lines=Other
+Method.ОбновитьНастройкиВладельцаНаServerе.Var.СтрокаДереваКонфигурация.NStr.\ (Все\ настройки).Lines=(All Settings)
+Method.ОбновитьНастройкиВладельцаНаServerе.Var.СтрокаДереваПрочее.NStr.Прочее.Lines=Other
 Method.ОбновитьОтображениеЭлементов.NStr.Показать\ всех.Lines=Show All
 Method.ОбновитьОтображениеЭлементов.NStr.Показать\ выбранные\ настройки.Lines=Show selected settings
 Method.ОбновитьОтображениеЭлементов.NStr.Показать\ выбранных.Lines=Show Fields
 Method.ОбновитьОтображениеЭлементов.NStr.Скрыть\ выбранные\ настройки.Lines=Hide Selected Settings
-Method.ПриСозданииНаСервере.NStr.Хранилище\ настроек\ данных\ форм.Lines=Storage Manager Schema Form
-Method.ПриСозданииНаСервере.NStr.Хранилище\ общих\ настроек.Lines=Storage Commands Manager
-Method.ПриСозданииНаСервере.NStr.Хранилище\ пользовательских\ настроек\ динамических\ списков.Lines=Storage Fields Manager dinamicheskikh spiskov
-Method.ПриСозданииНаСервере.NStr.Хранилище\ пользовательских\ настроек\ отчетов.Lines=Storage Fields Manager Console
-Method.ПриСозданииНаСервере.NStr.Хранилище\ системных\ настроек.Lines=Storage Settings Manager
+Method.ПриСозданииНаServerе.NStr.Хранилище\ настроек\ данных\ форм.Lines=Storage Manager Schema Form
+Method.ПриСозданииНаServerе.NStr.Хранилище\ общих\ настроек.Lines=Storage Commands Manager
+Method.ПриСозданииНаServerе.NStr.Хранилище\ пользовательских\ настроек\ динамических\ списков.Lines=Storage Fields Manager dinamicheskikh spiskov
+Method.ПриСозданииНаServerе.NStr.Хранилище\ пользовательских\ настроек\ отчетов.Lines=Storage Fields Manager Console
+Method.ПриСозданииНаServerе.NStr.Хранилище\ системных\ настроек.Lines=Storage Settings Manager
 Method.СкопироватьВыбранныеНастройки.NStr.Внимание\!.Lines=Vnimanie\!
 Method.СкопироватьВыбранныеНастройки.NStr.Не\ выбраны\ настройки\ для\ копирования.Lines=Dont Metadata Settings To kopirovaniya
 Method.СкопироватьВыбранныеНастройки.NStr.Не\ указаны\ пользователи\ (кому\ копировать).Lines=Dont ukazany Users (komu Copy (F5))

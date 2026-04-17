@@ -2,7 +2,7 @@
 
 Command.ВопросРазработчику.Synonym=Question to the developer
 Command.ИнформацияДляТехподдержки.Synonym=Information To tekhpodderzhki
-Command.ОчиститьКэшИнструментовНаКлиенте.Synonym=Clear Editor Tools To Client
+Command.ОчиститьКэшИнструментовНаClientе.Synonym=Clear Editor Tools To Client
 Command.ПроверитьНеобходимостьОбновления.Synonym=Check update
 Command.СтраницаРазработки.Synonym=About page
 ExtendedPresentation=Tekh Support

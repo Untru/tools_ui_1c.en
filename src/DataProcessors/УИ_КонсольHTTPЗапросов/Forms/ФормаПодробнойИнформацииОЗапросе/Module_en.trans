@@ -2,18 +2,18 @@
 
 Method.ЗаголовокНастроекПроксиПоПараметрам.Name=TitleManagerProksiByReport
 Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.Name=TitleGroupProksi
-Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.String.Word.Аутентификация.Key=Аутентификация
-Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.String.Word.Не.Key=Не
-Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.String.Word.ОС.Key=ОС
-Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.String.Word.используется.Key=используется
+Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.String.Word.Аутентификация.Key=Autentifikatsiya
+Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.String.Word.Не.Key=Exchange
+Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.String.Word.ОС.Key=authentication
+Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ЗаголовокГруппыПрокси.String.Word.используется.Key=used
 Method.ЗаголовокНастроекПроксиПоПараметрам.Var.ПрефиксЗаголовка.Name=PrefixAttribute
-Method.ПриОткрытии.String.БезТела.Key=БезТела
-Method.ПриОткрытии.String.ДвоичныеДанные.Key=ДвоичныеДанные
-Method.ПриОткрытии.String.МультипартФорм.Key=МультипартФорм
+Method.ПриОткрытии.String.БезТела.Key=BezTela
+Method.ПриОткрытии.String.ДвоичныеДанные.Key=DvoichnyeDannye
+Method.ПриОткрытии.String.МультипартФорм.Key=MultipartForm
 Method.ПриОткрытии.Var.ТекСтраница.Name=TekAbout
 Method.ПриОткрытии.Var.ТекСтрокаЗапроса.Name=TekStringText
 Method.ПриОткрытии.Var.ТекСтрокаИстории.Name=TekStringIstorii
-Method.ПриСозданииНаСервере.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
+Method.ПриСозданииНаServerе.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
 Method.СохранитьДвоичныеДанныеТелаЗапросаИзИстории.Var.ПараметрыСохранения.Name=ParametersSettings
 Method.СохранитьТелоОтветаДвоичныеДанныеВФайл.Var.ПараметрыСохранения.Name=ParametersSettings
 Region.ОбработчикиСобытийФормы.Comment.Код\ процедур\ и\ функций.Description=Code protsedur T funktsiy

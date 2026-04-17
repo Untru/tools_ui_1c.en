@@ -102,8 +102,8 @@ Method.КомментарииКЗагрузкеОбъекта.Var.СтрокаС
 Method.НайтиОбъектПоСсылке.NStr.Последовательность\ полей\ поиска.Lines=Posledovatelnost Fields Rules
 Method.ОбщийМодуль.NStr.Общий\ модуль\ "%1"\ не\ найден\..Lines=Common Module "%1" Dont Found.
 Method.ОпределитьДостаточностьПараметровДляПодключенияКИнформационнойБазе.Param.СтрокаСообщенияОбОшибке.NStr.Не\ задан\ каталог\ информационной\ базы-приемника.Lines=Dont zadan Tech Directory Base-Address
-Method.ОпределитьДостаточностьПараметровДляПодключенияКИнформационнойБазе.Param.СтрокаСообщенияОбОшибке.NStr.Не\ задано\ имя\ информационной\ базы-приемника\ на\ сервере\ 1С\:Предприятия.Lines=Dont zadano Name Directory Base-Address To Server 1S\:Predpriyatiya
-Method.ОпределитьДостаточностьПараметровДляПодключенияКИнформационнойБазе.Param.СтрокаСообщенияОбОшибке.NStr.Не\ задано\ имя\ сервера\ 1С\:Предприятия\ информационной\ базы-приемника.Lines=Dont zadano Name Call 1S\:Predpriyatiya Directory Base-Address
+Method.ОпределитьДостаточностьПараметровДляПодключенияКИнформационнойБазе.Param.СтрокаСообщенияОбОшибке.NStr.Не\ задано\ имя\ информационной\ базы-приемника\ на\ сервере\ 1C\:Enterprise.Lines=Dont zadano Name Directory Base-Address To Server 1S\:Predpriyatiya
+Method.ОпределитьДостаточностьПараметровДляПодключенияКИнформационнойБазе.Param.СтрокаСообщенияОбОшибке.NStr.Не\ задано\ имя\ сервера\ 1C\:Enterprise\ информационной\ базы-приемника.Lines=Dont zadano Name Call 1S\:Predpriyatiya Directory Base-Address
 Method.ПередатьИнформациюОЗаписиВПриемник.Var.СтрокаСообщения.NStr.Загрузка\ в\ приемнике\:\ %1.Lines=Import In B\: %1
 Method.ПодключитсяКИнформационнойБазе.Param.СтрокаСообщенияОбОшибке.NStr.При\ попытке\ соединения\ с\ COM-сервером\ произошла\ следующая\ ошибка\:\n%1.Lines=On popytke Connections C COM-serverom proizoshla sleduyushchaya Step\:\n%1
 Method.ПроизвестиЧтениеДанных.NStr.Загрузка\ данных\ отменена.Lines=Import Schema otmenena

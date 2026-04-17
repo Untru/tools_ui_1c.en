@@ -2,16 +2,16 @@
 
 Description=@strict-types
 Method.ПриОткрытии.Comment.@skip-check\ new-font.Description=@skip-check new-font
-Method.ПриОткрытии.String.Word.Функционал.Key=Функционал
-Method.ПриОткрытии.String.Word.в.Key=в
-Method.ПриОткрытии.String.Word.веб.Key=веб
-Method.ПриОткрытии.String.Word.клиенте.Key=клиенте
-Method.ПриОткрытии.String.РаботаСПараметрамиФорм.Key=РаботаСПараметрамиФорм
+Method.ПриОткрытии.String.Word.Функционал.Key=Funktsional
+Method.ПриОткрытии.String.Word.в.Key=in
+Method.ПриОткрытии.String.Word.веб.Key=veb
+Method.ПриОткрытии.String.Word.клиенте.Key=client
+Method.ПриОткрытии.String.РаботаСПараметрамиФорм.Key=RabotaSParametramiForm
 Method.ПриОткрытии.Var.НедоступныеНастройки.Name=UnavailableSettings
 Method.ПриОткрытии.Var.ТекущаяНастройка.Name=CurrentSetting
 Method.ПриОткрытии.Var.ЭлементФормы.Name=FormItem
-Method.ПриОткрытии.Var.ЭлементФормы.String.НастройкиОбработки_.Key=НастройкиОбработки_
-Method.ПриСозданииНаСервере.Var.СтруктураСЗначениямиРеквизитовФормы.Name=StructureCZnacheniyamiAttributesForm
+Method.ПриОткрытии.Var.ЭлементФормы.String.НастройкиОбработки_.Key=NastroykiObrabotki_
+Method.ПриСозданииНаServerе.Var.СтруктураСЗначениямиРеквизитовФормы.Name=StructureCZnacheniyamiAttributesForm
 Method.СтруктураСЗначениямиРеквизитовФормы.Name=StructureCZnacheniyamiAttributesForm
 Method.СтруктураСЗначениямиРеквизитовФормы.Var.РеквизитФормы.Name=AttributeForm
 Method.СтруктураСЗначениямиРеквизитовФормы.Var.СтруктураСЗначениямиРеквизитовФормы.Name=StructureCZnacheniyamiAttributesForm

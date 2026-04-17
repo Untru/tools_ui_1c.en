@@ -1,6 +1,6 @@
 #Translations for: interface
 
-Attribute._БыстрыйВызовСервера.Title=Fast server call
+Attribute._БыстрыйВызовServerа.Title=Fast server call
 Attribute._ЗадаватьВопросПриЗакрытии.Title=Ask question on close
 Attribute._ЗаписьВРежимеЗагрузки.Title=Write in loading mode (checks disabled)
 Attribute._ЗначениеДляЗаполнения.Title=Value to fill
@@ -51,7 +51,7 @@ Command._УстановитьФлажки.ToolTip=Check all
 Command._УстановитьФлажкиДляИзмененных.Title=Changed
 Command._УстановитьФлажкиДляИзмененных.ToolTip=Check Changed items
 Item._ПолноеИмяРегистра.Title=Register name
-Item._ТабРегистрыЧислоЗаписей.EditFormat=ЧН\=
+Item._ТабРегистрыЧислоЗаписей.EditFormat=NZ\=
 Item._ТабРегистрыЧислоЗаписей.Format=ChN\=
 Item._ТипЗначенияТекущегоПоля.ToolTip=Type Schema To Form In tekushchem Field - otobrazhaetsya By komande "Show Type Form"
 Item.ГруппаЗаполнениеЗначений.CollapsedRepresentationTitle=Full Document Tables Schema

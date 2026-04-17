@@ -86,7 +86,7 @@ Attribute.ПодключениеКВнешнейБазеАНомерТаблиц
 Attribute.ПодключениеКВнешнейБазеАПароль.Synonym=Password
 Attribute.ПодключениеКВнешнейБазеАПутьКБазе.Synonym=Path base
 Attribute.ПодключениеКВнешнейБазеАПутьКФайлу.Synonym=Path to file
-Attribute.ПодключениеКВнешнейБазеАСервер.Synonym=Server
+Attribute.ПодключениеКВнешнейБазеАServer.Synonym=Server
 Attribute.ПодключениеКВнешнейБазеАУстройствоХраненияФайла.Synonym=The file is located at
 Attribute.ПодключениеКВнешнейБазеАФорматФайла.Synonym=Format
 Attribute.ПодключениеКВнешнейБазеБДрайверSQL.Synonym=Driver
@@ -95,7 +95,7 @@ Attribute.ПодключениеКВнешнейБазеБНомерТаблиц
 Attribute.ПодключениеКВнешнейБазеБПароль.Synonym=Password
 Attribute.ПодключениеКВнешнейБазеБПутьКБазе.Synonym=Path base
 Attribute.ПодключениеКВнешнейБазеБПутьКФайлу.Synonym=Path to file
-Attribute.ПодключениеКВнешнейБазеБСервер.Synonym=Server
+Attribute.ПодключениеКВнешнейБазеБServer.Synonym=Server
 Attribute.ПодключениеКВнешнейБазеБУстройствоХраненияФайла.Synonym=The file is located at
 Attribute.ПодключениеКВнешнейБазеБФорматФайла.Synonym=Format
 Attribute.ПользовательскийРежим.Synonym=User mode

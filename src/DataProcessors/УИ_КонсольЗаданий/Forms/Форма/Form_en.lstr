@@ -1,15 +1,15 @@
 #Translations for: interface
 
-Attribute.АвтообновлениеСпискаРегламентныхЗаданий.Title=Auto update Dialog Jobs Console
-Attribute.АвтообновлениеСпискаФоновыхЗаданий.Title=Background jobs list auto update
+Attribute.AutoобновлениеСпискаРегламентныхЗаданий.Title=Auto update Dialog Jobs Console
+Attribute.AutoобновлениеСпискаФоновыхЗаданий.Title=Background jobs list auto update
 Attribute.ВремяЗаполненияРегламентных.Title=Scheduled jobs filling time
 Attribute.Объект.Title=Object
 Attribute.ОтборРегламентныхЗаданий.Title=Scheduled jobs filter
 Attribute.ОтборРегламентныхЗаданийВключен.Title=Scheduled jobs filter enabled
 Attribute.ОтборФоновыхЗаданий.Title=Background jobs filter
 Attribute.ОтборФоновыхЗаданийВключен.Title=Background jobs filter enabled
-Attribute.ПериодАвтообновленияСпискаРегламентныхЗаданий.Title=Scheduled list auto update period
-Attribute.ПериодАвтообновленияСпискаФоновыхЗаданий.Title=Scheduled list auto update period
+Attribute.ПериодAutoобновленияСпискаРегламентныхЗаданий.Title=Scheduled list auto update period
+Attribute.ПериодAutoобновленияСпискаФоновыхЗаданий.Title=Scheduled list auto update period
 Attribute.СписокРегламентныхЗаданий.Title=Scheduled jobs list
 Attribute.СписокРегламентныхЗаданий.Выполнялось.Title=Vypolnyalos
 Attribute.СписокРегламентныхЗаданий.Идентификатор.Title=UUID
@@ -33,14 +33,14 @@ Attribute.СписокФоновыхЗаданий.Наименование.Titl
 Attribute.СписокФоновыхЗаданий.Начало.Title=Begin
 Attribute.СписокФоновыхЗаданий.Ошибки.Title=Flag
 Attribute.СписокФоновыхЗаданий.Регламентное.Title=Scheduled
-Attribute.СписокФоновыхЗаданий.Сервер.Title=Files on server
+Attribute.СписокФоновыхЗаданий.Server.Title=Files on server
 Attribute.СписокФоновыхЗаданий.Сообщения.Title=Setting
 Attribute.СписокФоновыхЗаданий.Состояние.Title=State
 Attribute.СписокФоновыхЗаданий.СостояниеЗадания.Title=State Dialog
 Command.ВыполнитьЗаданиеВручную.Title=Execute At client
 Command.ВыполнитьЗаданиеВручную.ToolTip=Execute At client
-Command.ВыполнитьНаСервере.Title=Execute at server
-Command.ВыполнитьНаСервере.ToolTip=Execute at server
+Command.ВыполнитьНаServerе.Title=Execute at server
+Command.ВыполнитьНаServerе.ToolTip=Execute at server
 Command.ЖурналРегистрации.Title=Event log
 Command.ЖурналРегистрации.ToolTip=Event log
 Command.ЗапуститьЗадание.Title=Execute In background job

@@ -1,6 +1,6 @@
 #Translations for: model
 
 Method.НастройкиОтборВыбор.Unknown.Элементы.НастройкиОтборПравоеЗначение.Name=SettingsFilterPravoeValue
-Method.ПриСозданииНаСервере.Var.Представление.Name=Presentation
+Method.ПриСозданииНаServerе.Var.Представление.Name=Presentation
 Method.ФиксированныеНастройкиОтборВыбор.Unknown.Элементы.ФиксированныеНастройкиОтборПравоеЗначение.Name=Fixed settingsSettingsFilterPravoeValue
 Region.ОбработчикиСобытийЭлементовФормы.Name=ReadEventItemsForm

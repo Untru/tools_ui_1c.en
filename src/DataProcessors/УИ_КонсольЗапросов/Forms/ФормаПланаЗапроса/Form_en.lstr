@@ -52,9 +52,9 @@ Item.ГруппаСтраницыПланЗапроса.Title=Query plan pages g
 Item.ГруппаСтраницыПланЗапроса.ToolTip=Query plan pages group
 Item.ГруппаТекстЗапроса.Title=Query text
 Item.ГруппаТекстЗапроса.ToolTip=Query text group
-Item.ПланВызовыПлан.EditFormat=ЧН\=
+Item.ПланВызовыПлан.EditFormat=NZ\=
 Item.ПланВызовыПлан.Format=ChN\=
-Item.ПланВызовыФакт.EditFormat=ЧН\=
+Item.ПланВызовыФакт.EditFormat=NZ\=
 Item.ПланВызовыФакт.Format=ChN\=
 Item.ПланГруппаВызовы.Title=Calls (plan/fact)
 Item.ПланГруппаВызовы.ToolTip=Plan Group Group
@@ -67,14 +67,14 @@ Item.ПланГруппаСтоимостьУзлаРазмерСтроки.Tool
 Item.ПланГруппаСтрок.Title=Row count (plan/fact)
 Item.ПланГруппаСтрок.ToolTip=Row count (plan/fact)
 Item.ПланСреднийРазмерСтроки.ToolTip=Sredniy File Trailing Schema.
-Item.ПланСтоимостьОператора.EditFormat=ЧН\=
+Item.ПланСтоимостьОператора.EditFormat=NZ\=
 Item.ПланСтоимостьОператора.Format=ChN\=
 Item.ПланСтоимостьОператора.ToolTip=Cost Group In uslovnykh edinitsakh.
 Item.ПланСтоимостьОператораПроцент.ToolTip=Cost Group, In protsentakh S stoimosti All operptorov Text.
 Item.ПланСтоимостьУзла.ToolTip=Full Cost Node In uslovnykh edinitsakh. Vklyuchaet Cost Marks.
-Item.ПланСтрокПлан.EditFormat=ЧН\=
+Item.ПланСтрокПлан.EditFormat=NZ\=
 Item.ПланСтрокПлан.Format=ChN\=
-Item.ПланСтрокФакт.EditFormat=ЧН\=
+Item.ПланСтрокФакт.EditFormat=NZ\=
 Item.ПланСтрокФакт.Format=ChN\=
 Item.СтраницаПараметрыЗапроса.Title=Add. parameters
 Item.СтраницаПараметрыЗапроса.ToolTip=About Parameters Text

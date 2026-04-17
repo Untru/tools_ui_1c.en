@@ -1,8 +1,8 @@
 #Translations for: model
 
-Method.ВыбратьОбъект.String.Булево.Key=Булево
-Method.ВыбратьОбъект.String.ПростыеТипы.Key=ПростыеТипы
-Method.ВыбратьОбъект.String.Число.Key=Число
+Method.ВыбратьОбъект.String.Булево.Key=boolean
+Method.ВыбратьОбъект.String.ПростыеТипы.Key=ProstyeTipy
+Method.ВыбратьОбъект.String.Число.Key=Number
 Method.ВыбратьОбъект.Var.Значение.Name=Value
 Method.ВыбратьОбъект.Var.ИмяРаздела.Name=NameSection
 Method.ВыбратьОбъект.Var.ТекДанные.Name=TekData
@@ -11,25 +11,25 @@ Method.ДеревоОбъектовПередРазворачиванием.Var.
 Method.ДеревоОбъектовПередРазворачиванием.Var.УзелДЗ.Name=NodeEditorR
 Method.ПриОткрытии.Comment.ПереченьРазделов\ \=\ "PlanyObmena,\ Spravochniki,\ Documents,\ PlanyVidovKharakteristik,\ PlanyVidovRascheta,\ PlanySchetov,\ BiznesProtsessy,\ Zadachi";\n\!\!\!\ PlanyObmena\ To\ dorabatyvat\ (otklyuchil)\ \!\!\!.Description=PerechenRazdelov \= "PlanyObmena, Spravochniki, Documents, PlanyVidovKharakteristik, PlanyVidovRascheta, PlanySchetov, BiznesProtsessy, Zadachi";\n\!\!\! PlanyObmena To dorabatyvat (otklyuchil) \!\!\!
 Method.ПриОткрытии.Var.КореньДЗ.Name=KorenEditorR
-Method.ПриОткрытии.Var.КореньДЗ.String.Конфигурация.Key=Конфигурация
-Method.ПриОткрытии.Var.КореньДЗ.String.ПростыеТипы.Key=ПростыеТипы
+Method.ПриОткрытии.Var.КореньДЗ.String.Конфигурация.Key=Konfiguratsiya
+Method.ПриОткрытии.Var.КореньДЗ.String.ПростыеТипы.Key=ProstyeTipy
 Method.ПриОткрытии.Var.ПереченьРазделов.Name=SpecialRazdelov
 Method.ПриОткрытии.Var.СтрДЗ.Name=StrEditorR
 Method.ПриОткрытии.Var.СтрокиДЗ.Name=TrailingEditorR
 Method.ПриОткрытии.Var.Струк.Name=Struk
-Method.ПриОткрытии.Var.Струк.String.Булево.Key=Булево
-Method.ПриОткрытии.Var.Струк.String.Число.Key=Число
+Method.ПриОткрытии.Var.Струк.String.Булево.Key=boolean
+Method.ПриОткрытии.Var.Струк.String.Число.Key=Number
 Method.ПриОткрытии.Var.СтрукРазделы.Name=StrukRazdely
 Method.ПриОткрытии.Var.Элем.Name=Elem
-Method.ПриСозданииНаСервере.String.ПереченьРазделов.Key=ПереченьРазделов
-Method.ПриСозданииНаСервере.String.ПоказыватьПеречисления.Key=ПоказыватьПеречисления
-Method.ПриСозданииНаСервере.String.ПоказыватьПростыеТипы.Key=ПоказыватьПростыеТипы
-Method.ПриСозданииНаСервере.String.ТипыДляЗаполненияЗначений.Key=ТипыДляЗаполненияЗначений
-Method.ПриСозданииНаСервере.String.ТипыДляКонсолиЗапросов.Key=ТипыДляКонсолиЗапросов
-Method.ПриСозданииНаСервере.Var.Значение.Name=Value
-Method.вВычислитьВыражениеСервер.Name=EvalExpressionServer
-Method.вВычислитьВыражениеСервер.Param.Формула.Name=Formula
-Method.вВычислитьВыражениеСервер.Var.Результат.Name=Result
+Method.ПриСозданииНаServerе.String.ПереченьРазделов.Key=PerechenRazdelov
+Method.ПриСозданииНаServerе.String.ПоказыватьПеречисления.Key=PokazyvatPerechisleniya
+Method.ПриСозданииНаServerе.String.ПоказыватьПростыеТипы.Key=PokazyvatProstyeTipy
+Method.ПриСозданииНаServerе.String.ТипыДляЗаполненияЗначений.Key=TipyDlyaZapolneniyaZnacheniy
+Method.ПриСозданииНаServerе.String.ТипыДляКонсолиЗапросов.Key=TipyDlyaKonsoliZaprosov
+Method.ПриСозданииНаServerе.Var.Значение.Name=Value
+Method.вВычислитьВыражениеServer.Name=EvalExpressionServer
+Method.вВычислитьВыражениеServer.Param.Формула.Name=Formula
+Method.вВычислитьВыражениеServer.Var.Результат.Name=Result
 Method.вЗаполнитьРазделМД.Name=FillMetadataSection
 Method.вЗаполнитьРазделМД.Param.Строка.Name=String
 Method.вЗаполнитьРазделМД.Var.Стр.Name=Str

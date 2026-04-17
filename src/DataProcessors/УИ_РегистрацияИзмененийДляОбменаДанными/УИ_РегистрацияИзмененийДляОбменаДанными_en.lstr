@@ -2,10 +2,10 @@
 
 Attribute.ДоступнаРегистрацияСредствамиБСП.Synonym=Register with SSLMethods available
 Attribute.КонфигурацияПоддерживаетБСП.Synonym=Configuration supports SSL
-Attribute.НастройкаАвторегистрацияДвижений.Synonym=Auto register records
-Attribute.НастройкаАвторегистрацияДвижений.ToolTip=Auto register records
-Attribute.НастройкаАвторегистрацияПоследовательностей.Synonym=Auto register sequences
-Attribute.НастройкаАвторегистрацияПоследовательностей.ToolTip=Auto register sequences
+Attribute.НастройкаAutoрегистрацияДвижений.Synonym=Auto register records
+Attribute.НастройкаAutoрегистрацияДвижений.ToolTip=Auto register records
+Attribute.НастройкаAutoрегистрацияПоследовательностей.Synonym=Auto register sequences
+Attribute.НастройкаAutoрегистрацияПоследовательностей.ToolTip=Auto register sequences
 Attribute.НастройкаАдресВнешнейОбработкиЗапросов.Synonym=Address of external query data processor
 Attribute.НастройкаАдресВнешнейОбработкиЗапросов.ToolTip=Address of external query data processor
 Attribute.НастройкаВариантНомераСообщения.Synonym=Message numbering option

@@ -1,29 +1,29 @@
 #Translations for: model
 
 Method.Выбрать.Comment.ИмяТипаОбъекта\ \=\ ?(ObjectType\ \=\ 1,"Document","Group");.Description=ImyaTipaObekta \= ?(ObjectType \= 1,"Document","Group");
-Method.Выбрать.String.Word.ТЧ.Key=ТЧ
+Method.Выбрать.String.Word.ТЧ.Key=TP
 Method.Выбрать.Var.Строка.Name=String
 Method.Выбрать.Var.СтрокаТаблицы.Name=StringTable
 Method.ДеревоТаблицПометкаПриИзменении.Var.ПометкаРодителя.Name=CheckParent
 Method.ДеревоТаблицПометкаПриИзменении.Var.Строка.Name=String
 Method.ДеревоТаблицПометкаПриИзменении.Var.ТекущиеДанные.Name=CurrentData
-Method.ПриСозданииНаСервере.Comment.ИмяТипаОбъекта\ \=\ ?(ObjectType\ \=\ 1,"Document","Group");.Description=ImyaTipaObekta \= ?(ObjectType \= 1,"Document","Group");
-Method.ПриСозданииНаСервере.Var.Дерево.Name=Tree
-Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.по.Key=по
-Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.табличным.Key=табличным
-Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.частям.Key=частям
-Method.ПриСозданииНаСервере.Var.Заголовок.String.документам.Key=документам
-Method.ПриСозданииНаСервере.Var.Заголовок.String.документов.Key=документов
-Method.ПриСозданииНаСервере.Var.Заголовок.String.справочникам.Key=справочникам
-Method.ПриСозданииНаСервере.Var.Заголовок.String.справочников.Key=справочников
-Method.ПриСозданииНаСервере.Var.ИмяМетаданного.Name=NameSize
-Method.ПриСозданииНаСервере.Var.ИмяТаблицы.Name=NameTable
-Method.ПриСозданииНаСервере.Var.Метаданное.Name=Metadannoe
-Method.ПриСозданииНаСервере.Var.МетаданныеОбъектов.Name=MetadataWriting
-Method.ПриСозданииНаСервере.Var.ПометкаРодителя.Name=CheckParent
-Method.ПриСозданииНаСервере.Var.Строка.Name=String
-Method.ПриСозданииНаСервере.Var.СтрокаТЧ.Name=StringConfigP
-Method.ПриСозданииНаСервере.Var.ТабличнаяЧасть.Name=SourceTabular
+Method.ПриСозданииНаServerе.Comment.ИмяТипаОбъекта\ \=\ ?(ObjectType\ \=\ 1,"Document","Group");.Description=ImyaTipaObekta \= ?(ObjectType \= 1,"Document","Group");
+Method.ПриСозданииНаServerе.Var.Дерево.Name=Tree
+Method.ПриСозданииНаServerе.Var.Заголовок.String.Word.по.Key=by
+Method.ПриСозданииНаServerе.Var.Заголовок.String.Word.табличным.Key=tablichnym
+Method.ПриСозданииНаServerе.Var.Заголовок.String.Word.частям.Key=chastyam
+Method.ПриСозданииНаServerе.Var.Заголовок.String.документам.Key=documents
+Method.ПриСозданииНаServerе.Var.Заголовок.String.документов.Key=dokumentov
+Method.ПриСозданииНаServerе.Var.Заголовок.String.справочникам.Key=catalogs
+Method.ПриСозданииНаServerе.Var.Заголовок.String.справочников.Key=spravochnikov
+Method.ПриСозданииНаServerе.Var.ИмяМетаданного.Name=NameSize
+Method.ПриСозданииНаServerе.Var.ИмяТаблицы.Name=NameTable
+Method.ПриСозданииНаServerе.Var.Метаданное.Name=Metadannoe
+Method.ПриСозданииНаServerе.Var.МетаданныеОбъектов.Name=MetadataWriting
+Method.ПриСозданииНаServerе.Var.ПометкаРодителя.Name=CheckParent
+Method.ПриСозданииНаServerе.Var.Строка.Name=String
+Method.ПриСозданииНаServerе.Var.СтрокаТЧ.Name=StringConfigP
+Method.ПриСозданииНаServerе.Var.ТабличнаяЧасть.Name=SourceTabular
 Method.УстановитьПометкуНаВсеСтроки.Name=SetChecksOnAllLines
 Method.УстановитьПометкуНаВсеСтроки.Param.НоваяПометка.Name=NewCheck
 Method.УстановитьПометкуНаВсеСтроки.Var.Строка.Name=String

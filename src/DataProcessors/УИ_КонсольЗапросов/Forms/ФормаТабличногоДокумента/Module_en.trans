@@ -14,9 +14,9 @@ Method.ВывестиВетку.Var.ВыборкаПодчиненные.Name=Se
 Method.ВывестиВетку.Var.Колонка.Name=Column
 Method.ВывестиВетку.Var.СтрокаДлин.Name=StringDlin
 Method.ВывестиВетку.Var.фГруппировка.Name=FGroup
-Method.ОбновитьДокументНаСервере.Name=RefreshDocumentAtServer
-Method.ОбновитьДокументНаСервере.Param.Параметры.Name=Parameters
-Method.ОбновитьДокументНаСервере.String.дерево.Key=дерево
+Method.ОбновитьДокументНаServerе.Name=RefreshDocumentAtServer
+Method.ОбновитьДокументНаServerе.Param.Параметры.Name=Parameters
+Method.ОбновитьДокументНаServerе.String.дерево.Key=derevo
 Method.ПолучитьРазмерыКолонок.Name=GetColumnSizes
 Method.ПолучитьРазмерыКолонок.Param.тзРазмерыДанных.Name=tzTableSchema
 Method.ПолучитьРазмерыКолонок.Var.Колонка.Name=Column
@@ -24,7 +24,7 @@ Method.ПолучитьРазмерыКолонок.Var.маРазмерыКол
 Method.ПолучитьРазмерыКолонок.Var.тз1к.Name=tz1k
 Method.ПолучитьРазмерыКолонок.Var.чМинимальныйРазмерКолонки.Name=PMinimalnyyFileName
 Method.ПолучитьРазмерыКолонок.Var.чОтброс.Name=POtbros
-Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.АвтоОтступ\ \=\ 4;.Description=OblastZapolneniya.AvtoOtstup \= 4;
+Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.AutoОтступ\ \=\ 4;.Description=OblastZapolneniya.AvtoOtstup \= 4;
 Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.ГоризонтальноеПоложение\ \=\ GorizontalnoePolozhenie\.Tsentr;.Description=OblastZapolneniya.GorizontalnoePolozhenie \= GorizontalnoePolozhenie.Tsentr;
 Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.Шрифт\ \=\ ShriftShapki;.Description=OblastZapolneniya.Font \= ShriftShapki;
 Method.СформироватьДокумент.Comment.ЦветЛинииШапки\ \=\ TsvetaStilya\.TsvetLiniiOtcheta;.Description=TsvetLiniiShapki \= TsvetaStilya.TsvetLiniiOtcheta;
@@ -36,8 +36,8 @@ Method.СформироватьДокумент.Comment.чСчетчик\ \=\ 0;
 Method.СформироватьДокумент.Comment.шапка.Description=Header
 Method.СформироватьДокумент.Name=GenerateDocument
 Method.СформироватьДокумент.Param.Параметры.Name=Parameters
-Method.СформироватьДокумент.String.дерево.Key=дерево
-Method.СформироватьДокумент.String.фОтображатьИтоги.Key=фОтображатьИтоги
+Method.СформироватьДокумент.String.дерево.Key=derevo
+Method.СформироватьДокумент.String.фОтображатьИтоги.Key=fOtobrazhatItogi
 Method.СформироватьДокумент.Var.ЕстьМакроколонки.Name=HasMacrocolumns
 Method.СформироватьДокумент.Var.ИмяКолонки.Name=ColumnName
 Method.СформироватьДокумент.Var.ИмяРезультата.Name=NameComposition

@@ -14,11 +14,11 @@ Attribute.ДеревоЗначения.ЗначениеТипЗначения.Ti
 Attribute.ДеревоЗначения.ЗначениеТипЗначенияПредставление.Title=Value Type Form Presentation
 Attribute.ДеревоЗначения.Имя.Title=Name
 Attribute.ДеревоЗначения.ИмяОбъектаМетаданных.Title=Metadata object name
-Attribute.КонтекстКлиента.Title=Context Client
-Attribute.НаКлиенте.Title=At client
+Attribute.КонтекстClientа.Title=Context Client
+Attribute.НаClientе.Title=At client
 Command.ПоказатьВОтдельномОкне.Title=Show In otdelnom Window
 Item.ГруппаВыражение.Title=Group1
 Item.ДеревоЗначенияЗначениеПредставление.Title=Value
 Item.ДеревоЗначенияЗначениеТипЗначенияПредставление.Title=Type
-Item.НаКлиенте.EditFormat=БЛ\=Сервер; БИ\=Клиент
-Item.НаКлиенте.Title=Context
+Item.НаClientе.EditFormat=BF\=Server; BT\=Client
+Item.НаClientе.Title=Context

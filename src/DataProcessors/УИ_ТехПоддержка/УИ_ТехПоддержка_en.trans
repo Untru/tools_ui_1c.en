@@ -2,7 +2,7 @@
 
 Command.ВопросРазработчику.Name=QuestionToDeveloper
 Command.ИнформацияДляТехподдержки.Name=InformationToTekhpodderzhki
-Command.ОчиститьКэшИнструментовНаКлиенте.Name=ClearEditorToolsToClient
+Command.ОчиститьКэшИнструментовНаClientе.Name=ClearEditorToolsToClient
 Command.ПроверитьНеобходимостьОбновления.Name=CheckUpdate
 Command.СтраницаРазработки.Name=AboutPage
 Form.ОбновлениеИнструментов.Name=UpdateTools

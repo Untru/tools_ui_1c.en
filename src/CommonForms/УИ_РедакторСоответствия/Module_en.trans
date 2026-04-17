@@ -1,10 +1,10 @@
 #Translations for: model
 
-Method.ПриСозданииНаСервере.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
-Method.ПриСозданииНаСервере.String.СтруктураДляИзменения.Key=СтруктураДляИзменения
-Method.ПриСозданииНаСервере.String.ХранилищеКонтейнераЗначения.Key=ХранилищеКонтейнераЗначения
-Method.ПриСозданииНаСервере.Var.СоответствиеИсточник.Name=TypeData
-Method.ПриСозданииНаСервере.Var.ХранилищеКонтейнтейнера.Name=StorageKonteynteynera
+Method.ПриСозданииНаServerе.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
+Method.ПриСозданииНаServerе.String.СтруктураДляИзменения.Key=StrukturaDlyaIzmeneniya
+Method.ПриСозданииНаServerе.String.ХранилищеКонтейнераЗначения.Key=KhranilishcheKonteyneraZnacheniya
+Method.ПриСозданииНаServerе.Var.СоответствиеИсточник.Name=TypeData
+Method.ПриСозданииНаServerе.Var.ХранилищеКонтейнтейнера.Name=StorageKonteynteynera
 Method.ПрочитатьСоответствиеВТаблицу.Name=ReadTypeInTable
 Method.ПрочитатьСоответствиеВТаблицу.Param.СоответствиеИсточник.Name=TypeData
 Method.ПрочитатьСоответствиеВТаблицу.Var.КлючЗначение.Name=KeyValue

@@ -10,7 +10,7 @@ Attribute.ВычисляемыеПоля.Title=Calculated fields
 Attribute.ВычисляемыеПоля.Выражение.Title=Expression
 Attribute.ВычисляемыеПоля.ВыражениеПредставления.Title=Expression Expression
 Attribute.ВычисляемыеПоля.ВыраженияУпорядочивания.Title=Form uporyadochivaniya
-Attribute.ВычисляемыеПоля.ВыраженияУпорядочивания.Автоупорядочивание.Title=Avtouporyadochivanie
+Attribute.ВычисляемыеПоля.ВыраженияУпорядочивания.Autoупорядочивание.Title=Avtouporyadochivanie
 Attribute.ВычисляемыеПоля.ВыраженияУпорядочивания.Выражение.Title=Expression
 Attribute.ВычисляемыеПоля.ВыраженияУпорядочивания.ТипУпорядочиванияПоУбыванию.Title=Type uporyadochivaniya By ubyvaniyu
 Attribute.ВычисляемыеПоля.ВыраженияУпорядочиванияПредставление.Title=Form uporyadochivaniya Presentation
@@ -43,9 +43,9 @@ Attribute.ЛокальныеПараметрыВывода.Title=Local output pa
 Attribute.ЛокальныйОтбор.Title=Local filter
 Attribute.ЛокальныйПорядок.Title=Local order
 Attribute.НаборыДанных.Title=Data sets
-Attribute.НаборыДанных.АвтоЗаполнениеДоступныхПолей.Title=Avtozapolnenie
+Attribute.НаборыДанных.AutoЗаполнениеДоступныхПолей.Title=Avtozapolnenie
 Attribute.НаборыДанных.Вид.Title=Type
-Attribute.НаборыДанных.ВыраженияУпорядочиванияКомпоновкиДанных.Автоупорядочивание.Title=Avtouporyadochivanie
+Attribute.НаборыДанных.ВыраженияУпорядочиванияКомпоновкиДанных.Autoупорядочивание.Title=Avtouporyadochivanie
 Attribute.НаборыДанных.ВыраженияУпорядочиванияКомпоновкиДанных.Выражение.Title=Expression
 Attribute.НаборыДанных.ВыраженияУпорядочиванияКомпоновкиДанных.ТипУпорядочиванияПоУбыванию.Title=Type uporyadochivaniya By ubyvaniyu
 Attribute.НаборыДанных.Запрос.Title=Query
@@ -87,14 +87,14 @@ Attribute.ПараметрыЗапросов.ТипЗначения.Title=Value 
 Attribute.ПараметрыСКД.Title=DCSParameters
 Attribute.ПараметрыСКД.ВключатьВДоступныеПоля.Title=Vklyuchat In Available Fields
 Attribute.ПараметрыСКД.Выражение.Title=Expression
-Attribute.ПараметрыСКД.ДобавленАвтоматически.Title=Dobavlen avtomaticheski
+Attribute.ПараметрыСКД.ДобавленAutoматически.Title=Dobavlen avtomaticheski
 Attribute.ПараметрыСКД.ДоступенСписокЗначений.Title=Available Tasks Table
 Attribute.ПараметрыСКД.ДоступныеЗначения.Title=Available Form
 Attribute.ПараметрыСКД.Заголовок.Title=Title
 Attribute.ПараметрыСКД.ЗапрещатьНезаполненныеЗначения.Title=Zapreshchat nezapolnennye Form
 Attribute.ПараметрыСКД.Значение.Title=Value
 Attribute.ПараметрыСКД.Имя.Title=Name
-Attribute.ПараметрыСКД.ИспользованиеВсегда.Title=Use vsegda
+Attribute.ПараметрыСКД.ИспользованиеAlways.Title=Use vsegda
 Attribute.ПараметрыСКД.ОграничениеИспользования.Title=Parameter Composition
 Attribute.ПараметрыСКД.ПараметрФункциональныхОпций.Title=Parameter Functional Options
 Attribute.ПараметрыСКД.ПараметрыРедактирования.Title=Parameters Link
@@ -224,9 +224,9 @@ Item.ОтключенныеНастройкиПараметровВывода.Ti
 Item.ОтключенныеНастройкиПорядка.Title=Disabled order settings
 Item.ОтключенныеНастройкиУсловногоОформления.Title=Disabled conditional appearance settings
 Item.ПараметрыСКДДоступныеЗначения.Title=Available Form
-Item.ПараметрыСКДИспользованиеВсегда.EditFormat=БЛ\=Авто; БИ\=Всегда
-Item.ПараметрыСКДИспользованиеВсегда.Format=BL\=Auto; BI\=Vsegda
-Item.ПараметрыСКДИспользованиеВсегда.Title=Use
+Item.ПараметрыСКДИспользованиеAlways.EditFormat=BF\=Auto; BT\=Always
+Item.ПараметрыСКДИспользованиеAlways.Format=BL\=Auto; BI\=Vsegda
+Item.ПараметрыСКДИспользованиеAlways.Title=Use
 Item.ПараметрыСКДТипЗначения.Title=Type
 Item.ПереходКВыбраннымПолямОтчета.Title=View selected report fields
 Item.ПереходКВыбраннымПолямОтчетаОтНедоступныхВыбранныхПолей.Title=View selected report fields

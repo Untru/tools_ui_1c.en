@@ -13,7 +13,7 @@ Attribute.ИдентификаторРегламентногоЗадания.Nam
 Attribute.Код.Name=Code
 Attribute.Комментарий.Name=Comment
 Attribute.Кэшировать.Name=Cache
-Attribute.НаКлиенте.Name=AtClient
+Attribute.НаClientе.Name=AtClient
 Attribute.Наименование.Name=Description
 Attribute.ПараметрКоллекция.Name=ParameterCollection
 Attribute.ПараметрыAPI.Name=ParametersAPI
@@ -38,7 +38,7 @@ Command.Перечитать.Name=Reread
 Command.ПроверкаПараметровПрограммныйИнтерфейс.Name=ApiCheckParameters
 Item.ВыполнитьВТранзакции.Name=ExecuteInTransaction
 Item.ГрПредупреждение.Name=GroupWarning
-Item.ГрСервер.Name=GroupServer
+Item.ГрServer.Name=GroupServer
 Item.ГруппаAPI.Name=GroupAPI
 Item.ГруппаHead.Name=GroupHead
 Item.ГруппаЗначениеПараметров.Name=GroupValueTable

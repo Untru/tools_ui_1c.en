@@ -3,7 +3,7 @@
 Attribute.БазаДанных.Title=Data base
 Attribute.ДопПараметры.Title=Add. parameters
 Attribute.РежимЗапуска.Title=Run mode
-Attribute.Сервер.Title=Server
+Attribute.Server.Title=Server
 Attribute.Стартер1С.Title=Starter 1C
 Attribute.СтрокаКоманды.Title=Command line
 Command.Запустить1С.Title=Run 1C

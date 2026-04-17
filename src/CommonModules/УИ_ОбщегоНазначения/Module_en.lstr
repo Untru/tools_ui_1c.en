@@ -48,7 +48,7 @@ Method.ПроизвестиЗаменуВНаборе.Var.Ошибка.NStr.Не
 Method.ПроизвестиЗаменуВОбъекте.Var.ТекстОшибки.NStr.Не\ удалось\ заблокировать\ объект\ "%1"\:\n%2.Lines=Dont udalos zablokirovat Object "%1"\:\n%2
 Method.ПроизвестиЗаменуВОбъекте.Var.ТекстОшибки.NStr.Не\ удалось\ записать\ %1\ по\ причине\:\ %2.Lines=Dont udalos Write %1 By prichine\: %2
 Method.РазметитьМестаИспользования.Var.Текст.NStr.Замена\ ссылок\ в\ "%1"\ не\ поддерживается\..Lines=Replacement Exceptions In "%1" Dont Supported.
-Method.СерверныйМодульМенеджера.NStr.Объект\ метаданных\ "%1"\ не\ найден,\nлибо\ для\ него\ не\ поддерживается\ получение\ модуля\ менеджера\..Lines=Object Path "%1" Dont Found,\nlibo To nego Dont Supported poluchenie Module Structure.
+Method.ServerныйМодульМенеджера.NStr.Объект\ метаданных\ "%1"\ не\ найден,\nлибо\ для\ него\ не\ поддерживается\ получение\ модуля\ менеджера\..Lines=Object Path "%1" Dont Found,\nlibo To nego Dont Supported poluchenie Module Structure.
 Method.СобытиеЖурналаРегистрацииЗаменыСсылок.NStr.Поиск\ и\ удаление\ ссылок.Lines=Usage T Marked Exceptions
 Method.СократитьСтрокуКонтрольнойСуммой.NStr.Параметр\ МаксимальнаяДлина\ не\ может\ быть\ меньше\ 32.Lines=Parameter MaksimalnayaDlina Dont mozhet byt menshe 32
 Method.УдалитьСсылкиНемонопольно.Var.ТекстОшибки.NStr.Ошибка\ удаления.Lines=Step Registration

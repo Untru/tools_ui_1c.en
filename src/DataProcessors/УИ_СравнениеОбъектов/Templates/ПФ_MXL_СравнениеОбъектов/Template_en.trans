@@ -1,8 +1,8 @@
 #Translations for: model
 
-Named.Значение.Key=Значение
-Named.Объект.Key=Объект
-Named.Реквизит.Key=Реквизит
+Named.Значение.Key=Parameter
+Named.Объект.Key=Recalculation
+Named.Реквизит.Key=Rekvizit
 Row.2.Cell.1.DetailParameter=Attribute
 Row.2.Cell.1.Parameter=Attribute
 Row.2.Cell.2.DetailParameter=Value
