@@ -2,7 +2,7 @@
 
 Attribute.ВариантИспользованияКонсолиЗапросов.Title=Вариант использования консоли запросов
 Attribute.ИдентификаторКонсолиЗапросов.Title=Идентификатор консоли запросов
-Command.ПодтвердитьВыбор.Title=ОК
+Command.ПодтвердитьВыбор.Title=OK
 Command.ПодтвердитьВыбор.ToolTip=Подтвердить выбор
 Item.АвторегистрацияДвижений.Title=Register records with documents
 Item.АвторегистрацияПоследовательностей.Title=Sequences with documents

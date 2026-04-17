@@ -5,7 +5,7 @@ Attribute.Конец.Title=Конец
 Attribute.Начало.Title=Начало
 Attribute.Сообщение.Title=Сообщение
 Attribute.Установлена.Title=Установлена
-Command.кУстановитьБлокировкуСеансов.Title=Установить блокировку сеансов
+Command.кУстановитьБлокировкуСеансов.Title=K set sessions lock
 Command.кУстановитьБлокировкуСеансов.ToolTip=Установить блокировку сеансов
 Item.КодРазрешения.ToolTip=используется при запуске с ключом /UC
 Item.Конец.EditFormat=ДФ\='дд.ММ.гггг ЧЧ\:мм\:сс'

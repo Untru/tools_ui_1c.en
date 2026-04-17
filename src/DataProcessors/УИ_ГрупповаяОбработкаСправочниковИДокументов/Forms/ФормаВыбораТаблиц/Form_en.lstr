@@ -7,9 +7,9 @@ Attribute.ДеревоТаблиц.ПредставлениеТаблицы.Titl
 Attribute.ОбрабатыватьТабличныеЧасти.Title=Обрабатывать табличные части
 Attribute.СписокВыбранных.Title=Список выбранных
 Attribute.ТипОбъекта.Title=Тип объекта
-Command.Выбрать.Title=Выбрать
+Command.Выбрать.Title=Choose
 Command.Выбрать.ToolTip=Выбрать
-Command.СнятьПометки.Title=Снять пометки
-Command.УстановитьПометки.Title=Установить пометки
+Command.СнятьПометки.Title=Remove marks
+Command.УстановитьПометки.Title=Set marks
 Item.ДеревоТаблицГруппа.Title=Tree table group
 Item.ДеревоТаблицГруппа.ToolTip=Дерево таблиц группа

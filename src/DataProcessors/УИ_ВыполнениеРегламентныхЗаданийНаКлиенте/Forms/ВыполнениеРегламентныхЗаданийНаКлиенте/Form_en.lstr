@@ -11,8 +11,8 @@ Attribute.ТаблицаРегламентныхЗаданий.Изменено.
 Attribute.ТаблицаРегламентныхЗаданий.Номер.Title=п/п
 Attribute.ТаблицаРегламентныхЗаданий.РегламентноеЗадание.Title=Регламентное задание
 Attribute.ТаблицаРегламентныхЗаданий.Статус.Title=Статус
-Command.ОчиститьКоличествоЗапусков.Title=Очистить количество запусков задания
-Command.ПрекратитьВыполнение.Title=Прекратить выполнение и закрыть
+Command.ОчиститьКоличествоЗапусков.Title=Clear number of job runs
+Command.ПрекратитьВыполнение.Title=Stop running and close
 Command.ПрекратитьВыполнение.ToolTip=Прекратить выполнение
 Item.ГруппаИнтервалВремениВыполнения.Title=Group runtime interval
 Item.ГруппаПояснение.Title=Group explanation

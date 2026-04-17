@@ -3,10 +3,10 @@
 Attribute.Объект.Name=Объект
 Attribute.Объекты.Name=Объекты
 Attribute.ТабличныйДокумент.Name=ТабличныйДокумент
-Command.ДобавитьРанееДобавленныеКСравнению.Name=ДобавитьРанееДобавленныеКСравнению
-Command.ОчиститьРанееДобавленныеКСравнению.Name=ОчиститьРанееДобавленныеКСравнению
-Command.Параметры.Name=Параметры
-Command.Сформировать.Name=Сформировать
+Command.ДобавитьРанееДобавленныеКСравнению.Name=AddObjectsAddedToComparisonEarly
+Command.ОчиститьРанееДобавленныеКСравнению.Name=ClearObjectsAdedToComparisionEarly
+Command.Параметры.Name=Parameters
+Command.Сформировать.Name=Generate
 Item.ГруппаПараметры.Name=GroupParameters
 Item.ОбъектыГруппаОбъектыКСравнению.Name=ObjectsGroupObjectsToComparision
 Item.ОбъектыДобавитьРанееДобавленныеКСравнению.Name=AddObjectsAddedToComparisonEarly

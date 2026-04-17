@@ -6,5 +6,5 @@ Attribute.Начало.Name=Начало
 Attribute.Объект.Name=Объект
 Attribute.Сообщение.Name=Сообщение
 Attribute.Установлена.Name=Установлена
-Command.кУстановитьБлокировкуСеансов.Name=кУстановитьБлокировкуСеансов
+Command.кУстановитьБлокировкуСеансов.Name=kSetSessionsLock
 Item.ПараметрыБлокировки.Name=SessionsLockParameters

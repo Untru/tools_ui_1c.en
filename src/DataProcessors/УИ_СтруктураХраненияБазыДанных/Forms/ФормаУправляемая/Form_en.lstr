@@ -41,8 +41,8 @@ Attribute.СпособыПолученияРазмераТаблицБазыДа
 Attribute.ТочноеСоответствие.Title=Точное соответствие
 Attribute.ФильтрПоВидамОбъектовМетаданных.Title=Фильтр по видам объектов метаданных
 Attribute.ФильтрПоНазначениям.Title=Фильтр по назначениям
-Command.ОбновитьРазмерТаблицБазыДанных.Title=Обновить размеры таблиц
-Command.УстановитьОтбор.Title=Установить отбор
+Command.ОбновитьРазмерТаблицБазыДанных.Title=Update database table size
+Command.УстановитьОтбор.Title=Set filter
 Command.УстановитьОтбор.ToolTip=Установить отбор
 Item.ГруппаОтбор.Title=Filter group
 Item.ГруппаОтбор.ToolTip=Группа отбор

@@ -11,8 +11,8 @@ Attribute.ТаблицаРегламентныхЗаданий.Изменено.
 Attribute.ТаблицаРегламентныхЗаданий.Номер.Name=Номер
 Attribute.ТаблицаРегламентныхЗаданий.РегламентноеЗадание.Name=РегламентноеЗадание
 Attribute.ТаблицаРегламентныхЗаданий.Статус.Name=Статус
-Command.ОчиститьКоличествоЗапусков.Name=ОчиститьКоличествоЗапусков
-Command.ПрекратитьВыполнение.Name=ПрекратитьВыполнение
+Command.ОчиститьКоличествоЗапусков.Name=ClearNumberOfRuns
+Command.ПрекратитьВыполнение.Name=StopExecution
 Item.ГруппаИнтервалВремениВыполнения.Name=GroupRuntimeInterval
 Item.ГруппаПояснение.Name=GroupExplanation
 Item.ДекорацияСекунд.Name=DecorationSeconds

@@ -1,12 +1,12 @@
 #Translations for: model
 
 Attribute.Объект.Name=Объект
-Command.АктивироватьЛицензию.Name=АктивироватьЛицензию
-Command.ПовторнаяАктивацияЛицензии.Name=ПовторнаяАктивацияЛицензии
-Command.ПолучитьПолнуюИнформациюОЛицензии.Name=ПолучитьПолнуюИнформациюОЛицензии
-Command.ПолучитьСписокЛицензий.Name=ПолучитьСписокЛицензий
-Command.ПроверкаВалидностиЛицензий.Name=ПроверкаВалидностиЛицензий
-Command.УдалитьЛицензию.Name=УдалитьЛицензию
+Command.АктивироватьЛицензию.Name=ActivateLicense
+Command.ПовторнаяАктивацияЛицензии.Name=LicenseReactivation
+Command.ПолучитьПолнуюИнформациюОЛицензии.Name=GetLicenseFullInformation
+Command.ПолучитьСписокЛицензий.Name=GetLicensesList
+Command.ПроверкаВалидностиЛицензий.Name=LicenseValidationCheck
+Command.УдалитьЛицензию.Name=DeleteLicense
 Item.ГруппаДанныеАктивации.Name=GroupActivationData
 Item.ГруппаДругое.Name=GroupOther
 Item.ГруппаИнфо.Name=GroupInfo

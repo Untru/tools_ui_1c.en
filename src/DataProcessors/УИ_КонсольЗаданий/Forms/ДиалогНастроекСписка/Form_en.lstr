@@ -2,6 +2,6 @@
 
 Attribute.Автообновление.Title=Автообновление
 Attribute.ПериодАвтообновления.Title=Период автообновления (сек.)
-Command.ОК.Title=ОК
+Command.ОК.Title=OK
 Command.ОК.ToolTip=ОК
 Title=Настройка списка

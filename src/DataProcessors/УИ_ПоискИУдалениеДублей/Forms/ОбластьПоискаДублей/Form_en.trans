@@ -4,5 +4,5 @@ Attribute.АдресНастроек.Name=АдресНастроек
 Attribute.ОбластиПоискаДублей.Name=ОбластиПоискаДублей
 Attribute.ОбластьПоУмолчанию.Name=ОбластьПоУмолчанию
 Attribute.Объект.Name=Объект
-Command.Выбрать.Name=Выбрать
+Command.Выбрать.Name=Select
 Item.ОбластиПоискаДублейПредставление.Name=DuplicatesSearchAreasPresentation

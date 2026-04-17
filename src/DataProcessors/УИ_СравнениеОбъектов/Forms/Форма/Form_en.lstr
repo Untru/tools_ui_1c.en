@@ -2,13 +2,13 @@
 
 Attribute.Объекты.Title=Объекты
 Attribute.ТабличныйДокумент.Title=Табличный документ
-Command.ДобавитьРанееДобавленныеКСравнению.Title=Добавить ранее добавленные к сравнению
+Command.ДобавитьРанееДобавленныеКСравнению.Title=Add objects added to comparison early
 Command.ДобавитьРанееДобавленныеКСравнению.ToolTip=Добавить ранее добавленные к сравнению
-Command.ОчиститьРанееДобавленныеКСравнению.Title=Очистить ранее добавленные к сравнению
+Command.ОчиститьРанееДобавленныеКСравнению.Title=Clear objects aded to comparision early
 Command.ОчиститьРанееДобавленныеКСравнению.ToolTip=Очистить ранее добавленные к сравнению
-Command.Параметры.Title=Параметры
+Command.Параметры.Title=Parameters
 Command.Параметры.ToolTip=Параметры
-Command.Сформировать.Title=Сформировать
+Command.Сформировать.Title=Generate
 Command.Сформировать.ToolTip=Сформировать
 Item.ГруппаПараметры.Title=Group parameters
 Item.ГруппаПараметры.ToolTip=Группа параметры

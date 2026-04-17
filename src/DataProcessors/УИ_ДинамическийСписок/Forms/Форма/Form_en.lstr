@@ -15,8 +15,8 @@ Attribute.ИдентификаторСтрокиОбъектаМетаданны
 Attribute.ИмяОбъектаМетаданных.Title=Имя объекта метаданных
 Attribute.РежимВыбора.Title=Режим выбора
 Attribute.СтрокаПоиска.Title=Строка поиска
-Command.РедактироватьОбъект.Title=Редактировать объект
-Command.УдалитьВыделенныеОбъекты.Title=Удалить выделенные объекты
+Command.РедактироватьОбъект.Title=Edit object
+Command.УдалитьВыделенныеОбъекты.Title=Delete selected objects
 Item.ГруппаБезДинамическогоСписка.Title=Group without dynamic list
 Item.ГруппаНедоступнаяТаблица.Title=Group not available table
 Item.ГруппаСтраницыВыбораДинамическогоСписка.Title=Group dynamic list choose pages

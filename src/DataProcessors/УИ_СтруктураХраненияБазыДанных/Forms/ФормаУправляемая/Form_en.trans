@@ -44,8 +44,8 @@ Attribute.СпособыПолученияРазмераТаблицБазыДа
 Attribute.ТочноеСоответствие.Name=ТочноеСоответствие
 Attribute.ФильтрПоВидамОбъектовМетаданных.Name=ФильтрПоВидамОбъектовМетаданных
 Attribute.ФильтрПоНазначениям.Name=ФильтрПоНазначениям
-Command.ОбновитьРазмерТаблицБазыДанных.Name=ОбновитьРазмерТаблицБазыДанных
-Command.УстановитьОтбор.Name=УстановитьОтбор
+Command.ОбновитьРазмерТаблицБазыДанных.Name=UpdateDatabaseTableSize
+Command.УстановитьОтбор.Name=SetFilter
 Item.Group1ExtendedTooltip.Name=Group1ExtendedTooltip
 Item.БазаДанныхSQL1.Name=БазаДанныхSQL1
 Item.Группа1ExtendedTooltip.Name=Группа1ExtendedTooltip

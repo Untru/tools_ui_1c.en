@@ -7,9 +7,9 @@ Attribute.ПараметрыЗапроса.ЗначениеПараметра.Na
 Attribute.ПараметрыЗапроса.ИмяПараметра.Name=ИмяПараметра
 Attribute.ПараметрыЗапроса.ТипПараметра.Name=ТипПараметра
 Attribute.ПараметрыЗапроса.ЭтоВыражение.Name=ЭтоВыражение
-Command.ВыполнитьЗапрос.Name=ВыполнитьЗапрос
-Command.ДобавитьВРезультатВыгрузки.Name=ДобавитьВРезультатВыгрузки
-Command.ЗаполнитьПараметры.Name=ЗаполнитьПараметры
+Command.ВыполнитьЗапрос.Name=ExecuteQuery
+Command.ДобавитьВРезультатВыгрузки.Name=AddToExportResult
+Command.ЗаполнитьПараметры.Name=FillParameters
 Item.ГруппаЗапросНеВыполнен.Name=QueryNotExecutedGroup
 Item.ГруппаРезультатЗапроса.Name=QueryResultGroup1
 Item.ГруппаРезультатаЗапроса.Name=QueryResultGroup

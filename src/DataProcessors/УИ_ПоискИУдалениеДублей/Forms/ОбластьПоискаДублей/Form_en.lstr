@@ -1,7 +1,7 @@
 #Translations for: interface
 
 Attribute.ОбластиПоискаДублей.Title=Области поиска дублей
-Command.Выбрать.Title=Выбрать
+Command.Выбрать.Title=Select
 Command.Выбрать.ToolTip=Выбрать
 Item.ОбластиПоискаДублей.Title=Duplicate search areas
 Title=Область поиска дублей

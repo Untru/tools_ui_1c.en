@@ -3,7 +3,7 @@
 Attribute.ВариантИспользованияКонсолиЗапросов.Name=ВариантИспользованияКонсолиЗапросов
 Attribute.ИдентификаторКонсолиЗапросов.Name=ИдентификаторКонсолиЗапросов
 Attribute.Объект.Name=Объект
-Command.ПодтвердитьВыбор.Name=ПодтвердитьВыбор
+Command.ПодтвердитьВыбор.Name=ConfirmSelection
 Item.АвторегистрацияДвижений.Name=RegisterRecordsAutoRecord
 Item.АвторегистрацияПоследовательностей.Name=SequencesAutoRecord
 Item.Группа1.Name=Group1

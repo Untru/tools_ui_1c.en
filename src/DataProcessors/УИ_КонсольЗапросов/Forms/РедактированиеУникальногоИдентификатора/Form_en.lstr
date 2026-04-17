@@ -2,9 +2,9 @@
 
 Attribute.Ссылка.Title=Ссылка
 Attribute.СтрокаУникальныйИдентификатор.Title=Уникальный идентификатор
-Command.КомандаНайти.Title=Команда найти
+Command.КомандаНайти.Title=Find command
 Command.КомандаНайти.ToolTip=Команда найти
-Command.КомандаОК.Title=Команда ОК
+Command.КомандаОК.Title=OK command
 Command.КомандаОК.ToolTip=Команда ОК
 Item.ГруппаИДИСсылка.Title=UUIDRef group
 Item.ГруппаИДИСсылка.ToolTip=Группа ИДИСсылка

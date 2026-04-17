@@ -3,6 +3,6 @@
 Attribute.ИдентификаторОсновнойФормы.Name=ИдентификаторОсновнойФормы
 Attribute.КомпоновщикПредварительногоОтбора.Name=КомпоновщикПредварительногоОтбора
 Attribute.Объект.Name=Объект
-Command.Выбрать.Name=Выбрать
+Command.Выбрать.Name=Select
 Item.КомпоновщикПредварительногоОтбораНастройкиОтбор.Name=PrefilterComposerSettingsFilter
 Item.ФормаГруппаСправки.Name=FormHelpGroup

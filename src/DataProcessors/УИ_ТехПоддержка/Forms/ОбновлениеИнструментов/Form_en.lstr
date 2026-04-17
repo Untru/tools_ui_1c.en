@@ -8,4 +8,4 @@ Attribute.ОбновлениеЧерезСкачиваниеФайлаПоста
 Attribute.ОписаниеИзменений.Title=Описание изменений
 Attribute.ПолеИзменений.Title=Поле изменений
 Attribute.ТекущаяВерсия.Title=Текущая версия
-Command.Обновить.Title=Обновить
+Command.Обновить.Title=Update

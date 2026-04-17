@@ -3,8 +3,8 @@
 Attribute.Объект.Name=Объект
 Attribute.Ссылка.Name=Ссылка
 Attribute.СтрокаУникальныйИдентификатор.Name=СтрокаУникальныйИдентификатор
-Command.КомандаНайти.Name=КомандаНайти
-Command.КомандаОК.Name=КомандаОК
+Command.КомандаНайти.Name=FindCommand
+Command.КомандаОК.Name=OKCommand
 Item.ГруппаИДИСсылка.Name=UUIDRefGroup
 Item.ГруппаКоманднаяПанельВнизу.Name=CommandBarBottomGroup
 Item.ГруппаОсновная.Name=MainGroup

@@ -18,6 +18,6 @@ Attribute.Страна.Name=Country
 Attribute.Строение.Name=Building
 Attribute.Улица.Name=Street
 Attribute.Фамилия.Name=LastName
-Command.Активировать.Name=Активировать
+Command.Активировать.Name=CommandActivate
 Item.ГруппаВладелецЛицензии.Name=GroupLicenseOwner
 Item.ГруппаЛицензия.Name=GroupLicense

@@ -3,11 +3,11 @@
 Attribute.КлючФормыДанных.Title=Ключ формы данных
 Attribute.СписокДанных.Title=Список данных
 Attribute.СтруктураДанных.Title=Структура данных
-Command.ВыбратьОтобранныеЗначения.Title=Выбрать
+Command.ВыбратьОтобранныеЗначения.Title=Select
 Command.ВыбратьОтобранныеЗначения.ToolTip=Выбрать отобранные значения
-Command.ВыбратьТекущуюСтроку.Title=Выбрать
+Command.ВыбратьТекущуюСтроку.Title=Select
 Command.ВыбратьТекущуюСтроку.ToolTip=Выбрать текущую строку
-Command.ОткрытьТекущийОбъект.Title=Открыть
+Command.ОткрытьТекущийОбъект.Title=Open
 Command.ОткрытьТекущийОбъект.ToolTip=Открыть текущий объект
 Item.Группа1.Title=Filter items
 Item.ОтборГруппа1.Title=Filter actions

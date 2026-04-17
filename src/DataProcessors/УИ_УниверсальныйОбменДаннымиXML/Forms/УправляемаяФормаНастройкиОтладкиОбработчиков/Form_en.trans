@@ -2,9 +2,9 @@
 
 Attribute.Объект.Name=Объект
 Attribute.ЦветОсобогоТекста.Name=ЦветОсобогоТекста
-Command.ВыгрузитьКодОбработчиков.Name=ВыгрузитьКодОбработчиков
-Command.Готово.Name=Готово
-Command.ОткрытьФайл.Name=ОткрытьФайл
+Command.ВыгрузитьКодОбработчиков.Name=ExportHandlersScript
+Command.Готово.Name=Finish
+Command.ОткрытьФайл.Name=OpenFile
 Item.Группа_0.Name=Group_0
 Item.Группа_1.Name=Group_1
 Item.Группа_2.Name=Group_2

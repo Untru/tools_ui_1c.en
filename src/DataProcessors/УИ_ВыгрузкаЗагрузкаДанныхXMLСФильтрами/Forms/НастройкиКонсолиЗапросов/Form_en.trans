@@ -3,7 +3,7 @@
 Attribute.ВариантИспользованияКонсолиЗапросов.Name=ВариантИспользованияКонсолиЗапросов
 Attribute.Объект.Name=Объект
 Attribute.ПутьКВнешнейКонсолиЗапросов.Name=ПутьКВнешнейКонсолиЗапросов
-Command.Подтвердить.Name=Подтвердить
+Command.Подтвердить.Name=Confirm
 Item.Группа1.Name=Group1
 Item.Группа2.Name=Group2
 Item.Группа3.Name=Group3

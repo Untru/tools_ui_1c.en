@@ -3,7 +3,7 @@
 Attribute.ВариантОтображения.Name=ВариантОтображения
 Attribute.ИмяПользователя.Name=ИмяПользователя
 Attribute.Объект.Name=Объект
-Command.УстановитьМасштабОтображения.Name=УстановитьМасштабОтображения
+Command.УстановитьМасштабОтображения.Name=SetScaleVariant
 Item.ВариантОтображения.ChoiceList.0.Value.Value=Авто
 Item.ВариантОтображения.ChoiceList.1.Value.Value=Компактный
 Item.ВариантОтображения.ChoiceList.2.Value.Value=Обычный

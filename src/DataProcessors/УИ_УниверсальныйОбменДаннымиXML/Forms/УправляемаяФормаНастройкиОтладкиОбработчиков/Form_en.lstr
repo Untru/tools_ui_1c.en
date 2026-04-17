@@ -1,10 +1,10 @@
 #Translations for: interface
 
-Command.ВыгрузитьКодОбработчиков.Title=Выгрузить код обработчиков
+Command.ВыгрузитьКодОбработчиков.Title=Export handlers script
 Command.ВыгрузитьКодОбработчиков.ToolTip=Выгрузить код обработчиков
-Command.Готово.Title=Готово
+Command.Готово.Title=Finish
 Command.Готово.ToolTip=Готово
-Command.ОткрытьФайл.Title=Открыть файл
+Command.ОткрытьФайл.Title=Open file
 Command.ОткрытьФайл.ToolTip=Открыть файл
 Item.ВыгрузитьКодОбработчиков.Title=Generate export debugging module
 Item.Группа_0.Title=0
