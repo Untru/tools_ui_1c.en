@@ -1,0 +1,6 @@
+#Translations for: model
+
+Attribute.URLВзаимодействия.Name=URLВзаимодействия
+Attribute.ИдентификаторСессии.Name=ИдентификаторСессии
+Attribute.ИмяПользователя.Name=ИмяПользователя
+Command.Подключиться.Name=Подключиться

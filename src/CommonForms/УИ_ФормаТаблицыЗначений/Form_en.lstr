@@ -1,0 +1,11 @@
+#Translations for: interface
+
+Attribute._ЧислоЗаписей.Title=Число записей в таблице
+Attribute.ТаблицаДанных.Title=Таблица данных
+Command.КомандаЗакрыть.Title=Закрыть
+Command.КомандаЗакрыть.ToolTip=Закрыть
+Command.КомандаОК.Title=ОК
+Command.КомандаОК.ToolTip=Записать и закрыть
+Command.КомандаОчиститьТаблицу.Title=Очистить
+Command.КомандаОчиститьТаблицу.ToolTip=Очистить таблицу
+Title=Таблица значений

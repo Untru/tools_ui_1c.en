@@ -1,0 +1,9 @@
+#Translations for: model
+
+Attribute._ЧислоЗаписей.Name=_ЧислоЗаписей
+Attribute.ТаблицаДанных.Name=ТаблицаДанных
+Command.КомандаЗакрыть.Name=КомандаЗакрыть
+Command.КомандаОК.Name=КомандаОК
+Command.КомандаОчиститьТаблицу.Name=КомандаОчиститьТаблицу
+Parameter.Заголовок.Name=Заголовок
+Parameter.ТаблицаДанных.Name=ТаблицаДанных

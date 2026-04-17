@@ -1,0 +1,5 @@
+#Translations for: model
+
+ConditionalAppearance.Items.0.Appearance.Items.1.Values.0.Value=Не выгружалось
+ConditionalAppearance.Items.0.Filter.Items.0.Left.Value=НеВыгружалось
+ConditionalAppearance.Items.0.Selection.Items.0.Field.Value=НомерСообщения

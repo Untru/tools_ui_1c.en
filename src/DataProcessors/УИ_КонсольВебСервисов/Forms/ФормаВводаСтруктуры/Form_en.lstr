@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Attribute.ТЗ_Структура.Title=Структура
+Attribute.ТЗ_Структура.Значение.Title=Значение
+Attribute.ТЗ_Структура.Ключ.Title=Ключ
+Command.ЗавершитьРедактирование.Title=Завершить редактирование
+Command.ЗавершитьРедактирование.ToolTip=Завершить редактирование

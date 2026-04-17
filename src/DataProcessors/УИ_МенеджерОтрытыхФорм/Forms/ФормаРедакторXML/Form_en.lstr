@@ -1,0 +1,5 @@
+#Translations for: interface
+
+Attribute.ЗначениеСтрокой.Title=Значение строкой
+Command.ПрименитьЗначение.Title=Применить значение
+Command.ПрименитьЗначение.ToolTip=Применить значение

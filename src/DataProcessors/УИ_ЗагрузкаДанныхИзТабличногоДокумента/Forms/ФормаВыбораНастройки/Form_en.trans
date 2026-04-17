@@ -1,0 +1,15 @@
+#Translations for: model
+
+Attribute.Объект.Name=Объект
+Attribute.СписокНастроек.Name=СписокНастроек
+Attribute.СписокНастроек.Значение.Name=Значение
+Attribute.СписокНастроек.Пометка.Name=Пометка
+Attribute.СписокНастроек.Представление.Name=Представление
+Command.ОК.Handler.Name=ОКНажатие
+Command.ОК.Name=ОК
+Command.Отмена.Handler.Name=ОтменаНажатие
+Command.Отмена.Name=Отмена
+Command.Удалить.Handler.Name=УдалитьНажатие
+Command.Удалить.Name=Удалить
+Item.ГруппаКнопки.Name=ГруппаКнопки
+Item.ГруппаПоля.Name=ГруппаПоля

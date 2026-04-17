@@ -1,0 +1,7 @@
+#Translations for: model
+
+Attribute.Автообновление.Name=Автообновление
+Attribute.Объект.Name=Объект
+Attribute.ПериодАвтообновления.Name=ПериодАвтообновления
+Attribute.Реквизит1.Name=Реквизит1
+Command.ОК.Name=ОК

@@ -1,0 +1,5 @@
+#Translations for: interface
+
+Items.0.Presentation.Content=Выделение обязательных параметров
+Items.1.Presentation.Content=Скрыть вид сравнения в параметрах для НЕ отборов
+Items.2.Presentation.Content=Не отображать флажок Отбор где он недоступен

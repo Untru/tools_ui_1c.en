@@ -1,0 +1,10 @@
+#Translations for: model
+
+Attribute.ИскатьПо.Name=ИскатьПо
+Attribute.ИспользоватьВладельца.Name=ИспользоватьВладельца
+Attribute.ИспользуемыеТипы.Name=ИспользуемыеТипы
+Attribute.Объект.Name=Объект
+Attribute.СвязьПоВладельцу.Name=СвязьПоВладельцу
+Command.ОК.Handler.Name=ОсновныеДействияФормыОК
+Command.ОК.Name=ОК
+Item.ГруппаКоманд.Name=ГруппаКоманд

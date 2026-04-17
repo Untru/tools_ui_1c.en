@@ -1,0 +1,23 @@
+#Translations for: model
+
+Attribute.email.Name=email
+Attribute.Город.Name=Город
+Attribute.Дом.Name=Дом
+Attribute.Имя.Name=Имя
+Attribute.Индекс.Name=Индекс
+Attribute.Квартира.Name=Квартира
+Attribute.Компания.Name=Компания
+Attribute.НомерЛицензии.Name=НомерЛицензии
+Attribute.Объект.Name=Объект
+Attribute.Отчество.Name=Отчество
+Attribute.ПинКод.Name=ПинКод
+Attribute.ПредыдущийПинКод.Name=ПредыдущийПинКод
+Attribute.Район.Name=Район
+Attribute.Регион.Name=Регион
+Attribute.Страна.Name=Страна
+Attribute.Строение.Name=Строение
+Attribute.Улица.Name=Улица
+Attribute.Фамилия.Name=Фамилия
+Command.Активировать.Name=Активировать
+Item.ГруппаВладелецЛицензии.Name=ГруппаВладелецЛицензии
+Item.ГруппаЛицензия.Name=ГруппаЛицензия

@@ -1,0 +1,13 @@
+#Translations for: interface
+
+Attribute.ПолеРедактированияВыражения.Title=Поле редактирования выражения
+Attribute.ПоляСКД.Title=Поля СКД
+Attribute.ПоляСКД.Картинка.Title=Картинка
+Attribute.ПоляСКД.Поле.Title=Поле
+Attribute.ПоляСКД.ПутьКДанным.Title=Путь к данным
+Attribute.ПоляСКД.ТипЗначения.Title=Тип значения
+Attribute.ТекстВыражения.Title=Текст выражения
+Command.Применить.Title=Применить
+Command.Применить.ToolTip=ОК
+Item.ГруппаДосутныеПоляИМетоды.Title=Группа досутные поля и методы
+Item.ПоляСКДГруппаПоле.Title=Поля СКДГруппа поле

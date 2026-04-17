@@ -1,0 +1,21 @@
+#Translations for: interface
+
+Attribute.БазаДанных.Title=База данных
+Attribute.ДопПараметры.Title=Доп. параметры
+Attribute.РежимЗапуска.Title=Режим запуска
+Attribute.Сервер.Title=Сервер 1С
+Attribute.Стартер1С.Title=Стартер1С
+Attribute.СтрокаКоманды.Title=Строка команды
+Command.Запустить1С.Title=Запустить1С
+Command.Запустить1С.ToolTip=Запустить1С
+Command.СформироватьСтрокуКоманды.Title=Сформировать строку команды
+Command.СформироватьСтрокуКоманды.ToolTip=Сформировать строку команды
+Item.ПараметрыЗапуска.Title=Параметры запуска
+Item.ПараметрыЗапуска.ToolTip=Параметры запуска
+Item.РежимЗапуска.ChoiceList.0.Presentation=Конфигуратор
+Item.РежимЗапуска.ChoiceList.1.Presentation=Толстый клиент (обычное приложение)
+Item.РежимЗапуска.ChoiceList.2.Presentation=Толстый клиент (управляемое приложение)
+Item.РежимЗапуска.ChoiceList.3.Presentation=Тонкий клиент (управляемое приложение)
+Item.Стартер1С.ToolTip=Полный путь к файлу 1cestart.exe (можно задать вручную)
+Item.СтрокаКоманды.ToolTip=Результирующая строка команды запуска 1С
+Title=Запуск сеанса 1С

@@ -1,0 +1,25 @@
+#Translations for: model
+
+Description=@strict-types
+Method.ЗначениеВСтрокуXML.Description=Преобразует (сериализует) любое значение в XML-строку.\nПреобразованы в могут быть только те объекты, для которых в синтакс-помощнике указано, что они сериализуются.\n См. также ЗначениеИзСтрокиXML.
+Method.ЗначениеВСтрокуXML.Name=ЗначениеВСтрокуXML
+Method.ЗначениеВСтрокуXML.Param.Значение.Description=значение, которое необходимо сериализовать в XML-строку.
+Method.ЗначениеВСтрокуXML.Param.Значение.Name=Значение
+Method.ЗначениеВСтрокуXML.Return.Description=XML-строка.
+Method.ЗначениеВСтрокуXML.String.Word.в.Key=в
+Method.ЗначениеВСтрокуXML.String.Word.веб.Key=веб
+Method.ЗначениеВСтрокуXML.String.Word.клиенте.Key=клиенте
+Method.ЗначениеИзСтрокиXML.Description=Выполняет преобразование (десериализацию) XML-строки в значение.\n См. также ЗначениеВСтрокуXML.
+Method.ЗначениеИзСтрокиXML.Name=ЗначениеИзСтрокиXML
+Method.ЗначениеИзСтрокиXML.Param.СтрокаXML.Description=XML-строка, с сериализованным объектом..
+Method.ЗначениеИзСтрокиXML.Param.СтрокаXML.Name=СтрокаXML
+Method.ЗначениеИзСтрокиXML.Return.Description=значение, полученное из переданной XML-строки.
+Method.ЗначениеИзСтрокиXML.String.Word.в.Key=в
+Method.ЗначениеИзСтрокиXML.String.Word.веб.Key=веб
+Method.ЗначениеИзСтрокиXML.String.Word.клиенте.Key=клиенте
+Method.ПриСозданииНаСервере.Comment.@skip-check\ property-return-type\ -\ Произвольное\ значение.Description=@skip-check property-return-type - Произвольное значение
+Method.ПрименитьЗначение.String.ЗначениеРеквизита.Key=ЗначениеРеквизита
+Method.ПрименитьЗначение.Var.ПолученноеЗначение.Name=ПолученноеЗначение
+Region.ОбработчикиСобытийФормы.Name=ОбработчикиСобытийФормы
+Region.ОбработчикиСобытийФормы.ОбработчикиКомандФормы.Name=ОбработчикиКомандФормы
+Region.ОбработчикиСобытийФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=СлужебныеПроцедурыИФункции

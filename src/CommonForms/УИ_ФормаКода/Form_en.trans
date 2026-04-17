@@ -1,0 +1,7 @@
+#Translations for: model
+
+Attribute.ИмяМетодаДляПереходаКОпределению.Name=ИмяМетодаДляПереходаКОпределению
+Attribute.Код.Name=Код
+Attribute.ПолеКода.Name=ПолеКода
+Command.Поделиться.Name=Поделиться
+Command.СкопироватьВБуфер.Name=СкопироватьВБуфер

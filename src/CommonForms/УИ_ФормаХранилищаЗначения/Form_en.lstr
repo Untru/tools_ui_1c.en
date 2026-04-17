@@ -1,0 +1,8 @@
+#Translations for: interface
+
+Attribute._ДанныеДляОтображения.Title=Данные для отображения
+Attribute._ДеревоЗначений.Title=Дерево значений
+Attribute._ТаблицаЗначений.Title=Таблица значений
+Command.ОткрытьОбъект.Title=Открыть объект...
+Command.ОткрытьОбъект.ToolTip=Открыть текущий объект в спец. форме
+Title=Данные ХЗ

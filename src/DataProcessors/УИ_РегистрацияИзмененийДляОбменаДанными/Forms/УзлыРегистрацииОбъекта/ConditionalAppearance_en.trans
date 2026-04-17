@@ -1,0 +1,13 @@
+#Translations for: model
+
+Items.0.Filter.Items.0.Items.0.Left.Value=ДеревоУзловОбмена.Ссылка
+Items.0.Filter.Items.0.Items.1.Left.Value=ДеревоУзловОбмена.Пометка
+Items.0.Selection.Items.0.Field.Value=ДеревоУзловОбменаНомерСообщения
+Items.1.Appearance.Items.1.Values.0.Value=Не выгружалось
+Items.1.Filter.Items.0.Left.Value=ДеревоУзловОбмена.НеВыгружалось
+Items.1.Filter.Items.1.Left.Value=ДеревоУзловОбмена.Пометка
+Items.1.Selection.Items.0.Field.Value=ДеревоУзловОбменаНомерСообщения
+Items.2.Filter.Items.0.Left.Value=ДеревоУзловОбмена.Ссылка
+Items.2.Selection.Items.0.Field.Value=ДеревоУзловОбменаКод
+Items.2.Selection.Items.1.Field.Value=ДеревоУзловОбменаАвторегистрация
+Items.2.Selection.Items.2.Field.Value=ДеревоУзловОбменаНомерСообщения

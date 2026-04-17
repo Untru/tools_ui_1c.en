@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Attribute.Значение.Title=Значение
+Command.ОтменитьИЗакрыть.Title=Отменить
+Command.ОтменитьИЗакрыть.ToolTip=Отменить и закрыть
+Command.ПрименитьСписокВыбора.Title=Применить
+Command.ПрименитьСписокВыбора.ToolTip=Применить список выбора

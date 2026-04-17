@@ -1,0 +1,26 @@
+#Translations for: interface
+
+Attribute.БезРоли.Title=Без роли
+Attribute.ВыражениеВидаСчета.Title=Выражение вида счета
+Attribute.ГруппаОстатка.Title=Группа остатка
+Attribute.ИгнорироватьЗначенияNULL.Title=Игнорировать значения NULL
+Attribute.Измерение.Title=Измерение
+Attribute.НомерПериода.Title=Номер периода
+Attribute.Обязательное.Title=Обязательное
+Attribute.Остаток.Title=Остаток
+Attribute.Период.Title=Период
+Attribute.ПериодДополнительный.Title=Период дополнительный
+Attribute.ПолеСчета.Title=Поле счета
+Attribute.РодительскоеИзмерение.Title=Родительское измерение
+Attribute.Счет.Title=Счет
+Attribute.ТипБухгалтерскогоОстатка.Title=Тип бухгалтерского остатка
+Attribute.ТипОстатка.Title=Тип остатка
+Command.Применить.Title=Применить
+Item.ВыражениеВидаСчета.Title=Вид
+Item.ГруппаОстатка.Title=Имя
+Item.ИзмерениеРодитель.Title=Родитель
+Item.ПериодДополнительный.Title=Дополнительный
+Item.ТипБухгалтерскогоОстатка.Title=Бух. тип
+Item.ТипОстатка.ChoiceList.1.Presentation=Начальный остаток
+Item.ТипОстатка.ChoiceList.2.Presentation=Конечный остаток
+Item.ТипОстатка.Title=Тип

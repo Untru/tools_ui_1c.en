@@ -1,0 +1,13 @@
+#Translations for: interface
+
+Attribute._ГраницаВидГраницы.Title=Вид границы
+Attribute._ГраницаЗначение.Title=Значение
+Attribute._МоментВремениДата.Title=Дата
+Attribute._МоментВремениСсылка.Title=Ссылка
+Attribute._ТипЗначения.Title=Тип значения
+Command.КомандаЗакрыть.Title=Закрыть
+Command.КомандаЗакрыть.ToolTip=Закрыть
+Command.КомандаОК.Title=ОК
+Command.КомандаОК.ToolTip=Записать и закрыть
+Item.ГруппаГраница.Title=Граница
+Item.ГруппаМоментВремени.Title=Момент времени

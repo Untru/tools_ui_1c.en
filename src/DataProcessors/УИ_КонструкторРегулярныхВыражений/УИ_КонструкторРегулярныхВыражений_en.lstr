@@ -1,0 +1,37 @@
+#Translations for: interface
+
+Attribute.Global.Synonym=Поиск по всей строке
+Attribute.IgnoreCase.Synonym=Без учета регистра
+Attribute.Multiline.Synonym=Многострочный текст
+Attribute.SubMatches.Synonym=SubMatches
+Attribute.SubMatchesIndex.Synonym=SubMatchesIndex
+Attribute.Варианты.Synonym=Варианты
+Attribute.КонецТекста.Synonym=Конец текста
+Attribute.ЛеваяСкобкаПараметра.Synonym=Левая скобка 
+Attribute.Маска.Synonym=Маска
+Attribute.МаскаРезультата.Synonym=Маска результата
+Attribute.ПраваяСкобкаПараметра.Synonym=Правая скобка
+Attribute.Результат.Synonym=Результат
+Attribute.СписокВыбораМаски.Synonym=Список выбора маски
+Attribute.Текст.Synonym=Текст
+Attribute.ТекстПодстановки.Synonym=Текст подстановки
+Attribute.Форматирование.Synonym=Форматирование
+Attribute.ШаблонИмениПараметра.Synonym=Шаблон имени
+Explanation=позволяет строить сложно-структурированные выражения на основе параметрического описания, тестировать их, и в результате получить программный код 1С. На текущий момент работает только в Windows
+ExtendedPresentation=Конструктор регулярных выражений
+Form.ИмпортВыражений.Synonym=Импорт выражений
+Form.РедакторВыражения.Synonym=Редактор выражения
+Form.Форма.Synonym=Форма
+Synonym=Конструктор регулярных выражений [УИ]
+TabularSection.Параметры.Attribute.Варианты.Synonym=Варианты
+TabularSection.Параметры.Attribute.Замещать.Synonym=Замещать
+TabularSection.Параметры.Attribute.ЗамещатьСписок.Synonym=Замещать (список)
+TabularSection.Параметры.Attribute.Значение.Synonym=Значение
+TabularSection.Параметры.Attribute.Извлечь.Synonym=Извлечь
+TabularSection.Параметры.Attribute.ИзвлечьСписок.Synonym=Извлечь (список)
+TabularSection.Параметры.Attribute.Наименование.Synonym=Наименование
+TabularSection.Параметры.Attribute.Ссылка.Synonym=Ссылка
+TabularSection.Параметры.Attribute.Тест.Synonym=Текст теста
+TabularSection.Параметры.Attribute.Удалить.Synonym=Удалить
+TabularSection.Параметры.Attribute.Форматирование.Synonym=Форматирование
+TabularSection.Параметры.Synonym=Параметры

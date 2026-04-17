@@ -1,0 +1,5 @@
+#Translations for: interface
+
+Attribute.НастройкиСтрокойВнутр.Title=Настройки строкой внутр
+Command.Команда_Сохранить.Title=Сохранить
+Command.Команда_Сохранить.ToolTip=Сохранить

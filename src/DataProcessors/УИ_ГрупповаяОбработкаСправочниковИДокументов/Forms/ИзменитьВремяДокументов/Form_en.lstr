@@ -1,0 +1,22 @@
+#Translations for: interface
+
+Attribute.ВведенноеВремя.Title=Введенное время
+Attribute.ВидИзмененияВремени.Title=Вид изменения времени
+Attribute.НайденныеОбъекты.Title=Найденные объекты
+Attribute.ОбъектОбработки.Title=Объект обработки
+Attribute.ОбъектПоиска.Title=Объект поиска
+Attribute.Родитель.Title=Родитель
+Attribute.ТекущаяНастройка.Title=Текущая настройка
+Attribute.ТекущаяНастройкаПредставление.Title=Текущая настройка представление
+Attribute.ТекущаяСтрока.Title=Текущая строка
+Command.ВыполнитьКоманду.Title=Выполнить
+Command.ВыполнитьКоманду.ToolTip=Выполнить команду
+Command.СохранитьНастройки.Title=Сохранить настройки
+Command.СохранитьНастройки.ToolTip=Сохранить настройки
+Item.ВидИзмененияВремени.ChoiceList.0.Presentation=В начало дня
+Item.ВидИзмененияВремени.ChoiceList.1.Presentation=В конец дня
+Item.ВидИзмененияВремени.ChoiceList.2.Presentation=Ввести вручную
+Item.ГруппаКнопки.Title=Группа кнопки
+Item.ГруппаКнопки.ToolTip=Группа кнопки
+Item.ТекущаяНастройка.Title=Текущая настройка
+Title=Изменить время документов

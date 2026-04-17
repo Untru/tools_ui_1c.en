@@ -1,0 +1,20 @@
+#Translations for: model
+
+Items.0.Filter.Items.0.Left.Value=ТаблицаПараметров.Действие
+Items.0.Filter.Items.0.Right.0.Value=Они равны. Пропустить.
+Items.0.Selection.Items.0.Field.Value=ТаблицаПараметров
+Items.1.Filter.Items.0.Left.Value=ТаблицаПараметров.Действие
+Items.1.Filter.Items.0.Right.0.Value=Не сохранять новое значение.
+Items.1.Selection.Items.0.Field.Value=ТаблицаПараметров
+Items.2.Filter.Items.0.Items.0.Left.Value=ТаблицаПараметров.НовыйПараметр
+Items.2.Filter.Items.0.Items.1.Left.Value=ТаблицаПараметров.Действие
+Items.2.Filter.Items.0.Items.1.Right.0.Value=Сохранить новое значение.
+Items.2.Selection.Items.0.Field.Value=ТаблицаПараметров
+Items.3.Filter.Items.0.Items.0.Left.Value=ТаблицаПараметров.НовыйПараметр
+Items.3.Filter.Items.0.Items.1.Left.Value=ТаблицаПараметров.Действие
+Items.3.Filter.Items.0.Items.1.Right.0.Value=Оставить прежнее значение.
+Items.3.Selection.Items.0.Field.Value=ТаблицаПараметров
+Items.4.Filter.Items.0.Items.0.Left.Value=ТаблицаПараметров.НовыйПараметр
+Items.4.Filter.Items.0.Items.1.Left.Value=ТаблицаПараметров.Действие
+Items.4.Filter.Items.0.Items.1.Right.0.Value=Сохранить новое значение.
+Items.4.Selection.Items.0.Field.Value=ТаблицаПараметров

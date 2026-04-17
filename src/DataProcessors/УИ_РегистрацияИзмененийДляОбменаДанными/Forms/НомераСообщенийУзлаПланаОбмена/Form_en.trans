@@ -1,0 +1,11 @@
+#Translations for: model
+
+Attribute.ВерсияДанных.Name=ВерсияДанных
+Attribute.НомерОтправленного.Name=НомерОтправленного
+Attribute.НомерПринятого.Name=НомерПринятого
+Attribute.Объект.Name=Объект
+Attribute.УзелОбменаСсылка.Name=УзелОбменаСсылка
+Command.ЗаписатьИзмененияУзла.Name=ЗаписатьИзмененияУзла
+Item.Группа3.Name=Группа3
+Item.Группа4.Name=Группа4
+Parameter.УзелОбменаСсылка.Name=УзелОбменаСсылка

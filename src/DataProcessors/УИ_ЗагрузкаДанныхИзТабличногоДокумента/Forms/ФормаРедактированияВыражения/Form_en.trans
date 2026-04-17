@@ -1,0 +1,11 @@
+#Translations for: model
+
+Attribute.КолонкиСтроки.Name=КолонкиСтроки
+Attribute.НадписьТекстВыражения.Name=НадписьТекстВыражения
+Attribute.Объект.Name=Объект
+Attribute.ПолеТекстовогоДокумента.Name=ПолеТекстовогоДокумента
+Attribute.ТекстВыражения.Name=ТекстВыражения
+Attribute.ТипРезультата.Name=ТипРезультата
+Command.ОК.Handler.Name=ОсновныеДействияФормыОК
+Command.ОК.Name=ОК
+Item.ГруппаКоманды.Name=ГруппаКоманды

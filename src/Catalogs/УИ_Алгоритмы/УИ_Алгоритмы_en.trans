@@ -1,0 +1,23 @@
+#Translations for: model
+
+Attribute.ВыбрасыватьИсключение.Name=ВыбрасыватьИсключение
+Attribute.ВыполнятьВТранзакции.Name=ВыполнятьВТранзакции
+Attribute.ВыполнятьПоРасписанию.Name=ВыполнятьПоРасписанию
+Attribute.ЗаписыватьОшибкиВЖР.Name=ЗаписыватьОшибкиВЖР
+Attribute.ИдентификаторHTTP.Name=ИдентификаторHTTP
+Attribute.ИдентификаторРегламентногоЗадания.Name=ИдентификаторРегламентногоЗадания
+Attribute.Комментарий.Name=Комментарий
+Attribute.Кэшировать.Name=Кэшировать
+Attribute.НаКлиенте.Name=НаКлиенте
+Attribute.ТекстАлгоритма.Name=ТекстАлгоритма
+Attribute.Хранилище.Name=Хранилище
+Form.ФормаПараметра.Name=ФормаПараметра
+Form.ФормаРедактора.Name=ФормаРедактора
+Form.ФормаСписка.Name=ФормаСписка
+Form.ФормаЭлемента.Name=ФормаЭлемента
+Name=УИ_Алгоритмы
+TabularSection.Параметры.Attribute.Вход.Name=Вход
+TabularSection.Параметры.Attribute.Имя.Name=Имя
+TabularSection.Параметры.Attribute.ПоУмолчанию.Name=ПоУмолчанию
+TabularSection.Параметры.Attribute.ТипПараметра.Name=ТипПараметра
+TabularSection.Параметры.Name=Параметры

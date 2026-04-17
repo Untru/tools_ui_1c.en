@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<v8lang:V8TranslateLanguage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" xmlns:v8lang="http://1c.ru/langtool/v8/dt/lang/model" uuid="668a1771-cdfd-4efa-825a-3e0fd01a406f" extendedConfigurationObject="33ef13dc-e9b3-4b06-9728-658eca808c3b">
+  <name>Англиский</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:LanguageExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <languageCode>Checked</languageCode>
+  </extension>
+  <languageCode>en</languageCode>
+  <option>MODEL_AND_INTERFACE</option>
+</v8lang:V8TranslateLanguage>

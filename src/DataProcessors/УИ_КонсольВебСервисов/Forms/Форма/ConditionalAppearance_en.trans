@@ -1,0 +1,4 @@
+#Translations for: model
+
+Items.0.Filter.Items.0.Left.Value=ПараметрыОперации.ТипПараметра
+Items.0.Filter.Items.0.Right.0.Value={http\://v8.1c.ru/8.1/data/core}Structure

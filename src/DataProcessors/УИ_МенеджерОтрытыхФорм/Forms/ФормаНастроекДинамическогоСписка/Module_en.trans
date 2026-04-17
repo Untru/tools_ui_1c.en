@@ -1,0 +1,5 @@
+#Translations for: model
+
+Description=@strict-types
+Method.ПрименитьНастройки.String.ЗначениеРеквизита.Key=ЗначениеРеквизита
+Region.ОбработчикиКомандФормы.Name=ОбработчикиКомандФормы

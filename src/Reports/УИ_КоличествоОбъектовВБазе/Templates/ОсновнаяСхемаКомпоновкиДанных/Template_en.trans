@@ -1,0 +1,18 @@
+#Translations for: model
+
+DataSet.НаборДанных1.Field.ВидОбъекта.Field=ВидОбъекта
+DataSet.НаборДанных1.Field.ИмяОбъекта.Field=ИмяОбъекта
+DataSet.НаборДанных1.Field.Количество.Field=Количество
+DataSet.НаборДанных1.Field.Организация.Field=Организация
+DataSet.НаборДанных1.Field.Приоритет.Field=Приоритет
+DataSet.НаборДанных1.Field.СинонимОбъекта.Field=СинонимОбъекта
+DataSet.НаборДанных1.Name=НаборДанных1
+DataSet.НаборДанных1.ObjectName=Таблица
+DataSource.ИсточникДанных1.Name=ИсточникДанных1
+Parameter.ВключитьПодчиненныеРегистратору.Name=ВключитьПодчиненныеРегистратору
+Parameter.КонецПериода.Name=КонецПериода
+Parameter.НачалоПериода.Name=НачалоПериода
+Parameter.Период.Name=Период
+Variant.КоличествоОбъектовВБазе.Name=КоличествоОбъектовВБазе
+Variant.КоличествоОбъектовВБазе.Settings.OutputParameters.Items.0.Values.0.Value=Зеленый
+Variant.КоличествоОбъектовВБазеУпрощенная.Name=КоличествоОбъектовВБазеУпрощенная

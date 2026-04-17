@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Explanation=позволяет из 1С делать HTTP запросы
+ExtendedPresentation=Консоль HTTP запросов
+Form.Форма.Synonym=Форма
+Form.ФормаПодробнойИнформацииОЗапросе.Synonym=Форма подробной информации о запросе
+Synonym=Консоль HTTP запросов [УИ]

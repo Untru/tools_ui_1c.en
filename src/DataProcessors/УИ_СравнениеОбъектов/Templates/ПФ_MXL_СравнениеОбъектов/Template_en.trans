@@ -1,0 +1,9 @@
+#Translations for: model
+
+Named.Значение.Key=Значение
+Named.Объект.Key=Объект
+Named.Реквизит.Key=Реквизит
+Row.2.Cell.1.DetailParameter=Реквизит
+Row.2.Cell.1.Parameter=Реквизит
+Row.2.Cell.2.DetailParameter=Значение
+Row.2.Cell.2.Parameter=Значение

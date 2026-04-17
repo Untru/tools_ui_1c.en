@@ -1,0 +1,15 @@
+#Translations for: model
+
+Attribute.ВидГраницы.Name=ВидГраницы
+Attribute.ДатаМомента.Name=ДатаМомента
+Attribute.Значение.Name=Значение
+Attribute.ЗначениеГраницы.Name=ЗначениеГраницы
+Attribute.Объект.Name=Объект
+Attribute.СсылкаМомента.Name=СсылкаМомента
+Command.КомандаОК.Name=КомандаОК
+Item.ВидГраницы.ChoiceList.0.Value.Value=Включая
+Item.ВидГраницы.ChoiceList.1.Value.Value=Исключая
+Item.ГруппаГраница.Name=ГруппаГраница
+Item.ГруппаКоманднаяПанельВнизу.Name=ГруппаКоманднаяПанельВнизу
+Item.ГруппаМоментВремени.Name=ГруппаМоментВремени
+Item.КнопкаЗакрыть.Name=КнопкаЗакрыть

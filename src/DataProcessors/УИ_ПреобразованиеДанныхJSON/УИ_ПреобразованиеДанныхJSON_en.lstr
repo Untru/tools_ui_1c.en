@@ -1,0 +1,7 @@
+#Translations for: interface
+
+Explanation=Библиотека сериализации 1С (обработка)
+ExtendedPresentation=Преобразование данных JSON
+Synonym=Преобразование данных JSON [УИ]
+Template.ВерсияБиблиотеки.Synonym=Версия библиотеки
+Template.ОписаниеТипов.Synonym=Описание типов (json)

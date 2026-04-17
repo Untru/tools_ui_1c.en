@@ -1,0 +1,33 @@
+#Translations for: interface
+
+Explanation=Представляющая из себя обертку функций Утилиты лицензирования 1С (ring) в понятном для обычного человека виде. По сути, это GUI утилиты RING
+ExtendedPresentation=Информация о лицензиях 1С
+Form.Форма.Synonym=Форма
+Form.ФормаАктивацииЛицензии.Synonym=Форма активации лицензии
+Synonym=Информация о лицензиях 1С [УИ]
+TabularSection.СписокЛицензий.Attribute.EMail.Synonym=E mail
+TabularSection.СписокЛицензий.Attribute.Активна.Synonym=Активна
+TabularSection.СписокЛицензий.Attribute.Город.Synonym=Город
+TabularSection.СписокЛицензий.Attribute.ДатаАктивации.Synonym=Дата активации
+TabularSection.СписокЛицензий.Attribute.Дом.Synonym=Дом
+TabularSection.СписокЛицензий.Attribute.Имя.Synonym=Имя
+TabularSection.СписокЛицензий.Attribute.ИмяФайлаЛицензии.Synonym=Имя файла лицензии
+TabularSection.СписокЛицензий.Attribute.Индекс.Synonym=Индекс
+TabularSection.СписокЛицензий.Attribute.Квартира.Synonym=Квартира
+TabularSection.СписокЛицензий.Attribute.КодПродукта.Synonym=Код продукта
+TabularSection.СписокЛицензий.Attribute.КоличествоЛицензий.Synonym=Количество лицензий
+TabularSection.СписокЛицензий.Attribute.Компания.Synonym=Компания
+TabularSection.СписокЛицензий.Attribute.НомерЛицензии.Synonym=Номер лицензии
+TabularSection.СписокЛицензий.Attribute.Описание.Synonym=Описание
+TabularSection.СписокЛицензий.Attribute.Отчество.Synonym=Отчество
+TabularSection.СписокЛицензий.Attribute.ПинКод.Synonym=Пин код
+TabularSection.СписокЛицензий.Attribute.Район.Synonym=Район
+TabularSection.СписокЛицензий.Attribute.Регион.Synonym=Регион
+TabularSection.СписокЛицензий.Attribute.РегистрационныйНомер.Synonym=Регистрационный номер
+TabularSection.СписокЛицензий.Attribute.РучнойВвод.Synonym=Ручной ввод
+TabularSection.СписокЛицензий.Attribute.Страна.Synonym=Страна
+TabularSection.СписокЛицензий.Attribute.Строение.Synonym=Строение
+TabularSection.СписокЛицензий.Attribute.ТекстоваяИнформация.Synonym=Текстовая информация
+TabularSection.СписокЛицензий.Attribute.Улица.Synonym=Улица
+TabularSection.СписокЛицензий.Attribute.Фамилия.Synonym=Фамилия
+TabularSection.СписокЛицензий.Synonym=Список лицензий

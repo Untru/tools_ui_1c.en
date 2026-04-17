@@ -1,0 +1,6 @@
+#Translations for: model
+
+Attribute.ИмяФайлаНаСервере.Name=ИмяФайлаНаСервере
+Attribute.ОтладкаВключена.Name=ОтладкаВключена
+Attribute.ЭтоОтчет.Name=ЭтоОтчет
+Command.Применить.Name=Применить

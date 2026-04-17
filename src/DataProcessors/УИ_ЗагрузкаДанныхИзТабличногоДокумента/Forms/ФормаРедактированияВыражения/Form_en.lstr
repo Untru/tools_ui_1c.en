@@ -1,0 +1,13 @@
+#Translations for: interface
+
+Attribute.КолонкиСтроки.Title=Колонки строки
+Attribute.НадписьТекстВыражения.Title=Надпись текст выражения
+Attribute.ПолеТекстовогоДокумента.Title=Поле текстового документа
+Attribute.ТекстВыражения.Title=Текст выражения
+Attribute.ТипРезультата.Title=Тип результата
+Command.ОК.Title=ОК
+Command.ОК.ToolTip=ОК
+Item.ГруппаКоманды.Title=Группа команды
+Item.ГруппаКоманды.ToolTip=Группа команды
+Item.Закрыть.Title=Отмена
+Title=Форма редактирования выражения

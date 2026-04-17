@@ -1,0 +1,10 @@
+#Translations for: model
+
+Attribute.КодРазрешения.Name=КодРазрешения
+Attribute.Конец.Name=Конец
+Attribute.Начало.Name=Начало
+Attribute.Объект.Name=Объект
+Attribute.Сообщение.Name=Сообщение
+Attribute.Установлена.Name=Установлена
+Command.кУстановитьБлокировкуСеансов.Name=кУстановитьБлокировкуСеансов
+Item.ПараметрыБлокировки.Name=ПараметрыБлокировки

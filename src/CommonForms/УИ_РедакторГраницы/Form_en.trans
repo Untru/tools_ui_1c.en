@@ -1,0 +1,8 @@
+#Translations for: model
+
+Attribute.Вид.Name=Вид
+Attribute.Дата.Name=Дата
+Command.Применить.Name=Применить
+Item.ВидГраницы.ChoiceList.0.Value.Value=Включая
+Item.ВидГраницы.ChoiceList.1.Value.Value=Исключая
+Item.ВидГраницы.Name=ВидГраницы

@@ -1,0 +1,8 @@
+#Translations for: interface
+
+Attribute.ВидКолонки.Title=Вид колонки
+Attribute.КолонкаЗапроса.Title=Колонка запроса
+Attribute.ТекстВставки.Title=Текст вставки
+Command.Вставить.Title=Вставить
+Item.ВидКолонки.ChoiceList.0.Presentation=Уникальный идентификатор ссылки
+Item.ВидКолонки.ChoiceList.1.Presentation=Дата создания ссылки

@@ -1,0 +1,6 @@
+#Translations for: model
+
+Items.0.Filter.Items.0.Left.Value=Объект.НаКлиенте
+Items.0.Selection.Items.0.Field.Value=КомандныйИнтерфейс
+Items.1.Filter.Items.0.Left.Value=Объект.КомандныйИнтерфейс.Активно
+Items.1.Selection.Items.0.Field.Value=КомандныйИнтерфейс
