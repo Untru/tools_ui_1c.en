@@ -13,7 +13,7 @@ Attribute.РучнаяНумерацияКолонокТабличногоДок
 Attribute.СсылкаИсточника.Name=SourceRef
 Attribute.ТабличнаяЧастьИсточника.Name=SourceTabularSection
 Attribute.ТипОбъектаСправочника.Name=CatalogObjectType
-Comment=Переписываем обработку почти заново, но с большим заимствованием кода из стандартной обработки для толстого клиента
+Comment=Perepisyvaem Processor pochti zanovo, no C bolshim zaimstvovaniem Console From standartnoy Data processors To tolstogo Client
 Form.Форма.Name=Form
 Form.ФормаВыбораНастройки.Name=SelectSettingForm
 Form.ФормаРедактированияВыражения.Name=EditExpressionForm
@@ -21,4 +21,4 @@ Form.ФормаРедактированияСвязи.Name=EditLinkForm
 Form.ФормаРедактированияСобытий.Name=EditEventsForm
 Form.ФормаСохраненияНастройки.Name=SaveSettingForm
 Name=UT_ImportDataFromSpreadsheetDocument
-Template.МакетСохраненияНастроек.Name=МакетСохраненияНастроек
+Template.МакетСохраненияНастроек.Name=SaveSettingsTemplate

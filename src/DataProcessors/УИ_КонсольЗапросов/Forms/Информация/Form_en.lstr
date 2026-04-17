@@ -1,14 +1,14 @@
 #Translations for: interface
 
-Attribute.Информация.Title=Информация
-Attribute.ИнформацияФорматированная.Title=Информация форматированная
-Attribute.КодДляКопирования.Title=Код для копирования
+Attribute.Информация.Title=Information
+Attribute.ИнформацияФорматированная.Title=Formatted information
+Attribute.КодДляКопирования.Title=Code to copy
 Item.ГруппаКартинки.Title=Pictures group
-Item.ГруппаКартинки.ToolTip=Группа картинки
+Item.ГруппаКартинки.ToolTip=Pictures group
 Item.ГруппаНижняяПанель.Title=Bottom panel group
-Item.ГруппаНижняяПанель.ToolTip=Группа нижняя панель
+Item.ГруппаНижняяПанель.ToolTip=Bottom panel group
 Item.ГруппаОсновная.Title=Main group
-Item.ГруппаОсновная.ToolTip=Группа основная
+Item.ГруппаОсновная.ToolTip=Main group
 Item.Информация.Title=Information
 Item.Картинка_Копировать.Title=Copy picture
 Item.КомандаОтмена.Title=Close

@@ -1,13 +1,13 @@
 #Translations for: model
 
-Attribute.АдресБиблиотеки.Name=АдресБиблиотеки
-Attribute.ИмяФайлаДанныхИнструмента.Name=ИмяФайлаДанныхИнструмента
-Attribute.КаталогСохраненияБибилиотеки.Name=КаталогСохраненияБибилиотеки
-Attribute.Объект.Name=Объект
-Attribute.ПолеРедактораДерево.Name=ПолеРедактораДерево
-Attribute.ПолеРедактораСтрока.Name=ПолеРедактораСтрока
-Attribute.РедактируемаяСтрока.Name=РедактируемаяСтрока
-Attribute.РежимРедактирования.Name=РежимРедактирования
+Attribute.АдресБиблиотеки.Name=DestinationAddress
+Attribute.ИмяФайлаДанныхИнструмента.Name=NameLogSchemaChoosing
+Attribute.КаталогСохраненияБибилиотеки.Name=TechSettingsBibilioteki
+Attribute.Объект.Name=Object
+Attribute.ПолеРедактораДерево.Name=FieldFormTree
+Attribute.ПолеРедактораСтрока.Name=FieldFormString
+Attribute.РедактируемаяСтрока.Name=RedaktiruemayaString
+Attribute.РежимРедактирования.Name=ModeLink
 Command.ЗавершитьРедактирование.Name=FinishEditing
 Command.ЗакрытьИнструмент.Name=CloseTool
 Command.НовыйФайл.Name=NewFile

@@ -1,11 +1,11 @@
 #Translations for: interface
 
-Attribute.АдресДанныхРасшифровки.Title=Адрес данных расшифровки
-Attribute.АдресСхемыИсполненногоОтчета.Title=Адрес схемы исполненного отчета
-Attribute.ИмяФормыРасшифровки.Title=Имя формы расшифровки
-Attribute.Результат.Title=Результат
+Attribute.АдресДанныхРасшифровки.Title=Details data URL
+Attribute.АдресСхемыИсполненногоОтчета.Title=Executed report schema URL
+Attribute.ИмяФормыРасшифровки.Title=Details form name
+Attribute.Результат.Title=Result
 Command.ИзменитьВариант.Title=Change variant...
-Command.ИзменитьВариант.ToolTip=Изменить вариант
+Command.ИзменитьВариант.ToolTip=Change Settings
 Command.Сформировать.Title=Generate
-Command.Сформировать.ToolTip=Сформировать
-Title=Расшифровка
+Command.Сформировать.ToolTip=Generate
+Title=Rasshifrovka

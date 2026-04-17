@@ -1,12 +1,12 @@
 #Translations for: model
 
-Attribute.ИспользоватьПриОткрытии.Name=ИспользоватьПриОткрытии
-Attribute.Объект.Name=Объект
-Attribute.СоздавалиНовуюСтроку.Name=СоздавалиНовуюСтроку
-Attribute.СписокНастроек.Name=СписокНастроек
-Attribute.СписокНастроек.Значение.Name=Значение
-Attribute.СписокНастроек.Пометка.Name=Пометка
-Attribute.СписокНастроек.Представление.Name=Представление
+Attribute.ИспользоватьПриОткрытии.Name=UseOnOpen
+Attribute.Объект.Name=Object
+Attribute.СоздавалиНовуюСтроку.Name=SozdavaliNewRow
+Attribute.СписокНастроек.Name=TasksManager
+Attribute.СписокНастроек.Значение.Name=Value
+Attribute.СписокНастроек.Пометка.Name=Check
+Attribute.СписокНастроек.Представление.Name=Presentation
 Command.ОК.Handler.Name=OK
 Command.ОК.Name=OK
 Command.Отмена.Handler.Name=Cancel

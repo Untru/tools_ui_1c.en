@@ -1,11 +1,11 @@
 #Translations for: model
 
-Attribute.РежимВставки.Name=РежимВставки
-Attribute.Ссылка.Name=Ссылка
-Command.ВставитьИзБуфераОбмена.Name=ВставитьИзБуфераОбмена
-Command.Загрузить.Name=Загрузить
-Command.ПерейтиПоСсылке.Name=ПерейтиПоСсылке
-Command.СкопироватьВБуфер.Name=СкопироватьВБуфер
-Item.ГруппаКоманднаяПанельСсылкиСправа.Name=ГруппаКоманднаяПанельСсылкиСправа
-Item.КопированиеСсылки.Name=КопированиеСсылки
-Item.СсылкаДляКопирования.Name=СсылкаДляКопирования
+Attribute.РежимВставки.Name=ModeVstavki
+Attribute.Ссылка.Name=Ref
+Command.ВставитьИзБуфераОбмена.Name=InsertFromBuferaEncoding
+Command.Загрузить.Name=Import
+Command.ПерейтиПоСсылке.Name=GotoByRef
+Command.СкопироватьВБуфер.Name=CopyInBuffer
+Item.ГруппаКоманднаяПанельСсылкиСправа.Name=GroupCommandBarReferencesSpaces
+Item.КопированиеСсылки.Name=KopirovanieReferences
+Item.СсылкаДляКопирования.Name=RefToKopirovaniya

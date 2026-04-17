@@ -1,14 +1,14 @@
 #Translations for: model
 
-Attribute._ГраницаВидГраницы.Name=_ГраницаВидГраницы
-Attribute._ГраницаЗначение.Name=_ГраницаЗначение
-Attribute._МоментВремениДата.Name=_МоментВремениДата
-Attribute._МоментВремениСсылка.Name=_МоментВремениСсылка
-Attribute._ТипЗначения.Name=_ТипЗначения
-Command.КомандаЗакрыть.Name=КомандаЗакрыть
-Command.КомандаОК.Name=КомандаОК
-Item._ГраницаВидГраницы.ChoiceList.0.Value.Value=Включая
-Item._ГраницаВидГраницы.ChoiceList.1.Value.Value=Исключая
-Item.ГруппаГраница.Name=ГруппаГраница
-Item.ГруппаМоментВремени.Name=ГруппаМоментВремени
-Item.ГруппаСтраницы.Name=ГруппаСтраницы
+Attribute._ГраницаВидГраницы.Name=BoundaryTypeBorders
+Attribute._ГраницаЗначение.Name=BoundaryValue
+Attribute._МоментВремениДата.Name=MapTypeDate
+Attribute._МоментВремениСсылка.Name=MapTypeRef
+Attribute._ТипЗначения.Name=TypeForm
+Command.КомандаЗакрыть.Name=CommandClose
+Command.КомандаОК.Name=OKCommand
+Item._ГраницаВидГраницы.ChoiceList.0.Value.Value=Vklyuchaya
+Item._ГраницаВидГраницы.ChoiceList.1.Value.Value=Isklyuchaya
+Item.ГруппаГраница.Name=BoundaryGroup
+Item.ГруппаМоментВремени.Name=PointInTimeGroup
+Item.ГруппаСтраницы.Name=GroupPages

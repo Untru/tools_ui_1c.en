@@ -1,9 +1,9 @@
 #Translations for: model
 
-Attribute.ТаблицаСтрукутуры.Name=ТаблицаСтрукутуры
-Attribute.ТаблицаСтрукутуры.Значение.Name=Значение
-Attribute.ТаблицаСтрукутуры.ЗначениеКонтейнер.Name=ЗначениеКонтейнер
-Attribute.ТаблицаСтрукутуры.ЗначениеТипЗначения.Name=ЗначениеТипЗначения
-Attribute.ТаблицаСтрукутуры.ЗначениеТипЗначенияПредставление.Name=ЗначениеТипЗначенияПредставление
-Attribute.ТаблицаСтрукутуры.Ключ.Name=Ключ
-Command.Применить.Name=Применить
+Attribute.ТаблицаСтрукутуры.Name=TableStrukutury
+Attribute.ТаблицаСтрукутуры.Значение.Name=Value
+Attribute.ТаблицаСтрукутуры.ЗначениеКонтейнер.Name=ValueGroup
+Attribute.ТаблицаСтрукутуры.ЗначениеТипЗначения.Name=ValueTypeForm
+Attribute.ТаблицаСтрукутуры.ЗначениеТипЗначенияПредставление.Name=ValueTypeFormPresentation
+Attribute.ТаблицаСтрукутуры.Ключ.Name=Key
+Command.Применить.Name=Get selection

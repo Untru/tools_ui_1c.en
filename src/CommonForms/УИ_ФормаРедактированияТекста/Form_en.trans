@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.Текст.Name=Текст
-Command.ОК.Name=ОК
-Item._Выполнить.Name=_Выполнить
-Item._ТекстКонтекстноеМеню.Name=_ТекстКонтекстноеМеню
-Item._ТекстРасширеннаяПодсказка.Name=_ТекстРасширеннаяПодсказка
-Item.КоманднаяПанельФормы.Name=КоманднаяПанельФормы
+Attribute.Текст.Name=Text
+Command.ОК.Name=Ok
+Item._Выполнить.Name=Execute
+Item._ТекстКонтекстноеМеню.Name=TextKontekstnoeMenyu
+Item._ТекстРасширеннаяПодсказка.Name=TextRasshirennayaAlgorithms
+Item.КоманднаяПанельФормы.Name=FormCommandBar

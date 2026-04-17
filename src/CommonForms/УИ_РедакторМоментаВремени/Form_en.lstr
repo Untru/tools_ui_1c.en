@@ -1,5 +1,5 @@
 #Translations for: interface
 
-Attribute.Дата.Title=Дата
-Attribute.Ссылка.Title=Ссылка
-Command.Применить.Title=Применить
+Attribute.Дата.Title=Date
+Attribute.Ссылка.Title=Ref
+Command.Применить.Title=Get selection

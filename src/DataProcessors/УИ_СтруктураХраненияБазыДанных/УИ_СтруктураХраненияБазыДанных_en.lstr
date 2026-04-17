@@ -1,6 +1,6 @@
 #Translations for: interface
 
 Explanation=View table names and their relationships with metadata objects.
-ExtendedPresentation=Структура хранения базы данных
+ExtendedPresentation=Structure Storage Base Schema
 Form.ФормаУправляемая.Synonym=Managed form
 Synonym=DB storage structure info [UT]

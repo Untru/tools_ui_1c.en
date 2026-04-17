@@ -1,17 +1,17 @@
 #Translations for: interface
 
-Attribute.ТабличныйДокументЛевый.Title=Табличный документ левый
-Attribute.ТабличныйДокументПравый.Title=Табличный документ правый
-Command.ПредыдущееИзменениеЛевый.Title=Предыдущее изменение
-Command.ПредыдущееИзменениеЛевый.ToolTip=Предыдущее изменение
-Command.ПредыдущееИзменениеПравый.Title=Предыдущее изменение
-Command.ПредыдущееИзменениеПравый.ToolTip=Предыдущее изменение
-Command.СледующееИзменениеЛевый.Title=Следующее изменение
-Command.СледующееИзменениеЛевый.ToolTip=Следующее изменение
-Command.СледующееИзменениеПравый.Title=Следующее изменение
-Command.СледующееИзменениеПравый.ToolTip=Следующее изменение
-Item.ГруппаКоманднаяПанельЛевогоТабличногоДокумента.Title=Командная панель левого табличного документа
-Item.ГруппаКоманднаяПанельПравогоТабличногоДокумента.Title=Командная панель правого табличного документа
-Item.ГруппаЛевыйТабличныйДокумент.Title=Версия №
-Item.ГруппаПравыйТабличныйДокумент.Title=Версия №
-Item.ГруппаТабличныеДокументы.Title=Табличные документы
+Attribute.ТабличныйДокументЛевый.Title=Spreadsheet document left
+Attribute.ТабличныйДокументПравый.Title=Spreadsheet document right
+Command.ПредыдущееИзменениеЛевый.Title=Previous change
+Command.ПредыдущееИзменениеЛевый.ToolTip=Previous change
+Command.ПредыдущееИзменениеПравый.Title=Previous change
+Command.ПредыдущееИзменениеПравый.ToolTip=Previous change
+Command.СледующееИзменениеЛевый.Title=Next change
+Command.СледующееИзменениеЛевый.ToolTip=Next change
+Command.СледующееИзменениеПравый.Title=Next change
+Command.СледующееИзменениеПравый.ToolTip=Next change
+Item.ГруппаКоманднаяПанельЛевогоТабличногоДокумента.Title=Command bar of left spreadsheet document
+Item.ГруппаКоманднаяПанельПравогоТабличногоДокумента.Title=Command bar of right spreadsheet document
+Item.ГруппаЛевыйТабличныйДокумент.Title=Version
+Item.ГруппаПравыйТабличныйДокумент.Title=Version
+Item.ГруппаТабличныеДокументы.Title=Spreadsheet documents

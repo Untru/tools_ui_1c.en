@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute._ДанныеДляОтображения.Name=_ДанныеДляОтображения
-Attribute._ДеревоЗначений.Name=_ДеревоЗначений
-Attribute._ТаблицаЗначений.Name=_ТаблицаЗначений
-Command.ОткрытьОбъект.Name=ОткрытьОбъект
-Item._ДеревоЗначенийКонтекстноеМенюГруппа1.Name=_ДеревоЗначенийКонтекстноеМенюГруппа1
-Item._ТаблицаЗначенийКонтекстноеМенюГруппа1.Name=_ТаблицаЗначенийКонтекстноеМенюГруппа1
+Attribute._ДанныеДляОтображения.Name=DataToForm
+Attribute._ДеревоЗначений.Name=TreeTable
+Attribute._ТаблицаЗначений.Name=TableTable
+Command.ОткрытьОбъект.Name=OpenObject
+Item._ДеревоЗначенийКонтекстноеМенюГруппа1.Name=TreeTableKontekstnoeMenyuGroup1
+Item._ТаблицаЗначенийКонтекстноеМенюГруппа1.Name=TableTableKontekstnoeMenyuGroup1

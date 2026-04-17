@@ -1,5 +1,5 @@
 #Translations for: interface
 
-Form.ФормаОтчета.Synonym=Форма отчета
-Synonym=Количество объектов в базе [УИ]
-Template.ОсновнаяСхемаКомпоновкиДанных.Synonym=Основная схема компоновки данных
+Form.ФормаОтчета.Synonym=Form Builder
+Synonym=Processed Writing In Base [UT]
+Template.ОсновнаяСхемаКомпоновкиДанных.Synonym=Main data composition schema

@@ -2,7 +2,7 @@
 
 Attribute.АрхивироватьФайл.Name=ArchiveFile
 Attribute.АутентификацияWindowsИнформационнойБазыДляПодключения.Name=InfobaseConnectionWindowsAuthentication
-Attribute.БезопаснаяЗагрузка.Comment=Загрузка данных по правилам, поставляемым отдельно от данных.
+Attribute.БезопаснаяЗагрузка.Comment=Import Schema By Rules, postavlyaemym Parts From Schema.
 Attribute.БезопаснаяЗагрузка.Name=SafeImport
 Attribute.БезопасныйРежим.Name=SafeMode
 Attribute.ВерсияПлатформыИнформационнойБазыДляПодключения.Name=PlatformVersionForInfobaseConnection
@@ -51,7 +51,7 @@ Attribute.НепосредственноеЧтениеВИБПриемнике.N
 Attribute.ОбработкиНастройкиВыгрузки.Name=ExportSettingsDataProcessors
 Attribute.ОбработкиНастройкиЗагрузки.Name=ImportSettingsDataProcessors
 Attribute.ОбработчикиСобытийЧитаемИзФайлаПравилОбмена.Name=ReadEventHandlersFromExchangeRulesFile
-Attribute.ОбрезатьСтрокиСправа.Comment=При загрузке строк обрезать пробелы справа
+Attribute.ОбрезатьСтрокиСправа.Comment=On Data Rows Remove probely Spaces
 Attribute.ОбрезатьСтрокиСправа.Name=RemoveTrailingSpaces
 Attribute.ОбъектыПоСсылкеЗагружатьБезПометкиУдаления.Name=ImportReferencedObjectsWithoutDeletionMark
 Attribute.ОптимизированнаяЗаписьОбъектов.Name=OptimizedObjectsWriting
@@ -63,7 +63,7 @@ Attribute.ПарольИнформационнойБазыДляПодключе
 Attribute.ПользовательИнформационнойБазыДляПодключения.Name=InfobaseConnectionUsername
 Attribute.ПостроительОтчета.Name=ReportBuilder
 Attribute.РежимОбмена.Name=ExchangeMode
-Attribute.РежимОтладкиАлгоритмов.Comment=0 - без отладки, 1 - процедурный вызов стандартный, 2 - процедурный вызов с параметрами обработчиков, 3 - непосредственная вставка кода в обработчик
+Attribute.РежимОтладкиАлгоритмов.Comment=0 - Debug Managed, 1 - protsedurnyy Server standartnyy, 2 - protsedurnyy Server C Parameters Form, 3 - neposredstvennaya Insert Console In Stream
 Attribute.РежимОтладкиАлгоритмов.Name=AlgorithmDebugMode
 Attribute.СохраненныеНастройки.Name=SavedSettings
 Attribute.ТаблицаНастройкиПараметров.Name=ParametersSettingsTable
@@ -81,5 +81,5 @@ Attribute.ЭтоИнтерактивныйРежим.Name=IsInteractiveMode
 Form.УправляемаяФорма.Name=ManagedForm
 Form.УправляемаяФормаНастройкиОтладкиОбработчиков.Name=HandlerDebugSetupManagedForm
 Name=UT_UniversalDataExchangeXML
-Template.ОбщиеПроцедурыФункции.Name=ОбщиеПроцедурыФункции
-Template.ПараметрыОбработчиков.Name=ПараметрыОбработчиков
+Template.ОбщиеПроцедурыФункции.Name=CommonProceduresFunctions
+Template.ПараметрыОбработчиков.Name=ParametersForm

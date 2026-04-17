@@ -1,12 +1,12 @@
 #Translations for: interface
 
-Method.ВырезатьТекст.NStr.<Данные>.Lines=<Данные>
-Method.ЗаписатьZip.NStr.Работа\ с\ Zip-файлами\ в\ мобильной\ платформе\ не\ поддерживается.Lines=Работа с Zip-файлами в мобильной платформе не поддерживается
-Method.КакJson.NStr.Ошибка\ при\ десериализации\ JSON\..Lines=Ошибка при десериализации JSON.
-Method.КакXDTO.NStr.Ошибка\ при\ десериализации\ XDTO\..Lines=Ошибка при десериализации XDTO.
+Method.ВырезатьТекст.NStr.<Данные>.Lines=<Data>
+Method.ЗаписатьZip.NStr.Работа\ с\ Zip-файлами\ в\ мобильной\ платформе\ не\ поддерживается.Lines=Rabota C Zip-faylami In mobilnoy platforme Dont Supported
+Method.КакJson.NStr.Ошибка\ при\ десериализации\ JSON\..Lines=Step On deserializatsii Json.
+Method.КакXDTO.NStr.Ошибка\ при\ десериализации\ XDTO\..Lines=Step On deserializatsii XDTO.
 Method.КакИсключение.Var.ТекстИсключения.NStr.HTTP\ %1\ %2\n%3.Lines=HTTP %1 %2\n%3
-Method.КакИсключение.Var.ТекстИсключения.NStr.Тело\ ответа\:\n%1.Lines=Тело ответа\:\n%1
+Method.КакИсключение.Var.ТекстИсключения.NStr.Тело\ ответа\:\n%1.Lines=Body otveta\:\n%1
 Method.ОтправитьЗапрос.Var.ТекстОшибки.NStr.HTTP\ %1\ %2\nNetwork\ error\:\n%3.Lines=HTTP %1 %2\nNetwork error\:\n%3
-Method.ПредставлениеКодаСостоянияHTTP.NStr.%1\:\ Неизвестный\ код\ состояния\ HTTP.Lines=%1\: Неизвестный код состояния HTTP
-Method.Приостановить.NStr.Процедура\ Приостановить\ не\ работает\ должным\ образом.Lines=Процедура Приостановить не работает должным образом
-Method.ПрочитатьZip.NStr.Работа\ с\ Zip-файлами\ в\ мобильной\ платформе\ не\ поддерживается.Lines=Работа с Zip-файлами в мобильной платформе не поддерживается
+Method.ПредставлениеКодаСостоянияHTTP.NStr.%1\:\ Неизвестный\ код\ состояния\ HTTP.Lines=%1\: Neizvestnyy Code States HTTP
+Method.Приостановить.NStr.Процедура\ Приостановить\ не\ работает\ должным\ образом.Lines=Procedure Priostanovit Dont rabotaet dolzhnym obrazom
+Method.ПрочитатьZip.NStr.Работа\ с\ Zip-файлами\ в\ мобильной\ платформе\ не\ поддерживается.Lines=Rabota C Zip-faylami In mobilnoy platforme Dont Supported

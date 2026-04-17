@@ -1,74 +1,74 @@
 #Translations for: model
 
 Method.ВывестиВетку.Name=OutputBranch
-Method.ВывестиВетку.Param.Выборка.Name=Выборка
-Method.ВывестиВетку.Param.Документ.Name=Документ
-Method.ВывестиВетку.Param.Обработка.Name=Обработка
-Method.ВывестиВетку.Param.СтрокаВывода.Name=СтрокаВывода
-Method.ВывестиВетку.Param.СтрокаВыводаГруппировка1.Name=СтрокаВыводаГруппировка1
-Method.ВывестиВетку.Param.СтрокаВыводаГруппировка2.Name=СтрокаВыводаГруппировка2
-Method.ВывестиВетку.Param.стМакроколонки.Name=стМакроколонки
-Method.ВывестиВетку.Param.тзРазмерыПолей.Name=тзРазмерыПолей
-Method.ВывестиВетку.Param.фЕстьМакроколонки.Name=фЕстьМакроколонки
-Method.ВывестиВетку.Var.ВыборкаПодчиненные.Name=ВыборкаПодчиненные
-Method.ВывестиВетку.Var.Колонка.Name=Колонка
-Method.ВывестиВетку.Var.СтрокаДлин.Name=СтрокаДлин
-Method.ВывестиВетку.Var.фГруппировка.Name=фГруппировка
+Method.ВывестиВетку.Param.Выборка.Name=Selection
+Method.ВывестиВетку.Param.Документ.Name=Document
+Method.ВывестиВетку.Param.Обработка.Name=Mode
+Method.ВывестиВетку.Param.СтрокаВывода.Name=StringOutput
+Method.ВывестиВетку.Param.СтрокаВыводаГруппировка1.Name=StringOutputGruppirovka1
+Method.ВывестиВетку.Param.СтрокаВыводаГруппировка2.Name=StringOutputGruppirovka2
+Method.ВывестиВетку.Param.стМакроколонки.Name=stMacrocolumns
+Method.ВывестиВетку.Param.тзРазмерыПолей.Name=tzTableFields
+Method.ВывестиВетку.Param.фЕстьМакроколонки.Name=FHasMacrocolumns
+Method.ВывестиВетку.Var.ВыборкаПодчиненные.Name=SelectionSubordinate
+Method.ВывестиВетку.Var.Колонка.Name=Column
+Method.ВывестиВетку.Var.СтрокаДлин.Name=StringDlin
+Method.ВывестиВетку.Var.фГруппировка.Name=FGroup
 Method.ОбновитьДокументНаСервере.Name=RefreshDocumentAtServer
-Method.ОбновитьДокументНаСервере.Param.Параметры.Name=Параметры
+Method.ОбновитьДокументНаСервере.Param.Параметры.Name=Parameters
 Method.ОбновитьДокументНаСервере.String.дерево.Key=дерево
 Method.ПолучитьРазмерыКолонок.Name=GetColumnSizes
-Method.ПолучитьРазмерыКолонок.Param.тзРазмерыДанных.Name=тзРазмерыДанных
-Method.ПолучитьРазмерыКолонок.Var.Колонка.Name=Колонка
-Method.ПолучитьРазмерыКолонок.Var.маРазмерыКолонок.Name=маРазмерыКолонок
-Method.ПолучитьРазмерыКолонок.Var.тз1к.Name=тз1к
-Method.ПолучитьРазмерыКолонок.Var.чМинимальныйРазмерКолонки.Name=чМинимальныйРазмерКолонки
-Method.ПолучитьРазмерыКолонок.Var.чОтброс.Name=чОтброс
-Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.АвтоОтступ\ \=\ 4;.Description=ОбластьЗаполнения.АвтоОтступ \= 4;
-Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.ГоризонтальноеПоложение\ \=\ ГоризонтальноеПоложение\.Центр;.Description=ОбластьЗаполнения.ГоризонтальноеПоложение \= ГоризонтальноеПоложение.Центр;
-Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.Шрифт\ \=\ ШрифтШапки;.Description=ОбластьЗаполнения.Шрифт \= ШрифтШапки;
-Method.СформироватьДокумент.Comment.ЦветЛинииШапки\ \=\ ЦветаСтиля\.ЦветЛинииОтчета;.Description=ЦветЛинииШапки \= ЦветаСтиля.ЦветЛинииОтчета;
-Method.СформироватьДокумент.Comment.ШрифтШапки\ \=\ ШрифтыСтиля\.шрифтшНовый\ Шрифт(,\ 8,\ Ложь);.Description=ШрифтШапки \= ШрифтыСтиля.шрифтшНовый Шрифт(, 8, Ложь);
-Method.СформироватьДокумент.Comment.заголовок\ группировки\ 1.Description=заголовок группировки 1
-Method.СформироватьДокумент.Comment.заголовок\ группировки\ 2.Description=заголовок группировки 2
-Method.СформироватьДокумент.Comment.строка\ данных.Description=строка данных
-Method.СформироватьДокумент.Comment.чСчетчик\ \=\ 0;.Description=чСчетчик \= 0;
-Method.СформироватьДокумент.Comment.шапка.Description=шапка
+Method.ПолучитьРазмерыКолонок.Param.тзРазмерыДанных.Name=tzTableSchema
+Method.ПолучитьРазмерыКолонок.Var.Колонка.Name=Column
+Method.ПолучитьРазмерыКолонок.Var.маРазмерыКолонок.Name=maTableDocument
+Method.ПолучитьРазмерыКолонок.Var.тз1к.Name=tz1k
+Method.ПолучитьРазмерыКолонок.Var.чМинимальныйРазмерКолонки.Name=PMinimalnyyFileName
+Method.ПолучитьРазмерыКолонок.Var.чОтброс.Name=POtbros
+Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.АвтоОтступ\ \=\ 4;.Description=OblastZapolneniya.AvtoOtstup \= 4;
+Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.ГоризонтальноеПоложение\ \=\ GorizontalnoePolozhenie\.Tsentr;.Description=OblastZapolneniya.GorizontalnoePolozhenie \= GorizontalnoePolozhenie.Tsentr;
+Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.Шрифт\ \=\ ShriftShapki;.Description=OblastZapolneniya.Font \= ShriftShapki;
+Method.СформироватьДокумент.Comment.ЦветЛинииШапки\ \=\ TsvetaStilya\.TsvetLiniiOtcheta;.Description=TsvetLiniiShapki \= TsvetaStilya.TsvetLiniiOtcheta;
+Method.СформироватьДокумент.Comment.ШрифтШапки\ \=\ ShriftyStilya\.shriftshNovyy\ Font(,\ 8,\ Lozh);.Description=ShriftShapki \= ShriftyStilya.shriftshNovyy Font(, 8, Lozh);
+Method.СформироватьДокумент.Comment.заголовок\ группировки\ 1.Description=Title Pages 1
+Method.СформироватьДокумент.Comment.заголовок\ группировки\ 2.Description=Title Pages 2
+Method.СформироватьДокумент.Comment.строка\ данных.Description=String Schema
+Method.СформироватьДокумент.Comment.чСчетчик\ \=\ 0;.Description=chSchetchik \= 0;
+Method.СформироватьДокумент.Comment.шапка.Description=Header
 Method.СформироватьДокумент.Name=GenerateDocument
-Method.СформироватьДокумент.Param.Параметры.Name=Параметры
+Method.СформироватьДокумент.Param.Параметры.Name=Parameters
 Method.СформироватьДокумент.String.дерево.Key=дерево
 Method.СформироватьДокумент.String.фОтображатьИтоги.Key=фОтображатьИтоги
-Method.СформироватьДокумент.Var.ЕстьМакроколонки.Name=ЕстьМакроколонки
-Method.СформироватьДокумент.Var.ИмяКолонки.Name=ИмяКолонки
-Method.СформироватьДокумент.Var.ИмяРезультата.Name=ИмяРезультата
-Method.СформироватьДокумент.Var.Колонка.Name=Колонка
-Method.СформироватьДокумент.Var.ЛинияОтчета.Name=ЛинияОтчета
-Method.СформироватьДокумент.Var.ОбластьЗаголовка.Name=ОбластьЗаголовка
-Method.СформироватьДокумент.Var.ОбластьЗаполнения.Name=ОбластьЗаполнения
-Method.СформироватьДокумент.Var.Обработка.Name=Обработка
-Method.СформироватьДокумент.Var.СписокКолонокСтрокой.Name=СписокКолонокСтрокой
-Method.СформироватьДокумент.Var.СтрокаВывода.Name=СтрокаВывода
-Method.СформироватьДокумент.Var.СтрокаВыводаГруппировка1.Name=СтрокаВыводаГруппировка1
-Method.СформироватьДокумент.Var.СтрокаВыводаГруппировка2.Name=СтрокаВыводаГруппировка2
-Method.СформироватьДокумент.Var.СтрокаДлин.Name=СтрокаДлин
-Method.СформироватьДокумент.Var.СтрокаЗаголовка.Name=СтрокаЗаголовка
-Method.СформироватьДокумент.Var.СтрокаПустая.Name=СтрокаПустая
-Method.СформироватьДокумент.Var.СтрокаШапки.Name=СтрокаШапки
-Method.СформироватьДокумент.Var.ТЗИтоги.Name=ТЗИтоги
-Method.СформироватьДокумент.Var.ЦветШапки.Name=ЦветШапки
-Method.СформироватьДокумент.Var.ШрифтЗаголовка.Name=ШрифтЗаголовка
+Method.СформироватьДокумент.Var.ЕстьМакроколонки.Name=HasMacrocolumns
+Method.СформироватьДокумент.Var.ИмяКолонки.Name=ColumnName
+Method.СформироватьДокумент.Var.ИмяРезультата.Name=NameComposition
+Method.СформироватьДокумент.Var.Колонка.Name=Column
+Method.СформироватьДокумент.Var.ЛинияОтчета.Name=LiniyaBuilder
+Method.СформироватьДокумент.Var.ОбластьЗаголовка.Name=DuplicatesAttribute
+Method.СформироватьДокумент.Var.ОбластьЗаполнения.Name=DuplicatesFill
+Method.СформироватьДокумент.Var.Обработка.Name=Mode
+Method.СформироватьДокумент.Var.СписокКолонокСтрокой.Name=TasksDocumentName
+Method.СформироватьДокумент.Var.СтрокаВывода.Name=StringOutput
+Method.СформироватьДокумент.Var.СтрокаВыводаГруппировка1.Name=StringOutputGruppirovka1
+Method.СформироватьДокумент.Var.СтрокаВыводаГруппировка2.Name=StringOutputGruppirovka2
+Method.СформироватьДокумент.Var.СтрокаДлин.Name=StringDlin
+Method.СформироватьДокумент.Var.СтрокаЗаголовка.Name=StringAttribute
+Method.СформироватьДокумент.Var.СтрокаПустая.Name=StringPage
+Method.СформироватьДокумент.Var.СтрокаШапки.Name=StringShapki
+Method.СформироватьДокумент.Var.ТЗИтоги.Name=ConfigRTotals
+Method.СформироватьДокумент.Var.ЦветШапки.Name=ColorShapki
+Method.СформироватьДокумент.Var.ШрифтЗаголовка.Name=FontAttribute
 Method.СформироватьДокумент.Var.ШрифтЗаголовка.String.Arial.Key=Arial
-Method.СформироватьДокумент.Var.ШрифтПодзаголовка.Name=ШрифтПодзаголовка
+Method.СформироватьДокумент.Var.ШрифтПодзаголовка.Name=FontPodzagolovka
 Method.СформироватьДокумент.Var.ШрифтПодзаголовка.String.Arial.Key=Arial
-Method.СформироватьДокумент.Var.выбВыборка.Name=выбВыборка
-Method.СформироватьДокумент.Var.й.Name=й
-Method.СформироватьДокумент.Var.кз.Name=кз
-Method.СформироватьДокумент.Var.маРазмерыКолонок.Name=маРазмерыКолонок
-Method.СформироватьДокумент.Var.маРезультатЗапроса.Name=маРезультатЗапроса
-Method.СформироватьДокумент.Var.маСписокКолонок.Name=маСписокКолонок
-Method.СформироватьДокумент.Var.рзВыборка.Name=рзВыборка
-Method.СформироватьДокумент.Var.стМакроколонки.Name=стМакроколонки
-Method.СформироватьДокумент.Var.стРезультатЗапроса.Name=стРезультатЗапроса
-Method.СформироватьДокумент.Var.стРезультатПакета.Name=стРезультатПакета
-Method.СформироватьДокумент.Var.тзРазмерыДанных.Name=тзРазмерыДанных
-Method.СформироватьДокумент.Var.чЗаголовкиКолонок.Name=чЗаголовкиКолонок
+Method.СформироватьДокумент.Var.выбВыборка.Name=vybSelection
+Method.СформироватьДокумент.Var.й.Name=y
+Method.СформироватьДокумент.Var.кз.Name=kz
+Method.СформироватьДокумент.Var.маРазмерыКолонок.Name=maTableDocument
+Method.СформироватьДокумент.Var.маРезультатЗапроса.Name=maResultText
+Method.СформироватьДокумент.Var.маСписокКолонок.Name=maTasksDocument
+Method.СформироватьДокумент.Var.рзВыборка.Name=rzSelection
+Method.СформироватьДокумент.Var.стМакроколонки.Name=stMacrocolumns
+Method.СформироватьДокумент.Var.стРезультатЗапроса.Name=stResultText
+Method.СформироватьДокумент.Var.стРезультатПакета.Name=stResultCommand
+Method.СформироватьДокумент.Var.тзРазмерыДанных.Name=tzTableSchema
+Method.СформироватьДокумент.Var.чЗаголовкиКолонок.Name=PHeadersDocument

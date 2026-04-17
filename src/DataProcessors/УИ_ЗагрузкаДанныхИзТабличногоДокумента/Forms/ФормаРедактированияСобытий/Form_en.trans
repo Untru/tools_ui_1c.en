@@ -1,17 +1,17 @@
 #Translations for: model
 
-Attribute.НадписьТекстВыражения.Name=НадписьТекстВыражения
-Attribute.Объект.Name=Объект
+Attribute.НадписьТекстВыражения.Name=LabelTextForm
+Attribute.Объект.Name=Object
 Attribute.ПередЗаписьюОбъекта.Name=BeforeWriteObject
-Attribute.ПолеПередЗаписьюОбъекта.Name=ПолеПередЗаписьюОбъекта
-Attribute.ПолеПослеДобавленияСтроки.Name=ПолеПослеДобавленияСтроки
-Attribute.ПолеПриЗаписиОбъекта.Name=ПолеПриЗаписиОбъекта
+Attribute.ПолеПередЗаписьюОбъекта.Name=FieldBeforeWriteForm
+Attribute.ПолеПослеДобавленияСтроки.Name=FieldAfterAddTrailing
+Attribute.ПолеПриЗаписиОбъекта.Name=FieldOnRecordsForm
 Attribute.ПослеДобавленияСтроки.Name=AfterAddRow
 Attribute.ПриЗаписиОбъекта.Name=OnWriteObject
 Attribute.РежимЗагрузки.Name=ImportMode
-Attribute.ТипОбъекта.Name=ТипОбъекта
-Command.ОК.Handler.Name=ОК
-Command.ОК.Name=ОК
+Attribute.ТипОбъекта.Name=ObjectType
+Command.ОК.Handler.Name=Ok
+Command.ОК.Name=Ok
 Item.ГруппаПанель.Event.OnCurrentPageChange.Name=BarGroup
 Item.ГруппаПанель.Name=BarGroup
 Item.ГруппаПанельКоманд.Name=CommandBarGroup

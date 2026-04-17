@@ -1,17 +1,17 @@
 #Translations for: interface
 
-Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Возврат хранилища для контейнера значения
-Attribute.ТаблицаСписка.Title=Таблица списка
-Attribute.ТаблицаСписка.Значение.Title=Значение
-Attribute.ТаблицаСписка.ЗначениеКонтейнер.Title=Значение контейнер
-Attribute.ТаблицаСписка.ЗначениеТипЗначения.Title=Значение тип значения
-Attribute.ТаблицаСписка.ЗначениеТипЗначенияПредставление.Title=Значение тип значения представление
-Attribute.ТаблицаСписка.Картинка.Title=Картинка
-Attribute.ТаблицаСписка.Пометка.Title=Пометка
-Attribute.ТаблицаСписка.Представление.Title=Представление
-Attribute.ТипЗначенийСписка.Title=Тип значений
-Attribute.ЭтоМассив.Title=Это массив
-Command.Применить.Title=Применить
-Item.ТаблицаСпискаЗначениеТипЗначенияПредставление.Title=Тип
-Item.ТаблицаСпискаКартинка.NonselectedPictureText=<Пустая>
-Title=Редактор списка значений
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Vozvrat Storage To Suffix Form
+Attribute.ТаблицаСписка.Title=Table Dialog
+Attribute.ТаблицаСписка.Значение.Title=Value
+Attribute.ТаблицаСписка.ЗначениеКонтейнер.Title=Value Group
+Attribute.ТаблицаСписка.ЗначениеТипЗначения.Title=Value Type Form
+Attribute.ТаблицаСписка.ЗначениеТипЗначенияПредставление.Title=Value Type Form Presentation
+Attribute.ТаблицаСписка.Картинка.Title=Picture
+Attribute.ТаблицаСписка.Пометка.Title=Check
+Attribute.ТаблицаСписка.Представление.Title=Presentation
+Attribute.ТипЗначенийСписка.Title=Type Table
+Attribute.ЭтоМассив.Title=Is Array
+Command.Применить.Title=Get selection
+Item.ТаблицаСпискаЗначениеТипЗначенияПредставление.Title=Type
+Item.ТаблицаСпискаКартинка.NonselectedPictureText=<Page>
+Title=D Dialog Table

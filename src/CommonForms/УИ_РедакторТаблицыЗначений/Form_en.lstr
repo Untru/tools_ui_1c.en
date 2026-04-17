@@ -1,14 +1,14 @@
 #Translations for: interface
 
-Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Возврат хранилища для контейнера значения
-Attribute.ИмяРеквизитаХранилища.Title=Имя реквизита хранилища
-Attribute.КолонкиТаблицы.Title=Колонки таблицы
-Attribute.КолонкиТаблицы.Имя.Title=Имя
-Attribute.КолонкиТаблицы.ИмяДляПоиска.Title=Имя для поиска
-Attribute.КолонкиТаблицы.Квалификаторы.Title=Квалификаторы
-Attribute.КолонкиТаблицы.ТипЗначения.Title=Тип значения
-Attribute.ПрефиксОкончаниеКолонокКонтейнера.Title=Префикс окончание колонок контейнера
-Attribute.СериализоватьВXML.Title=Сериализовать ВXML
-Attribute.ЭтоДерево.Title=Это дерево
-Command.Применить.Title=Применить
-Item.ГруппаКолонкиТаблицы.Title=Колонки
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Vozvrat Storage To Suffix Form
+Attribute.ИмяРеквизитаХранилища.Title=Name Attribute Storage
+Attribute.КолонкиТаблицы.Title=Table columns
+Attribute.КолонкиТаблицы.Имя.Title=Name
+Attribute.КолонкиТаблицы.ИмяДляПоиска.Title=Name To Rules
+Attribute.КолонкиТаблицы.Квалификаторы.Title=Qualifiers
+Attribute.КолонкиТаблицы.ТипЗначения.Title=Value type
+Attribute.ПрефиксОкончаниеКолонокКонтейнера.Title=Prefix New Document Suffix
+Attribute.СериализоватьВXML.Title=Serializovat VXML
+Attribute.ЭтоДерево.Title=Is Tree
+Command.Применить.Title=Get selection
+Item.ГруппаКолонкиТаблицы.Title=Name

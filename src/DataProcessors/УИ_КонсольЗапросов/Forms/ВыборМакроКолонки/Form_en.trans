@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.ВидКолонки.Name=ВидКолонки
-Attribute.КолонкаЗапроса.Name=КолонкаЗапроса
-Attribute.ТекстВставки.Name=ТекстВставки
-Command.Вставить.Name=Вставить
-Item.ВидКолонки.ChoiceList.0.Value.Value=УИД
-Item.ВидКолонки.ChoiceList.1.Value.Value=ДатаСоздания
+Attribute.ВидКолонки.Name=TypeName
+Attribute.КолонкаЗапроса.Name=ColumnText
+Attribute.ТекстВставки.Name=TextVstavki
+Command.Вставить.Name=Insert
+Item.ВидКолонки.ChoiceList.0.Value.Value=UID
+Item.ВидКолонки.ChoiceList.1.Value.Value=DataSozdaniya

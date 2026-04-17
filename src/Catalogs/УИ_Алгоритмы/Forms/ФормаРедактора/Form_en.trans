@@ -1,7 +1,7 @@
 #Translations for: model
 
-Attribute.КомпановщикНастроек.Name=КомпановщикНастроек
-Attribute.ТабличныйДокумент.Name=ТабличныйДокумент
-Attribute.ТекстHTML.Name=ТекстHTML
-Parameter.Алгоритм.Name=Алгоритм
-Parameter.Текст.Name=Текст
+Attribute.КомпановщикНастроек.Name=KompanovshchikManager
+Attribute.ТабличныйДокумент.Name=SpreadsheetDocument
+Attribute.ТекстHTML.Name=TextHTML
+Parameter.Алгоритм.Name=Algorithm
+Parameter.Текст.Name=Text

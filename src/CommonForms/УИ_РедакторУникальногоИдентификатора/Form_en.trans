@@ -1,12 +1,12 @@
 #Translations for: model
 
-Attribute.Ссылка.Name=Ссылка
-Attribute.СтрокаУникальныйИдентификатор.Name=СтрокаУникальныйИдентификатор
-Command.КомандаНайти.Name=КомандаНайти
-Command.КомандаОК.Name=КомандаОК
-Command.Сгенерировать.Name=Сгенерировать
-Item.ГруппаИДИСсылка.Name=ГруппаИДИСсылка
-Item.ГруппаОсновная.Name=ГруппаОсновная
-Item.ГруппаУникальныйИдентификатор.Name=ГруппаУникальныйИдентификатор
-Item.КнопкаЗакрыть.Name=КнопкаЗакрыть
-Item.УникальныйИдентификатор.Name=УникальныйИдентификатор
+Attribute.Ссылка.Name=Ref
+Attribute.СтрокаУникальныйИдентификатор.Name=StringUniqueUUID
+Command.КомандаНайти.Name=FindCommand
+Command.КомандаОК.Name=OKCommand
+Command.Сгенерировать.Name=Sgenerirovat
+Item.ГруппаИДИСсылка.Name=UUIDRefGroup
+Item.ГруппаОсновная.Name=MainGroup
+Item.ГруппаУникальныйИдентификатор.Name=UUIDGroup
+Item.КнопкаЗакрыть.Name=CloseButton
+Item.УникальныйИдентификатор.Name=UUIDString

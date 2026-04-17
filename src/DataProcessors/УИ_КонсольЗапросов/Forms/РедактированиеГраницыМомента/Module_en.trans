@@ -1,15 +1,15 @@
 #Translations for: model
 
-Method.КомандаОК.Var.ВозвращаемоеЗначение.Name=ВозвращаемоеЗначение
+Method.КомандаОК.Var.ВозвращаемоеЗначение.Name=VozvrashchaemoeValue
 Method.ПолучитьДатуСсылки.Comment.@skip-warning.Description=@skip-warning
 Method.ПолучитьДатуСсылки.Name=GetRefDate
-Method.ПолучитьДатуСсылки.Param.Ссылка.Name=Ссылка
-Method.ПолучитьДатуСсылки.Var.Выборка.Name=Выборка
-Method.ПолучитьДатуСсылки.Var.ТаблицаБазы.Name=ТаблицаБазы
-Method.ПолучитьПредставлениеГраницы.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=Дублирование кода, конечно, но избежим обращение на сервер. В модуле объекта есть Контейнер_ПолучитьПредставление.
+Method.ПолучитьДатуСсылки.Param.Ссылка.Name=Ref
+Method.ПолучитьДатуСсылки.Var.Выборка.Name=Selection
+Method.ПолучитьДатуСсылки.Var.ТаблицаБазы.Name=TableBase
+Method.ПолучитьПредставлениеГраницы.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=Dublirovanie Console, konechno, no izbezhim obrashchenie To Files on server. In module Form Has Container_GetPresentation.
 Method.ПолучитьПредставлениеГраницы.Name=GetBoundaryPresentation
-Method.ПолучитьПредставлениеМомента.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=Дублирование кода, конечно, но избежим обращение на сервер. В модуле объекта есть Контейнер_ПолучитьПредставление.
+Method.ПолучитьПредставлениеМомента.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=Dublirovanie Console, konechno, no izbezhim obrashchenie To Files on server. In module Form Has Container_GetPresentation.
 Method.ПолучитьПредставлениеМомента.Name=GetPointInTimePresentation
 Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.Момент.Key=Момент
 Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.времени.Key=времени
-Method.СсылкаМоментаПриИзменении.Var.ДатаСсылки.Name=ДатаСсылки
+Method.СсылкаМоментаПриИзменении.Var.ДатаСсылки.Name=DateReferences

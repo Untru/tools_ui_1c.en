@@ -1,10 +1,10 @@
 #Translations for: model
 
-Attribute.КодРазрешения.Name=КодРазрешения
-Attribute.Конец.Name=Конец
-Attribute.Начало.Name=Начало
-Attribute.Объект.Name=Объект
-Attribute.Сообщение.Name=Сообщение
-Attribute.Установлена.Name=Установлена
+Attribute.КодРазрешения.Name=CodeRazresheniya
+Attribute.Конец.Name=End
+Attribute.Начало.Name=Begin
+Attribute.Объект.Name=Object
+Attribute.Сообщение.Name=Message
+Attribute.Установлена.Name=Use
 Command.кУстановитьБлокировкуСеансов.Name=kSetSessionsLock
 Item.ПараметрыБлокировки.Name=SessionsLockParameters

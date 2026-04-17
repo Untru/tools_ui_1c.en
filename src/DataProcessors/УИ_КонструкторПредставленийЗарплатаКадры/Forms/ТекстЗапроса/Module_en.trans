@@ -1,30 +1,30 @@
 #Translations for: model
 
 Description=Copyright (c) 2025 Ilya Fedorov\nSPDX-License-Identifier\: MIT\nhttps\://github.com/iljyxa/SharedQueryDesignerHRM
-Method.ИсполняемыйТекстЗапросаПредставления.Name=ИсполняемыйТекстЗапросаПредставления
-Method.ИсполняемыйТекстЗапросаПредставления.Param.ТекстЗапросаПредставления.Name=ТекстЗапросаПредставления
-Method.ИсполняемыйТекстЗапросаПредставления.Var.МодульЗарплатаКадрыОбщиеНаборыДанных.Name=МодульЗарплатаКадрыОбщиеНаборыДанных
-Method.ИсполняемыйТекстЗапросаПредставления.Var.МодульОбщегоНазначения.Name=МодульОбщегоНазначения
-Method.ОбработкаОбъект.Description=Объект текущей обработки
-Method.ОбработкаОбъект.Name=ОбработкаОбъект
-Method.ОбработкаОбъект.Return.Description=Обработка объект
-Method.ПреобразоватьДляВставкиВКод.Var.ТекстЗапроса.Name=ТекстЗапроса
-Method.ПреобразоватьДляВставкиВКод.Var.ТекстовыйДокумент.Name=ТекстовыйДокумент
-Method.СкопироватьВБуферОбмена.Comment.+\ УИ\nАсинх\ Процедура\ СкопироватьВБуферОбмена(Команда).Description=+ УИ\nАсинх Процедура СкопироватьВБуферОбмена(Команда)
-Method.СкопироватьВБуферОбмена.Comment.+\ УИ\nЭлементБуфераОбмена\ \=\ Новый\ ЭлементБуфераОбмена(СтандартныйФорматДанныхБуфераОбмена\.Текст,\ ДанныеДляПомещенияВБуфер);\nЖдать\ СредстваБуфераОбмена\.ПоместитьДанныеАсинх(ЭлементБуфераОбмена);.Description=+ УИ\nЭлементБуфераОбмена \= Новый ЭлементБуфераОбмена(СтандартныйФорматДанныхБуфераОбмена.Текст, ДанныеДляПомещенияВБуфер);\nЖдать СредстваБуфераОбмена.ПоместитьДанныеАсинх(ЭлементБуфераОбмена);
-Method.СкопироватьВБуферОбмена.Comment.-\ УИ.Description=- УИ
-Method.СкопироватьВБуферОбмена.Var.ДанныеДляПомещенияВБуфер.Name=ДанныеДляПомещенияВБуфер
-Method.СтраницыПриСменеСтраницы.Comment.+\ УИ\n+\ ОбработкаОшибок\.ПодробноеПредставлениеОшибки(ИнформацияОбОшибке()));.Description=+ УИ\n+ ОбработкаОшибок.ПодробноеПредставлениеОшибки(ИнформацияОбОшибке()));
-Method.СтраницыПриСменеСтраницы.Comment.-\ УИ.Description=- УИ
-Method.СтраницыПриСменеСтраницы.Var.ТекстЗапроса.Name=ТекстЗапроса
-Method.ТекстЗапросаДляВставкиВКод.Name=ТекстЗапросаДляВставкиВКод
-Method.ТекстЗапросаДляВставкиВКод.Param.ТекстЗапроса.Name=ТекстЗапроса
-Method.ТекстЗапросаИзСтрокКода.Name=ТекстЗапросаИзСтрокКода
-Method.ТекстЗапросаИзСтрокКода.Param.ТекстЗапроса.Name=ТекстЗапроса
-Region.ОписаниеПеременных.Name=ОписаниеПеременных
-Region.ОписаниеПеременных.ОбработчикиСобытийФормы.Name=ОбработчикиСобытийФормы
-Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.Name=ОбработчикиСобытийЭлементовШапкиФормы
-Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.Name=ОбработчикиКомандФормы
-Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=СлужебныеПроцедурыИФункции
-Var.ОбработкаОбъект.Description=ВнешняяОбработка.КонструкторПредставленийЗарплатаКадры
-Var.ОбработкаОбъект.Name=ОбработкаОбъект
+Method.ИсполняемыйТекстЗапросаПредставления.Name=IspolnyaemyyTextTextExpression
+Method.ИсполняемыйТекстЗапросаПредставления.Param.ТекстЗапросаПредставления.Name=TextTextExpression
+Method.ИсполняемыйТекстЗапросаПредставления.Var.МодульЗарплатаКадрыОбщиеНаборыДанных.Name=ModuleZarplataKadryCommonDataSchema
+Method.ИсполняемыйТекстЗапросаПредставления.Var.МодульОбщегоНазначения.Name=ModuleCommonName
+Method.ОбработкаОбъект.Description=Object Panel Data processors
+Method.ОбработкаОбъект.Name=ModeObject
+Method.ОбработкаОбъект.Return.Description=Mode Object
+Method.ПреобразоватьДляВставкиВКод.Var.ТекстЗапроса.Name=ArbitraryQueryText
+Method.ПреобразоватьДляВставкиВКод.Var.ТекстовыйДокумент.Name=TekstovyyDocument
+Method.СкопироватьВБуферОбмена.Comment.+\ УИ\nАсинх\ Процедура\ СкопироватьВБуферОбмена(Команда).Description=+ UT\nAsinkh Procedure SkopirovatVBuferObmena(Command)
+Method.СкопироватьВБуферОбмена.Comment.+\ УИ\nЭлементБуфераОбмена\ \=\ New\ ElementBuferaObmena(StandartnyyFormatDannykhBuferaObmena\.Text,\ DannyeDlyaPomeshcheniyaVBufer);\nZhdat\ SredstvaBuferaObmena\.PomestitDannyeAsinkh(ElementBuferaObmena);.Description=+ UT\nElementBuferaObmena \= New ElementBuferaObmena(StandartnyyFormatDannykhBuferaObmena.Text, DannyeDlyaPomeshcheniyaVBufer);\nZhdat SredstvaBuferaObmena.PomestitDannyeAsinkh(ElementBuferaObmena);
+Method.СкопироватьВБуферОбмена.Comment.-\ УИ.Description=- UT
+Method.СкопироватьВБуферОбмена.Var.ДанныеДляПомещенияВБуфер.Name=DataToPutInBuffer
+Method.СтраницыПриСменеСтраницы.Comment.+\ УИ\n+\ ОбработкаОшибок\.ПодробноеПредставлениеОшибки(ИнформацияОбОшибке()));.Description=+ UT\n+ ObrabotkaOshibok.PodrobnoePredstavlenieOshibki(InformatsiyaObOshibke()));
+Method.СтраницыПриСменеСтраницы.Comment.-\ УИ.Description=- UT
+Method.СтраницыПриСменеСтраницы.Var.ТекстЗапроса.Name=ArbitraryQueryText
+Method.ТекстЗапросаДляВставкиВКод.Name=TextTextToVstavkiInCode
+Method.ТекстЗапросаДляВставкиВКод.Param.ТекстЗапроса.Name=ArbitraryQueryText
+Method.ТекстЗапросаИзСтрокКода.Name=TextTextFromRowsConsole
+Method.ТекстЗапросаИзСтрокКода.Param.ТекстЗапроса.Name=ArbitraryQueryText
+Region.ОписаниеПеременных.Name=DescriptionVariables
+Region.ОписаниеПеременных.ОбработчикиСобытийФормы.Name=ReadEventForm
+Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.Name=ReadEventItemsShapkiForm
+Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.Name=ReadCommandsForm
+Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=SluzhebnyeProceduresTFunctions
+Var.ОбработкаОбъект.Description=VneshnyayaObrabotka.KonstruktorPredstavleniyZarplataKadry
+Var.ОбработкаОбъект.Name=ModeObject

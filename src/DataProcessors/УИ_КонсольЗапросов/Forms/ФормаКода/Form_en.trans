@@ -1,13 +1,13 @@
 #Translations for: model
 
-Attribute.ИмяЗапроса.Name=ИмяЗапроса
-Attribute.Объект.Name=Объект
-Attribute.ПараметрыЗапроса.Name=ПараметрыЗапроса
-Attribute.Текст.Name=Текст
-Attribute.ТекстЗапроса.Name=ТекстЗапроса
-Attribute.УИ_МетодИсполненияКода.Name=УИ_МетодИсполненияКода
-Attribute.УИ_ТекстАлгоритма.Name=УИ_ТекстАлгоритма
-Attribute.УстановитьЗначенияПараметров.Name=УстановитьЗначенияПараметров
+Attribute.ИмяЗапроса.Name=NameText
+Attribute.Объект.Name=Object
+Attribute.ПараметрыЗапроса.Name=ParametersText
+Attribute.Текст.Name=Text
+Attribute.ТекстЗапроса.Name=ArbitraryQueryText
+Attribute.УИ_МетодИсполненияКода.Name=UTMethodGroupConsole
+Attribute.УИ_ТекстАлгоритма.Name=UTTextOption
+Attribute.УстановитьЗначенияПараметров.Name=SetFormTable
 Command.Обновить.Handler.Name=Refresh
 Command.Обновить.Name=Refresh
 Item.ГруппаВерхняя.Name=TopGroup

@@ -1,15 +1,15 @@
 #Translations for: interface
 
-Attribute.КодРазрешения.Title=Код разрешения
-Attribute.Конец.Title=Конец
-Attribute.Начало.Title=Начало
-Attribute.Сообщение.Title=Сообщение
-Attribute.Установлена.Title=Установлена
+Attribute.КодРазрешения.Title=Key сode
+Attribute.Конец.Title=End
+Attribute.Начало.Title=Begin
+Attribute.Сообщение.Title=Message
+Attribute.Установлена.Title=Use
 Command.кУстановитьБлокировкуСеансов.Title=K set sessions lock
-Command.кУстановитьБлокировкуСеансов.ToolTip=Установить блокировку сеансов
-Item.КодРазрешения.ToolTip=используется при запуске с ключом /UC
+Command.кУстановитьБлокировкуСеансов.ToolTip=K set sessions lock
+Item.КодРазрешения.ToolTip=ispolzuetsya On zapuske C klyuchom /UC
 Item.Конец.EditFormat=ДФ\='дд.ММ.гггг ЧЧ\:мм\:сс'
 Item.Начало.EditFormat=ДФ\='дд.ММ.гггг ЧЧ\:мм\:сс'
 Item.ПараметрыБлокировки.Title=Sessions lock parameters
-Item.ПараметрыБлокировки.ToolTip=Параметры блокировки
-Title=Блокировка сеансов пользователей
+Item.ПараметрыБлокировки.ToolTip=Sessions lock parameters
+Title=Lock Form Data

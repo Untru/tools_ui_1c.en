@@ -1,13 +1,13 @@
 #Translations for: model
 
-Attribute.АдресДанныхРасшифровки.Name=АдресДанныхРасшифровки
-Attribute.АдресСхемыИсполненногоОтчета.Name=АдресСхемыИсполненногоОтчета
-Attribute.ИмяФормыРасшифровки.Name=ИмяФормыРасшифровки
-Attribute.Отчет.Name=Отчет
-Attribute.Результат.Name=Результат
+Attribute.АдресДанныхРасшифровки.Name=DestinationSchemaForm
+Attribute.АдресСхемыИсполненногоОтчета.Name=DestinationCompositionIspolnennogoBuilder
+Attribute.ИмяФормыРасшифровки.Name=NameFormForm
+Attribute.Отчет.Name=Report
+Attribute.Результат.Name=Result
 Command.ИзменитьВариант.Name=ChangeVariant
 Command.Сформировать.Name=Generate
 Item.КомпоновщикНастроекПользовательскиеНастройки.Name=SettingsComposerUserSettings
 Item.Настройка.Name=Settings
 Item.ОсновнаяКоманднаяПанель.Name=MainCommandBar
-Parameter.АдресСхемыКомпоновкиДанных.Name=АдресСхемыКомпоновкиДанных
+Parameter.АдресСхемыКомпоновкиДанных.Name=DestinationCompositionCompositionSchema

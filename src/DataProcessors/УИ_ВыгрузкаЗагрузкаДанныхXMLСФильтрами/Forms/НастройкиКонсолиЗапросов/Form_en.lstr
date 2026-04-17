@@ -1,11 +1,11 @@
 #Translations for: interface
 
-Attribute.ВариантИспользованияКонсолиЗапросов.Title=Вариант использования консоли запросов
-Attribute.ПутьКВнешнейКонсолиЗапросов.Title=Путь к внешней консоли запросов
+Attribute.ВариантИспользованияКонсолиЗапросов.Title=Query console usage option
+Attribute.ПутьКВнешнейКонсолиЗапросов.Title=Path to external query console
 Command.Подтвердить.Title=Ok
-Command.Подтвердить.ToolTip=Подтвердить
-Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.0.Presentation=В составе обработки
-Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.1.Presentation=В составе конфигурации
-Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.2.Presentation=В каталоге
+Command.Подтвердить.ToolTip=Confirm
+Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.0.Presentation=In sostave Data processors
+Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.1.Presentation=In sostave L
+Item.ВариантИспользованияКонсолиЗапросов.ChoiceList.2.Presentation=In kataloge
 Item.ВариантИспользованияКонсолиЗапросов.Title=Query console
-Title=Настройки консоли запросов
+Title=Query console settings

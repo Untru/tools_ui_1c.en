@@ -1,18 +1,18 @@
 #Translations for: interface
 
-Attribute.Активно.Title=Активно
-Attribute.Завершено.Title=Завершено
-Attribute.ЗавершеноАварийно.Title=Завершено аварийно
-Attribute.Ключ.Title=Ключ
-Attribute.Конец.Title=Конец
-Attribute.Метод.Title=Метод
-Attribute.Наименование.Title=Наименование
-Attribute.Начало.Title=Начало
-Attribute.Отменено.Title=Отменено
-Attribute.Регламентное.Title=Регламентное
+Attribute.Активно.Title=Active
+Attribute.Завершено.Title=Completed
+Attribute.ЗавершеноАварийно.Title=Failed
+Attribute.Ключ.Title=Key
+Attribute.Конец.Title=End
+Attribute.Метод.Title=Method
+Attribute.Наименование.Title=Description
+Attribute.Начало.Title=Begin
+Attribute.Отменено.Title=Canceled
+Attribute.Регламентное.Title=Scheduled
 Command.ОК.Title=OK
-Command.ОК.ToolTip=ОК
+Command.ОК.ToolTip=Ok
 Item.Общие.Title=Common
-Item.Общие.ToolTip=Общие
+Item.Общие.ToolTip=Common
 Item.Состояние.Title=State
-Item.Состояние.ToolTip=Состояние
+Item.Состояние.ToolTip=State

@@ -1,12 +1,12 @@
 #Translations for: model
 
-Attribute.ДокументТекстЗапроса.Name=ДокументТекстЗапроса
-Attribute.Объект.Name=Объект
-Attribute.ПараметрыЗапроса.Name=ПараметрыЗапроса
-Attribute.ПараметрыЗапроса.ЗначениеПараметра.Name=ЗначениеПараметра
-Attribute.ПараметрыЗапроса.ИмяПараметра.Name=ИмяПараметра
-Attribute.ПараметрыЗапроса.ТипПараметра.Name=ТипПараметра
-Attribute.ПараметрыЗапроса.ЭтоВыражение.Name=ЭтоВыражение
+Attribute.ДокументТекстЗапроса.Name=DocumentTextText
+Attribute.Объект.Name=Object
+Attribute.ПараметрыЗапроса.Name=ParametersText
+Attribute.ПараметрыЗапроса.ЗначениеПараметра.Name=ParameterValue
+Attribute.ПараметрыЗапроса.ИмяПараметра.Name=ParameterName
+Attribute.ПараметрыЗапроса.ТипПараметра.Name=ParameterType
+Attribute.ПараметрыЗапроса.ЭтоВыражение.Name=IsExpression
 Command.ВыполнитьЗапрос.Name=ExecuteQuery
 Command.ДобавитьВРезультатВыгрузки.Name=AddToExportResult
 Command.ЗаполнитьПараметры.Name=FillParameters

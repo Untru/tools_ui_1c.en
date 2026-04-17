@@ -1,18 +1,18 @@
 #Translations for: interface
 
-Attribute.АдресДвоичныхДанныхКартинки.Title=Адрес двоичных данных картинки
-Attribute.Вид.Title=Вид
-Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Возврат хранилища для контейнера значения
-Attribute.Размер.Title=Размер
-Command.ЗагрузитьИзФайла.Title=Загрузить из файла
-Command.Очистить.Title=Очистить
-Command.Применить.Title=Применить
-Command.СохранитьВФайл.Title=Сохранить в файл
-Item.АдресДвоичныхДанныхКартинки.NonselectedPictureText=Выберите картинку
-Item.АдресДвоичныхДанныхКартинки.Title=Картинка
-Item.ГруппаКнопкиДляКартинки.Title=Группа1
-Item.ГруппаКнопкиЛево.Title=Группа1
-Item.ГруппаКнопкиПраво.Title=Группа1
-Item.ГруппаШапка.Title=Группа2
-Item.ГруппаШапкаЛево.Title=Группа1
-Item.ГруппаШапкаПраво.Title=Группа1
+Attribute.АдресДвоичныхДанныхКартинки.Title=Destination Module Schema Pictures
+Attribute.Вид.Title=Type
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Vozvrat Storage To Suffix Form
+Attribute.Размер.Title=File
+Command.ЗагрузитьИзФайла.Title=Import From Log
+Command.Очистить.Title=Clear
+Command.Применить.Title=Get selection
+Command.СохранитьВФайл.Title=Save to file
+Item.АдресДвоичныхДанныхКартинки.NonselectedPictureText=Vyberite Picture
+Item.АдресДвоичныхДанныхКартинки.Title=Picture
+Item.ГруппаКнопкиДляКартинки.Title=Group1
+Item.ГруппаКнопкиЛево.Title=Group1
+Item.ГруппаКнопкиПраво.Title=Group1
+Item.ГруппаШапка.Title=Group2
+Item.ГруппаШапкаЛево.Title=Group1
+Item.ГруппаШапкаПраво.Title=Group1

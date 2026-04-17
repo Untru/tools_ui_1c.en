@@ -1,6 +1,6 @@
 #Translations for: model
 
 Form.Форма.Name=Form
-Form.ФормаРедактированияВыражения.Name=ФормаРедактированияВыражения
+Form.ФормаРедактированияВыражения.Name=EditExpressionForm
 Form.ФормаРедактированияРолиПоляНабораДанных.Name=EditDataSetFieldRole
 Name=UT_DCSEditor

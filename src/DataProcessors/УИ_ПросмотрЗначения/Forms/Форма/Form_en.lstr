@@ -1,24 +1,24 @@
 #Translations for: interface
 
-Attribute.ВидыКонтейнера.Title=Виды контейнера
-Attribute.ВходящееЗначениеКонтейнер.Title=Входящее значение контейнер
-Attribute.Выражение.Title=Выражение
-Attribute.ДеревоЗначения.Title=Дерево значения
-Attribute.ДеревоЗначения.ВидКонтейнера.Title=Вид контейнера
-Attribute.ДеревоЗначения.ЗаполненыПотомки.Title=Заполнены потомки
-Attribute.ДеревоЗначения.ЗначениеЕстьОшибка.Title=Значение есть ошибка
-Attribute.ДеревоЗначения.ЗначениеКонтейнер.Title=Значение контейнер
-Attribute.ДеревоЗначения.ЗначениеОписаниеОшибки.Title=Значение описание ошибки
-Attribute.ДеревоЗначения.ЗначениеПредставление.Title=Значение представление
-Attribute.ДеревоЗначения.ЗначениеТипЗначения.Title=Значение тип значения
-Attribute.ДеревоЗначения.ЗначениеТипЗначенияПредставление.Title=Значение тип значения представление
-Attribute.ДеревоЗначения.Имя.Title=Имя
-Attribute.ДеревоЗначения.ИмяОбъектаМетаданных.Title=Имя объекта метаданных
-Attribute.КонтекстКлиента.Title=Контекст клиента
-Attribute.НаКлиенте.Title=На клиенте
-Command.ПоказатьВОтдельномОкне.Title=Показать в отдельном окне
-Item.ГруппаВыражение.Title=Группа1
-Item.ДеревоЗначенияЗначениеПредставление.Title=Значение
-Item.ДеревоЗначенияЗначениеТипЗначенияПредставление.Title=Тип
+Attribute.ВидыКонтейнера.Title=Metadata Suffix
+Attribute.ВходящееЗначениеКонтейнер.Title=Vkhodyashchee Value Group
+Attribute.Выражение.Title=Expression
+Attribute.ДеревоЗначения.Title=Tree Form
+Attribute.ДеревоЗначения.ВидКонтейнера.Title=Type Suffix
+Attribute.ДеревоЗначения.ЗаполненыПотомки.Title=Zapolneny potomki
+Attribute.ДеревоЗначения.ЗначениеЕстьОшибка.Title=Value Has Step
+Attribute.ДеревоЗначения.ЗначениеКонтейнер.Title=Value Group
+Attribute.ДеревоЗначения.ЗначениеОписаниеОшибки.Title=Value Description Flag
+Attribute.ДеревоЗначения.ЗначениеПредставление.Title=Value Presentation
+Attribute.ДеревоЗначения.ЗначениеТипЗначения.Title=Value Type Form
+Attribute.ДеревоЗначения.ЗначениеТипЗначенияПредставление.Title=Value Type Form Presentation
+Attribute.ДеревоЗначения.Имя.Title=Name
+Attribute.ДеревоЗначения.ИмяОбъектаМетаданных.Title=Metadata object name
+Attribute.КонтекстКлиента.Title=Context Client
+Attribute.НаКлиенте.Title=At client
+Command.ПоказатьВОтдельномОкне.Title=Show In otdelnom Window
+Item.ГруппаВыражение.Title=Group1
+Item.ДеревоЗначенияЗначениеПредставление.Title=Value
+Item.ДеревоЗначенияЗначениеТипЗначенияПредставление.Title=Type
 Item.НаКлиенте.EditFormat=БЛ\=Сервер; БИ\=Клиент
-Item.НаКлиенте.Title=Контекст
+Item.НаКлиенте.Title=Context

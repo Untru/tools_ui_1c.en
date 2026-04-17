@@ -1,21 +1,21 @@
 #Translations for: interface
 
-Attribute.КлючФормыДанных.Title=Ключ формы данных
-Attribute.СписокДанных.Title=Список данных
-Attribute.СтруктураДанных.Title=Структура данных
+Attribute.КлючФормыДанных.Title=Data form key
+Attribute.СписокДанных.Title=Data list
+Attribute.СтруктураДанных.Title=Data structure
 Command.ВыбратьОтобранныеЗначения.Title=Select
-Command.ВыбратьОтобранныеЗначения.ToolTip=Выбрать отобранные значения
+Command.ВыбратьОтобранныеЗначения.ToolTip=Select Filtered Form
 Command.ВыбратьТекущуюСтроку.Title=Select
-Command.ВыбратьТекущуюСтроку.ToolTip=Выбрать текущую строку
+Command.ВыбратьТекущуюСтроку.ToolTip=Select Current Row
 Command.ОткрытьТекущийОбъект.Title=Open
-Command.ОткрытьТекущийОбъект.ToolTip=Открыть текущий объект
+Command.ОткрытьТекущийОбъект.ToolTip=Open Current Object
 Item.Группа1.Title=Filter items
 Item.ОтборГруппа1.Title=Filter actions
 Item.ОтборГруппа2.Title=Form actions
 Item.СписокДанныхВыбратьОтобранныеЗначения.Title=Select all
 Item.СписокДанныхВыбратьТекущуюСтроку.Title=Select
 Item.СписокДанныхЗакрыть.Title=Close
-Item.СписокДанныхКонтекстноеМенюВыбратьОтобранныеЗначения.Title=Выбрать все отобранные
-Item.СписокДанныхКонтекстноеМенюВыбратьТекущуюСтроку.Title=Выбрать текущие данные
-Item.СписокДанныхКонтекстноеМенюОткрытьТекущийОбъект.Title=Открыть форму текущего объекта
-Title=Выбор объектов отбором
+Item.СписокДанныхКонтекстноеМенюВыбратьОтобранныеЗначения.Title=Select All Filtered
+Item.СписокДанныхКонтекстноеМенюВыбратьТекущуюСтроку.Title=Select Current Data
+Item.СписокДанныхКонтекстноеМенюОткрытьТекущийОбъект.Title=Open Handlers Settings Form
+Title=Select objects using filter

@@ -1,11 +1,11 @@
 #Translations for: interface
 
-Row.0.Cell.0.Content=Ключ 1
-Row.0.Cell.1.Content=Ключ 2
-Row.0.Cell.2.Content=Ключ 3
-Row.0.Cell.3.Content=Число строк
-Row.0.Cell.4.Content=Реквизит 1
-Row.0.Cell.5.Content=Реквизит 2
-Row.0.Cell.6.Content=Реквизит 3
-Row.0.Cell.7.Content=Реквизит 4
-Row.0.Cell.8.Content=Реквизит 5
+Row.0.Cell.0.Content=Key 1
+Row.0.Cell.1.Content=Key 2
+Row.0.Cell.2.Content=Key 3
+Row.0.Cell.3.Content=Number Rows
+Row.0.Cell.4.Content=Attribute 1
+Row.0.Cell.5.Content=Attribute 2
+Row.0.Cell.6.Content=Attribute 3
+Row.0.Cell.7.Content=Attribute 4
+Row.0.Cell.8.Content=Attribute 5

@@ -1,15 +1,15 @@
 #Translations for: interface
 
-Attribute.СтрокаПоиска.Title=Строка поиска
-Attribute.ТаблицаПараметровСеанса.Title=Таблица параметров сеанса
-Attribute.ТаблицаПараметровСеанса.Значение.Title=Значение
-Attribute.ТаблицаПараметровСеанса.ЗначениеКонтейнер.Title=Значение контейнер
-Attribute.ТаблицаПараметровСеанса.ЗначениеТипЗначения.Title=Значение тип значения
-Attribute.ТаблицаПараметровСеанса.ЗначениеТипЗначенияПредставление.Title=Значение тип значения представление
-Attribute.ТаблицаПараметровСеанса.Изменено.Title=Изменено
-Attribute.ТаблицаПараметровСеанса.Имя.Title=Имя
-Attribute.ТаблицаПараметровСеанса.Найдено.Title=Найдено
-Attribute.ТаблицаПараметровСеанса.Синоним.Title=Синоним
-Attribute.ТаблицаПараметровСеанса.ТипЗначения.Title=Тип значения
-Command.Записать.Title=Записать
-Command.Перечитать.Title=Перечитать
+Attribute.СтрокаПоиска.Title=Search string
+Attribute.ТаблицаПараметровСеанса.Title=Table Table Label
+Attribute.ТаблицаПараметровСеанса.Значение.Title=Value
+Attribute.ТаблицаПараметровСеанса.ЗначениеКонтейнер.Title=Value Group
+Attribute.ТаблицаПараметровСеанса.ЗначениеТипЗначения.Title=Value Type Form
+Attribute.ТаблицаПараметровСеанса.ЗначениеТипЗначенияПредставление.Title=Value Type Form Presentation
+Attribute.ТаблицаПараметровСеанса.Изменено.Title=Izmeneno
+Attribute.ТаблицаПараметровСеанса.Имя.Title=Name
+Attribute.ТаблицаПараметровСеанса.Найдено.Title=Step
+Attribute.ТаблицаПараметровСеанса.Синоним.Title=Sinonim
+Attribute.ТаблицаПараметровСеанса.ТипЗначения.Title=Value type
+Command.Записать.Title=Write
+Command.Перечитать.Title=Reread

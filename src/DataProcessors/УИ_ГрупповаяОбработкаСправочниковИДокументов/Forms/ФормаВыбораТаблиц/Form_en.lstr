@@ -1,15 +1,15 @@
 #Translations for: interface
 
-Attribute.ДеревоТаблиц.Title=Дерево таблиц
-Attribute.ДеревоТаблиц.ИмяТаблицы.Title=Имя таблицы
-Attribute.ДеревоТаблиц.Пометка.Title=Пометка
-Attribute.ДеревоТаблиц.ПредставлениеТаблицы.Title=Представление таблицы
-Attribute.ОбрабатыватьТабличныеЧасти.Title=Обрабатывать табличные части
-Attribute.СписокВыбранных.Title=Список выбранных
-Attribute.ТипОбъекта.Title=Тип объекта
+Attribute.ДеревоТаблиц.Title=Tree table
+Attribute.ДеревоТаблиц.ИмяТаблицы.Title=Name Table
+Attribute.ДеревоТаблиц.Пометка.Title=Check
+Attribute.ДеревоТаблиц.ПредставлениеТаблицы.Title=Presentation Table
+Attribute.ОбрабатыватьТабличныеЧасти.Title=Process tabular parts
+Attribute.СписокВыбранных.Title=List of selected
+Attribute.ТипОбъекта.Title=Object type
 Command.Выбрать.Title=Choose
-Command.Выбрать.ToolTip=Выбрать
+Command.Выбрать.ToolTip=Select
 Command.СнятьПометки.Title=Remove marks
 Command.УстановитьПометки.Title=Set marks
 Item.ДеревоТаблицГруппа.Title=Tree table group
-Item.ДеревоТаблицГруппа.ToolTip=Дерево таблиц группа
+Item.ДеревоТаблицГруппа.ToolTip=Tree table group

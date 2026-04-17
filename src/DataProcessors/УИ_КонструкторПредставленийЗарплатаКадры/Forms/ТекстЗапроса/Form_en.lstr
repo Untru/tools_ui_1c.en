@@ -1,13 +1,13 @@
 #Translations for: interface
 
-Attribute.ОбновитьИсполняемыйТекстЗапроса.Title=Обновить исполняемый текст запроса
-Attribute.Объект.Title=Объект
-Attribute.ТекстЗапросаИсполняемый.Title=Текст запроса исполняемый
-Attribute.ТекстЗапросаПредставления.Title=Текст запроса представления
-Command.ПреобразоватьДляВставкиВКод.Title=Текст запроса для вставки в код
-Command.СкопироватьВБуферОбмена.Title=Скопировать в буфер обмена
-Item.ГруппаШапкаТекстЗапросаИсполняемый.Title=Группа шапка текст запроса представления
-Item.ГруппаШапкаТекстЗапросаПредставления.Title=Группа шапка текст запроса представления
-Item.СтраницаТекстЗапросаИсполняемый.Title=Исполняемый запрос
-Item.СтраницаТекстЗапросаПредставления.Title=Представление
-Item.Страницы.Title=Страницы
+Attribute.ОбновитьИсполняемыйТекстЗапроса.Title=Update ispolnyaemyy Text Text
+Attribute.Объект.Title=Object
+Attribute.ТекстЗапросаИсполняемый.Title=Text Text ispolnyaemyy
+Attribute.ТекстЗапросаПредставления.Title=Text Text Expression
+Command.ПреобразоватьДляВставкиВКод.Title=Text Text To vstavki In Code
+Command.СкопироватьВБуферОбмена.Title=Copy In Buffer Encoding
+Item.ГруппаШапкаТекстЗапросаИсполняемый.Title=Group Header Text Text Expression
+Item.ГруппаШапкаТекстЗапросаПредставления.Title=Group Header Text Text Expression
+Item.СтраницаТекстЗапросаИсполняемый.Title=Ispolnyaemyy Query
+Item.СтраницаТекстЗапросаПредставления.Title=Presentation
+Item.Страницы.Title=Pages

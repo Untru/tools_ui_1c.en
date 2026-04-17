@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.Документ.Name=Документ
-Attribute.Инициализированна.Name=Инициализированна
-Attribute.Объект.Name=Объект
+Attribute.Документ.Name=Document
+Attribute.Инициализированна.Name=Initialized
+Attribute.Объект.Name=Object
 Item.ГруппаДерево.Name=TreeGroup
 Item.ГруппаДокумент.Name=DocumentGroup
 Item.ДокументКнопкаВернуть.Name=RedoDocumentButton

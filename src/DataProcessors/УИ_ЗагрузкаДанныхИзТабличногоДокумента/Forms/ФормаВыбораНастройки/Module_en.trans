@@ -1,11 +1,11 @@
 #Translations for: model
 
-Description=ОБРАБОТЧИКИ СОБЫТИЙ ЭЛЕМЕНТОВ УПРАВЛЕНИЯ
-Method.ОКНажатие.Comment.Закрыть();.Description=Закрыть();
-Method.ОКНажатие.Description=Процедура - обаботчик события "Нажатие" в\: Кнопка "ОК"
-Method.ОтменаНажатие.Description=Процедура - обаботчик события "Нажатие" в\: Кнопка "Отмена"
-Method.ПриСозданииНаСервере.Var.ТекущиеДанные.Name=ТекущиеДанные
-Method.СписокНастроекПометкаПриИзменении.Var.ТекущиеДанные.Name=ТекущиеДанные
-Method.СписокНастроекПометкаПриИзменении.Var.ЭлементСписка.Name=ЭлементСписка
-Method.УдалитьНажатие.Description=Процедура - обаботчик события "Нажатие" в\: Кнопка "Удалить"
-Method.УдалитьНажатие.Var.ТекущиеДанные.Name=ТекущиеДанные
+Description=Read Event Items Items
+Method.ОКНажатие.Comment.Закрыть();.Description=Close();
+Method.ОКНажатие.Description=Procedure - obabotchik Events "Nazhatie" In\: Panel "Ok"
+Method.ОтменаНажатие.Description=Procedure - obabotchik Events "Nazhatie" In\: Panel "Cancel"
+Method.ПриСозданииНаСервере.Var.ТекущиеДанные.Name=CurrentData
+Method.СписокНастроекПометкаПриИзменении.Var.ТекущиеДанные.Name=CurrentData
+Method.СписокНастроекПометкаПриИзменении.Var.ЭлементСписка.Name=ItemDialog
+Method.УдалитьНажатие.Description=Procedure - obabotchik Events "Nazhatie" In\: Panel "Delete"
+Method.УдалитьНажатие.Var.ТекущиеДанные.Name=CurrentData

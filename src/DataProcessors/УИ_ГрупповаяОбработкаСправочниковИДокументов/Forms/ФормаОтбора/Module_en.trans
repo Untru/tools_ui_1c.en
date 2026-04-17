@@ -1,36 +1,36 @@
 #Translations for: model
 
 Method.ЗаполнитьНастройки.Name=FillSettings
-Method.ЗаполнитьНастройки.Var.ИсточникНастроек.Name=ИсточникНастроек
-Method.ЗаполнитьНастройки.Var.СхемаКомпоновки.Name=СхемаКомпоновки
+Method.ЗаполнитьНастройки.Var.ИсточникНастроек.Name=DataManager
+Method.ЗаполнитьНастройки.Var.СхемаКомпоновки.Name=DataComposition
 Method.ЗаполнитьПараметрыЗапроса.Name=FillQueryParameters
 Method.ЗаполнитьПараметрыЗапроса.String.Word.Отсутствует.Key=Отсутствует
 Method.ЗаполнитьПараметрыЗапроса.String.Word.запроса.Key=запроса
-Method.ЗаполнитьПараметрыЗапроса.Var.ИмяПараметра.Name=ИмяПараметра
-Method.ЗаполнитьПараметрыЗапроса.Var.ПараметрЗапроса.Name=ПараметрЗапроса
-Method.ЗаполнитьПараметрыЗапроса.Var.ПараметрыВЗапросе.Name=ПараметрыВЗапросе
-Method.ЗаполнитьПараметрыЗапроса.Var.СтрокаПараметров.Name=СтрокаПараметров
+Method.ЗаполнитьПараметрыЗапроса.Var.ИмяПараметра.Name=ParameterName
+Method.ЗаполнитьПараметрыЗапроса.Var.ПараметрЗапроса.Name=ParameterText
+Method.ЗаполнитьПараметрыЗапроса.Var.ПараметрыВЗапросе.Name=ParametersInZaprose
+Method.ЗаполнитьПараметрыЗапроса.Var.СтрокаПараметров.Name=StringTable
 Method.КонструкторЗапросаЗавершение.Name=QueryWizardEnd
-Method.КонструкторЗапросаЗавершение.Param.ДополнительныеПараметры.Name=ДополнительныеПараметры
-Method.КонструкторЗапросаЗавершение.Param.Текст.Name=Текст
-Method.ОбновитьПараметры.Var.Результат.Name=Результат
+Method.КонструкторЗапросаЗавершение.Param.ДополнительныеПараметры.Name=AdditionalParameters
+Method.КонструкторЗапросаЗавершение.Param.Текст.Name=Text
+Method.ОбновитьПараметры.Var.Результат.Name=Result
 Method.ПолучитьРезультат.Name=GetResult
 Method.ПолучитьРезультат.String.РежимПоиска.Key=РежимПоиска
 Method.ПолучитьРезультат.String.ТекстПроизвольногоЗапроса.Key=ТекстПроизвольногоЗапроса
-Method.ПолучитьРезультат.Var.СтруктураРезультата.Name=СтруктураРезультата
+Method.ПолучитьРезультат.Var.СтруктураРезультата.Name=StructureComposition
 Method.ПолучитьСхемуКомпоновки.Name=GetCompositionScheme
-Method.ПолучитьСхемуКомпоновки.Var.Источник.Name=Источник
+Method.ПолучитьСхемуКомпоновки.Var.Источник.Name=Data
 Method.ПолучитьСхемуКомпоновки.Var.Источник.String.local.Key=local
 Method.ПолучитьСхемуКомпоновки.Var.Источник.String.Источник1.Key=Источник1
-Method.ПолучитьСхемуКомпоновки.Var.НаборДанных.Name=НаборДанных
+Method.ПолучитьСхемуКомпоновки.Var.НаборДанных.Name=DataSet
 Method.ПолучитьСхемуКомпоновки.Var.НаборДанных.String.Источник1.Key=Источник1
-Method.ПолучитьСхемуКомпоновки.Var.Поле.Name=Поле
-Method.ПолучитьСхемуКомпоновки.Var.СхемаКомпоновки.Name=СхемаКомпоновки
-Method.ПолучитьСхемуКомпоновки.Var.Элемент.Name=Элемент
-Method.ПриСозданииНаСервере.Comment.Заголовок\ \=\ Заголовок\ +\ "\ ["\ +\ Параметры\.ОбъектПоиска\.Представление\ +\ "]";.Description=Заголовок \= Заголовок + " [" + Параметры.ОбъектПоиска.Представление + "]";
+Method.ПолучитьСхемуКомпоновки.Var.Поле.Name=Field
+Method.ПолучитьСхемуКомпоновки.Var.СхемаКомпоновки.Name=DataComposition
+Method.ПолучитьСхемуКомпоновки.Var.Элемент.Name=Item
+Method.ПриСозданииНаСервере.Comment.Заголовок\ \=\ Title\ +\ "\ ["\ +\ Parameters\.SearchObject\.Presentation\ +\ "]";.Description=Title \= Title + " [" + Parameters.SearchObject.Presentation + "]";
 Method.ПриСозданииНаСервере.String.Word.Произвольный.Key=Произвольный
 Method.ПриСозданииНаСервере.String.Word.по.Key=по
 Method.ПриСозданииНаСервере.String.Word.реквизитам.Key=реквизитам
-Method.ПриСозданииНаСервере.Var.Настройки.Name=Настройки
-Method.ПриСозданииНаСервере.Var.Элемент.Name=Элемент
+Method.ПриСозданииНаСервере.Var.Настройки.Name=Settings
+Method.ПриСозданииНаСервере.Var.Элемент.Name=Item
 Method.УстановитьВидимостьДоступность.Name=SetVisibilityAccessibility

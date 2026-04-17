@@ -1,12 +1,12 @@
 #Translations for: model
 
-Attribute.ВариантИспользованияКонсолиЗапросов.Name=ВариантИспользованияКонсолиЗапросов
-Attribute.Объект.Name=Объект
-Attribute.ПутьКВнешнейКонсолиЗапросов.Name=ПутьКВнешнейКонсолиЗапросов
+Attribute.ВариантИспользованияКонсолиЗапросов.Name=SettingsCompositionConsoleExtension
+Attribute.Объект.Name=Object
+Attribute.ПутьКВнешнейКонсолиЗапросов.Name=PathSExternalConsoleExtension
 Command.Подтвердить.Name=Confirm
 Item.Группа1.Name=Group1
 Item.Группа2.Name=Group2
 Item.Группа3.Name=Group3
 Item.Декорация1.Name=Decoration1
-Parameter.ВариантИспользованияКонсолиЗапросов.Name=ВариантИспользованияКонсолиЗапросов
-Parameter.ПутьКВнешнейКонсолиЗапросов.Name=ПутьКВнешнейКонсолиЗапросов
+Parameter.ВариантИспользованияКонсолиЗапросов.Name=SettingsCompositionConsoleExtension
+Parameter.ПутьКВнешнейКонсолиЗапросов.Name=PathSExternalConsoleExtension

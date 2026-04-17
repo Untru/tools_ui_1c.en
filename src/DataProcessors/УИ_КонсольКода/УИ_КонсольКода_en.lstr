@@ -1,6 +1,6 @@
 #Translations for: interface
 
 Explanation=Allows you to execute code from the enterprise without creating external processing. There is syntax highlighting and minimal context hints.
-ExtendedPresentation=Консоль кода
+ExtendedPresentation=Console Console
 Form.Форма.Synonym=Form
 Synonym=Code console [UT]

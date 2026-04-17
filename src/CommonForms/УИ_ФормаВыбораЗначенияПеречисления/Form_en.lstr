@@ -1,10 +1,10 @@
 #Translations for: interface
 
-Attribute.ЗначенияПеречисления.Title=Значения перечисления
-Attribute.ЗначенияПеречисления.ЗначениеСтрокой.Title=Значение строкой
-Attribute.ЗначенияПеречисления.Имя.Title=Имя
-Attribute.ЗначенияПеречисления.Представление.Title=Представление
-Attribute.ЗначенияПеречисления.Ссылка.Title=Ссылка
-Attribute.ПустаяСсылка.Title=Пустая ссылка
-Command.ВыбратьЗначение.Title=Выбрать
-Command.ВыбратьЗначение.ToolTip=Выбрать значение
+Attribute.ЗначенияПеречисления.Title=Form Name
+Attribute.ЗначенияПеречисления.ЗначениеСтрокой.Title=Value Name
+Attribute.ЗначенияПеречисления.Имя.Title=Name
+Attribute.ЗначенияПеречисления.Представление.Title=Presentation
+Attribute.ЗначенияПеречисления.Ссылка.Title=Ref
+Attribute.ПустаяСсылка.Title=Empty ref
+Command.ВыбратьЗначение.Title=Select
+Command.ВыбратьЗначение.ToolTip=Select Value

@@ -1,16 +1,16 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.СуффиксРеквизитаКонтейнера.Name=СуффиксРеквизитаКонтейнера
-Attribute.ТаблицаЗначений.Name=ТаблицаЗначений
-Attribute.ТаблицаЗначенийКолонкиКонтейнера.Name=ТаблицаЗначенийКолонкиКонтейнера
-Attribute.ТаблицаЗначенийСоответствиеКолонок.Name=ТаблицаЗначенийСоответствиеКолонок
-Command.КомандаЗаполнитьИзСтрокиВнутр.Name=КомандаЗаполнитьИзСтрокиВнутр
-Command.КомандаЗначениеВСтрокуВнутр.Name=КомандаЗначениеВСтрокуВнутр
+Attribute.Объект.Name=Object
+Attribute.СуффиксРеквизитаКонтейнера.Name=ContainerAttributeSuffix
+Attribute.ТаблицаЗначений.Name=TableTable
+Attribute.ТаблицаЗначенийКолонкиКонтейнера.Name=TableTableNameSuffix
+Attribute.ТаблицаЗначенийСоответствиеКолонок.Name=TableTableTypeDocument
+Command.КомандаЗаполнитьИзСтрокиВнутр.Name=CommandFill in dependent objectsFromTrailingInternal
+Command.КомандаЗначениеВСтрокуВнутр.Name=CommandValueInRowInternal
 Command.КомандаЗначениеВФайл.Name=OKCommand
 Command.КомандаЗначениеИзФайла.Name=ClearCommand
-Command.КомандаОК.Name=КомандаОК
-Command.КомандаОчистить.Name=КомандаОчистить
+Command.КомандаОК.Name=OKCommand
+Command.КомандаОчистить.Name=CommandFillFromFile
 Item.ГруппаКоманднаяПанельНижняя.Name=CommandBarFooterGroup
 Item.КнопкаОК.Name=OKCommand
 Item.КомандаОтмена.Name=CancelCommand
@@ -19,5 +19,5 @@ Item.ТаблицаКнопкаПереместитьВверх.Name=TableMoveUp
 Item.ТаблицаКнопкаПереместитьВниз.Name=TableMoveDownButton
 Item.ТаблицаКнопкаСкопировать.Name=TableCopyButton
 Item.ТаблицаКнопкаУдалить.Name=TableDeleteButton
-Item.ФормаГруппаЗаполнить.Name=ФормаГруппаЗаполнить
-Item.ФормаГруппаПередать.Name=ФормаГруппаПередать
+Item.ФормаГруппаЗаполнить.Name=FormGroupFill in dependent objects
+Item.ФормаГруппаПередать.Name=FormGroupSend

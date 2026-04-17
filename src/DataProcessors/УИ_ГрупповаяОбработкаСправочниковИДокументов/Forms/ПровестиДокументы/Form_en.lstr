@@ -1,17 +1,17 @@
 #Translations for: interface
 
-Attribute.НайденныеОбъекты.Title=Найденные объекты
-Attribute.ОбъектОбработки.Title=Объект обработки
-Attribute.ОбъектПоиска.Title=Объект поиска
-Attribute.Родитель.Title=Родитель
-Attribute.ТекущаяНастройка.Title=Текущая настройка
-Attribute.ТекущаяНастройкаПредставление.Title=Текущая настройка представление
-Attribute.ТекущаяСтрока.Title=Текущая строка
-Command.ВыполнитьКоманду.Title=Выполнить
-Command.ВыполнитьКоманду.ToolTip=Выполнить команду
-Command.СохранитьНастройки.Title=Сохранить настройки
-Command.СохранитьНастройки.ToolTip=Сохранить настройки
+Attribute.НайденныеОбъекты.Title=Found objects
+Attribute.ОбъектОбработки.Title=Object
+Attribute.ОбъектПоиска.Title=Search object
+Attribute.Родитель.Title=Parent
+Attribute.ТекущаяНастройка.Title=Current setting
+Attribute.ТекущаяНастройкаПредставление.Title=Current setting representation
+Attribute.ТекущаяСтрока.Title=Current row
+Command.ВыполнитьКоманду.Title=Execute
+Command.ВыполнитьКоманду.ToolTip=Execute Common
+Command.СохранитьНастройки.Title=Save settings
+Command.СохранитьНастройки.ToolTip=Save settings
 Item.ГруппаКнопки.Title=Group command
-Item.ГруппаКнопки.ToolTip=Группа кнопки
-Item.ТекущаяНастройка.Title=Текущая настройка
-Title=Провести документы
+Item.ГруппаКнопки.ToolTip=Buttons group
+Item.ТекущаяНастройка.Title=Current setting
+Title=Post the documents

@@ -1,20 +1,20 @@
 #Translations for: interface
 
-Attribute.СписокЭлементов.Title=Список элементов
-Attribute.ТипКонтейнера.Title=Тип контейнера
-Command.КомандаЗаполнитьИзБуфера.Title=Из буфера обмена
-Command.КомандаЗаполнитьИзСтрокиВнутр.Title=Из строки внутр
-Command.КомандаЗаполнитьИзФайлов.Title=Из файлов на диске
-Command.КомандаОК.Title=Команда ОК
-Command.КомандаОК.ToolTip=Команда ОК
-Command.КомандаОткрытьСправку.Title=Справка
+Attribute.СписокЭлементов.Title=Item list
+Attribute.ТипКонтейнера.Title=Container type
+Command.КомандаЗаполнитьИзБуфера.Title=From сlipboard
+Command.КомандаЗаполнитьИзСтрокиВнутр.Title=From Trailing Internal
+Command.КомандаЗаполнитьИзФайлов.Title=From Collection To diske
+Command.КомандаОК.Title=OK command
+Command.КомандаОК.ToolTip=OK command
+Command.КомандаОткрытьСправку.Title=Help
 Command.КомандаОчистить.Title=From a file on disk
-Command.КомандаОчистить.ToolTip=Команда очистить
-Command.КомандаПередатьВБуферОбмена.Title=В буфер обмена
+Command.КомандаОчистить.ToolTip=Command Clear
+Command.КомандаПередатьВБуферОбмена.Title=To clipboard
 Command.КомандаПередатьВСтрокуXML.Title=OK command
 Item.ГруппаКоманднаяПанельНижняя.Title=Command bar bottom group
-Item.ГруппаКоманднаяПанельНижняя.ToolTip=Группа командная панель нижняя
+Item.ГруппаКоманднаяПанельНижняя.ToolTip=Command bar bottom group
 Item.КнопкаОК.Title=OK
 Item.КомандаОтмена.Title=Cancel
 Item.СписокЭлементовГруппаЗаполнить.Title=ItemListGroupTransfer
-Item.СписокЭлементовГруппаПередать.Title=Сохранить
+Item.СписокЭлементовГруппаПередать.Title=Save

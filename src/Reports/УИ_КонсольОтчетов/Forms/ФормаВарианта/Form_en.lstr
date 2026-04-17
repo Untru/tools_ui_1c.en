@@ -1,13 +1,13 @@
 #Translations for: interface
 
-Attribute.ЛокальноеУсловноеОформление.Title=Локальное условное оформление
-Attribute.ЛокальныеВыбранныеПоля.Title=Локальные выбранные поля
-Attribute.ЛокальныеПараметрыВывода.Title=Локальное условное оформление
-Attribute.ЛокальныйОтбор.Title=Локальный отбор
-Attribute.ЛокальныйПорядок.Title=Локальный порядок
+Attribute.ЛокальноеУсловноеОформление.Title=Local output parameters
+Attribute.ЛокальныеВыбранныеПоля.Title=Local selected fields
+Attribute.ЛокальныеПараметрыВывода.Title=Local output parameters
+Attribute.ЛокальныйОтбор.Title=Local filter
+Attribute.ЛокальныйПорядок.Title=Local order
 Item.ЛокальноеУсловноеОформление.Title=Assign the item with personal conditional appearance to format item records
 Item.ЛокальныеВыбранныеПоля.Title=Assign the item with personal field settings
-Item.ЛокальныеПараметрыВывода.Title=Текущий элемент имеет собственные дополнительные настройки
+Item.ЛокальныеПараметрыВывода.Title=Assign the item with personal additional settings
 Item.ЛокальныйОтбор.Title=Assign the item with personal filters to filter item records
 Item.ЛокальныйПорядок.Title=Assign the item with personal sorts to sort item records
 Item.НадписьЛокальногоОтбора.Title=No filter is assigned to the item.

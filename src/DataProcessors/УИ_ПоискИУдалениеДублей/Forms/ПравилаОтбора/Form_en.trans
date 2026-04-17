@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.ИдентификаторОсновнойФормы.Name=ИдентификаторОсновнойФормы
-Attribute.КомпоновщикПредварительногоОтбора.Name=КомпоновщикПредварительногоОтбора
-Attribute.Объект.Name=Объект
+Attribute.ИдентификаторОсновнойФормы.Name=UUIDMainForm
+Attribute.КомпоновщикПредварительногоОтбора.Name=SettingsPredvaritelnogoRules
+Attribute.Объект.Name=Object
 Command.Выбрать.Name=Select
 Item.КомпоновщикПредварительногоОтбораНастройкиОтбор.Name=PrefilterComposerSettingsFilter
 Item.ФормаГруппаСправки.Name=FormHelpGroup

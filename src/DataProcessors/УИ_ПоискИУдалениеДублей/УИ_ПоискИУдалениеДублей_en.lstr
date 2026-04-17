@@ -1,7 +1,7 @@
 #Translations for: interface
 
 Explanation=SSL data processor fork with additional parameters
-ExtendedPresentation=Поиск и удаление дублей
+ExtendedPresentation=Usage T Marked Area
 Form.ОбластьПоискаДублей.Synonym=Duplicates search area
 Form.ПоискДублей.Synonym=Search for duplicates
 Form.ПравилаОтбора.Synonym=Filter rules

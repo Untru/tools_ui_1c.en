@@ -1,21 +1,21 @@
 #Translations for: model
 
 Method.ЗаполнитьРеквизиты.Name=FillAttributes
-Method.ЗаполнитьРеквизиты.Var.Отбор.Name=Отбор
-Method.ЗаполнитьРеквизиты.Var.Свойство.Name=Свойство
-Method.ОК.Var.Отбор.Name=Отбор
+Method.ЗаполнитьРеквизиты.Var.Отбор.Name=Filter
+Method.ЗаполнитьРеквизиты.Var.Свойство.Name=Property
+Method.ОК.Var.Отбор.Name=Filter
 Method.ПолучитьОтбор.Name=GetFilter
-Method.ПолучитьОтбор.Var.МассивРегламентных.Name=МассивРегламентных
-Method.ПолучитьОтбор.Var.Отбор.Name=Отбор
-Method.ПриСозданииНаСервере.Var.РегламентноеЗадание.Name=РегламентноеЗадание
-Method.ПриСозданииНаСервере.Var.Регламентные.Name=Регламентные
-Method.ПриСозданииНаСервере.Var.СписокВыбора.Name=СписокВыбора
+Method.ПолучитьОтбор.Var.МассивРегламентных.Name=ArrayJobs
+Method.ПолучитьОтбор.Var.Отбор.Name=Filter
+Method.ПриСозданииНаСервере.Var.РегламентноеЗадание.Name=ScheduledJob
+Method.ПриСозданииНаСервере.Var.Регламентные.Name=Scheduled
+Method.ПриСозданииНаСервере.Var.СписокВыбора.Name=TasksScale
 Method.ПустаяДата.Name=IsBlankDate
-Method.ПустаяДата.Param.Дата.Name=Дата
+Method.ПустаяДата.Param.Дата.Name=Date
 Method.УстановитьФлагиСостояния.Name=SetStateFlags
-Method.УстановитьФлагиСостояния.Param.МассивСостояний.Name=МассивСостояний
+Method.УстановитьФлагиСостояния.Param.МассивСостояний.Name=ArraySostoyaniy
 Method.УстановитьФлагиСостояния.String.Word.Неизвестное.Key=Неизвестное
 Method.УстановитьФлагиСостояния.String.Word.задания.Key=задания
-Method.УстановитьФлагиСостояния.Var.СостояниеЗадания.Name=СостояниеЗадания
-Region.ОбработчикиСобытийФормы.Name=ОбработчикиСобытийФормы
-Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовФормы.Name=ОбработчикиСобытийЭлементовФормы
+Method.УстановитьФлагиСостояния.Var.СостояниеЗадания.Name=StateDialog
+Region.ОбработчикиСобытийФормы.Name=ReadEventForm
+Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовФормы.Name=ReadEventItemsForm

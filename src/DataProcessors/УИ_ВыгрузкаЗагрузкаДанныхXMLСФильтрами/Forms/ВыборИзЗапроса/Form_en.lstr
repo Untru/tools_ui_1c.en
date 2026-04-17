@@ -1,21 +1,21 @@
 #Translations for: interface
 
-Attribute.ДокументТекстЗапроса.Title=Документ текст запроса
-Attribute.ПараметрыЗапроса.Title=Параметры запроса
-Attribute.ПараметрыЗапроса.ЗначениеПараметра.Title=Значение параметра
-Attribute.ПараметрыЗапроса.ИмяПараметра.Title=Имя параметра
-Attribute.ПараметрыЗапроса.ТипПараметра.Title=Тип параметра
-Attribute.ПараметрыЗапроса.ЭтоВыражение.Title=В
+Attribute.ДокументТекстЗапроса.Title=Document query text
+Attribute.ПараметрыЗапроса.Title=Query parameters
+Attribute.ПараметрыЗапроса.ЗначениеПараметра.Title=Parameter value
+Attribute.ПараметрыЗапроса.ИмяПараметра.Title=Parameter name
+Attribute.ПараметрыЗапроса.ТипПараметра.Title=Parameter type
+Attribute.ПараметрыЗапроса.ЭтоВыражение.Title=In
 Command.ВыполнитьЗапрос.Title=Execute query
-Command.ВыполнитьЗапрос.ToolTip=Выполнить запрос
+Command.ВыполнитьЗапрос.ToolTip=Request execute
 Command.ДобавитьВРезультатВыгрузки.Title=Add to export result
-Command.ДобавитьВРезультатВыгрузки.ToolTip=Добавить в результат выгрузки
+Command.ДобавитьВРезультатВыгрузки.ToolTip=Add to export result
 Command.ЗаполнитьПараметры.Title=Fill parameters
-Command.ЗаполнитьПараметры.ToolTip=Заполнить параметры
-Item.ГруппаРезультатЗапроса.Title=Группа результат запроса
-Item.ГруппаРезультатЗапроса.ToolTip=Группа результат запроса
+Command.ЗаполнитьПараметры.ToolTip=Fill parameters
+Item.ГруппаРезультатЗапроса.Title=Group Result Text
+Item.ГруппаРезультатЗапроса.ToolTip=Group Result Text
 Item.ДекорацияЗапросНеВыполнен.Title=Query is not executed
-Item.ПараметрыЗапросаЭтоВыражение.ToolTip=Необходимо установить флажок для параметров значения которых будут задаваться выражениями на встроенном языке.
+Item.ПараметрыЗапросаЭтоВыражение.ToolTip=Neobkhodimo Set Checkbox To Table Form kotorykh budut zadavatsya vyrazheniyami To vstroennom yazyke.
 Item.ТекстЗапроса.Title=Query text
 Item.ФормаВыполнить.Title=Execute
 Item.ФормаДобавитьВРезультатВыгрузки.Title=Select result

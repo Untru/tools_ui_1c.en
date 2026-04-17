@@ -1,22 +1,22 @@
 #Translations for: interface
 
-Attribute.ВариантИспользованияКонсолиЗапросов.Title=Вариант использования консоли запросов
-Attribute.ИдентификаторКонсолиЗапросов.Title=Идентификатор консоли запросов
+Attribute.ВариантИспользованияКонсолиЗапросов.Title=Query console usage option
+Attribute.ИдентификаторКонсолиЗапросов.Title=Query console ID
 Command.ПодтвердитьВыбор.Title=OK
-Command.ПодтвердитьВыбор.ToolTip=Подтвердить выбор
+Command.ПодтвердитьВыбор.ToolTip=Confirm Select
 Item.АвторегистрацияДвижений.Title=Register records with documents
 Item.АвторегистрацияПоследовательностей.Title=Sequences with documents
 Item.Группа1.Title=Auto register
 Item.Группа2.Title=Query console
-Item.Группа7.Title=Установка номера сообщения при регистрации
+Item.Группа7.Title=Setting Exchange Setting On Registration
 Item.ГруппаБСП.Title=Standard Subsystems Library
-Item.ГруппаБСП.ToolTip=Группа БСП
+Item.ГруппаБСП.ToolTip=Group BSP
 Item.НастройкаКонтрольВыгрузкиОбъектов.Title=Use data migration restrictions when registering object changes
-Item.НомераСообщенийРегистрации.ChoiceList.0.Presentation=Регистрировать как не отправленные
-Item.НомераСообщенийРегистрации.ChoiceList.1.Presentation=Использовать номер сообщения узла обмена
-Item.ОбработкаЗапросаВнешняя.ChoiceList.0.Presentation=В каталоге сервера\:
-Item.ОбработкаЗапросаВнешняя.ChoiceList.1.Presentation=В составе конфигурации
-Item.ОбработкаЗапросаВнешняя.ChoiceList.2.Presentation=Не использовать
+Item.НомераСообщенийРегистрации.ChoiceList.0.Presentation=Registrirovat As Dont otpravlennye
+Item.НомераСообщенийРегистрации.ChoiceList.1.Presentation=Use Number Setting Node Encoding
+Item.ОбработкаЗапросаВнешняя.ChoiceList.0.Presentation=In kataloge Call\:
+Item.ОбработкаЗапросаВнешняя.ChoiceList.1.Presentation=In sostave L
+Item.ОбработкаЗапросаВнешняя.ChoiceList.2.Presentation=Dont Use
 Item.ОбработкаЗапросаВнешняя.Title=Auxiliary data processor to process query results
 Item.ФормаОК.Title=Write
-Title=Настройки
+Title=Settings

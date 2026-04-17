@@ -1,7 +1,7 @@
 #Translations for: interface
 
-Explanation=позволяет низкоуровневое редактирование ссылочных объектов. Поддерживает редактирование движений документа.
-ExtendedPresentation=Редактор реквизитов объекта базы данных
+Explanation=pozvolyaet nizkourovnevoe Edit Types Writing. Supports Edit Additional Form.
+ExtendedPresentation=D Attributes Form Base Schema
 Form.ФормаОбъекта.Synonym=Object form
 Form.ФормаРедакторДвижений.Synonym=Records editor form
 Form.ФормаРедакторДвиженийДоп.Synonym=Records editor additional form

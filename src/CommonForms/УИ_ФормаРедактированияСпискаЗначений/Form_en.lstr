@@ -1,5 +1,5 @@
 #Translations for: interface
 
-Attribute.ВозвращатьТолькоВыбранныеЗначения.Title=Возвращать только выбранные значения
-Attribute.СписокЗначений.Title=Список значений
-Command.Применить.Title=Применить
+Attribute.ВозвращатьТолькоВыбранныеЗначения.Title=Return only selected values
+Attribute.СписокЗначений.Title=Value list
+Command.Применить.Title=Get selection

@@ -1,5 +1,5 @@
 #Translations for: model
 
-Form.Форма.Name=Форма
-Form.ФормаПодробнойИнформацииОЗапросе.Name=ФормаПодробнойИнформацииОЗапросе
+Form.Форма.Name=Form
+Form.ФормаПодробнойИнформацииОЗапросе.Name=FormPodrobnoyInformationDZaprose
 Name=UT_HTTPRequestConsole

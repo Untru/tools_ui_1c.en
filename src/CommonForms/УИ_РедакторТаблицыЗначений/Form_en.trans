@@ -1,14 +1,14 @@
 #Translations for: model
 
-Attribute.ВозвратХранилищаДляКонтейнераЗначения.Name=ВозвратХранилищаДляКонтейнераЗначения
-Attribute.ИмяРеквизитаХранилища.Name=ИмяРеквизитаХранилища
-Attribute.КолонкиТаблицы.Name=КолонкиТаблицы
-Attribute.КолонкиТаблицы.Имя.Name=Имя
-Attribute.КолонкиТаблицы.ИмяДляПоиска.Name=ИмяДляПоиска
-Attribute.КолонкиТаблицы.Квалификаторы.Name=Квалификаторы
-Attribute.КолонкиТаблицы.ТипЗначения.Name=ТипЗначения
-Attribute.ПрефиксОкончаниеКолонокКонтейнера.Name=ПрефиксОкончаниеКолонокКонтейнера
-Attribute.СериализоватьВXML.Name=СериализоватьВXML
-Attribute.ЭтоДерево.Name=ЭтоДерево
-Command.Применить.Name=Применить
-Item.ГруппаКолонкиТаблицы.Name=ГруппаКолонкиТаблицы
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Name=VozvratStorageToSuffixForm
+Attribute.ИмяРеквизитаХранилища.Name=NameAttributeStorage
+Attribute.КолонкиТаблицы.Name=NameTable
+Attribute.КолонкиТаблицы.Имя.Name=Name
+Attribute.КолонкиТаблицы.ИмяДляПоиска.Name=NameToRules
+Attribute.КолонкиТаблицы.Квалификаторы.Name=Qualifiers
+Attribute.КолонкиТаблицы.ТипЗначения.Name=TypeForm
+Attribute.ПрефиксОкончаниеКолонокКонтейнера.Name=PrefixNewDocumentSuffix
+Attribute.СериализоватьВXML.Name=SerializovatInXML
+Attribute.ЭтоДерево.Name=IsTree
+Command.Применить.Name=Get selection
+Item.ГруппаКолонкиТаблицы.Name=GroupNameTable

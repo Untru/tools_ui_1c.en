@@ -1,6 +1,6 @@
 #Translations for: model
 
 Method.УИ_ПриНачалеРаботыСистемы.Description=@skip-warning
-Method.УИ_ПриНачалеРаботыСистемы.Name=УИ_ПриНачалеРаботыСистемы
-Var.УИ_ПараметрыПриложения.Description=Хранилище глобальных переменных.\nПараметрыПриложения - Соответствие - хранилище переменных, где\:\n* Ключ - Строка - имя переменной в формате "ИмяБиблиотеки.ИмяПеременной";\n* Значение - Произвольный - значение переменной.\nИнициализация (на примере СообщенияДляЖурналаРегистрации)\:\nИмяПараметра \= "СтандартныеПодсистемы.СообщенияДляЖурналаРегистрации";\nЕсли ПараметрыПриложения[ИмяПараметра] \= Неопределено Тогда\nПараметрыПриложения.Вставить(ИмяПараметра, Новый СписокЗначений);\nКонецЕсли;\nИспользование (на примере СообщенияДляЖурналаРегистрации)\:\nПараметрыПриложения["СтандартныеПодсистемы.СообщенияДляЖурналаРегистрации"].Добавить(...);\nПараметрыПриложения["СтандартныеПодсистемы.СообщенияДляЖурналаРегистрации"] \= ...;
-Var.УИ_ПараметрыПриложения.Name=УИ_ПараметрыПриложения
+Method.УИ_ПриНачалеРаботыСистемы.Name=UTOnStartOptionSistemy
+Var.УИ_ПараметрыПриложения.Description=Storage globalnykh Variables.\nParametryPrilozheniya - Type - Storage Variables, gde\:\n* Key - String - Name peremennoy In Format "ImyaBiblioteki.ImyaPeremennoy";\n* Value - Arbitrary - Value peremennoy.\nInitsializatsiya (To primere SoobshcheniyaDlyaZhurnalaRegistratsii)\:\nImyaParametra \= "StandartnyePodsistemy.SoobshcheniyaDlyaZhurnalaRegistratsii";\nEsli ParametryPrilozheniya[ParameterName] \= Neopredeleno Togda\nParametryPrilozheniya.Insert(ParameterName, New SpisokZnacheniy);\nKonetsEsli;\nIspolzovanie (To primere SoobshcheniyaDlyaZhurnalaRegistratsii)\:\nParametryPrilozheniya["StandartnyePodsistemy.SoobshcheniyaDlyaZhurnalaRegistratsii"].Add(...);\nParametryPrilozheniya["StandartnyePodsistemy.SoobshcheniyaDlyaZhurnalaRegistratsii"] \= ...;
+Var.УИ_ПараметрыПриложения.Name=UTParametersApplication

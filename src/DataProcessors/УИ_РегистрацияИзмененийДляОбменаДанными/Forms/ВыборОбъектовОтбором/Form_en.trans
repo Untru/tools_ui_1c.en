@@ -1,10 +1,10 @@
 #Translations for: model
 
-Attribute.КлючФормыДанных.Name=КлючФормыДанных
-Attribute.Объект.Name=Объект
-Attribute.СписокДанных.Name=СписокДанных
-Attribute.СписокДанных.QueryText.Expr.Ссылка.Alias=Ссылка
-Attribute.СтруктураДанных.Name=СтруктураДанных
+Attribute.КлючФормыДанных.Name=KeyFormSchema
+Attribute.Объект.Name=Object
+Attribute.СписокДанных.Name=TasksSchema
+Attribute.СписокДанных.QueryText.Expr.Ссылка.Alias=Ref
+Attribute.СтруктураДанных.Name=StructureSchema
 Command.ВыбратьОтобранныеЗначения.Name=SelectFilteredValues
 Command.ВыбратьТекущуюСтроку.Name=SelectCurrentRow
 Command.ОткрытьТекущийОбъект.Name=OpenCurrentObject
@@ -12,7 +12,7 @@ Item.Группа1.Name=Group1
 Item.Отбор.Name=Filter
 Item.ОтборГруппа1.Name=FilterGroup1
 Item.ОтборГруппа2.Name=FilterGroup2
-Item.СписокДанныхКонтекстноеМенюГруппа1.Name=СписокДанныхКонтекстноеМенюГруппа1
-Item.СписокДанныхКонтекстноеМенюГруппа2.Name=СписокДанныхКонтекстноеМенюГруппа2
-Parameter.ДействиеВыбора.Name=ДействиеВыбора
-Parameter.ИмяТаблицы.Name=ИмяТаблицы
+Item.СписокДанныхКонтекстноеМенюГруппа1.Name=TasksSchemaKontekstnoeMenyuGroup1
+Item.СписокДанныхКонтекстноеМенюГруппа2.Name=TasksSchemaKontekstnoeMenyuGroup2
+Parameter.ДействиеВыбора.Name=ActionScale
+Parameter.ИмяТаблицы.Name=NameTable

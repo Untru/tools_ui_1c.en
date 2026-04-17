@@ -1,7 +1,7 @@
 #Translations for: interface
 
 Explanation=Scheduled and background jobs viewing and configuring
-ExtendedPresentation=Консоль заданий
+ExtendedPresentation=Console Console
 Form.ДиалогНастроекСписка.Synonym=List settings dialog
 Form.ДиалогОтбораРегламентногоЗадания.Synonym=Scheduled job filter dialog
 Form.ДиалогОтбораФоновогоЗадания.Synonym=Background job filter dialog

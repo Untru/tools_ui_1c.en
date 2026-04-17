@@ -1,24 +1,24 @@
 #Translations for: interface
 
 Command.АктивироватьЛицензию.Title=Activate license
-Command.АктивироватьЛицензию.ToolTip=Активировать лицензию
+Command.АктивироватьЛицензию.ToolTip=Activate license
 Command.ПовторнаяАктивацияЛицензии.Title=License reactivation
-Command.ПовторнаяАктивацияЛицензии.ToolTip=Повторная активация лицензии
+Command.ПовторнаяАктивацияЛицензии.ToolTip=License reactivation
 Command.ПолучитьПолнуюИнформациюОЛицензии.Title=Get license full information
-Command.ПолучитьПолнуюИнформациюОЛицензии.ToolTip=Получить полную информацию о лицензии
+Command.ПолучитьПолнуюИнформациюОЛицензии.ToolTip=Get polnuyu Information D Activation
 Command.ПолучитьСписокЛицензий.Title=Get licenses list
-Command.ПолучитьСписокЛицензий.ToolTip=Получить список лицензий
+Command.ПолучитьСписокЛицензий.ToolTip=Get licenses list
 Command.ПроверкаВалидностиЛицензий.Title=License validation check
-Command.ПроверкаВалидностиЛицензий.ToolTip=Проверка валидности лицензий
+Command.ПроверкаВалидностиЛицензий.ToolTip=License validation check
 Command.УдалитьЛицензию.Title=Delete license
-Command.УдалитьЛицензию.ToolTip=Удалить лицензию
+Command.УдалитьЛицензию.ToolTip=Delete license
 Item.ГруппаДанныеАктивации.Title=Activation data
-Item.ГруппаДанныеАктивации.ToolTip=Группа данные активации
+Item.ГруппаДанныеАктивации.ToolTip=Group Data License
 Item.ГруппаДругое.Title=Other
-Item.ГруппаДругое.ToolTip=Группа другое
+Item.ГруппаДругое.ToolTip=Group Other
 Item.ГруппаИнфо.Title=Information
-Item.ГруппаИнфо.ToolTip=Группа инфо
+Item.ГруппаИнфо.ToolTip=Group Info
 Item.ГруппаПодробно.Title=Group details
-Item.ГруппаПодробно.ToolTip=Группа подробно
+Item.ГруппаПодробно.ToolTip=Group details
 Item.ГруппаСтраницыИнформация.Title=Group pages information
-Item.ГруппаСтраницыИнформация.ToolTip=Группа страницы информация
+Item.ГруппаСтраницыИнформация.ToolTip=Group pages information

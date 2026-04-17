@@ -1,10 +1,10 @@
 #Translations for: interface
 
-Attribute.Документ.Title=Документ
-Attribute.Инициализированна.Title=Инициализированна
+Attribute.Документ.Title=Document
+Attribute.Инициализированна.Title=Initialized
 Item.ГруппаДерево.Title=Tree group
-Item.ГруппаДерево.ToolTip=Группа дерево
+Item.ГруппаДерево.ToolTip=Tree group
 Item.ГруппаДокумент.Title=Document
-Item.ГруппаДокумент.ToolTip=Группа документ
+Item.ГруппаДокумент.ToolTip=Group Document
 Item.КоманднаяПанельДокумента.Title=Document command bar
-Item.КоманднаяПанельДокумента.ToolTip=Командная панель документа
+Item.КоманднаяПанельДокумента.ToolTip=Document command bar

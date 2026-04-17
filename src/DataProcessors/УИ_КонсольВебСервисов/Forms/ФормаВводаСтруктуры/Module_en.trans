@@ -1,5 +1,5 @@
 #Translations for: model
 
-Method.ЗавершитьРедактирование.Var.Строка.Name=Строка
-Method.ПриСозданииНаСервере.Var.НоваяСтрока.Name=НоваяСтрока
-Method.ПриСозданииНаСервере.Var.Строка.Name=Строка
+Method.ЗавершитьРедактирование.Var.Строка.Name=String
+Method.ПриСозданииНаСервере.Var.НоваяСтрока.Name=NewString
+Method.ПриСозданииНаСервере.Var.Строка.Name=String

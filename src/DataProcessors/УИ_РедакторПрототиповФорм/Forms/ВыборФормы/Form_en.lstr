@@ -1,17 +1,17 @@
 #Translations for: interface
 
-Attribute.ИсточникФорм.Title=Источник форм
-Attribute.ОткрытыеФормы.Title=Открытые формы
-Attribute.ОткрытыеФормы.Заголовок.Title=Заголовок
-Attribute.ОткрытыеФормы.ИдентификаторФормы.Title=Идентификатор формы
-Attribute.ФормыКонфигурации.Title=Формы конфигурации
-Attribute.ФормыКонфигурации.Имя.Title=Имя
-Attribute.ФормыКонфигурации.Представление.Title=Представление
-Attribute.ФормыКонфигурации.Путь.Title=Путь
-Attribute.ФормыКонфигурации.ЭтоФорма.Title=Это форма
-Command.Отменить.Title=Отменить
-Command.Применить.Title=Применить
-Item.ГруппаКоманды.Title=Группа команды
-Item.ИсточникиФорм.Title=Источники форм
-Item.ФормыИзКонфигуратора.Title=Из конфигурации
-Item.ФормыИзПредприятия.Title=Открытые
+Attribute.ИсточникФорм.Title=Data Form
+Attribute.ОткрытыеФормы.Title=Otkrytye Form
+Attribute.ОткрытыеФормы.Заголовок.Title=Title
+Attribute.ОткрытыеФормы.ИдентификаторФормы.Title=UUID Form
+Attribute.ФормыКонфигурации.Title=Form L
+Attribute.ФормыКонфигурации.Имя.Title=Name
+Attribute.ФормыКонфигурации.Представление.Title=Presentation
+Attribute.ФормыКонфигурации.Путь.Title=Path
+Attribute.ФормыКонфигурации.ЭтоФорма.Title=Is Form
+Command.Отменить.Title=Cancel
+Command.Применить.Title=Get selection
+Item.ГруппаКоманды.Title=Commands group
+Item.ИсточникиФорм.Title=D Form
+Item.ФормыИзКонфигуратора.Title=From L
+Item.ФормыИзПредприятия.Title=Otkrytye

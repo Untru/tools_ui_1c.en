@@ -1,6 +1,6 @@
 #Translations for: interface
 
 Command.ДанныеДляОтладки.Synonym=Debug data
-ExtendedPresentation=Данные для отладки
+ExtendedPresentation=Debug data
 Form.Форма.Synonym=Form
 Synonym={} Debug data (UT)

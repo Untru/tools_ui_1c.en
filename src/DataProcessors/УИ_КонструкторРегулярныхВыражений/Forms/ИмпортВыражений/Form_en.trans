@@ -1,16 +1,16 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.СтрокаДляСравнения.Name=СтрокаДляСравнения
-Attribute.ТаблицаПараметров.Name=ТаблицаПараметров
-Attribute.ТаблицаПараметров.Действие.Name=Действие
-Attribute.ТаблицаПараметров.Замещать.Name=Замещать
-Attribute.ТаблицаПараметров.Извлечь.Name=Извлечь
-Attribute.ТаблицаПараметров.Наименование.Name=Наименование
-Attribute.ТаблицаПараметров.НовоеЗначениеПараметра.Name=НовоеЗначениеПараметра
-Attribute.ТаблицаПараметров.НовыйПараметр.Name=НовыйПараметр
-Attribute.ТаблицаПараметров.ПрежнееЗначениеПараметра.Name=ПрежнееЗначениеПараметра
-Command.Отменить.Name=Отменить
-Command.Сохранить.Name=Сохранить
-Item.ТаблицаПараметровГруппа1.Name=ТаблицаПараметровГруппа1
-Parameter.СписокПараметров.Name=СписокПараметров
+Attribute.Объект.Name=Object
+Attribute.СтрокаДляСравнения.Name=StringToType
+Attribute.ТаблицаПараметров.Name=TableTable
+Attribute.ТаблицаПараметров.Действие.Name=Action
+Attribute.ТаблицаПараметров.Замещать.Name=Replace
+Attribute.ТаблицаПараметров.Извлечь.Name=Extract
+Attribute.ТаблицаПараметров.Наименование.Name=Description
+Attribute.ТаблицаПараметров.НовоеЗначениеПараметра.Name=NewValueValue
+Attribute.ТаблицаПараметров.НовыйПараметр.Name=NewParameter
+Attribute.ТаблицаПараметров.ПрежнееЗначениеПараметра.Name=PrezhneeValueValue
+Command.Отменить.Name=Cancel
+Command.Сохранить.Name=Save
+Item.ТаблицаПараметровГруппа1.Name=TableTableGroup1
+Parameter.СписокПараметров.Name=TasksTable

@@ -1,18 +1,18 @@
 #Translations for: model
 
-Description=Copyright (c) 2019, ООО 1С-Софт\nВсе права защищены. Эта программа и сопроводительные материалы предоставляются\nв соответствии с условиями лицензии Attribution 4.0 International (CC BY 4.0)\nТекст лицензии доступен по ссылке\:\nhttps\://creativecommons.org/licenses/by/4.0/legalcode\n
+Description=Copyright (c) 2019, OOO 1S-Soft\nVse Tools zashchishcheny. Eta programma T soprovoditelnye materialy predostavlyayutsya\nv sootvetstvii C usloviyami Activation Attribution 4.0 International (CC BY 4.0)\nTekst Activation Available By Ref\:\nhttps\://creativecommons.org/Licenses/by/4.0/legalcode\n
 Method.ИнициализироватьСписокОбластейПоискаДублей.Name=InitializeSearchForDuplicatesAreasList
-Method.ИнициализироватьСписокОбластейПоискаДублей.Var.СтрокаТаблицы.Name=СтрокаТаблицы
-Method.ИнициализироватьСписокОбластейПоискаДублей.Var.ТаблицаНастроек.Name=ТаблицаНастроек
-Method.ИнициализироватьСписокОбластейПоискаДублей.Var.Элемент.Name=Элемент
+Method.ИнициализироватьСписокОбластейПоискаДублей.Var.СтрокаТаблицы.Name=StringTable
+Method.ИнициализироватьСписокОбластейПоискаДублей.Var.ТаблицаНастроек.Name=TableManager
+Method.ИнициализироватьСписокОбластейПоискаДублей.Var.Элемент.Name=Item
 Method.ПриСозданииНаСервере.String.АдресНастроек.Key=АдресНастроек
 Method.ПриСозданииНаСервере.String.ОбластьПоискаДублей.Key=ОбластьПоискаДублей
-Method.ПроизвестиВыбор.Comment.Не\ было\ изменений.Description=Не было изменений
+Method.ПроизвестиВыбор.Comment.Не\ было\ изменений.Description=Dont bylo Changes
 Method.ПроизвестиВыбор.Name=MakeChoice
-Method.ПроизвестиВыбор.Param.ИдентификаторСтроки.Name=ИдентификаторСтроки
-Method.ПроизвестиВыбор.Var.Элемент.Name=Элемент
-Region.ОбработчикиСобытийФормы.Description=Ожидаются параметры\:\nОбластьПоискаДублей - Строка - Полное имя метаданных таблицы ранее выбранной области поиска.\nВозвращается результатом выбора\:\nНеопределено - Отказ от редактирования.\nСтрока       - Адрес временного хранилища новых настроек компоновщика.
-Region.ОбработчикиСобытийФормы.Name=ОбработчикиСобытийФормы
-Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.Name=ОбработчикиСобытийЭлементовШапкиФормы
-Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.Name=ОбработчикиКомандФормы
-Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=СлужебныеПроцедурыИФункции
+Method.ПроизвестиВыбор.Param.ИдентификаторСтроки.Name=UUIDTrailing
+Method.ПроизвестиВыбор.Var.Элемент.Name=Item
+Region.ОбработчикиСобытийФормы.Description=Ozhidayutsya Parameters\:\nOblastPoiskaDubley - String - Panel Name Path Table Aded vybrannoy Title Rules.\nVozvrashchaetsya Control Scale\:\nNeopredeleno - Otkaz From Link.\nStroka       - Destination Log Storage New Manager Settings.
+Region.ОбработчикиСобытийФормы.Name=ReadEventForm
+Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.Name=ReadEventItemsShapkiForm
+Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.Name=ReadCommandsForm
+Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=SluzhebnyeProceduresTFunctions

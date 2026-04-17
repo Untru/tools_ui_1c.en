@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
+Attribute.Объект.Name=Object
 Command.АктивироватьЛицензию.Name=ActivateLicense
 Command.ПовторнаяАктивацияЛицензии.Name=LicenseReactivation
 Command.ПолучитьПолнуюИнформациюОЛицензии.Name=GetLicenseFullInformation

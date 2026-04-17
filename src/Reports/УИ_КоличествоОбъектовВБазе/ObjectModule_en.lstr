@@ -1,5 +1,5 @@
 #Translations for: interface
 
-Method.ГлобальныеНастройки.NStr.Наименование,\ поле\ или\ автор\ отчета.Lines=Наименование, поле или автор отчета
-Method.ДанныеЭлементаРасшифровки.NStr.Еще\.\.\..Lines=Еще...
-Method.ДанныеЭлементаРасшифровки.NStr.Снять\ фильтр.Lines=Снять фильтр
+Method.ГлобальныеНастройки.NStr.Наименование,\ поле\ или\ автор\ отчета.Lines=Description, Field Or avtor Builder
+Method.ДанныеЭлементаРасшифровки.NStr.Еще\.\.\..Lines=Eshche...
+Method.ДанныеЭлементаРасшифровки.NStr.Снять\ фильтр.Lines=Clear Pages

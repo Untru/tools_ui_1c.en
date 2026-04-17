@@ -1,17 +1,17 @@
 #Translations for: model
 
-Attribute.КонтекстВарианта.Name=КонтекстВарианта
-Attribute.НастройкиОтчета.Name=НастройкиОтчета
-Attribute.Отчет.Name=Отчет
-Attribute.ОтчетДанныеРасшифровки.Name=ОтчетДанныеРасшифровки
-Attribute.ОтчетТабличныйДокумент.Name=ОтчетТабличныйДокумент
-Item.КомпоновщикНастроекПользовательскиеНастройки.Name=КомпоновщикНастроекПользовательскиеНастройки
-Item.ОтчетТабличныйДокумент.Event.DetailProcessing.Name=РезультатОбработкаРасшифровки
-Parameter.КлючВарианта.Name=КлючВарианта
-Parameter.КонтекстВарианта.Name=КонтекстВарианта
-Parameter.Неконтекстный.Name=Неконтекстный
-Parameter.Отчет.Name=Отчет
-Parameter.ПредставлениеВарианта.Name=ПредставлениеВарианта
-Parameter.Расшифровка.Name=Расшифровка
-Parameter.Ссылка.Name=Ссылка
-Parameter.СформироватьПриОткрытии.Name=СформироватьПриОткрытии
+Attribute.КонтекстВарианта.Name=ContextForm
+Attribute.НастройкиОтчета.Name=SettingsBuilder
+Attribute.Отчет.Name=Report
+Attribute.ОтчетДанныеРасшифровки.Name=ReportDataForm
+Attribute.ОтчетТабличныйДокумент.Name=ReportSpreadsheetDocument
+Item.КомпоновщикНастроекПользовательскиеНастройки.Name=SettingsComposerUserSettings
+Item.ОтчетТабличныйДокумент.Event.DetailProcessing.Name=ResultModeForm
+Parameter.КлючВарианта.Name=KeyForm
+Parameter.КонтекстВарианта.Name=ContextForm
+Parameter.Неконтекстный.Name=Nekontekstnyy
+Parameter.Отчет.Name=Report
+Parameter.ПредставлениеВарианта.Name=PresentationForm
+Parameter.Расшифровка.Name=Rasshifrovka
+Parameter.Ссылка.Name=Ref
+Parameter.СформироватьПриОткрытии.Name=GenerateOnData

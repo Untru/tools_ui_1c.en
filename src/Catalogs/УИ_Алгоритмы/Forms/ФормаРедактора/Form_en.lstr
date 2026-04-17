@@ -1,6 +1,6 @@
 #Translations for: interface
 
-Attribute.КомпановщикНастроек.Title=Компановщик настроек
-Attribute.ТабличныйДокумент.Title=Табличный документ
-Attribute.ТекстHTML.Title=Текст HTML
+Attribute.КомпановщикНастроек.Title=Settings composer
+Attribute.ТабличныйДокумент.Title=Spreadsheet document
+Attribute.ТекстHTML.Title=HTML Text
 Item.ТекстHTML.Title=HTML Text

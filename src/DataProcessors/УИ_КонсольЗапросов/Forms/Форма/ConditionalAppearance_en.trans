@@ -1,7 +1,7 @@
 #Translations for: model
 
-Items.0.Filter.Items.0.Left.Value=ПакетЗапросов.РазницаМеждуКоличествомВозвращенныхСтрокИКоличествомСтрокРезультата
-Items.0.Selection.Items.0.Field.Value=ПакетЗапросовКол
-Items.1.Filter.Items.0.Left.Value=ПакетРезультатаЗапроса.ТекущийОтображаемый
-Items.1.Selection.Items.0.Field.Value=ПакетРезультатаЗапросаИмя
-Items.1.Selection.Items.1.Field.Value=ПакетРезультатаЗапросаИнфо
+Items.0.Filter.Items.0.Left.Value=PaketZaprosov.RaznitsaMezhduKolichestvomVozvrashchennykhStrokIKolichestvomStrokRezultata
+Items.0.Selection.Items.0.Field.Value=QueryBatchCount
+Items.1.Filter.Items.0.Left.Value=PaketRezultataZaprosa.TekushchiyOtobrazhaemyy
+Items.1.Selection.Items.0.Field.Value=PaketRezultataZaprosaImya
+Items.1.Selection.Items.1.Field.Value=PaketRezultataZaprosaInfo

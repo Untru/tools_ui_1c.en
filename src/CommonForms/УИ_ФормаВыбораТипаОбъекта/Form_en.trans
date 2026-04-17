@@ -1,12 +1,12 @@
 #Translations for: model
 
-Attribute._ПереченьРазделов.Name=_ПереченьРазделов
-Attribute._ПоказыватьПеречисления.Name=_ПоказыватьПеречисления
-Attribute._ПоказыватьПростыеТипы.Name=_ПоказыватьПростыеТипы
-Attribute._ТипыДляКонсолиЗапросов.Name=_ТипыДляКонсолиЗапросов
-Attribute.ДеревоОбъектов.Name=ДеревоОбъектов
-Attribute.ДеревоОбъектов.Имя.Name=Имя
-Attribute.ДеревоОбъектов.Картинка.Name=Картинка
-Attribute.ДеревоОбъектов.ПолноеИмя.Name=ПолноеИмя
-Attribute.ДеревоОбъектов.Синоним.Name=Синоним
-Command.ВыбратьОбъект.Name=ВыбратьОбъект
+Attribute._ПереченьРазделов.Name=SpecialRazdelov
+Attribute._ПоказыватьПеречисления.Name=ShowName
+Attribute._ПоказыватьПростыеТипы.Name=ShowProstyeKey
+Attribute._ТипыДляКонсолиЗапросов.Name=KeyToConsoleExtension
+Attribute.ДеревоОбъектов.Name=TreeWriting
+Attribute.ДеревоОбъектов.Имя.Name=Name
+Attribute.ДеревоОбъектов.Картинка.Name=Picture
+Attribute.ДеревоОбъектов.ПолноеИмя.Name=PanelName
+Attribute.ДеревоОбъектов.Синоним.Name=Sinonim
+Command.ВыбратьОбъект.Name=SelectObject

@@ -1,11 +1,11 @@
 #Translations for: model
 
-Attribute.КомпоновщикНастроек.Name=КомпоновщикНастроек
-Command.ПрименитьНастройки.Name=ПрименитьНастройки
-Item.КомпоновщикНастроекПользовательскиеНастройки.Name=КомпоновщикНастроекПользовательскиеНастройки
-Item.НастройкиОтбор.Name=НастройкиОтбор
-Item.ОбычныеНастройки.Name=ОбычныеНастройки
-Item.ПользовательскиеНастройки.Name=ПользовательскиеНастройки
-Item.Страницы.Name=Страницы
-Item.ФиксированныеНастройки.Name=ФиксированныеНастройки
-Item.ФиксированныеНастройкиОтбор.Name=ФиксированныеНастройкиОтбор
+Attribute.КомпоновщикНастроек.Name=SettingsManager
+Command.ПрименитьНастройки.Name=Get selectionSettings
+Item.КомпоновщикНастроекПользовательскиеНастройки.Name=SettingsComposerUserSettings
+Item.НастройкиОтбор.Name=SettingsFilter
+Item.ОбычныеНастройки.Name=Standart settingsSettings
+Item.ПользовательскиеНастройки.Name=Group3Settings
+Item.Страницы.Name=Pages
+Item.ФиксированныеНастройки.Name=Fixed settingsSettings
+Item.ФиксированныеНастройкиОтбор.Name=Fixed settingsSettingsFilter

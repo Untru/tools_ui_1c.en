@@ -1,17 +1,17 @@
 #Translations for: interface
 
-Attribute.КаталогДаныхОтладкиНаСервере.Title=Каталог даных отладки на сервере
-Attribute.КлючОбъектаНастроек.Title=Ключ объекта настроек
-Attribute.ТаблицаСохраненныхНастроек.Title=Таблица сохраненных настроек
-Attribute.ТаблицаСохраненныхНастроек.Автор.Title=Автор
-Attribute.ТаблицаСохраненныхНастроек.АдресВХранилищеДанныхОтладки.Title=Адрес в хранилище данных отладки
-Attribute.ТаблицаСохраненныхНастроек.ДатаСоздания.Title=Дата создания
-Attribute.ТаблицаСохраненныхНастроек.ИмяОбъектаОтладки.Title=Имя объекта отладки
-Attribute.ТаблицаСохраненныхНастроек.Картинка.Title=Картинка
-Attribute.ТаблицаСохраненныхНастроек.Пользователь.Title=Пользователь
-Attribute.ТаблицаСохраненныхНастроек.ТипОбъектаОтладки.Title=Тип объекта отладки
-Attribute.ТаблицаСохраненныхНастроек.ЭтоФайл.Title=Это файл
+Attribute.КаталогДаныхОтладкиНаСервере.Title=Data directory debugging at server
+Attribute.КлючОбъектаНастроек.Title=Settings object key
+Attribute.ТаблицаСохраненныхНастроек.Title=Saved settings table
+Attribute.ТаблицаСохраненныхНастроек.Автор.Title=Avtor
+Attribute.ТаблицаСохраненныхНастроек.АдресВХранилищеДанныхОтладки.Title=Destination In Storage Schema Managed
+Attribute.ТаблицаСохраненныхНастроек.ДатаСоздания.Title=Creation date
+Attribute.ТаблицаСохраненныхНастроек.ИмяОбъектаОтладки.Title=Name Form Managed
+Attribute.ТаблицаСохраненныхНастроек.Картинка.Title=Picture
+Attribute.ТаблицаСохраненныхНастроек.Пользователь.Title=Username
+Attribute.ТаблицаСохраненныхНастроек.ТипОбъектаОтладки.Title=Type Form Managed
+Attribute.ТаблицаСохраненныхНастроек.ЭтоФайл.Title=Is File
 Command.ВыполнитьОтладку.Title=Refresh table
 Command.ОбновитьТаблицу.Title=Delete
-Command.Удалить.Title=Удалить
-Item.ТаблицаСохраненныхНастроекИмяОбъектаОтладки.Title=Наименование
+Command.Удалить.Title=Delete
+Item.ТаблицаСохраненныхНастроекИмяОбъектаОтладки.Title=Description

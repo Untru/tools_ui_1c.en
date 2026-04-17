@@ -1,16 +1,16 @@
 #Translations for: model
 
-Attribute.АдресДвоичныхДанныхКартинки.Name=АдресДвоичныхДанныхКартинки
-Attribute.Вид.Name=Вид
-Attribute.ВозвратХранилищаДляКонтейнераЗначения.Name=ВозвратХранилищаДляКонтейнераЗначения
-Attribute.Размер.Name=Размер
-Command.ЗагрузитьИзФайла.Name=ЗагрузитьИзФайла
-Command.Очистить.Name=Очистить
-Command.Применить.Name=Применить
-Command.СохранитьВФайл.Name=СохранитьВФайл
-Item.ГруппаКнопкиДляКартинки.Name=ГруппаКнопкиДляКартинки
-Item.ГруппаКнопкиЛево.Name=ГруппаКнопкиЛево
-Item.ГруппаКнопкиПраво.Name=ГруппаКнопкиПраво
-Item.ГруппаШапка.Name=ГруппаШапка
-Item.ГруппаШапкаЛево.Name=ГруппаШапкаЛево
-Item.ГруппаШапкаПраво.Name=ГруппаШапкаПраво
+Attribute.АдресДвоичныхДанныхКартинки.Name=DestinationModuleSchemaPictures
+Attribute.Вид.Name=Type
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Name=VozvratStorageToSuffixForm
+Attribute.Размер.Name=File
+Command.ЗагрузитьИзФайла.Name=ImportFromLog
+Command.Очистить.Name=Clear
+Command.Применить.Name=Get selection
+Command.СохранитьВФайл.Name=SaveInFile
+Item.ГруппаКнопкиДляКартинки.Name=GroupButtonToPictures
+Item.ГруппаКнопкиЛево.Name=GroupButtonGroup
+Item.ГруппаКнопкиПраво.Name=GroupButtonGroup
+Item.ГруппаШапка.Name=HeaderGroup
+Item.ГруппаШапкаЛево.Name=GroupHeaderGroup
+Item.ГруппаШапкаПраво.Name=GroupHeaderGroup

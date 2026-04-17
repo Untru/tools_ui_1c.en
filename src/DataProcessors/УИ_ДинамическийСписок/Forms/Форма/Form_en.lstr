@@ -1,20 +1,20 @@
 #Translations for: interface
 
-Attribute.ДеревоМетаданных.Title=Дерево метаданных
-Attribute.ДеревоМетаданных.ВидОбъекта.Title=Вид объекта
-Attribute.ДеревоМетаданных.Картинка.Title=Картинка
-Attribute.ДеревоМетаданных.Комментарий.Title=Комментарий
-Attribute.ДеревоМетаданных.ПолноеИмя.Title=Полное имя
-Attribute.ДеревоМетаданных.Представление.Title=Представление
-Attribute.ДеревоМетаданных.Реквизиты.Title=Реквизиты
-Attribute.ДеревоМетаданных.Реквизиты.Имя.Title=Имя
-Attribute.ДеревоМетаданных.Реквизиты.Представление.Title=Представление
-Attribute.ДеревоМетаданных.Реквизиты.ТипЗначения.Title=Тип значения
-Attribute.ДеревоМетаданных.ТипОбъектов.Title=Тип объектов
-Attribute.ИдентификаторСтрокиОбъектаМетаданных.Title=Идентификатор строки объекта метаданных
-Attribute.ИмяОбъектаМетаданных.Title=Имя объекта метаданных
-Attribute.РежимВыбора.Title=Режим выбора
-Attribute.СтрокаПоиска.Title=Строка поиска
+Attribute.ДеревоМетаданных.Title=Metadata tree
+Attribute.ДеревоМетаданных.ВидОбъекта.Title=Type Form
+Attribute.ДеревоМетаданных.Картинка.Title=Picture
+Attribute.ДеревоМетаданных.Комментарий.Title=Comment
+Attribute.ДеревоМетаданных.ПолноеИмя.Title=Full name
+Attribute.ДеревоМетаданных.Представление.Title=Presentation
+Attribute.ДеревоМетаданных.Реквизиты.Title=Attributes
+Attribute.ДеревоМетаданных.Реквизиты.Имя.Title=Name
+Attribute.ДеревоМетаданных.Реквизиты.Представление.Title=Presentation
+Attribute.ДеревоМетаданных.Реквизиты.ТипЗначения.Title=Value type
+Attribute.ДеревоМетаданных.ТипОбъектов.Title=Type Writing
+Attribute.ИдентификаторСтрокиОбъектаМетаданных.Title=ID of Metadata object row
+Attribute.ИмяОбъектаМетаданных.Title=Metadata object name
+Attribute.РежимВыбора.Title=Choice mode
+Attribute.СтрокаПоиска.Title=Search string
 Command.РедактироватьОбъект.Title=Edit object
 Command.УдалитьВыделенныеОбъекты.Title=Delete selected objects
 Item.ГруппаБезДинамическогоСписка.Title=Group without dynamic list

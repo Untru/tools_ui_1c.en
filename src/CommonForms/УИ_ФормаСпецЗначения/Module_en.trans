@@ -1,15 +1,15 @@
 #Translations for: model
 
 Method.КомандаОК.String.СтрокаВнутр.Key=СтрокаВнутр
-Method.КомандаОК.Var.Результат.Name=Результат
-Method.КомандаОК.Var.пСтрук.Name=пСтрук
-Method.ПриСозданииНаСервере.Var.Значение.Name=Значение
+Method.КомандаОК.Var.Результат.Name=Result
+Method.КомандаОК.Var.пСтрук.Name=PStruk
+Method.ПриСозданииНаСервере.Var.Значение.Name=Value
 Method.вСформироватьСпецЗначение.Name=GenerateSpecialValue
-Method.вСформироватьСпецЗначение.Param.пЗначение1.Name=пЗначение1
-Method.вСформироватьСпецЗначение.Param.пЗначение2.Name=пЗначение2
-Method.вСформироватьСпецЗначение.Param.пТип.Name=пТип
+Method.вСформироватьСпецЗначение.Param.пЗначение1.Name=PZnachenie1
+Method.вСформироватьСпецЗначение.Param.пЗначение2.Name=PZnachenie2
+Method.вСформироватьСпецЗначение.Param.пТип.Name=PType
 Method.вСформироватьСпецЗначение.String.Word.Неизвестный.Key=Неизвестный
 Method.вСформироватьСпецЗначение.String.Word.данных.Key=данных
 Method.вСформироватьСпецЗначение.String.Исключая.Key=Исключая
-Method.вСформироватьСпецЗначение.Var.пСтрук.Name=пСтрук
+Method.вСформироватьСпецЗначение.Var.пСтрук.Name=PStruk
 Method.вСформироватьСпецЗначение.Var.пСтрук.String.Отказ.Key=Отказ

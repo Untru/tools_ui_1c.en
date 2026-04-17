@@ -1,19 +1,19 @@
 #Translations for: interface
 
-Attribute.ИдентификаторФормы.Title=Идентификатор формы
-Attribute.ИмяФайла.Title=Имя файла
-Attribute.ОчиститьДанныеИнструментаПередЗаполнением.Title=Очистить данные инструмента перед заполнением
-Attribute.ПрочитатьФайлВоВременноеХранилище.Title=Прочитать файл во временное хранилище
-Attribute.Текст.Title=Текст
-Attribute.Формат.Title=Формат
-Attribute.ФорматыИмпорта.Title=Форматы импорта
-Attribute.ФорматыИмпорта.ВариантСодержимого.Title=Вариант содержимого
-Attribute.ФорматыИмпорта.Идентификатор.Title=Идентификатор
-Attribute.ФорматыИмпорта.Представление.Title=Представление
-Attribute.ФорматыИмпорта.ФильтрФайловДляДиалога.Title=Фильтр файлов для диалога
-Command.Загрузить.Title=Загрузить
-Item.ГруппаСтраницаВыборФайла.Title=Группа1
-Item.ГруппаСтраницаНеВыбранФормат.Title=Группа1
-Item.ГруппаСтраницаТекст.Title=Группа1
-Item.ГруппаСтраницы.Title=Группа1
-Item.ДекорацияВыберитеФормат.Title=<fontsize 16><b>Выберите формат</></>
+Attribute.ИдентификаторФормы.Title=UUID Form
+Attribute.ИмяФайла.Title=File name
+Attribute.ОчиститьДанныеИнструментаПередЗаполнением.Title=Clear Data Choosing Before zapolneniem
+Attribute.ПрочитатьФайлВоВременноеХранилище.Title=Read File To Temp Storage
+Attribute.Текст.Title=Text
+Attribute.Формат.Title=Format
+Attribute.ФорматыИмпорта.Title=Formaty File
+Attribute.ФорматыИмпорта.ВариантСодержимого.Title=Settings soderzhimogo
+Attribute.ФорматыИмпорта.Идентификатор.Title=UUID
+Attribute.ФорматыИмпорта.Представление.Title=Presentation
+Attribute.ФорматыИмпорта.ФильтрФайловДляДиалога.Title=Pages Collection To Dialog
+Command.Загрузить.Title=Import
+Item.ГруппаСтраницаВыборФайла.Title=Group1
+Item.ГруппаСтраницаНеВыбранФормат.Title=Group1
+Item.ГруппаСтраницаТекст.Title=Group1
+Item.ГруппаСтраницы.Title=Group1
+Item.ДекорацияВыберитеФормат.Title=<fontsize 16><b>Vyberite Format</></>

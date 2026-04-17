@@ -1,6 +1,6 @@
 #Translations for: model
 
-Comment=https\://github.com/kuzyara/JobsConsole2019.epf (c)Душелов'2009
+Comment=https\://github.com/kuzyara/JobsConsole2019.epf (c)Dushelov'2009
 Form.ДиалогНастроекСписка.Name=ListSettingsDialog
 Form.ДиалогОтбораРегламентногоЗадания.Name=ScheduledJobFilterDialog
 Form.ДиалогОтбораФоновогоЗадания.Name=BackgroundJobFilterDialog

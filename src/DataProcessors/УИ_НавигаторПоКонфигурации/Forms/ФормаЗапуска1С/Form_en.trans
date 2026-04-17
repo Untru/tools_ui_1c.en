@@ -1,12 +1,12 @@
 #Translations for: model
 
-Attribute.БазаДанных.Name=БазаДанных
-Attribute.ДопПараметры.Name=ДопПараметры
-Attribute.Объект.Name=Объект
-Attribute.РежимЗапуска.Name=РежимЗапуска
-Attribute.Сервер.Name=Сервер
-Attribute.Стартер1С.Name=Стартер1С
-Attribute.СтрокаКоманды.Name=СтрокаКоманды
+Attribute.БазаДанных.Name=InfobaseSchema
+Attribute.ДопПараметры.Name=add.Parameters
+Attribute.Объект.Name=Object
+Attribute.РежимЗапуска.Name=ModeData
+Attribute.Сервер.Name=Files on server
+Attribute.Стартер1С.Name=Starter 1C
+Attribute.СтрокаКоманды.Name=StringCommands
 Command.Запустить1С.Name=Run1C
 Command.СформироватьСтрокуКоманды.Name=GenerateCommandLine
 Item.Декорация1.Name=Decoration1

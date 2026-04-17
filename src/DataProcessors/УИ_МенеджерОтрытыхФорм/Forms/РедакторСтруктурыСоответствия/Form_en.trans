@@ -1,9 +1,9 @@
 #Translations for: model
 
-Attribute.РедактируемоеЗначение.Name=РедактируемоеЗначение
-Attribute.РедактируемоеЗначение.Значение.Name=Значение
-Attribute.РедактируемоеЗначение.Ключ.Name=Ключ
-Attribute.РедактируемоеЗначение.ТипКоллекции.Name=ТипКоллекции
-Command.ПрименитьИзменения.Name=ПрименитьИзменения
-Parameter.Заголовок.Name=Заголовок
-Parameter.РедактируемоеЗначение.Name=РедактируемоеЗначение
+Attribute.РедактируемоеЗначение.Name=RedaktiruemoeValue
+Attribute.РедактируемоеЗначение.Значение.Name=Value
+Attribute.РедактируемоеЗначение.Ключ.Name=Key
+Attribute.РедактируемоеЗначение.ТипКоллекции.Name=TypeCollection
+Command.ПрименитьИзменения.Name=Get selectionData
+Parameter.Заголовок.Name=Title
+Parameter.РедактируемоеЗначение.Name=RedaktiruemoeValue

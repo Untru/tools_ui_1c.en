@@ -1,7 +1,7 @@
 #Translations for: model
 
-Attribute.Автообновление.Name=Автообновление
-Attribute.Объект.Name=Объект
-Attribute.ПериодАвтообновления.Name=ПериодАвтообновления
-Attribute.Реквизит1.Name=Реквизит1
+Attribute.Автообновление.Name=Auto update
+Attribute.Объект.Name=Object
+Attribute.ПериодАвтообновления.Name=PeriodAvtoobnovleniya
+Attribute.Реквизит1.Name=Attribute1
 Command.ОК.Name=OK

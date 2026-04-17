@@ -3,7 +3,7 @@
 Attribute.ОбрабатыватьТабличныеЧасти.Synonym=Process tabular parts
 Attribute.РежимПоиска.Synonym=Search mode
 Attribute.ТипОбъекта.Synonym=Object type
-ExtendedPresentation=Групповая обработка справочников и документов
+ExtendedPresentation=Group Mode Catalogs T Documents
 Form.ИзменитьВремяДокументов.Synonym=Change time documents
 Form.ИзменитьСуммуОперации.Synonym=Change amount operation
 Form.ОтменитьПроведениеДокументов.Synonym=Cancel posting documents

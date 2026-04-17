@@ -1,14 +1,14 @@
 #Translations for: interface
 
-Attribute._ПереченьРазделов.Title=Перечень разделов
-Attribute._ПоказыватьПеречисления.Title=Показывать перечисления
-Attribute._ПоказыватьПростыеТипы.Title=Показывать простые типы
-Attribute._ТипыДляКонсолиЗапросов.Title=Типы для консоли запросов
-Attribute.ДеревоОбъектов.Title=Дерево объектов
-Attribute.ДеревоОбъектов.Имя.Title=Имя
-Attribute.ДеревоОбъектов.Картинка.Title=Картинка
-Attribute.ДеревоОбъектов.ПолноеИмя.Title=Полное имя
-Attribute.ДеревоОбъектов.Синоним.Title=Представление
-Command.ВыбратьОбъект.Title=Выбрать объект
-Command.ВыбратьОбъект.ToolTip=Выбрать объект
-Title=Объекты конфигурации
+Attribute._ПереченьРазделов.Title=Group list
+Attribute._ПоказыватьПеречисления.Title=Show enums
+Attribute._ПоказыватьПростыеТипы.Title=Show simple types
+Attribute._ТипыДляКонсолиЗапросов.Title=Key To Console Extension
+Attribute.ДеревоОбъектов.Title=Page tree
+Attribute.ДеревоОбъектов.Имя.Title=Name
+Attribute.ДеревоОбъектов.Картинка.Title=Picture
+Attribute.ДеревоОбъектов.ПолноеИмя.Title=Full name
+Attribute.ДеревоОбъектов.Синоним.Title=Presentation
+Command.ВыбратьОбъект.Title=Select object
+Command.ВыбратьОбъект.ToolTip=Select object
+Title=Configuration objects

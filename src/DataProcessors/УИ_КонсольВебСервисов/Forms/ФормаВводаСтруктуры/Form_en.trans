@@ -1,10 +1,10 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.ТЗ_Структура.Name=ТЗ_Структура
-Attribute.ТЗ_Структура.Значение.Name=Значение
-Attribute.ТЗ_Структура.Ключ.Name=Ключ
+Attribute.Объект.Name=Object
+Attribute.ТЗ_Структура.Name=ConfigRStructure
+Attribute.ТЗ_Структура.Значение.Name=Value
+Attribute.ТЗ_Структура.Ключ.Name=Key
 Command.ЗавершитьРедактирование.Name=FinishEditing
 Item.Структура.Name=ValueTable_Structure
 Item.СтруктураЗавершитьРедактирование.Name=FinishEditing
-Parameter.ПрошлоеЗначение.Name=ПрошлоеЗначение
+Parameter.ПрошлоеЗначение.Name=ProshloeValue

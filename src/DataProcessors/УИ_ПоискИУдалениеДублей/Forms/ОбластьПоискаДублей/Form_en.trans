@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.АдресНастроек.Name=АдресНастроек
-Attribute.ОбластиПоискаДублей.Name=ОбластиПоискаДублей
-Attribute.ОбластьПоУмолчанию.Name=ОбластьПоУмолчанию
-Attribute.Объект.Name=Объект
+Attribute.АдресНастроек.Name=DestinationManager
+Attribute.ОбластиПоискаДублей.Name=TitleRulesArea
+Attribute.ОбластьПоУмолчанию.Name=DuplicatesByDefault
+Attribute.Объект.Name=Object
 Command.Выбрать.Name=Select
 Item.ОбластиПоискаДублейПредставление.Name=DuplicatesSearchAreasPresentation

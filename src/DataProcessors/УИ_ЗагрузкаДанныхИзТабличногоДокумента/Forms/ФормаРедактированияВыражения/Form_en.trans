@@ -1,11 +1,11 @@
 #Translations for: model
 
-Attribute.КолонкиСтроки.Name=КолонкиСтроки
-Attribute.НадписьТекстВыражения.Name=НадписьТекстВыражения
-Attribute.Объект.Name=Объект
-Attribute.ПолеТекстовогоДокумента.Name=ПолеТекстовогоДокумента
-Attribute.ТекстВыражения.Name=ТекстВыражения
-Attribute.ТипРезультата.Name=ТипРезультата
-Command.ОК.Handler.Name=ОК
-Command.ОК.Name=ОК
+Attribute.КолонкиСтроки.Name=NameTrailing
+Attribute.НадписьТекстВыражения.Name=LabelTextForm
+Attribute.Объект.Name=Object
+Attribute.ПолеТекстовогоДокумента.Name=FieldTekstovogoForm
+Attribute.ТекстВыражения.Name=TextForm
+Attribute.ТипРезультата.Name=TypeComposition
+Command.ОК.Handler.Name=Ok
+Command.ОК.Name=Ok
 Item.ГруппаКоманды.Name=CommandGroup

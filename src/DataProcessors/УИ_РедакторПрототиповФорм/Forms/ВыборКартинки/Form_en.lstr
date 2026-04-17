@@ -1,19 +1,19 @@
 #Translations for: interface
 
-Attribute.КартинкиИзБиблиотеки.Title=Картинки из библиотеки
-Attribute.КартинкиИзКаталогаПроекта.Title=Картинки из каталога проекта
-Attribute.КартинкиИзКонфигурации.Title=Картинки из конфигурации
-Command.ОтменитьИЗакрыть.Title=Отменить
-Command.ОтменитьИЗакрыть.ToolTip=Отменить и закрыть
-Command.ПрименитьКартинку.Title=Применить
-Command.ПрименитьКартинку.ToolTip=Применить картинку
-Item.ГруппаИзБиблиотеки.Title=Из платформы
-Item.ГруппаИзБиблиотеки.ToolTip=Группа из библиотеки
-Item.ГруппаИзКаталога.Title=Из каталога
-Item.ГруппаИзКаталога.ToolTip=Группа из каталога
-Item.ГруппаИзКонфигурации.Title=Из конфигурации
-Item.ГруппаИзКонфигурации.ToolTip=Группа из конфигурации
-Item.ГруппаИсточникиКартинок.Title=Группа источники картинок
-Item.ГруппаИсточникиКартинок.ToolTip=Группа источники картинок
-Item.ГруппаКоманды.Title=Группа команды
-Item.ГруппаКоманды.ToolTip=Группа команды
+Attribute.КартинкиИзБиблиотеки.Title=Pictures From Address
+Attribute.КартинкиИзКаталогаПроекта.Title=Pictures From Completion proekta
+Attribute.КартинкиИзКонфигурации.Title=Pictures From L
+Command.ОтменитьИЗакрыть.Title=Cancel
+Command.ОтменитьИЗакрыть.ToolTip=Cancel T Close
+Command.ПрименитьКартинку.Title=Get selection
+Command.ПрименитьКартинку.ToolTip=Get selection Picture
+Item.ГруппаИзБиблиотеки.Title=From Platform
+Item.ГруппаИзБиблиотеки.ToolTip=Group From Address
+Item.ГруппаИзКаталога.Title=From Completion
+Item.ГруппаИзКаталога.ToolTip=Group From Completion
+Item.ГруппаИзКонфигурации.Title=From L
+Item.ГруппаИзКонфигурации.ToolTip=Group From L
+Item.ГруппаИсточникиКартинок.Title=Group D Pictures
+Item.ГруппаИсточникиКартинок.ToolTip=Group D Pictures
+Item.ГруппаКоманды.Title=Commands group
+Item.ГруппаКоманды.ToolTip=Commands group

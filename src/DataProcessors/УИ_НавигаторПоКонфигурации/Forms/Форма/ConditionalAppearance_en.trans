@@ -1,9 +1,9 @@
 #Translations for: model
 
-Items.0.Filter.Items.0.Left.Value=ДеревоСервис.Доступность
-Items.0.Selection.Items.0.Field.Value=ДеревоСервисПредставление
-Items.1.Filter.Items.0.Left.Value=ДеревоСервис.ЭтоГруппа
-Items.1.Selection.Items.0.Field.Value=ДеревоСервисПредставление
-Items.2.Filter.Items.0.Left.Value=ТабПроверяемыеПрава.Пометка
-Items.2.Selection.Items.0.Field.Value=ТабПроверяемыеПраваОбъектМД
-Items.2.Selection.Items.1.Field.Value=ТабПроверяемыеПраваПраво
+Items.0.Filter.Items.0.Left.Value=DerevoServis.Debug
+Items.0.Selection.Items.0.Field.Value=DerevoServisPredstavlenie
+Items.1.Filter.Items.0.Left.Value=DerevoServis.EtoGruppa
+Items.1.Selection.Items.0.Field.Value=DerevoServisPredstavlenie
+Items.2.Filter.Items.0.Left.Value=TabProveryaemyePrava.Check
+Items.2.Selection.Items.0.Field.Value=TabProveryaemyePravaObektMD
+Items.2.Selection.Items.1.Field.Value=TabProveryaemyePravaPravo

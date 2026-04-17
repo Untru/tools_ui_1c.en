@@ -1,18 +1,18 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.СписокКонстант.Name=СписокКонстант
-Attribute.СписокКонстант.ИндексКартинки.Name=ИндексКартинки
-Attribute.СписокКонстант.ИндексКартинкиАвторегистрация.Name=ИндексКартинкиАвторегистрация
-Attribute.СписокКонстант.МетаПолноеИмя.Name=МетаПолноеИмя
-Attribute.СписокКонстант.Наименование.Name=Наименование
+Attribute.Объект.Name=Object
+Attribute.СписокКонстант.Name=TasksEditor
+Attribute.СписокКонстант.ИндексКартинки.Name=PictureIndex
+Attribute.СписокКонстант.ИндексКартинкиАвторегистрация.Name=ZIPPicturesAuto register
+Attribute.СписокКонстант.МетаПолноеИмя.Name=AttributesPanelName
+Attribute.СписокКонстант.Наименование.Name=Description
 Command.ВыбратьКонстанту.Name=SelectConstant
 Item.Группа1.Name=Group1
 Item.Декорация1.Name=Decoration1
 Item.ДекорацияАвторегистрация.Name=AutoRecordDecoration
-Item.СписокКонстантКонтекстноеМенюГруппа1.Name=СписокКонстантКонтекстноеМенюГруппа1
-Parameter.МассивАвторегистрации.Name=МассивАвторегистрации
-Parameter.МассивИменМетаданных.Name=МассивИменМетаданных
-Parameter.МассивПредставлений.Name=МассивПредставлений
-Parameter.НачальноеЗначениеВыбора.Name=НачальноеЗначениеВыбора
-Parameter.УзелОбмена.Name=УзелОбмена
+Item.СписокКонстантКонтекстноеМенюГруппа1.Name=TasksEditorKontekstnoeMenyuGroup1
+Parameter.МассивАвторегистрации.Name=ArrayAvtoregistratsii
+Parameter.МассивИменМетаданных.Name=ArrayNamesPath
+Parameter.МассивПредставлений.Name=ArrayList
+Parameter.НачальноеЗначениеВыбора.Name=NachalnoeValueScale
+Parameter.УзелОбмена.Name=NodeEncoding

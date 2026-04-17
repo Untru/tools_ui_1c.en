@@ -1,17 +1,17 @@
 #Translations for: model
 
-Attribute.ВсеВидыСравненияПравилПоиска.Name=ВсеВидыСравненияПравилПоиска
-Attribute.ОбластьПоискаДублей.Name=ОбластьПоискаДублей
-Attribute.Объект.Name=Объект
-Attribute.ОписаниеПрикладныхПравил.Name=ОписаниеПрикладныхПравил
-Attribute.ПравилаПоиска.Name=ПравилаПоиска
-Attribute.ПравилаПоиска.ВариантыСравнения.Name=ВариантыСравнения
-Attribute.ПравилаПоиска.Использовать.Name=Использовать
-Attribute.ПравилаПоиска.Правило.Name=Правило
-Attribute.ПравилаПоиска.ПредставлениеРеквизита.Name=ПредставлениеРеквизита
-Attribute.ПравилаПоиска.Реквизит.Name=Реквизит
-Attribute.УчитыватьПрикладныеПравила.Name=УчитыватьПрикладныеПравила
-Attribute.ЦветНедоступныеДанные.Name=ЦветНедоступныеДанные
+Attribute.ВсеВидыСравненияПравилПоиска.Name=AllMetadataTypeRulesRules
+Attribute.ОбластьПоискаДублей.Name=DuplicatesSearchArea
+Attribute.Объект.Name=Object
+Attribute.ОписаниеПрикладныхПравил.Name=DescriptionUsageRules
+Attribute.ПравилаПоиска.Name=SearchRules
+Attribute.ПравилаПоиска.ВариантыСравнения.Name=DType
+Attribute.ПравилаПоиска.Использовать.Name=Use
+Attribute.ПравилаПоиска.Правило.Name=Rule
+Attribute.ПравилаПоиска.ПредставлениеРеквизита.Name=PresentationAttribute
+Attribute.ПравилаПоиска.Реквизит.Name=Attribute
+Attribute.УчитыватьПрикладныеПравила.Name=UchityvatAppliedSearch
+Attribute.ЦветНедоступныеДанные.Name=ColorUnavailableData
 Command.ЗавершитьРедактирование.Name=CompleteEditing
 Item.ГруппаПрикладныхОграничений.Name=AppliedRestrictionsGroup
 Item.ПравилаПоискаВидСравнения.Name=SearchRulesComparisonType

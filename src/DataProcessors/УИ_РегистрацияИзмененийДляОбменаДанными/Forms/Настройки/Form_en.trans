@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.ВариантИспользованияКонсолиЗапросов.Name=ВариантИспользованияКонсолиЗапросов
-Attribute.ИдентификаторКонсолиЗапросов.Name=ИдентификаторКонсолиЗапросов
-Attribute.Объект.Name=Объект
+Attribute.ВариантИспользованияКонсолиЗапросов.Name=SettingsCompositionConsoleExtension
+Attribute.ИдентификаторКонсолиЗапросов.Name=UUIDConsoleExtension
+Attribute.Объект.Name=Object
 Command.ПодтвердитьВыбор.Name=ConfirmSelection
 Item.АвторегистрацияДвижений.Name=RegisterRecordsAutoRecord
 Item.АвторегистрацияПоследовательностей.Name=SequencesAutoRecord

@@ -1,7 +1,7 @@
 #Translations for: interface
 
-Attribute.ВспомогательныеДанныеИнструмента.Title=Вспомогательные данные инструмента
-Attribute.ПараметрыРаботыИнструмента.Title=Параметры работы инструмента
-Command.Команда_Применить.Title=Ок
-Command.Команда_Применить.ToolTip=Применить
-Item.ФормаЗакрыть.Title=Отмена
+Attribute.ВспомогательныеДанныеИнструмента.Title=Data Data Choosing
+Attribute.ПараметрыРаботыИнструмента.Title=Parameters Option Choosing
+Command.Команда_Применить.Title=Ok
+Command.Команда_Применить.ToolTip=Get selection
+Item.ФормаЗакрыть.Title=Cancel

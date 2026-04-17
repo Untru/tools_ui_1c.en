@@ -1,27 +1,27 @@
 #Translations for: interface
 
-Attribute.ИнтервалВремениПроверкиВыполнения.Title=Интервал проверки и выполнения заданий
-Attribute.Объект.Title=Объект
-Attribute.ОсталосьДоНачалаВыполнения.Title=Интервал времени в секундах до следующей проверки выполнения\n\t\t\t\tрегламентных заданий.
-Attribute.ТаблицаРегламентныхЗаданий.Title=Таблица регламентных заданий
-Attribute.ТаблицаРегламентныхЗаданий.Выполнено.Title=Выполнено
-Attribute.ТаблицаРегламентныхЗаданий.Выполнять.Title=Выполнять
-Attribute.ТаблицаРегламентныхЗаданий.Идентификатор.Title=Идентификатор
-Attribute.ТаблицаРегламентныхЗаданий.Изменено.Title=Изменено
-Attribute.ТаблицаРегламентныхЗаданий.Номер.Title=п/п
-Attribute.ТаблицаРегламентныхЗаданий.РегламентноеЗадание.Title=Регламентное задание
-Attribute.ТаблицаРегламентныхЗаданий.Статус.Title=Статус
+Attribute.ИнтервалВремениПроверкиВыполнения.Title=Execution check time interval
+Attribute.Объект.Title=Object
+Attribute.ОсталосьДоНачалаВыполнения.Title=Execution Type In sekundakh do sleduyushchey Existence Executing\n\t\t\t\treglamentnykh Console.
+Attribute.ТаблицаРегламентныхЗаданий.Title=Table of scheduled jobs
+Attribute.ТаблицаРегламентныхЗаданий.Выполнено.Title=Completed
+Attribute.ТаблицаРегламентныхЗаданий.Выполнять.Title=Execute
+Attribute.ТаблицаРегламентныхЗаданий.Идентификатор.Title=UUID
+Attribute.ТаблицаРегламентныхЗаданий.Изменено.Title=Izmeneno
+Attribute.ТаблицаРегламентныхЗаданий.Номер.Title=P/P
+Attribute.ТаблицаРегламентныхЗаданий.РегламентноеЗадание.Title=Scheduled Job
+Attribute.ТаблицаРегламентныхЗаданий.Статус.Title=Status
 Command.ОчиститьКоличествоЗапусков.Title=Clear number of job runs
 Command.ПрекратитьВыполнение.Title=Stop running and close
-Command.ПрекратитьВыполнение.ToolTip=Прекратить выполнение
+Command.ПрекратитьВыполнение.ToolTip=Stop Algoritms
 Item.ГруппаИнтервалВремениВыполнения.Title=Group runtime interval
 Item.ГруппаПояснение.Title=Group explanation
 Item.ДекорацияСекунд.Title=Decoration seconds
 Item.КомандыСписка.Title=Commands list
-Item.КомандыСписка.ToolTip=Команды списка
-Item.ПериодВыполнения.ToolTip=Задается в диапазоне от 5 до 600 секунд
-Item.РегламентныеЗаданияВыполнено.Title=Последнее выполнение
-Item.РегламентныеЗаданияВыполнять.ToolTip=Выполнять регламентное задание
-Item.СтрокаСостояния.Title=Отметьте регламентные задания для выполнения на этом
+Item.КомандыСписка.ToolTip=List commands
+Item.ПериодВыполнения.ToolTip=Zadaetsya In diapazone From 5 do 600 Decoration seconds
+Item.РегламентныеЗаданияВыполнено.Title=Last run
+Item.РегламентныеЗаданияВыполнять.ToolTip=Execute Scheduled Job
+Item.СтрокаСостояния.Title=Otmette Scheduled Dialog To Executing To etom
 					клиентском компьютере...
 				

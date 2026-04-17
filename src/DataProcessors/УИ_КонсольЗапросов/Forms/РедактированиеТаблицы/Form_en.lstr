@@ -1,20 +1,20 @@
 #Translations for: interface
 
-Attribute.СуффиксРеквизитаКонтейнера.Title=Суффикс реквизита контейнера
-Attribute.ТаблицаЗначений.Title=Таблица значений
-Attribute.ТаблицаЗначенийКолонкиКонтейнера.Title=Таблица значений колонки контейнера
-Attribute.ТаблицаЗначенийСоответствиеКолонок.Title=Таблица значений соответствие колонок
-Command.КомандаЗаполнитьИзСтрокиВнутр.Title=Из строки внутр
-Command.КомандаЗначениеВСтрокуВнутр.Title=В строку внутр
+Attribute.СуффиксРеквизитаКонтейнера.Title=Container attribute suffix
+Attribute.ТаблицаЗначений.Title=Value table
+Attribute.ТаблицаЗначенийКолонкиКонтейнера.Title=Value table container columns
+Attribute.ТаблицаЗначенийСоответствиеКолонок.Title=Value table column map
+Command.КомандаЗаполнитьИзСтрокиВнутр.Title=From Trailing Internal
+Command.КомандаЗначениеВСтрокуВнутр.Title=In Row Internal
 Command.КомандаЗначениеВФайл.Title=OK command
 Command.КомандаЗначениеИзФайла.Title=Clear
-Command.КомандаОК.Title=Команда ОК
-Command.КомандаОК.ToolTip=Команда ОК
-Command.КомандаОчистить.Title=Очистить
-Command.КомандаОчистить.ToolTip=Команда очистить
+Command.КомандаОК.Title=OK command
+Command.КомандаОК.ToolTip=OK command
+Command.КомандаОчистить.Title=Clear
+Command.КомандаОчистить.ToolTip=Command Clear
 Item.ГруппаКоманднаяПанельНижняя.Title=Command bar footer group
-Item.ГруппаКоманднаяПанельНижняя.ToolTip=Группа командная панель нижняя
+Item.ГруппаКоманднаяПанельНижняя.ToolTip=Command bar bottom group
 Item.КнопкаОК.Title=OK
 Item.КомандаОтмена.Title=Cancel
-Item.ФормаГруппаЗаполнить.Title=Форма группа заполнить\n
-Item.ФормаГруппаПередать.Title=Форма группа передать
+Item.ФормаГруппаЗаполнить.Title=Form Group Fill in dependent objects\n
+Item.ФормаГруппаПередать.Title=Form Group Send

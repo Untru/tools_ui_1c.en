@@ -1,16 +1,16 @@
 #Translations for: model
 
-Attribute.Активно.Name=Активно
-Attribute.Завершено.Name=Завершено
-Attribute.ЗавершеноАварийно.Name=ЗавершеноАварийно
-Attribute.Ключ.Name=Ключ
-Attribute.Конец.Name=Конец
-Attribute.Метод.Name=Метод
-Attribute.Наименование.Name=Наименование
-Attribute.Начало.Name=Начало
-Attribute.Объект.Name=Объект
-Attribute.Отменено.Name=Отменено
-Attribute.Регламентное.Name=Регламентное
+Attribute.Активно.Name=Active
+Attribute.Завершено.Name=Completed
+Attribute.ЗавершеноАварийно.Name=CompletedAvariyno
+Attribute.Ключ.Name=Key
+Attribute.Конец.Name=End
+Attribute.Метод.Name=Method
+Attribute.Наименование.Name=Description
+Attribute.Начало.Name=Begin
+Attribute.Объект.Name=Object
+Attribute.Отменено.Name=Canceled
+Attribute.Регламентное.Name=Scheduled
 Command.ОК.Name=OK
 Item.Общие.Name=Common
 Item.Состояние.Name=State

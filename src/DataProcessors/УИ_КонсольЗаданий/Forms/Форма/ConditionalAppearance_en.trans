@@ -1,11 +1,11 @@
 #Translations for: model
 
-Items.0.Filter.Items.0.Left.Value=СписокРегламентныхЗаданий.Использование
-Items.0.Filter.Items.0.Right.0.Value=Нет
-Items.0.Selection.Items.0.Field.Value=СписокРегламентныхЗаданий
-Items.1.Filter.Items.0.Left.Value=СписокРегламентныхЗаданий.Состояние
-Items.1.Filter.Items.0.Right.0.Value=ошибка
-Items.1.Selection.Items.0.Field.Value=СписокРегламентныхЗаданий
-Items.2.Filter.Items.0.Left.Value=СписокФоновыхЗаданий.Состояние
-Items.2.Filter.Items.0.Right.0.Value=ошибка
-Items.2.Selection.Items.0.Field.Value=СписокФоновыхЗаданий
+Items.0.Filter.Items.0.Left.Value=SpisokReglamentnykhZadaniy.Use
+Items.0.Filter.Items.0.Right.0.Value=Objects
+Items.0.Selection.Items.0.Field.Value=SpisokReglamentnykhZadaniy
+Items.1.Filter.Items.0.Left.Value=SpisokReglamentnykhZadaniy.State
+Items.1.Filter.Items.0.Right.0.Value=Step
+Items.1.Selection.Items.0.Field.Value=SpisokReglamentnykhZadaniy
+Items.2.Filter.Items.0.Left.Value=SpisokFonovykhZadaniy.State
+Items.2.Filter.Items.0.Right.0.Value=Step
+Items.2.Selection.Items.0.Field.Value=SpisokFonovykhZadaniy

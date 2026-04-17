@@ -2,15 +2,15 @@
 
 Description=@strict-types
 Method.ПроверитьВозможностьСохранения.Comment.@skip-check\ module-unused-local-variable.Description=@skip-check module-unused-local-variable
-Method.ПроверитьВозможностьСохранения.Name=ПроверитьВозможностьСохранения
-Method.ПроверитьВозможностьСохранения.Var.Настройки.Name=Настройки
-Method.ПроверитьВозможностьСохранения.Var.Сообщение.Name=Сообщение
+Method.ПроверитьВозможностьСохранения.Name=CheckVozmozhnostSettings
+Method.ПроверитьВозможностьСохранения.Var.Настройки.Name=Settings
+Method.ПроверитьВозможностьСохранения.Var.Сообщение.Name=Message
 Method.ПроверитьВозможностьСохранения.Var.Сообщение.String.Word.Не.Key=Не
 Method.ПроверитьВозможностьСохранения.Var.Сообщение.String.Word.в.Key=в
 Method.ПроверитьВозможностьСохранения.Var.Сообщение.String.Word.внутр.Key=внутр
 Method.ПроверитьВозможностьСохранения.Var.Сообщение.String.Word.обернуть.Key=обернуть
 Method.ПроверитьВозможностьСохранения.Var.Сообщение.String.Word.строку.Key=строку
 Method.ПроверитьВозможностьСохранения.Var.Сообщение.String.Word.удалось.Key=удалось
-Region.ОбработчикиСобытийФормы.Name=ОбработчикиСобытийФормы
-Region.ОбработчикиСобытийФормы.ОбработчикиКомандФормы.Name=ОбработчикиКомандФормы
-Region.ОбработчикиСобытийФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=СлужебныеПроцедурыИФункции
+Region.ОбработчикиСобытийФормы.Name=ReadEventForm
+Region.ОбработчикиСобытийФормы.ОбработчикиКомандФормы.Name=ReadCommandsForm
+Region.ОбработчикиСобытийФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=SluzhebnyeProceduresTFunctions

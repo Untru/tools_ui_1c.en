@@ -1,14 +1,14 @@
 #Translations for: interface
 
-DataSet.НаборДанных1.Field.ВидОбъекта.Title.Content=Вид объекта
-DataSet.НаборДанных1.Field.ИмяОбъекта.Title.Content=Имя объекта
-DataSet.НаборДанных1.Field.Количество.Title.Content=Количество объектов (записей)
-DataSet.НаборДанных1.Field.Организация.Title.Content=Организация
-DataSet.НаборДанных1.Field.Приоритет.Title.Content=Приоритет
-DataSet.НаборДанных1.Field.СинонимОбъекта.Title.Content=Синоним объекта
-Parameter.ВключитьПодчиненныеРегистратору.Title.Content=Включить подчиненные регистратору
-Parameter.КонецПериода.Title.Content=Конец периода
-Parameter.НачалоПериода.Title.Content=Начало периода
-Parameter.Период.Title.Content=Период
-Variant.КоличествоОбъектовВБазе.Presentation.Content=Основной
-Variant.КоличествоОбъектовВБазеУпрощенная.Presentation.Content=Простой (Без организаций)
+DataSet.НаборДанных1.Field.ВидОбъекта.Title.Content=Type Form
+DataSet.НаборДанных1.Field.ИмяОбъекта.Title.Content=Object name
+DataSet.НаборДанных1.Field.Количество.Title.Content=Processed Writing (Attributes)
+DataSet.НаборДанных1.Field.Организация.Title.Content=Organization
+DataSet.НаборДанных1.Field.Приоритет.Title.Content=Prioritet
+DataSet.НаборДанных1.Field.СинонимОбъекта.Title.Content=Sinonim Form
+Parameter.ВключитьПодчиненныеРегистратору.Title.Content=Enable Subordinate registratoru
+Parameter.КонецПериода.Title.Content=End Value
+Parameter.НачалоПериода.Title.Content=Begin Value
+Parameter.Период.Title.Content=Period
+Variant.КоличествоОбъектовВБазе.Presentation.Content=Main
+Variant.КоличествоОбъектовВБазеУпрощенная.Presentation.Content=Simple (Debug organizatsiy)

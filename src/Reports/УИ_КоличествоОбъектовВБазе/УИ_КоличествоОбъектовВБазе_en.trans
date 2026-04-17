@@ -1,5 +1,5 @@
 #Translations for: model
 
-Form.ФормаОтчета.Name=ФормаОтчета
-Name=УИ_КоличествоОбъектовВБазе
-Template.ОсновнаяСхемаКомпоновкиДанных.Name=ОсновнаяСхемаКомпоновкиДанных
+Form.ФормаОтчета.Name=FormBuilder
+Name=UTProcessedWritingInBase
+Template.ОсновнаяСхемаКомпоновкиДанных.Name=MainDataCompositionSchema

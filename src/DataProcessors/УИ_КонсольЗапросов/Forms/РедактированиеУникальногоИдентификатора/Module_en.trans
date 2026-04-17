@@ -1,30 +1,30 @@
 #Translations for: model
 
-Method.ДобавитьЗапрос.Lines.Таблица.Content=Таблица
+Method.ДобавитьЗапрос.Lines.Таблица.Content=Table
 Method.ДобавитьЗапрос.Name=AddQuery
-Method.ДобавитьЗапрос.Param.ЗапросПоиска.Name=ЗапросПоиска
-Method.ДобавитьЗапрос.Param.КлассСсылки.Name=КлассСсылки
-Method.ДобавитьЗапрос.Param.Менеджер.Name=Менеджер
-Method.ДобавитьЗапрос.Param.СтрокаУникальныйИдентификатор.Name=СтрокаУникальныйИдентификатор
-Method.ДобавитьЗапрос.Param.маЗапросПоиска.Name=маЗапросПоиска
+Method.ДобавитьЗапрос.Param.ЗапросПоиска.Name=QueryRules
+Method.ДобавитьЗапрос.Param.КлассСсылки.Name=MReferences
+Method.ДобавитьЗапрос.Param.Менеджер.Name=Manager
+Method.ДобавитьЗапрос.Param.СтрокаУникальныйИдентификатор.Name=StringUniqueUUID
+Method.ДобавитьЗапрос.Param.маЗапросПоиска.Name=maQueryRules
 Method.ДобавитьЗапрос.String.Таблица.Key=Таблица
-Method.ДобавитьЗапрос.Var.ИмяМетаданных.Name=ИмяМетаданных
-Method.ДобавитьЗапрос.Var.ИмяПараметра.Name=ИмяПараметра
-Method.ДобавитьЗапрос.Var.Ссылка.Name=Ссылка
-Method.ДобавитьЗапрос.Var.ТаблицаБазы.Name=ТаблицаБазы
+Method.ДобавитьЗапрос.Var.ИмяМетаданных.Name=NamePath
+Method.ДобавитьЗапрос.Var.ИмяПараметра.Name=ParameterName
+Method.ДобавитьЗапрос.Var.Ссылка.Name=Ref
+Method.ДобавитьЗапрос.Var.ТаблицаБазы.Name=TableBase
 Method.КомандаНайтиНаСервере.Name=FindCommandAtServer
-Method.КомандаНайтиНаСервере.Param.СтрокаУникальныйИдентификатор.Name=СтрокаУникальныйИдентификатор
-Method.КомандаНайтиНаСервере.Var.Выборка.Name=Выборка
-Method.КомандаНайтиНаСервере.Var.ЗапросПоиска.Name=ЗапросПоиска
-Method.КомандаНайтиНаСервере.Var.Менеджер.Name=Менеджер
-Method.КомандаНайтиНаСервере.Var.ТекстЗапроса.Name=ТекстЗапроса
-Method.КомандаНайтиНаСервере.Var.маЗапросПоиска.Name=маЗапросПоиска
-Method.КомандаОК.Var.ВозвращаемоеЗначение.Name=ВозвращаемоеЗначение
-Method.КомандаОК.Var.Значение.Name=Значение
+Method.КомандаНайтиНаСервере.Param.СтрокаУникальныйИдентификатор.Name=StringUniqueUUID
+Method.КомандаНайтиНаСервере.Var.Выборка.Name=Selection
+Method.КомандаНайтиНаСервере.Var.ЗапросПоиска.Name=QueryRules
+Method.КомандаНайтиНаСервере.Var.Менеджер.Name=Manager
+Method.КомандаНайтиНаСервере.Var.ТекстЗапроса.Name=ArbitraryQueryText
+Method.КомандаНайтиНаСервере.Var.маЗапросПоиска.Name=maQueryRules
+Method.КомандаОК.Var.ВозвращаемоеЗначение.Name=VozvrashchaemoeValue
+Method.КомандаОК.Var.Значение.Name=Value
 Method.СсылкаПриИзменении.Comment.@skip-warning.Description=@skip-warning
 Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.@skip-warning.Description=@skip-warning
-Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.СтандартнаяОбработка\ \=\ Ложь;.Description=СтандартнаяОбработка \= Ложь;
+Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.СтандартнаяОбработка\ \=\ Lozh;.Description=StandartnayaObrabotka \= Lozh;
 Method.УникальныйИдентификаторОкончаниеВводаТекста.String.Word.Некорректный.Key=Некорректный
 Method.УникальныйИдентификаторОкончаниеВводаТекста.String.Word.уникальный.Key=уникальный
-Method.УникальныйИдентификаторОкончаниеВводаТекста.Var.ъ.Name=ъ
+Method.УникальныйИдентификаторОкончаниеВводаТекста.Var.ъ.Name=
 Method.УникальныйИдентификаторПриИзменении.Comment.@skip-warning.Description=@skip-warning

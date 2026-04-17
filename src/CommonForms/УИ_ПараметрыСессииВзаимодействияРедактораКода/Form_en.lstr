@@ -1,10 +1,10 @@
 #Translations for: interface
 
-Attribute.URLВзаимодействия.Title=URL взаимодействия
-Attribute.ИдентификаторСессии.Title=Идентификатор сессии
-Attribute.ИмяПользователя.Title=Имя пользователя
-Command.Подключиться.Title=Подключиться
-Item.URLВзаимодействия.ToolTip=URL для подключения к сервису взаимодействия. Заполнять при использовании собственного сервиса
-Item.ИдентификаторСессии.Title=Подключиться к сессии
-Item.ИдентификаторСессии.ToolTip=Укажите идентификатор уже существующей сессии для подключения к ней или оставьте поле пустым для начала новой
-Item.ИмяПользователя.ToolTip=Имя для отображения. При отсутствии будет сгенерировано произвольное
+Attribute.URLВзаимодействия.Title=URL vzaimodeystviya
+Attribute.ИдентификаторСессии.Title=UUID sessii
+Attribute.ИмяПользователя.Title=Username
+Command.Подключиться.Title=Connect
+Item.URLВзаимодействия.ToolTip=URL To Service S servisu vzaimodeystviya. Zapolnyat On ispolzovanii sobstvennogo Response
+Item.ИдентификаторСессии.Title=Connect S sessii
+Item.ИдентификаторСессии.ToolTip=Ukazhite UUID Already sushchestvuyushchey sessii To Service S ney Or ostavte Field pustym To Date novoy
+Item.ИмяПользователя.ToolTip=Name To Form. On otsutstvii budet sgenerirovano proizvolnoe

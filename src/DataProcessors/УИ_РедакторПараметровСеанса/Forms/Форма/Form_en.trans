@@ -1,16 +1,16 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.СтрокаПоиска.Name=СтрокаПоиска
-Attribute.ТаблицаПараметровСеанса.Name=ТаблицаПараметровСеанса
-Attribute.ТаблицаПараметровСеанса.Значение.Name=Значение
-Attribute.ТаблицаПараметровСеанса.ЗначениеКонтейнер.Name=ЗначениеКонтейнер
-Attribute.ТаблицаПараметровСеанса.ЗначениеТипЗначения.Name=ЗначениеТипЗначения
-Attribute.ТаблицаПараметровСеанса.ЗначениеТипЗначенияПредставление.Name=ЗначениеТипЗначенияПредставление
-Attribute.ТаблицаПараметровСеанса.Изменено.Name=Изменено
-Attribute.ТаблицаПараметровСеанса.Имя.Name=Имя
-Attribute.ТаблицаПараметровСеанса.Найдено.Name=Найдено
-Attribute.ТаблицаПараметровСеанса.Синоним.Name=Синоним
-Attribute.ТаблицаПараметровСеанса.ТипЗначения.Name=ТипЗначения
-Command.Записать.Name=Записать
-Command.Перечитать.Name=Перечитать
+Attribute.Объект.Name=Object
+Attribute.СтрокаПоиска.Name=StringRules
+Attribute.ТаблицаПараметровСеанса.Name=TableTableLabel
+Attribute.ТаблицаПараметровСеанса.Значение.Name=Value
+Attribute.ТаблицаПараметровСеанса.ЗначениеКонтейнер.Name=ValueGroup
+Attribute.ТаблицаПараметровСеанса.ЗначениеТипЗначения.Name=ValueTypeForm
+Attribute.ТаблицаПараметровСеанса.ЗначениеТипЗначенияПредставление.Name=ValueTypeFormPresentation
+Attribute.ТаблицаПараметровСеанса.Изменено.Name=Izmeneno
+Attribute.ТаблицаПараметровСеанса.Имя.Name=Name
+Attribute.ТаблицаПараметровСеанса.Найдено.Name=Step
+Attribute.ТаблицаПараметровСеанса.Синоним.Name=Sinonim
+Attribute.ТаблицаПараметровСеанса.ТипЗначения.Name=TypeForm
+Command.Записать.Name=Write
+Command.Перечитать.Name=Reread

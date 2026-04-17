@@ -1,5 +1,5 @@
 #Translations for: model
 
-Name=УИ_ПреобразованиеДанныхJSON
-Template.ВерсияБиблиотеки.Name=ВерсияБиблиотеки
-Template.ОписаниеТипов.Name=ОписаниеТипов
+Name=UTJsonSchemaJSON
+Template.ВерсияБиблиотеки.Name=ExchangeAddress
+Template.ОписаниеТипов.Name=DescriptionAvailable

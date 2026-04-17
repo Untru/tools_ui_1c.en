@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute.ИмяФайлаНаСервере.Name=ИмяФайлаНаСервере
-Attribute.ОтладкаВключена.Name=ОтладкаВключена
-Attribute.ЭтоОтчет.Name=ЭтоОтчет
-Command.Применить.Name=Применить
+Attribute.ИмяФайлаНаСервере.Name=NameLogToServer
+Attribute.ОтладкаВключена.Name=DebugVklyuchena
+Attribute.ЭтоОтчет.Name=IsReport
+Command.Применить.Name=Get selection

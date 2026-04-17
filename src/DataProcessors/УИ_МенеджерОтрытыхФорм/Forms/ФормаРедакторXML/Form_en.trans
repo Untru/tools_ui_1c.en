@@ -1,5 +1,5 @@
 #Translations for: model
 
-Attribute.ЗначениеСтрокой.Name=ЗначениеСтрокой
-Command.ПрименитьЗначение.Name=ПрименитьЗначение
-Parameter.Значение.Name=Значение
+Attribute.ЗначениеСтрокой.Name=ValueName
+Command.ПрименитьЗначение.Name=Get selectionValue
+Parameter.Значение.Name=Value

@@ -1,7 +1,7 @@
 #Translations for: interface
 
-Command.Выбрать.Title=ОК
-Command.Выбрать.ToolTip=Выбрать
+Command.Выбрать.Title=Ok
+Command.Выбрать.ToolTip=Select
 Item.КомпоновщикПредварительногоОтбораНастройкиОтбор.Title=Pre-filter composer settings filter
 Item.ФормаГруппаСправки.Title=Form help group
-Title=Правила отбора
+Title=Filter rules

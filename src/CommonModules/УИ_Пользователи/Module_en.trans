@@ -1,26 +1,26 @@
 #Translations for: model
 
 Method.ВосстановитьДанныеПользователяПослеЗапускаСеансаПодПользователем.Name=RestoreUserDataAfterUserSessionStart
-Method.ВосстановитьДанныеПользователяПослеЗапускаСеансаПодПользователем.Param.ДанныеСохраненногоПароляПользователяИБ.Name=ДанныеСохраненногоПароляПользователяИБ
-Method.ВосстановитьДанныеПользователяПослеЗапускаСеансаПодПользователем.Param.ИмяПользователя.Name=ИмяПользователя
-Method.ВосстановитьДанныеПользователяПослеЗапускаСеансаПодПользователем.Var.ПользовательИБ.Name=ПользовательИБ
+Method.ВосстановитьДанныеПользователяПослеЗапускаСеансаПодПользователем.Param.ДанныеСохраненногоПароляПользователяИБ.Name=StoredIBUserPasswordData
+Method.ВосстановитьДанныеПользователяПослеЗапускаСеансаПодПользователем.Param.ИмяПользователя.Name=NameUser
+Method.ВосстановитьДанныеПользователяПослеЗапускаСеансаПодПользователем.Var.ПользовательИБ.Name=UsernameTI
 Method.ДанныеСохраненногоПароляПользователяИБ.Name=StoredIBUserPasswordData
-Method.ДанныеСохраненногоПароляПользователяИБ.Param.ИмяПользователя.Name=ИмяПользователя
-Method.ДанныеСохраненногоПароляПользователяИБ.Var.Данные.Name=Данные
-Method.ДанныеСохраненногоПароляПользователяИБ.Var.ПользовательИБ.Name=ПользовательИБ
+Method.ДанныеСохраненногоПароляПользователяИБ.Param.ИмяПользователя.Name=NameUser
+Method.ДанныеСохраненногоПароляПользователяИБ.Var.Данные.Name=Data
+Method.ДанныеСохраненногоПароляПользователяИБ.Var.ПользовательИБ.Name=UsernameTI
 Method.УстановитьПарольПользователюИБ.Name=SetIBUserPassword
-Method.УстановитьПарольПользователюИБ.Param.ИмяПользователя.Name=ИмяПользователя
-Method.УстановитьПарольПользователюИБ.Param.Пароль.Name=Пароль
-Method.УстановитьПарольПользователюИБ.Var.ПользовательИБ.Name=ПользовательИБ
-Method.ЭтоПолноправныйПользователь.Description=Проверяет, является ли текущий или указанный пользователь полноправным.\nПолноправным считается пользователь, который\nа) при не пустом списке пользователей информационной базы,\nимеет роль ПолныеПрава и роль для администрирования системы (если ПроверятьПраваАдминистрированияСистемы \= Истина)\nб) при пустом списке пользователей информационной базы\nосновная роль конфигурации не задана или ПолныеПрава.
+Method.УстановитьПарольПользователюИБ.Param.ИмяПользователя.Name=NameUser
+Method.УстановитьПарольПользователюИБ.Param.Пароль.Name=Password
+Method.УстановитьПарольПользователюИБ.Var.ПользовательИБ.Name=UsernameTI
+Method.ЭтоПолноправныйПользователь.Description=Proveryaet, yavlyaetsya li Current Or ukazannyy Username polnopravnym.\nPolnopravnym schitaetsya Username, kotoryy\na) On Dont pustom List Data Directory Base,\nimeet Role PolnyePrava T Role To Rights sistemy (If ProveryatPravaAdministrirovaniyaSistemy \= Istina)\nb) On pustom List Data Directory Base\nosnovnaya Role L Dont zadana Or PolnyePrava.
 Method.ЭтоПолноправныйПользователь.Name=IsFullUser
-Method.ЭтоПолноправныйПользователь.Param.Пользователь.Name=Пользователь
-Method.ЭтоПолноправныйПользователь.Param.Пользователь.Type.0.Description=проверяется текущий пользователь ИБ.
-Method.ЭтоПолноправныйПользователь.Param.Пользователь.Type.1.Description=осуществляется\nпоиск пользователя ИБ по уникальному идентификатору, заданному в реквизите.\nИдентификаторПользователяИБ. Если пользователь ИБ не найден, возвращается Ложь.
-Method.ЭтоПолноправныйПользователь.Param.Пользователь.Type.2.Description=проверяется указанный пользователь ИБ.
-Method.ЭтоПолноправныйПользователь.Param.ПроверятьПраваАдминистрированияСистемы.Description=если задано Истина, тогда проверяется наличие\nроли для администрирования системы.
-Method.ЭтоПолноправныйПользователь.Param.ПроверятьПраваАдминистрированияСистемы.Name=ПроверятьПраваАдминистрированияСистемы
-Method.ЭтоПолноправныйПользователь.Param.УчитыватьПривилегированныйРежим.Description=если задано Истина, тогда для текущего пользователя\nфункция возвращает Истина, когда установлен привилегированный режим.
-Method.ЭтоПолноправныйПользователь.Param.УчитыватьПривилегированныйРежим.Name=УчитыватьПривилегированныйРежим
-Method.ЭтоПолноправныйПользователь.Return.Description=если Истина, пользователь является полноправным.
-Region.ПрограммныйИнтерфейс.Name=ПрограммныйИнтерфейс
+Method.ЭтоПолноправныйПользователь.Param.Пользователь.Name=Username
+Method.ЭтоПолноправныйПользователь.Param.Пользователь.Type.0.Description=proveryaetsya Current Username IB.
+Method.ЭтоПолноправныйПользователь.Param.Пользователь.Type.1.Description=osushchestvlyaetsya\npoisk User IB By unikalnomu identifikatoru, zadannomu In rekvizite.\nIdentifikatorPolzovatelyaIB. If Username IB Dont Found, vozvrashchaetsya Lozh.
+Method.ЭтоПолноправныйПользователь.Param.Пользователь.Type.2.Description=proveryaetsya ukazannyy Username IB.
+Method.ЭтоПолноправныйПользователь.Param.ПроверятьПраваАдминистрированияСистемы.Description=If zadano Istina, togda proveryaetsya Attribute\nroli To Rights sistemy.
+Method.ЭтоПолноправныйПользователь.Param.ПроверятьПраваАдминистрированияСистемы.Name=ProveryatToolsRightsSistemy
+Method.ЭтоПолноправныйПользователь.Param.УчитыватьПривилегированныйРежим.Description=If zadano Istina, togda To Settings User\nfunktsiya vozvrashchaet Istina, kogda ustanovlen privilegirovannyy Mode.
+Method.ЭтоПолноправныйПользователь.Param.УчитыватьПривилегированныйРежим.Name=UchityvatPrivilegirovannyyMode
+Method.ЭтоПолноправныйПользователь.Return.Description=If Istina, Username yavlyaetsya polnopravnym.
+Region.ПрограммныйИнтерфейс.Name=API

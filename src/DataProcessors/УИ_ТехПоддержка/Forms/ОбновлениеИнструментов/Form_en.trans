@@ -1,15 +1,15 @@
 #Translations for: model
 
-Attribute.URLАктуальногоРелиза.Name=URLАктуальногоРелиза
-Attribute.АктуальнаяВерсия.Name=АктуальнаяВерсия
-Attribute.ВариантПоставки.Name=ВариантПоставки
-Attribute.НеобходимостьОбновления.Name=НеобходимостьОбновления
-Attribute.ОбновлениеЧерезСкачиваниеФайлаПоставки.Name=ОбновлениеЧерезСкачиваниеФайлаПоставки
-Attribute.ОписаниеИзменений.Name=ОписаниеИзменений
-Attribute.ПолеИзменений.Name=ПолеИзменений
-Attribute.ТекущаяВерсия.Name=ТекущаяВерсия
+Attribute.URLАктуальногоРелиза.Name=URLAktualnogoReliza
+Attribute.АктуальнаяВерсия.Name=AktualnayaExchange
+Attribute.ВариантПоставки.Name=TypePresentation
+Attribute.НеобходимостьОбновления.Name=NeobkhodimostUpdate
+Attribute.ОбновлениеЧерезСкачиваниеФайлаПоставки.Name=UpdateViaFileLogType
+Attribute.ОписаниеИзменений.Name=DescriptionChanges
+Attribute.ПолеИзменений.Name=FieldChanges
+Attribute.ТекущаяВерсия.Name=CurrentExchange
 Command.Обновить.Name=Update
-Item.Группа1РасширеннаяПодсказка.Name=Группа1РасширеннаяПодсказка
-Item.ГруппаСравненияВерсий.Name=GroupVersionsСomparison
-Item.ПолеКонтекстноеМеню.Name=ПолеКонтекстноеМеню
-Item.ПолеРасширеннаяПодсказка.Name=ПолеРасширеннаяПодсказка
+Item.Группа1РасширеннаяПодсказка.Name=Group1RasshirennayaAlgorithms
+Item.ГруппаСравненияВерсий.Name=GroupVersionsSomparison
+Item.ПолеКонтекстноеМеню.Name=FieldKontekstnoeMenyu
+Item.ПолеРасширеннаяПодсказка.Name=FieldRasshirennayaAlgorithms

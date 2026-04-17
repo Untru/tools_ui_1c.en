@@ -1,5 +1,5 @@
 #Translations for: interface
 
-Form.КонструкторПредставлений.Synonym=Конструктор представлений
-Form.ТекстЗапроса.Synonym=Текст запроса
-Synonym=Конструктор представлений подсистемы "Зарплата и кадры" [УИ]
+Form.КонструкторПредставлений.Synonym=Query List
+Form.ТекстЗапроса.Synonym=Query text
+Synonym=Query List Description "Zarplata T kadry" [UT]

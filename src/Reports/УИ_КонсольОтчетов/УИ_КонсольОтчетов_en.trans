@@ -4,4 +4,4 @@ Form.Форма.Name=Form
 Form.ФормаВарианта.Name=VariantForm
 Form.ФормаРасшифровки.Name=DetailsForm
 Name=UT_ReportsConsole
-Template.ОсновнаяСхемаКомпоновкиДанных.Name=ОсновнаяСхемаКомпоновкиДанных
+Template.ОсновнаяСхемаКомпоновкиДанных.Name=MainDataCompositionSchema

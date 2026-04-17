@@ -1,17 +1,17 @@
 #Translations for: interface
 
-Attribute.Объект.Title=Объект
-Attribute.Список.Title=Список
-Attribute.Список.ВыбрасыватьИсключение.Title=Выбрасывать исключение
-Attribute.Список.ВыполнятьВТранзакции.Title=Выполнять в транзакции
-Attribute.Список.ВыполнятьПоРасписанию.Title=Выполнять по расписанию
-Attribute.Список.ЗаписыватьОшибкиВЖР.Title=Записывать ошибки ВЖР
-Attribute.Список.Идентификатор.Title=Идентификатор
-Attribute.Список.ИдентификаторHTTP.Title=Идентификатор HTTP
-Attribute.Список.ИдентификаторРегламентногоЗадания.Title=Идентификатор регламентного задания
-Attribute.Список.Комментарий.Title=Комментарий
-Attribute.Список.Кэшировать.Title=Кэшировать
-Attribute.Список.НаКлиенте.Title=На клиенте
-Attribute.Список.Наименование.Title=Наименование
-Attribute.Список.ТекстАлгоритма.Title=Текст алгоритма
-Command.Перечитать.Title=Перечитать
+Attribute.Объект.Title=Object
+Attribute.Список.Title=Tasks
+Attribute.Список.ВыбрасыватьИсключение.Title=Throw exception
+Attribute.Список.ВыполнятьВТранзакции.Title=Execute in transaction
+Attribute.Список.ВыполнятьПоРасписанию.Title=Execute by schedule
+Attribute.Список.ЗаписыватьОшибкиВЖР.Title=Write Flag VZhR
+Attribute.Список.Идентификатор.Title=UUID
+Attribute.Список.ИдентификаторHTTP.Title=HTTP ID
+Attribute.Список.ИдентификаторРегламентногоЗадания.Title=Scheduled job UUID
+Attribute.Список.Комментарий.Title=Comment
+Attribute.Список.Кэшировать.Title=Cache
+Attribute.Список.НаКлиенте.Title=At client
+Attribute.Список.Наименование.Title=Description
+Attribute.Список.ТекстАлгоритма.Title=Algorithm text
+Command.Перечитать.Title=Reread

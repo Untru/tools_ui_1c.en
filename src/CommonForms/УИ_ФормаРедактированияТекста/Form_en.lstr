@@ -1,7 +1,7 @@
 #Translations for: interface
 
-Attribute.Текст.Title=Текст
-Command.ОК.Title=ОК
-Command.ОК.ToolTip=ОК
-Item.КоманднаяПанельФормы.Title=Командная панель формы
-Item.КоманднаяПанельФормы.ToolTip=Командная панель формы
+Attribute.Текст.Title=Text
+Command.ОК.Title=Ok
+Command.ОК.ToolTip=Ok
+Item.КоманднаяПанельФормы.Title=Form command bar
+Item.КоманднаяПанельФормы.ToolTip=Form command bar

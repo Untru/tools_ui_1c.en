@@ -1,11 +1,11 @@
 #Translations for: interface
 
-Attribute.ИскатьПо.Title=Искать по
-Attribute.ИспользоватьВладельца.Title=Использовать владельца
-Attribute.ИспользуемыеТипы.Title=Используемые типы
-Attribute.СвязьПоВладельцу.Title=Связь по владельцу
+Attribute.ИскатьПо.Title=Search by
+Attribute.ИспользоватьВладельца.Title=Use owner
+Attribute.ИспользуемыеТипы.Title=Used types
+Attribute.СвязьПоВладельцу.Title=Link by owner
 Command.ОК.Title=OK
-Command.ОК.ToolTip=ОК
+Command.ОК.ToolTip=Ok
 Item.ГруппаКоманд.Title=Command group
-Item.ГруппаКоманд.ToolTip=Группа команд
-Title=Редактирование связи поиска
+Item.ГруппаКоманд.ToolTip=Command group
+Title=Edit Form Rules

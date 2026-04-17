@@ -1,8 +1,8 @@
 #Translations for: interface
 
-Attribute._ДанныеДляОтображения.Title=Данные для отображения
-Attribute._ДеревоЗначений.Title=Дерево значений
-Attribute._ТаблицаЗначений.Title=Таблица значений
-Command.ОткрытьОбъект.Title=Открыть объект...
-Command.ОткрытьОбъект.ToolTip=Открыть текущий объект в спец. форме
-Title=Данные ХЗ
+Attribute._ДанныеДляОтображения.Title=Data for representation
+Attribute._ДеревоЗначений.Title=Value tree
+Attribute._ТаблицаЗначений.Title=Value table
+Command.ОткрытьОбъект.Title=Open object ...
+Command.ОткрытьОбъект.ToolTip=Open Current Object In Value. Form
+Title=Data KhZ

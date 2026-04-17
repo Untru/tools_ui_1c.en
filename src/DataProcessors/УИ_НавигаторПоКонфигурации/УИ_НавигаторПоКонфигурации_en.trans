@@ -7,4 +7,4 @@ Form.ФормаЗапуска1С.Name=Launch1CForm
 Form.ФормаПользовательИБ.Name=InfoBaseUserForm
 Form.ФормаСвойств.Name=PropertiesForm
 Name=UT_ConfigurationNavigator
-Template.МакетСервис.Name=МакетСервис
+Template.МакетСервис.Name=ServiceTemplate

@@ -1,21 +1,21 @@
 #Translations for: interface
 
-Attribute.РезультатПоиска.Title=Результат поиска
-Attribute.РезультатПоиска.Картинка.Title=Картинка
-Attribute.РезультатПоиска.МожноОткрыть.Title=Можно открыть
-Attribute.РезультатПоиска.НайденныйОбъект.Title=Найденный объект
-Attribute.РезультатПоиска.ПредставлениеОбъекта.Title=Представление объекта
-Attribute.РезультатПоиска.Ссылка.Title=Ссылка
-Attribute.РезультатПоиска.СсылочныйТип.Title=Ссылочный тип
-Attribute.РезультатПоиска.УникальныйИдентификатор.Title=Уникальный идентификатор
-Attribute.УникальныйИдентификаторИсточника.Title=Уникальный идентификатор источника
+Attribute.РезультатПоиска.Title=Search result
+Attribute.РезультатПоиска.Картинка.Title=Picture
+Attribute.РезультатПоиска.МожноОткрыть.Title=Can Open
+Attribute.РезультатПоиска.НайденныйОбъект.Title=Found Object
+Attribute.РезультатПоиска.ПредставлениеОбъекта.Title=Presentation Form
+Attribute.РезультатПоиска.Ссылка.Title=Ref
+Attribute.РезультатПоиска.СсылочныйТип.Title=Ref Type
+Attribute.РезультатПоиска.УникальныйИдентификатор.Title=UUID
+Attribute.УникальныйИдентификаторИсточника.Title=Source UUID
 Command.ИсходныйОбъектПоСсылке.Title=Source object by reference
-Command.ИсходныйОбъектПоСсылке.ToolTip=Исходный объект по навигационной ссылке
+Command.ИсходныйОбъектПоСсылке.ToolTip=Source Object By navigatsionnoy Ref
 Command.НайтиСсылки.Title=Find references
-Command.НайтиСсылки.ToolTip=Найти ссылки
+Command.НайтиСсылки.ToolTip=Find references
 Command.ОткрытьОбъект.Title=Open object
 Command.ПоискДляОбъекта.Title=Search for object
 Command.РедактироватьИсходныйОбъект.Title=Edit source object
 Command.РедактироватьОбъект.Title=Edit object
-Item.РезультатПоискаНайденныеСсылки.FooterText=Найдено ссылок\:
+Item.РезультатПоискаНайденныеСсылки.FooterText=Step Exceptions\:
 Item.УникальныйИдентификаторИсточника.Title=UUID

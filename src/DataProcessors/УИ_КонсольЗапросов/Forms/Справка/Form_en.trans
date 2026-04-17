@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.Текст.Name=Текст
+Attribute.Объект.Name=Object
+Attribute.Текст.Name=Text
 Item.ГруппаКоманднаяПанельВнизу.Name=BottomCommandBarGroup
 Item.КнопкаЗакрыть.Name=CloseButton

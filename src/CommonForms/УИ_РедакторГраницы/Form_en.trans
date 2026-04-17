@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.Вид.Name=Вид
-Attribute.Дата.Name=Дата
-Command.Применить.Name=Применить
-Item.ВидГраницы.ChoiceList.0.Value.Value=Включая
-Item.ВидГраницы.ChoiceList.1.Value.Value=Исключая
-Item.ВидГраницы.Name=ВидГраницы
+Attribute.Вид.Name=Type
+Attribute.Дата.Name=Date
+Command.Применить.Name=Get selection
+Item.ВидГраницы.ChoiceList.0.Value.Value=Vklyuchaya
+Item.ВидГраницы.ChoiceList.1.Value.Value=Isklyuchaya
+Item.ВидГраницы.Name=TypeBorders

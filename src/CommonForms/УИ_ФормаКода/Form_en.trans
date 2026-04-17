@@ -1,7 +1,7 @@
 #Translations for: model
 
-Attribute.ИмяМетодаДляПереходаКОпределению.Name=ИмяМетодаДляПереходаКОпределению
-Attribute.Код.Name=Код
-Attribute.ПолеКода.Name=ПолеКода
-Command.Поделиться.Name=Поделиться
-Command.СкопироватьВБуфер.Name=СкопироватьВБуфер
+Attribute.ИмяМетодаДляПереходаКОпределению.Name=NameMetodaToPerekhodaSOpredeleniyu
+Attribute.Код.Name=Code
+Attribute.ПолеКода.Name=FieldConsole
+Command.Поделиться.Name=Event
+Command.СкопироватьВБуфер.Name=CopyInBuffer

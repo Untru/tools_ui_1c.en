@@ -1,9 +1,9 @@
 #Translations for: model
 
-Attribute.АдресДвоичныхДанных.Name=АдресДвоичныхДанных
-Attribute.ВозвратХранилищаДляКонтейнераЗначения.Name=ВозвратХранилищаДляКонтейнераЗначения
-Attribute.Представление.Name=Представление
-Attribute.Размер.Name=Размер
-Command.ЗагрузитьИзФайла.Name=ЗагрузитьИзФайла
-Command.Применить.Name=Применить
-Command.СохранитьВФайл.Name=СохранитьВФайл
+Attribute.АдресДвоичныхДанных.Name=DestinationModuleSchema
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Name=VozvratStorageToSuffixForm
+Attribute.Представление.Name=Presentation
+Attribute.Размер.Name=File
+Command.ЗагрузитьИзФайла.Name=ImportFromLog
+Command.Применить.Name=Get selection
+Command.СохранитьВФайл.Name=SaveInFile

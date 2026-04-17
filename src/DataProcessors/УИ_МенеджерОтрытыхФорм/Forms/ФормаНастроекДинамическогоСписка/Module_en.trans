@@ -2,4 +2,4 @@
 
 Description=@strict-types
 Method.ПрименитьНастройки.String.ЗначениеРеквизита.Key=ЗначениеРеквизита
-Region.ОбработчикиКомандФормы.Name=ОбработчикиКомандФормы
+Region.ОбработчикиКомандФормы.Name=ReadCommandsForm

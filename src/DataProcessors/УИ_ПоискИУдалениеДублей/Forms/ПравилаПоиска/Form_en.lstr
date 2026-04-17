@@ -1,13 +1,13 @@
 #Translations for: interface
 
-Attribute.ОписаниеПрикладныхПравил.Title=С учетом ограничений
-Attribute.ПравилаПоиска.Title=Считать элементы дублями, если
-Attribute.ПравилаПоиска.Использовать.Title=Использовать
-Attribute.ПравилаПоиска.Правило.Title=Правило
-Attribute.ПравилаПоиска.ПредставлениеРеквизита.Title=Поле
-Attribute.УчитыватьПрикладныеПравила.Title=Учитывать ограничения\:
+Attribute.ОписаниеПрикладныхПравил.Title= Default restrictions
+Attribute.ПравилаПоиска.Title=Default duplicate criteria
+Attribute.ПравилаПоиска.Использовать.Title=Use
+Attribute.ПравилаПоиска.Правило.Title=Rule
+Attribute.ПравилаПоиска.ПредставлениеРеквизита.Title=Field
+Attribute.УчитыватьПрикладныеПравила.Title=Uchityvat By\:
 Command.ЗавершитьРедактирование.Title=OK
-Command.ЗавершитьРедактирование.ToolTip=Завершить редактирование
+Command.ЗавершитьРедактирование.ToolTip=Finish editing
 Item.ГруппаПрикладныхОграничений.Title=Default restrictions
 Item.ПравилаПоиска.Title=Search rules
 Item.ПравилаПоискаГруппа1.Title=Search rules group 1

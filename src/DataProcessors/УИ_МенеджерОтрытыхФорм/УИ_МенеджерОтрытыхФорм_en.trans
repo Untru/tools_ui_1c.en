@@ -1,13 +1,13 @@
 #Translations for: model
 
-Form.НастройкиОбработки.Name=НастройкиОбработки
-Form.ОбщегоНазначения.Name=ОбщегоНазначения
-Form.ОткрытиеФормы.Name=ОткрытиеФормы
-Form.РедактированиеНастройкиИзХранилища.Name=РедактированиеНастройкиИзХранилища
-Form.РедакторПроизвольныхЗначений.Name=РедакторПроизвольныхЗначений
-Form.РедакторСтруктурыСоответствия.Name=РедакторСтруктурыСоответствия
-Form.Форма.Name=Форма
-Form.ФормаНастроекДинамическогоСписка.Name=ФормаНастроекДинамическогоСписка
-Form.ФормаНастроекКомпоновки.Name=ФормаНастроекКомпоновки
-Form.ФормаРедакторXML.Name=ФормаРедакторXML
-Name=УИ_МенеджерОтрытыхФорм
+Form.НастройкиОбработки.Name=SettingsData processors
+Form.ОбщегоНазначения.Name=CommonName
+Form.ОткрытиеФормы.Name=OpenForm
+Form.РедактированиеНастройкиИзХранилища.Name=EditSettingsFromStorage
+Form.РедакторПроизвольныхЗначений.Name=DProizvolnykhTable
+Form.РедакторСтруктурыСоответствия.Name=DStructuresMap
+Form.Форма.Name=Form
+Form.ФормаНастроекДинамическогоСписка.Name=FormManagerListDialog
+Form.ФормаНастроекКомпоновки.Name=FormManagerComposition
+Form.ФормаРедакторXML.Name=FormDXML
+Name=UTManagerOtrytykhForm

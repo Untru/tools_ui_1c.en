@@ -1,12 +1,12 @@
 #Translations for: interface
 
-Explanation=Обработка замена стандартному меню "Все функции". Здесь же дополнительные административные фукнции будут
-ExtendedPresentation=Навигатор по конфигурации(Все функции)
+Explanation=Mode Replacement standartnomu menyu "All Functions". Zdes zhe Additional administrativnye fukntsii budut
+ExtendedPresentation=Navigator By L(All Functions)
 Form.Форма.Synonym=Form
 Form.ФормаБлокировкиСеансов.Synonym=Session lock form
 Form.ФормаВыбораМасштабаОтображения.Synonym=Display scale selection form
 Form.ФормаЗапуска1С.Synonym=Launch1 c form
-Form.ФормаПользовательИБ.Synonym=Пользователь информационной базы
+Form.ФормаПользовательИБ.Synonym=Username Directory Base
 Form.ФормаСвойств.Synonym=Properties form
 Synonym=Configuration Navigator (UT)
-Template.МакетСервис.Synonym=Макет сервис
+Template.МакетСервис.Synonym=Service template

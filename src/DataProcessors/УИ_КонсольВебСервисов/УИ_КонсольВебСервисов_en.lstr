@@ -1,7 +1,7 @@
 #Translations for: interface
 
-Explanation=Обработка для чтения и выполнения веб-сервисов на платформе 1С: Предприятие 8.3. Аналог soapUI. Обработка позволяет выполнить операцию веб-сервиса и отобразить результат в виде xml или дерева
-ExtendedPresentation=Консоль веб сервисов(WS)
+Explanation=Mode To Item T Executing Web-Services To platforme 1S: Predpriyatie 8.3. Analog soapUI. Mode pozvolyaet Execute Operation Web-Response T Show Result In vide Page XML Or Standart
+ExtendedPresentation=Console Web Services(WS)
 Form.Форма.Synonym=Form
 Form.ФормаВводаСтруктуры.Synonym=Form input structures
 Synonym=Console Web Services

@@ -1,18 +1,18 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.Список.Name=Список
-Attribute.Список.ВыбрасыватьИсключение.Name=ВыбрасыватьИсключение
-Attribute.Список.ВыполнятьВТранзакции.Name=ВыполнятьВТранзакции
-Attribute.Список.ВыполнятьПоРасписанию.Name=ВыполнятьПоРасписанию
-Attribute.Список.ЗаписыватьОшибкиВЖР.Name=ЗаписыватьОшибкиВЖР
-Attribute.Список.Идентификатор.Name=Идентификатор
-Attribute.Список.ИдентификаторHTTP.Name=ИдентификаторHTTP
-Attribute.Список.ИдентификаторРегламентногоЗадания.Name=ИдентификаторРегламентногоЗадания
-Attribute.Список.Комментарий.Name=Комментарий
-Attribute.Список.Кэшировать.Name=Кэшировать
-Attribute.Список.НаКлиенте.Name=НаКлиенте
-Attribute.Список.Наименование.Name=Наименование
-Attribute.Список.ТекстАлгоритма.Name=ТекстАлгоритма
-Command.Перечитать.Name=Перечитать
-Item.СписокТекстАлгоритма.Name=СписокТекстАлгоритма
+Attribute.Объект.Name=Object
+Attribute.Список.Name=Tasks
+Attribute.Список.ВыбрасыватьИсключение.Name=ThrowException
+Attribute.Список.ВыполнятьВТранзакции.Name=ExecuteInTransaction
+Attribute.Список.ВыполнятьПоРасписанию.Name=ExecuteBySchedule
+Attribute.Список.ЗаписыватьОшибкиВЖР.Name=WriteErrorsToEventLog
+Attribute.Список.Идентификатор.Name=UUID
+Attribute.Список.ИдентификаторHTTP.Name=HttpID
+Attribute.Список.ИдентификаторРегламентногоЗадания.Name=ScheduledJobUUID
+Attribute.Список.Комментарий.Name=Comment
+Attribute.Список.Кэшировать.Name=Cache
+Attribute.Список.НаКлиенте.Name=AtClient
+Attribute.Список.Наименование.Name=Description
+Attribute.Список.ТекстАлгоритма.Name=AlgorithmText
+Command.Перечитать.Name=Reread
+Item.СписокТекстАлгоритма.Name=TasksTextOption

@@ -1,9 +1,9 @@
 #Translations for: model
 
-Attribute.Информация.Name=Информация
-Attribute.ИнформацияФорматированная.Name=ИнформацияФорматированная
-Attribute.КодДляКопирования.Name=КодДляКопирования
-Attribute.Объект.Name=Объект
+Attribute.Информация.Name=Information
+Attribute.ИнформацияФорматированная.Name=InformationFormatted
+Attribute.КодДляКопирования.Name=CodeToKopirovaniya
+Attribute.Объект.Name=Object
 Item.ГруппаКартинки.Name=PicturesGroup
 Item.ГруппаНижняяПанель.Name=BottomPanelGroup
 Item.ГруппаОсновная.Name=MainGroup

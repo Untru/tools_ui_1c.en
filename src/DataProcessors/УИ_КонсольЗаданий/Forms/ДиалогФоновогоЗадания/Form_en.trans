@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.ИмяМетода.Name=ИмяМетода
-Attribute.Ключ.Name=Ключ
-Attribute.Наименование.Name=Наименование
-Attribute.Объект.Name=Объект
+Attribute.ИмяМетода.Name=NameMetoda
+Attribute.Ключ.Name=Key
+Attribute.Наименование.Name=Description
+Attribute.Объект.Name=Object
 Command.ОК.Name=OK
 Item.Описание.Name=DescriptionGroup

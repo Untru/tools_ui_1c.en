@@ -1,8 +1,8 @@
 #Translations for: model
 
 Command.ВопросРазработчику.Name=QuestionToDeveloper
-Command.ИнформацияДляТехподдержки.Name=ИнформацияДляТехподдержки
-Command.ОчиститьКэшИнструментовНаКлиенте.Name=ОчиститьКэшИнструментовНаКлиенте
+Command.ИнформацияДляТехподдержки.Name=InformationToTekhpodderzhki
+Command.ОчиститьКэшИнструментовНаКлиенте.Name=ClearEditorToolsToClient
 Command.ПроверитьНеобходимостьОбновления.Name=CheckUpdate
 Command.СтраницаРазработки.Name=AboutPage
 Form.ОбновлениеИнструментов.Name=UpdateTools

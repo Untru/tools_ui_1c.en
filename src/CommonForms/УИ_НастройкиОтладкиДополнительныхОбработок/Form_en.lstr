@@ -1,9 +1,9 @@
 #Translations for: interface
 
-Attribute.ИмяФайлаНаСервере.Title=Имя файла на сервере
-Attribute.ОтладкаВключена.Title=Отладка включена
-Attribute.ЭтоОтчет.Title=Это отчет
-Command.Применить.Title=Применить
-Item.ИмяФайлаНаСервере.ToolTip=Файл должен быть доступен на сервере. 
+Attribute.ИмяФайлаНаСервере.Title=File name at server
+Attribute.ОтладкаВключена.Title=Debug enabled
+Attribute.ЭтоОтчет.Title=Is report
+Command.Применить.Title=Get selection
+Item.ИмяФайлаНаСервере.ToolTip=File dolzhen byt Available To Server. 
 Item.ОтладкаВключена.EditFormat=БЛ\=Отключена; БИ\=Включена
-Item.ОтладкаВключена.Title=Состояние отладки
+Item.ОтладкаВключена.Title=State Managed

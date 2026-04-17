@@ -1,9 +1,9 @@
 #Translations for: interface
 
-Command.ВыполнитьАлгоритм.Title=Выполнить алгоритм
-Item.ВыполнитьВТранзакции.Title=В транзакциии
-Item.Кэшировать.Title=Кэшировать
-Item.НаКлиенте.Title=На клиенте
-Item.ПодключитьИнтерфейсПользователя.Title=Интерфейс
-Item.ПрограммныйИнтерфейс.Title=Интерфейс
-Item.СписокКомпоновщикНастроекПользовательскиеНастройки.Title=Группа пользовательских настроек
+Command.ВыполнитьАлгоритм.Title=Execute Algorithm
+Item.ВыполнитьВТранзакции.Title=In tranzaktsiii
+Item.Кэшировать.Title=Cache
+Item.НаКлиенте.Title=At client
+Item.ПодключитьИнтерфейсПользователя.Title=Interface
+Item.ПрограммныйИнтерфейс.Title=Interface
+Item.СписокКомпоновщикНастроекПользовательскиеНастройки.Title=Group Fields Manager

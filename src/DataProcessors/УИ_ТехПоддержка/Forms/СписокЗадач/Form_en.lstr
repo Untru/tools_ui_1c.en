@@ -1,14 +1,14 @@
 #Translations for: interface
 
-Attribute.НоваяЗадачаОписание.Title=Описание
-Attribute.НоваяЗадачаТема.Title=Тема
-Attribute.СписокЗадач.Title=Список задач
+Attribute.НоваяЗадачаОписание.Title=Description
+Attribute.НоваяЗадачаТема.Title=Subject
+Attribute.СписокЗадач.Title=Issues list
 Attribute.СписокЗадач.URL.Title=URL
-Attribute.СписокЗадач.Номер.Title=Номер
-Attribute.СписокЗадач.Ответственный.Title=Ответственный
-Attribute.СписокЗадач.Статус.Title=Статус
-Attribute.СписокЗадач.Теги.Title=Теги
-Attribute.СписокЗадач.Тема.Title=Тема
+Attribute.СписокЗадач.Номер.Title=Number
+Attribute.СписокЗадач.Ответственный.Title=Otvetstvennyy
+Attribute.СписокЗадач.Статус.Title=Status
+Attribute.СписокЗадач.Теги.Title=Tags
+Attribute.СписокЗадач.Тема.Title=Subject
 Command.ОбновитьСписокЗадач.Title=Update issues list
 Command.СоздатьНовуюЗадачу.Title=Create new issue
 Command.СоздатьНовуюЗадачуНаГитхабе.Title=Create new issue at GitHub
@@ -17,4 +17,3 @@ Item.ГруппаНоваяЗадача.Title=New issue
 Item.ГруппаСписокЗадач.Title=Issues List
 Item.ГруппаСтраницы.Title=Pages group
 Item.ДекорацияПредупреждение.Title=<b>IMPORTANT!!!</><b> </>If you create a task not via  <link https://github.com/cpr1c/tools_ui_1c/issues>https://github.com</>, and through this form you <b>WILL</><b> </><b>NOT</><b> </><b> </><b>receive</><b> </><b>notifications</> about its change
-

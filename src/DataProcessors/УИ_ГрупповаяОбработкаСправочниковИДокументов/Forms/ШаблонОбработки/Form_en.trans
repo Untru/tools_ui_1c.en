@@ -1,16 +1,16 @@
 #Translations for: model
 
-Attribute.НайденныеОбъекты.Name=НайденныеОбъекты
-Attribute.ОбъектОбработки.Name=ОбъектОбработки
-Attribute.ОбъектПоиска.Name=ОбъектПоиска
-Attribute.Родитель.Name=Родитель
-Attribute.ТекущаяНастройка.Name=ТекущаяНастройка
-Attribute.ТекущаяНастройкаПредставление.Name=ТекущаяНастройкаПредставление
-Attribute.ТекущаяСтрока.Name=ТекущаяСтрока
-Command.ВыполнитьКоманду.Handler.Name=ВыполнитьОбработкуКоманда
-Command.ВыполнитьКоманду.Name=ВыполнитьКоманду
-Command.СохранитьНастройки.Handler.Name=СохранитьНастройкиКоманда
-Command.СохранитьНастройки.Name=СохранитьНастройки
+Attribute.НайденныеОбъекты.Name=FoundObjects
+Attribute.ОбъектОбработки.Name=ObjectData processors
+Attribute.ОбъектПоиска.Name=SearchObject
+Attribute.Родитель.Name=Parent
+Attribute.ТекущаяНастройка.Name=CurrentSetting
+Attribute.ТекущаяНастройкаПредставление.Name=CurrentSettingsPresentation
+Attribute.ТекущаяСтрока.Name=CurrentString
+Command.ВыполнитьКоманду.Handler.Name=ExecuteProcessorCommand
+Command.ВыполнитьКоманду.Name=ExecuteCommand
+Command.СохранитьНастройки.Handler.Name=SaveSettingsCommand
+Command.СохранитьНастройки.Name=SaveSettings
 Item.ВыполнитьОбработку.Name=ExecuteCommand
 Item.ГруппаКнопки.Name=GroupCommand
 Item.ТекущаяНастройка.Name=CurrentSetting

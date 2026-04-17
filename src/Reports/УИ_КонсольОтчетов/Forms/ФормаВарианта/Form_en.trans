@@ -1,11 +1,11 @@
 #Translations for: model
 
-Attribute.ЛокальноеУсловноеОформление.Name=ЛокальноеУсловноеОформление
-Attribute.ЛокальныеВыбранныеПоля.Name=ЛокальныеВыбранныеПоля
-Attribute.ЛокальныеПараметрыВывода.Name=ЛокальныеПараметрыВывода
-Attribute.ЛокальныйОтбор.Name=ЛокальныйОтбор
-Attribute.ЛокальныйПорядок.Name=ЛокальныйПорядок
-Attribute.Отчет.Name=Отчет
+Attribute.ЛокальноеУсловноеОформление.Name=LokalnoeConditionalAppearance
+Attribute.ЛокальныеВыбранныеПоля.Name=LokalnyeSelectedFields
+Attribute.ЛокальныеПараметрыВывода.Name=LokalnyeParametersOutput
+Attribute.ЛокальныйОтбор.Name=LokalnyyFilter
+Attribute.ЛокальныйПорядок.Name=LokalnyyOrder
+Attribute.Отчет.Name=Report
 Item.ДоступныеПоляВыбора.Name=SelectionAvailableFields
 Item.ДоступныеПоляГруппировки.Name=GroupFieldsAvailableFields
 Item.ДоступныеПоляОтбора.Name=AvailableFilterFields
@@ -82,4 +82,4 @@ Item.СтраницыПорядка.Name=OrderPages
 Item.СтраницыУсловногоОформления.Name=ConditionalAppearancePages
 Item.Структура.Name=Settings
 Item.УсловноеОформление.Name=ConditionalAppearance
-Parameter.АдресСхемыИсполненногоОтчета.Name=АдресСхемыИсполненногоОтчета
+Parameter.АдресСхемыИсполненногоОтчета.Name=DestinationCompositionIspolnennogoBuilder

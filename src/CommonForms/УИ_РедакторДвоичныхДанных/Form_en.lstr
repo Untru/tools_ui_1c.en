@@ -1,9 +1,9 @@
 #Translations for: interface
 
-Attribute.АдресДвоичныхДанных.Title=Адрес двоичных данных
-Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Возврат хранилища для контейнера значения
-Attribute.Представление.Title=Представление
-Attribute.Размер.Title=Размер
-Command.ЗагрузитьИзФайла.Title=Загрузить из файла
-Command.Применить.Title=Применить
-Command.СохранитьВФайл.Title=Сохранить в файл
+Attribute.АдресДвоичныхДанных.Title=Destination Module Schema
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Title=Vozvrat Storage To Suffix Form
+Attribute.Представление.Title=Presentation
+Attribute.Размер.Title=File
+Command.ЗагрузитьИзФайла.Title=Import From Log
+Command.Применить.Title=Get selection
+Command.СохранитьВФайл.Title=Save to file

@@ -1,4 +1,4 @@
 #Translations for: model
 
-Method.ОбработкаКоманды.Var.ПараметрыФормы.Name=ПараметрыФормы
-Region.ОбработчикиСобытий.Name=ОбработчикиСобытий
+Method.ОбработкаКоманды.Var.ПараметрыФормы.Name=ParametersForm
+Region.ОбработчикиСобытий.Name=EventHandlers

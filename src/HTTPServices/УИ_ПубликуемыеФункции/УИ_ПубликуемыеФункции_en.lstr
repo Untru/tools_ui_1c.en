@@ -1,6 +1,6 @@
 #Translations for: interface
 
-Synonym=Публикуемые функции
+Synonym=Published Functions
 URLTemplate.Ping.Method.GET.Synonym=GET
 URLTemplate.Ping.Synonym=Ping
 URLTemplate.ВыполнениеАлгоритмов.Method.GET.Synonym=Algoritms execution

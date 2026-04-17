@@ -1,7 +1,7 @@
 #Translations for: interface
 
-Explanation=Представляющая из себя обертку функций Утилиты лицензирования 1С (ring) в понятном для обычного человека виде. По сути, это GUI утилиты RING
-ExtendedPresentation=Информация о лицензиях 1С
+Explanation=Predstavlyayushchaya From sebya obertku funktsiy Utility litsenzirovaniya 1S (ring) In ponyatnom To obychnogo cheloveka vide. By suti, Is GUI utility RING
+ExtendedPresentation=Information D litsenziyakh 1S
 Form.Форма.Synonym=Form
 Form.ФормаАктивацииЛицензии.Synonym=Form license activation
 Synonym=1C License information [UT]

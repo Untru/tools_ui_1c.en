@@ -1,5 +1,5 @@
 #Translations for: interface
 
-Method.КомандаЗаполнитьИзФайлов.Var.Фильтр.NStr.XML\ строка.Lines=XML строка
-Method.КомандаЗаполнитьИзФайлов.Var.Фильтр.NStr.Текстовый\ документ.Lines=Текстовый документ
+Method.КомандаЗаполнитьИзФайлов.Var.Фильтр.NStr.XML\ строка.Lines=Page XML String
+Method.КомандаЗаполнитьИзФайлов.Var.Фильтр.NStr.Текстовый\ документ.Lines=Tekstovyy Document
 Method.КомандаПередатьВСтрокуXML.Var.Фильтр.NStr.XML.Lines=XML

@@ -1,20 +1,20 @@
 #Translations for: model
 
 Method.ИзменитьПараметр.Name=EditParameter
-Method.ИзменитьПараметр.Param.ВходящееЗначение.Name=ВходящееЗначение
-Method.ИзменитьПараметр.Param.Ключ.Name=Ключ
-Method.ИзменитьПараметр.Var.ПараметрыХранилища.Name=ПараметрыХранилища
+Method.ИзменитьПараметр.Param.ВходящееЗначение.Name=VkhodyashcheeValue
+Method.ИзменитьПараметр.Param.Ключ.Name=Key
+Method.ИзменитьПараметр.Var.ПараметрыХранилища.Name=ParametersStorage
 Method.ПереименоватьПараметр.Name=RenameParameter
-Method.ПереименоватьПараметр.Param.Ключ.Name=Ключ
-Method.ПереименоватьПараметр.Param.НовИмя.Name=НовИмя
-Method.ПереименоватьПараметр.Var.Значение.Name=Значение
-Method.ПереименоватьПараметр.Var.ПараметрыХранилища.Name=ПараметрыХранилища
+Method.ПереименоватьПараметр.Param.Ключ.Name=Key
+Method.ПереименоватьПараметр.Param.НовИмя.Name=NovName
+Method.ПереименоватьПараметр.Var.Значение.Name=Value
+Method.ПереименоватьПараметр.Var.ПараметрыХранилища.Name=ParametersStorage
 Method.ПолучитьПараметр.Name=GetParameter
-Method.ПолучитьПараметр.Param.НаименованиеПараметра.Name=НаименованиеПараметра
-Method.ПолучитьПараметр.Var.ПараметрыХранилища.Name=ПараметрыХранилища
+Method.ПолучитьПараметр.Param.НаименованиеПараметра.Name=DescriptionValue
+Method.ПолучитьПараметр.Var.ПараметрыХранилища.Name=ParametersStorage
 Method.ПолучитьПараметры.Name=GetParameters
-Method.ПолучитьПараметры.Var.ПараметрыХранилища.Name=ПараметрыХранилища
+Method.ПолучитьПараметры.Var.ПараметрыХранилища.Name=ParametersStorage
 Method.УдалитьПараметр.Name=RemoveParameter
-Method.УдалитьПараметр.Param.Ключ.Name=Ключ
-Method.УдалитьПараметр.Var.ПараметрыХранилища.Name=ПараметрыХранилища
-Region.СлужебныйПрограммныйИнтерфейс.Name=СлужебныйПрограммныйИнтерфейс
+Method.УдалитьПараметр.Param.Ключ.Name=Key
+Method.УдалитьПараметр.Var.ПараметрыХранилища.Name=ParametersStorage
+Region.СлужебныйПрограммныйИнтерфейс.Name=InternalProgrammnyyInterface

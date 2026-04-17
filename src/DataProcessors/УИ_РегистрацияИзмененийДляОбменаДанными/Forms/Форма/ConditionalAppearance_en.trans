@@ -1,14 +1,14 @@
 #Translations for: model
 
-Items.0.Appearance.Items.1.Values.0.Value=Не выгружалось
-Items.0.Filter.Items.0.Left.Value=СписокСсылок.НеВыгружалось
-Items.0.Selection.Items.0.Field.Value=СписокСсылокНомерСообщения
-Items.1.Appearance.Items.1.Values.0.Value=Не выгружалось
-Items.1.Filter.Items.0.Left.Value=СписокКонстант.НеВыгружалось
-Items.1.Selection.Items.0.Field.Value=СписокКонстантНомерСообщения
-Items.2.Appearance.Items.1.Values.0.Value=Не выгружалось
-Items.2.Filter.Items.0.Left.Value=СписокНаборовЗаписей.НеВыгружалось
-Items.2.Selection.Items.0.Field.Value=СписокНаборовЗаписейНомерСообщения
-Items.3.Appearance.Items.1.Values.0.Value=Нет изменений
-Items.3.Filter.Items.0.Left.Value=ДеревоМетаданных.КоличествоИзменений
-Items.3.Selection.Items.0.Field.Value=ДеревоМетаданныхКоличествоИзмененийСтрокой
+Items.0.Appearance.Items.1.Values.0.Value=Dont vygruzhalos
+Items.0.Filter.Items.0.Left.Value=SpisokSsylok.NeVygruzhalos
+Items.0.Selection.Items.0.Field.Value=SpisokSsylokNomerSoobshcheniya
+Items.1.Appearance.Items.1.Values.0.Value=Dont vygruzhalos
+Items.1.Filter.Items.0.Left.Value=SpisokKonstant.NeVygruzhalos
+Items.1.Selection.Items.0.Field.Value=SpisokKonstantNomerSoobshcheniya
+Items.2.Appearance.Items.1.Values.0.Value=Dont vygruzhalos
+Items.2.Filter.Items.0.Left.Value=SpisokNaborovZapisey.NeVygruzhalos
+Items.2.Selection.Items.0.Field.Value=SpisokNaborovZapiseyNomerSoobshcheniya
+Items.3.Appearance.Items.1.Values.0.Value=Objects Changes
+Items.3.Filter.Items.0.Left.Value=DerevoMetadannykh.KolichestvoIzmeneniy
+Items.3.Selection.Items.0.Field.Value=DerevoMetadannykhKolichestvoIzmeneniyStrokoy

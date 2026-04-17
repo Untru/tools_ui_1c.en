@@ -1,6 +1,6 @@
 #Translations for: model
 
-Items.0.Filter.Items.0.Left.Value=Список.ЭтоГруппа
-Items.0.Selection.Items.0.Field.Value=НаКлиенте
-Items.0.Selection.Items.1.Field.Value=Кэшировать
-Items.0.Selection.Items.2.Field.Value=РегламентноеЗадание
+Items.0.Filter.Items.0.Left.Value=Tasks.EtoGruppa
+Items.0.Selection.Items.0.Field.Value=AtClient
+Items.0.Selection.Items.1.Field.Value=Cache
+Items.0.Selection.Items.2.Field.Value=ReglamentnoeZadanie

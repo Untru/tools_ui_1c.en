@@ -1,19 +1,19 @@
 #Translations for: interface
 
-Attribute.ПоказыватьСиноним.Title=Показывать синоним
-Attribute.СтрокаПоиска.Title=Строка поиска
-Attribute.ТаблицаКонстант.Title=Таблица констант
-Attribute.ТаблицаКонстант.ЗначениеКонстанты.Title=Значение
-Attribute.ТаблицаКонстант.Изменено.Title=Изменено
-Attribute.ТаблицаКонстант.ИмяКонстанты.Title=Имя
-Attribute.ТаблицаКонстант.Найдено.Title=Найдено
-Attribute.ТаблицаКонстант.ОписаниеТипов.Title=Тип
-Attribute.ТаблицаКонстант.ПривилегированныйРежимПриПолучении.Title=Привилегированный режим
-Attribute.ТаблицаКонстант.СинонимКонстанты.Title=Синоним
-Attribute.ТаблицаКонстант.ФОпция.Title=Ф.опция
+Attribute.ПоказыватьСиноним.Title=Show Synonym
+Attribute.СтрокаПоиска.Title=Search string
+Attribute.ТаблицаКонстант.Title=Constants Table
+Attribute.ТаблицаКонстант.ЗначениеКонстанты.Title=Value
+Attribute.ТаблицаКонстант.Изменено.Title=Izmeneno
+Attribute.ТаблицаКонстант.ИмяКонстанты.Title=Name
+Attribute.ТаблицаКонстант.Найдено.Title=Step
+Attribute.ТаблицаКонстант.ОписаниеТипов.Title=Type
+Attribute.ТаблицаКонстант.ПривилегированныйРежимПриПолучении.Title=Privilegirovannyy Mode
+Attribute.ТаблицаКонстант.СинонимКонстанты.Title=Sinonim
+Attribute.ТаблицаКонстант.ФОпция.Title=F.Algorithm
 Command.Записать.Title=Write
-Command.Записать.ToolTip=Записать
+Command.Записать.ToolTip=Write
 Command.Перечитать.Title=Reread
-Item.ГруппаДополнительнаяИнформацияТекущейКонстанты.Title=Группа1
-Item.ГруппаПараметрыЗаписи.CollapsedRepresentationTitle=Параметры записи
+Item.ГруппаДополнительнаяИнформацияТекущейКонстанты.Title=Group1
+Item.ГруппаПараметрыЗаписи.CollapsedRepresentationTitle=Write parameters
 Item.ГруппаПараметрыЗаписи.Title=Group write parametrs

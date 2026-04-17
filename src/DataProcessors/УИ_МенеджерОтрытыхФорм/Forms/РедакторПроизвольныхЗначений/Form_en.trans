@@ -1,12 +1,12 @@
 #Translations for: model
 
-Attribute.ВспомогательныеДанныеИнструмента.Name=ВспомогательныеДанныеИнструмента
-Attribute.ПараметрыРаботыИнструмента.Name=ПараметрыРаботыИнструмента
-Attribute.Реквизит1.Name=Реквизит1
-Attribute.Реквизит2.Name=Реквизит2
-Command.Команда_Применить.Name=Команда_Применить
-Item.ФормаИзменитьФорму.Name=ФормаИзменитьФорму
-Parameter.ДополнительныеПараметры.Name=ДополнительныеПараметры
-Parameter.ОбщиеПараметры.Name=ОбщиеПараметры
-Parameter.ОписанияЗначений.Name=ОписанияЗначений
-Parameter.ПроизвольныеЗначения.Name=ПроизвольныеЗначения
+Attribute.ВспомогательныеДанныеИнструмента.Name=DataDataChoosing
+Attribute.ПараметрыРаботыИнструмента.Name=ParametersOptionChoosing
+Attribute.Реквизит1.Name=Attribute1
+Attribute.Реквизит2.Name=Attribute2
+Command.Команда_Применить.Name=CommandGet selection
+Item.ФормаИзменитьФорму.Name=FormChangeHandlers
+Parameter.ДополнительныеПараметры.Name=AdditionalParameters
+Parameter.ОбщиеПараметры.Name=CommonParameters
+Parameter.ОписанияЗначений.Name=LTable
+Parameter.ПроизвольныеЗначения.Name=ProizvolnyeForm

@@ -1,12 +1,12 @@
 #Translations for: interface
 
-Attribute.Использование.Title=Использование
-Attribute.Ключ.Title=Ключ
-Attribute.МетаданныеВыбор.Title=Метаданные выбор
-Attribute.Наименование.Title=Наименование
-Attribute.Предопределенное.Title=Предопределенное
+Attribute.Использование.Title=Use
+Attribute.Ключ.Title=Key
+Attribute.МетаданныеВыбор.Title=Metadata choice
+Attribute.Наименование.Title=Description
+Attribute.Предопределенное.Title=Predefined
 Command.ОК.Title=OK
-Command.ОК.ToolTip=ОК
+Command.ОК.ToolTip=Ok
 Item.Общие.Title=Common
-Item.Общие.ToolTip=Общие
-Title=Отбор
+Item.Общие.ToolTip=Common
+Title=Filter

@@ -1,19 +1,19 @@
 #Translations for: model
 
-Attribute.ИдентификаторФормы.Name=ИдентификаторФормы
-Attribute.ИмяФайла.Name=ИмяФайла
-Attribute.ОчиститьДанныеИнструментаПередЗаполнением.Name=ОчиститьДанныеИнструментаПередЗаполнением
-Attribute.ПрочитатьФайлВоВременноеХранилище.Name=ПрочитатьФайлВоВременноеХранилище
-Attribute.Текст.Name=Текст
-Attribute.Формат.Name=Формат
-Attribute.ФорматыИмпорта.Name=ФорматыИмпорта
-Attribute.ФорматыИмпорта.ВариантСодержимого.Name=ВариантСодержимого
-Attribute.ФорматыИмпорта.Идентификатор.Name=Идентификатор
-Attribute.ФорматыИмпорта.Представление.Name=Представление
-Attribute.ФорматыИмпорта.ФильтрФайловДляДиалога.Name=ФильтрФайловДляДиалога
-Command.Загрузить.Name=Загрузить
-Item.ГруппаСтраницаВыборФайла.Name=ГруппаСтраницаВыборФайла
-Item.ГруппаСтраницаНеВыбранФормат.Name=ГруппаСтраницаНеВыбранФормат
-Item.ГруппаСтраницаТекст.Name=ГруппаСтраницаТекст
-Item.ГруппаСтраницы.Name=ГруппаСтраницы
-Item.ДекорацияВыберитеФормат.Name=ДекорацияВыберитеФормат
+Attribute.ИдентификаторФормы.Name=UUIDForm
+Attribute.ИмяФайла.Name=NameLog
+Attribute.ОчиститьДанныеИнструментаПередЗаполнением.Name=ClearDataChoosingBeforeZapolneniem
+Attribute.ПрочитатьФайлВоВременноеХранилище.Name=ReadFileToTempStorage
+Attribute.Текст.Name=Text
+Attribute.Формат.Name=Format
+Attribute.ФорматыИмпорта.Name=FormatyFile
+Attribute.ФорматыИмпорта.ВариантСодержимого.Name=SettingsSoderzhimogo
+Attribute.ФорматыИмпорта.Идентификатор.Name=UUID
+Attribute.ФорматыИмпорта.Представление.Name=Presentation
+Attribute.ФорматыИмпорта.ФильтрФайловДляДиалога.Name=PagesCollectionToDialog
+Command.Загрузить.Name=Import
+Item.ГруппаСтраницаВыборФайла.Name=GroupAboutSelectLog
+Item.ГруппаСтраницаНеВыбранФормат.Name=GroupAboutDontVybranFormat
+Item.ГруппаСтраницаТекст.Name=GroupAboutText
+Item.ГруппаСтраницы.Name=GroupPages
+Item.ДекорацияВыберитеФормат.Name=DecorationVyberiteFormat

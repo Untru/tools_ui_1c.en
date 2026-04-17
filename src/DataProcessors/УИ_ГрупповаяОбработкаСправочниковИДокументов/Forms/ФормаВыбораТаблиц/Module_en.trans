@@ -1,14 +1,14 @@
 #Translations for: model
 
-Method.Выбрать.Comment.ИмяТипаОбъекта\ \=\ ?(ТипОбъекта\ \=\ 1,"Документ","Справочник");.Description=ИмяТипаОбъекта \= ?(ТипОбъекта \= 1,"Документ","Справочник");
+Method.Выбрать.Comment.ИмяТипаОбъекта\ \=\ ?(ObjectType\ \=\ 1,"Document","Group");.Description=ImyaTipaObekta \= ?(ObjectType \= 1,"Document","Group");
 Method.Выбрать.String.Word.ТЧ.Key=ТЧ
-Method.Выбрать.Var.Строка.Name=Строка
-Method.Выбрать.Var.СтрокаТаблицы.Name=СтрокаТаблицы
-Method.ДеревоТаблицПометкаПриИзменении.Var.ПометкаРодителя.Name=ПометкаРодителя
-Method.ДеревоТаблицПометкаПриИзменении.Var.Строка.Name=Строка
-Method.ДеревоТаблицПометкаПриИзменении.Var.ТекущиеДанные.Name=ТекущиеДанные
-Method.ПриСозданииНаСервере.Comment.ИмяТипаОбъекта\ \=\ ?(ТипОбъекта\ \=\ 1,"Документ","Справочник");.Description=ИмяТипаОбъекта \= ?(ТипОбъекта \= 1,"Документ","Справочник");
-Method.ПриСозданииНаСервере.Var.Дерево.Name=Дерево
+Method.Выбрать.Var.Строка.Name=String
+Method.Выбрать.Var.СтрокаТаблицы.Name=StringTable
+Method.ДеревоТаблицПометкаПриИзменении.Var.ПометкаРодителя.Name=CheckParent
+Method.ДеревоТаблицПометкаПриИзменении.Var.Строка.Name=String
+Method.ДеревоТаблицПометкаПриИзменении.Var.ТекущиеДанные.Name=CurrentData
+Method.ПриСозданииНаСервере.Comment.ИмяТипаОбъекта\ \=\ ?(ObjectType\ \=\ 1,"Document","Group");.Description=ImyaTipaObekta \= ?(ObjectType \= 1,"Document","Group");
+Method.ПриСозданииНаСервере.Var.Дерево.Name=Tree
 Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.по.Key=по
 Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.табличным.Key=табличным
 Method.ПриСозданииНаСервере.Var.Заголовок.String.Word.частям.Key=частям
@@ -16,15 +16,15 @@ Method.ПриСозданииНаСервере.Var.Заголовок.String.д
 Method.ПриСозданииНаСервере.Var.Заголовок.String.документов.Key=документов
 Method.ПриСозданииНаСервере.Var.Заголовок.String.справочникам.Key=справочникам
 Method.ПриСозданииНаСервере.Var.Заголовок.String.справочников.Key=справочников
-Method.ПриСозданииНаСервере.Var.ИмяМетаданного.Name=ИмяМетаданного
-Method.ПриСозданииНаСервере.Var.ИмяТаблицы.Name=ИмяТаблицы
-Method.ПриСозданииНаСервере.Var.Метаданное.Name=Метаданное
-Method.ПриСозданииНаСервере.Var.МетаданныеОбъектов.Name=МетаданныеОбъектов
-Method.ПриСозданииНаСервере.Var.ПометкаРодителя.Name=ПометкаРодителя
-Method.ПриСозданииНаСервере.Var.Строка.Name=Строка
-Method.ПриСозданииНаСервере.Var.СтрокаТЧ.Name=СтрокаТЧ
-Method.ПриСозданииНаСервере.Var.ТабличнаяЧасть.Name=ТабличнаяЧасть
+Method.ПриСозданииНаСервере.Var.ИмяМетаданного.Name=NameSize
+Method.ПриСозданииНаСервере.Var.ИмяТаблицы.Name=NameTable
+Method.ПриСозданииНаСервере.Var.Метаданное.Name=Metadannoe
+Method.ПриСозданииНаСервере.Var.МетаданныеОбъектов.Name=MetadataWriting
+Method.ПриСозданииНаСервере.Var.ПометкаРодителя.Name=CheckParent
+Method.ПриСозданииНаСервере.Var.Строка.Name=String
+Method.ПриСозданииНаСервере.Var.СтрокаТЧ.Name=StringConfigP
+Method.ПриСозданииНаСервере.Var.ТабличнаяЧасть.Name=SourceTabular
 Method.УстановитьПометкуНаВсеСтроки.Name=SetChecksOnAllLines
-Method.УстановитьПометкуНаВсеСтроки.Param.НоваяПометка.Name=НоваяПометка
-Method.УстановитьПометкуНаВсеСтроки.Var.Строка.Name=Строка
-Method.УстановитьПометкуНаВсеСтроки.Var.СтрокаТаблицы.Name=СтрокаТаблицы
+Method.УстановитьПометкуНаВсеСтроки.Param.НоваяПометка.Name=NewCheck
+Method.УстановитьПометкуНаВсеСтроки.Var.Строка.Name=String
+Method.УстановитьПометкуНаВсеСтроки.Var.СтрокаТаблицы.Name=StringTable

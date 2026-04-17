@@ -1,10 +1,10 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.СписокНастроек.Name=СписокНастроек
-Attribute.СписокНастроек.Значение.Name=Значение
-Attribute.СписокНастроек.Пометка.Name=Пометка
-Attribute.СписокНастроек.Представление.Name=Представление
+Attribute.Объект.Name=Object
+Attribute.СписокНастроек.Name=TasksManager
+Attribute.СписокНастроек.Значение.Name=Value
+Attribute.СписокНастроек.Пометка.Name=Check
+Attribute.СписокНастроек.Представление.Name=Presentation
 Command.ОК.Handler.Name=OK
 Command.ОК.Name=OK
 Command.Отмена.Handler.Name=Cancel

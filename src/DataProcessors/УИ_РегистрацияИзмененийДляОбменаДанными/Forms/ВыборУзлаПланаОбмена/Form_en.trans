@@ -1,17 +1,17 @@
 #Translations for: model
 
-Attribute.ДеревоУзловОбмена.Name=ДеревоУзловОбмена
-Attribute.ДеревоУзловОбмена.ИндексКартинки.Name=ИндексКартинки
-Attribute.ДеревоУзловОбмена.Код.Name=Код
-Attribute.ДеревоУзловОбмена.Наименование.Name=Наименование
-Attribute.ДеревоУзловОбмена.Пометка.Name=Пометка
-Attribute.ДеревоУзловОбмена.Ссылка.Name=Ссылка
-Attribute.МножественныйВыбор.Name=МножественныйВыбор
-Attribute.Объект.Name=Объект
+Attribute.ДеревоУзловОбмена.Name=TreeChangeEncoding
+Attribute.ДеревоУзловОбмена.ИндексКартинки.Name=PictureIndex
+Attribute.ДеревоУзловОбмена.Код.Name=Code
+Attribute.ДеревоУзловОбмена.Наименование.Name=Description
+Attribute.ДеревоУзловОбмена.Пометка.Name=Check
+Attribute.ДеревоУзловОбмена.Ссылка.Name=Ref
+Attribute.МножественныйВыбор.Name=MnozhestvennyySelect
+Attribute.Объект.Name=Object
 Command.ВыбратьУзел.Name=SelectNode
 Command.ИзменитьУзел.Name=ChangeNode
 Command.РедактироватьОбъект.Name=EditObject
-Item.ДеревоУзловОбменаКонтекстноеМенюГруппа1.Name=ДеревоУзловОбменаКонтекстноеМенюГруппа1
+Item.ДеревоУзловОбменаКонтекстноеМенюГруппа1.Name=TreeChangeEncodingKontekstnoeMenyuGroup1
 Item.ДеревоУзловОбменаПометкаНаименование.Name=ExchangeNodesTreeDescriptionCheckMark
-Parameter.МножественныйВыбор.Name=МножественныйВыбор
-Parameter.НачальноеЗначениеВыбора.Name=НачальноеЗначениеВыбора
+Parameter.МножественныйВыбор.Name=MnozhestvennyySelect
+Parameter.НачальноеЗначениеВыбора.Name=NachalnoeValueScale

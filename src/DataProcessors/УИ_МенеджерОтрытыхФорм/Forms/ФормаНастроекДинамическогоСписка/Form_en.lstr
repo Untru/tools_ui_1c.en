@@ -1,12 +1,12 @@
 #Translations for: interface
 
-Command.ПрименитьНастройки.Title=Применить настройки
-Command.ПрименитьНастройки.ToolTip=Применить настройки
-Item.КомпоновщикНастроекПользовательскиеНастройки.Title=Пользовательские настройки
-Item.ОбычныеНастройки.Title=Обычные
-Item.ОбычныеНастройки.ToolTip=Обычные настройки
-Item.ПользовательскиеНастройки.Title=Пользовательские
-Item.ПользовательскиеНастройки.ToolTip=Пользовательские настройки
-Item.Страницы.ToolTip=Страницы
-Item.ФиксированныеНастройки.Title=Фиксированные
-Item.ФиксированныеНастройки.ToolTip=Фиксированные настройки
+Command.ПрименитьНастройки.Title=Get selection Settings
+Command.ПрименитьНастройки.ToolTip=Get selection Settings
+Item.КомпоновщикНастроекПользовательскиеНастройки.Title=User settings
+Item.ОбычныеНастройки.Title=Standart settings
+Item.ОбычныеНастройки.ToolTip=Standart settings Settings
+Item.ПользовательскиеНастройки.Title=Group3
+Item.ПользовательскиеНастройки.ToolTip=User settings
+Item.Страницы.ToolTip=Pages
+Item.ФиксированныеНастройки.Title=Fixed settings
+Item.ФиксированныеНастройки.ToolTip=Fixed settings Settings

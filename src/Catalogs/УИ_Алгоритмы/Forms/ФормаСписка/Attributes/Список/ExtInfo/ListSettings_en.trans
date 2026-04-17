@@ -1,7 +1,7 @@
 #Translations for: model
 
-ConditionalAppearance.Items.0.Filter.Items.0.Left.Value=Наименование
+ConditionalAppearance.Items.0.Filter.Items.0.Left.Value=Description
 ConditionalAppearance.Items.0.Filter.Items.0.Right.0.Value=37583
-ConditionalAppearance.Items.1.Filter.Items.0.Left.Value=Наименование
+ConditionalAppearance.Items.1.Filter.Items.0.Left.Value=Description
 ConditionalAppearance.Items.1.Filter.Items.0.Right.0.Value=_37583
-ConditionalAppearance.Items.2.Filter.Items.0.Left.Value=НаКлиенте
+ConditionalAppearance.Items.2.Filter.Items.0.Left.Value=AtClient

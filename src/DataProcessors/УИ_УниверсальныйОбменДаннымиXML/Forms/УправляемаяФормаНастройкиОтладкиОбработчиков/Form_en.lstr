@@ -1,11 +1,11 @@
 #Translations for: interface
 
 Command.ВыгрузитьКодОбработчиков.Title=Export handlers script
-Command.ВыгрузитьКодОбработчиков.ToolTip=Выгрузить код обработчиков
+Command.ВыгрузитьКодОбработчиков.ToolTip=Export handlers script
 Command.Готово.Title=Finish
-Command.Готово.ToolTip=Готово
+Command.Готово.ToolTip=Finish
 Command.ОткрытьФайл.Title=Open file
-Command.ОткрытьФайл.ToolTip=Открыть файл
+Command.ОткрытьФайл.ToolTip=Open file
 Item.ВыгрузитьКодОбработчиков.Title=Generate export debugging module
 Item.Группа_0.Title=0
 Item.Группа_1.Title=1
@@ -23,9 +23,9 @@ Item.ДекорацияКакПроцедуры.Title=Export algorithms as separ
 Item.ДекорацияПоМестуВызова.Title=Export algorithms as code integrated in handlers: replace a line that calls an algorithm with the full algorithm code (including the code of nested algorithms). See the restrictions of this mode in the built-in help.
 Item.ИмяФайлаВнешнейОбработкиОбработчиковСобытий.Title=File name of the external data processor with the debugging module (on the server)
 Item.НижняяКоманднаяПанель.Title=Bottom command bar
-Item.ОтладкаАлгоритмов.ChoiceList.0.Presentation=Без отладки алгоритмов
-Item.ОтладкаАлгоритмов.ChoiceList.1.Presentation=Вызывать алгоритмы как процедуры
-Item.ОтладкаАлгоритмов.ChoiceList.2.Presentation=Подставлять код алгоритмов по месту вызова
+Item.ОтладкаАлгоритмов.ChoiceList.0.Presentation=Debug Managed Mode
+Item.ОтладкаАлгоритмов.ChoiceList.1.Presentation=Vyzyvat Algorithms As Procedures
+Item.ОтладкаАлгоритмов.ChoiceList.2.Presentation=Podstavlyat Code Mode By mestu Call
 Item.ПодсказкаОтладкаАлгоритмов.Title=Algorithms debug tooltip
 Item.ПояснениеДекорация.Title=1. After generating the debugging module, copy the resulting handlers code to the clipboard.
 2. Open Designer and create an external data processor. Paste the code to the data processor module. Save the data processor.

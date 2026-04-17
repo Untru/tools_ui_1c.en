@@ -1,15 +1,15 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.СписокЭлементов.Name=СписокЭлементов
-Attribute.ТипКонтейнера.Name=ТипКонтейнера
-Command.КомандаЗаполнитьИзБуфера.Name=КомандаЗаполнитьИзБуфера
-Command.КомандаЗаполнитьИзСтрокиВнутр.Name=КомандаЗаполнитьИзСтрокиВнутр
-Command.КомандаЗаполнитьИзФайлов.Name=КомандаЗаполнитьИзФайлов
-Command.КомандаОК.Name=КомандаОК
-Command.КомандаОткрытьСправку.Name=КомандаОткрытьСправку
+Attribute.Объект.Name=Object
+Attribute.СписокЭлементов.Name=TasksItems
+Attribute.ТипКонтейнера.Name=TypeSuffix
+Command.КомандаЗаполнитьИзБуфера.Name=CommandFill in dependent objectsFromBufera
+Command.КомандаЗаполнитьИзСтрокиВнутр.Name=CommandFill in dependent objectsFromTrailingInternal
+Command.КомандаЗаполнитьИзФайлов.Name=CommandFill in dependent objectsFromCollection
+Command.КомандаОК.Name=OKCommand
+Command.КомандаОткрытьСправку.Name=CommandOpenSpravku
 Command.КомандаОчистить.Name=CommandFillFromFile
-Command.КомандаПередатьВБуферОбмена.Name=КомандаПередатьВБуферОбмена
+Command.КомандаПередатьВБуферОбмена.Name=CommandSendInBufferEncoding
 Command.КомандаПередатьВСтрокуXML.Name=OKCommand
 Item.ГруппаКоманднаяПанельНижняя.Name=CommandBarBottomGroup
 Item.КнопкаОК.Name=OKButton

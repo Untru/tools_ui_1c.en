@@ -1,18 +1,18 @@
 #Translations for: interface
 
-Attribute.Объекты.Title=Объекты
-Attribute.ТабличныйДокумент.Title=Табличный документ
+Attribute.Объекты.Title=Objects
+Attribute.ТабличныйДокумент.Title=Spreadsheet document
 Command.ДобавитьРанееДобавленныеКСравнению.Title=Add objects added to comparison early
-Command.ДобавитьРанееДобавленныеКСравнению.ToolTip=Добавить ранее добавленные к сравнению
+Command.ДобавитьРанееДобавленныеКСравнению.ToolTip=Add Aded To S Early
 Command.ОчиститьРанееДобавленныеКСравнению.Title=Clear objects aded to comparision early
-Command.ОчиститьРанееДобавленныеКСравнению.ToolTip=Очистить ранее добавленные к сравнению
+Command.ОчиститьРанееДобавленныеКСравнению.ToolTip=Clear Aded To S Early
 Command.Параметры.Title=Parameters
-Command.Параметры.ToolTip=Параметры
+Command.Параметры.ToolTip=Parameters
 Command.Сформировать.Title=Generate
-Command.Сформировать.ToolTip=Сформировать
+Command.Сформировать.ToolTip=Generate
 Item.ГруппаПараметры.Title=Group parameters
-Item.ГруппаПараметры.ToolTip=Группа параметры
+Item.ГруппаПараметры.ToolTip=Group Parameters
 Item.ОбъектыГруппаОбъектыКСравнению.Title=Objects added to comparison
-Item.ОбъектыГруппаОбъектыКСравнению.ToolTip=Объекты группа объекты к сравнению
+Item.ОбъектыГруппаОбъектыКСравнению.ToolTip=Objects Group Objects S Early
 Item.ОбъектыДобавитьРанееДобавленныеКСравнению.Title=Add to list
 Item.ОбъектыОчиститьРанееДобавленныеКСравнению.Title=Clear

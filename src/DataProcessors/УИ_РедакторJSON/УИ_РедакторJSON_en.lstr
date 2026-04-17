@@ -1,7 +1,7 @@
 #Translations for: interface
 
-Explanation=Позволяет в удобной форме редактировать строки JSON. Содержит подсветку синтаксиса JSON, редактирование в виде дерева, некоторые автоподстановки
-ExtendedPresentation=Редактор JSON
+Explanation=Pozvolyaet In udobnoy Form Edit Trailing Json. Soderzhit podsvetku Script Json, Edit In vide Standart, nekotorye avtopodstanovki
+ExtendedPresentation=D Json
 Form.Форма.Synonym=Form
 Synonym=JSON Editor [UT]
 Template.jsoneditor.Synonym=Jsoneditor

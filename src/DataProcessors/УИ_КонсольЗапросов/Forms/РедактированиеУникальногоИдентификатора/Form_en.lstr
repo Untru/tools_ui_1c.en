@@ -1,18 +1,18 @@
 #Translations for: interface
 
-Attribute.Ссылка.Title=Ссылка
-Attribute.СтрокаУникальныйИдентификатор.Title=Уникальный идентификатор
+Attribute.Ссылка.Title=Ref
+Attribute.СтрокаУникальныйИдентификатор.Title=UUID
 Command.КомандаНайти.Title=Find command
-Command.КомандаНайти.ToolTip=Команда найти
+Command.КомандаНайти.ToolTip=Find command
 Command.КомандаОК.Title=OK command
-Command.КомандаОК.ToolTip=Команда ОК
+Command.КомандаОК.ToolTip=OK command
 Item.ГруппаИДИСсылка.Title=UUIDRef group
-Item.ГруппаИДИСсылка.ToolTip=Группа ИДИСсылка
+Item.ГруппаИДИСсылка.ToolTip=UUIDRef group
 Item.ГруппаКоманднаяПанельВнизу.Title=Command bar bottom group
-Item.ГруппаКоманднаяПанельВнизу.ToolTip=Группа командная панель внизу
+Item.ГруппаКоманднаяПанельВнизу.ToolTip=Bottom command bar group
 Item.ГруппаОсновная.Title=Main group
-Item.ГруппаОсновная.ToolTip=Группа основная
+Item.ГруппаОсновная.ToolTip=Main group
 Item.ГруппаУникальныйИдентификатор.Title=UUID group
-Item.ГруппаУникальныйИдентификатор.ToolTip=Группа уникальный идентификатор
+Item.ГруппаУникальныйИдентификатор.ToolTip=UUID group
 Item.КомандаОК.Title=OK
-Title=Уникальный идентификатор
+Title=UUID

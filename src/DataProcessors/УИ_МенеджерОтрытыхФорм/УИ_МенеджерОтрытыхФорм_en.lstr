@@ -1,13 +1,13 @@
 #Translations for: interface
 
-Form.НастройкиОбработки.Synonym=Настройки обработки
-Form.ОбщегоНазначения.Synonym=Общего назначения
-Form.ОткрытиеФормы.Synonym=Открытие формы
-Form.РедактированиеНастройкиИзХранилища.Synonym=Редактирование настройки из хранилища
-Form.РедакторПроизвольныхЗначений.Synonym=Редактор произвольных значений
-Form.РедакторСтруктурыСоответствия.Synonym=Редактор структуры соответствия
-Form.Форма.Synonym=Форма
-Form.ФормаНастроекДинамическогоСписка.Synonym=Форма настроек динамического списка
-Form.ФормаНастроекКомпоновки.Synonym=Форма настроек компоновки
-Form.ФормаРедакторXML.Synonym=Форма редактор XML
-Synonym=Менеджер открытых форм [УИ]
+Form.НастройкиОбработки.Synonym=Settings Data processors
+Form.ОбщегоНазначения.Synonym=Common server call
+Form.ОткрытиеФормы.Synonym=Open Form
+Form.РедактированиеНастройкиИзХранилища.Synonym=Edit Settings From Storage
+Form.РедакторПроизвольныхЗначений.Synonym=D proizvolnykh Table
+Form.РедакторСтруктурыСоответствия.Synonym=D Structures Map
+Form.Форма.Synonym=Form
+Form.ФормаНастроекДинамическогоСписка.Synonym=Form Manager List Dialog
+Form.ФормаНастроекКомпоновки.Synonym=Form Manager Composition
+Form.ФормаРедакторXML.Synonym=Form D Page XML
+Synonym=Manager otkrytykh Form [UT]

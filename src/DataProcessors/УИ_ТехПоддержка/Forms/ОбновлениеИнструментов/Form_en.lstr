@@ -1,11 +1,11 @@
 #Translations for: interface
 
-Attribute.URLАктуальногоРелиза.Title=URLАктуального релиза
-Attribute.АктуальнаяВерсия.Title=Актуальная версия
-Attribute.ВариантПоставки.Title=Вариант поставки
-Attribute.НеобходимостьОбновления.Title=Необходимость обновления
-Attribute.ОбновлениеЧерезСкачиваниеФайлаПоставки.Title=Обновление через скачивание файла поставки
-Attribute.ОписаниеИзменений.Title=Описание изменений
-Attribute.ПолеИзменений.Title=Поле изменений
-Attribute.ТекущаяВерсия.Title=Текущая версия
+Attribute.URLАктуальногоРелиза.Title=Actual version URL
+Attribute.АктуальнаяВерсия.Title=Actual version
+Attribute.ВариантПоставки.Title=Distribution type
+Attribute.НеобходимостьОбновления.Title=Need for Update
+Attribute.ОбновлениеЧерезСкачиваниеФайлаПоставки.Title=Update via download of distribution package
+Attribute.ОписаниеИзменений.Title=Changes description
+Attribute.ПолеИзменений.Title=Field Changes
+Attribute.ТекущаяВерсия.Title=Current version
 Command.Обновить.Title=Update

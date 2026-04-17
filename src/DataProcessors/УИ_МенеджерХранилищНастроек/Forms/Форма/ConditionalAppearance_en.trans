@@ -1,6 +1,6 @@
 #Translations for: model
 
-Items.0.Filter.Items.0.Left.Value=ДеревоКонфигурации.ИдентификаторОтбора
-Items.0.Selection.Items.0.Field.Value=ДеревоКонфигурации
-Items.1.Filter.Items.0.Left.Value=ДеревоКонфигурации.ОтсутствуетВКонфигурации
-Items.1.Selection.Items.0.Field.Value=ДеревоКонфигурации
+Items.0.Filter.Items.0.Left.Value=DerevoKonfiguratsii.IdentifikatorOtbora
+Items.0.Selection.Items.0.Field.Value=DerevoKonfiguratsii
+Items.1.Filter.Items.0.Left.Value=DerevoKonfiguratsii.OtsutstvuetVKonfiguratsii
+Items.1.Selection.Items.0.Field.Value=DerevoKonfiguratsii

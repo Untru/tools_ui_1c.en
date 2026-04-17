@@ -1,14 +1,14 @@
 #Translations for: model
 
-Attribute.ВидГраницы.Name=ВидГраницы
-Attribute.ДатаМомента.Name=ДатаМомента
-Attribute.Значение.Name=Значение
-Attribute.ЗначениеГраницы.Name=ЗначениеГраницы
-Attribute.Объект.Name=Объект
-Attribute.СсылкаМомента.Name=СсылкаМомента
+Attribute.ВидГраницы.Name=TypeBorders
+Attribute.ДатаМомента.Name=DateMomenta
+Attribute.Значение.Name=Value
+Attribute.ЗначениеГраницы.Name=ValueBorders
+Attribute.Объект.Name=Object
+Attribute.СсылкаМомента.Name=RefMomenta
 Command.КомандаОК.Name=OKCommand
-Item.ВидГраницы.ChoiceList.0.Value.Value=Включая
-Item.ВидГраницы.ChoiceList.1.Value.Value=Исключая
+Item.ВидГраницы.ChoiceList.0.Value.Value=Vklyuchaya
+Item.ВидГраницы.ChoiceList.1.Value.Value=Isklyuchaya
 Item.ГруппаГраница.Name=BoundaryGroup
 Item.ГруппаКоманднаяПанельВнизу.Name=CommandBarFooterGroup
 Item.ГруппаМоментВремени.Name=PointInTimeGroup

@@ -1,7 +1,7 @@
 #Translations for: model
 
-Method.ОК.Var.Отбор.Name=Отбор
-Method.ПриСозданииНаСервере.Var.Метаданное.Name=Метаданное
-Method.ПриСозданииНаСервере.Var.Свойство.Name=Свойство
-Region.ОбработчикиСобытийФормы.Name=ОбработчикиСобытийФормы
-Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовФормы.Name=ОбработчикиСобытийЭлементовФормы
+Method.ОК.Var.Отбор.Name=Filter
+Method.ПриСозданииНаСервере.Var.Метаданное.Name=Metadannoe
+Method.ПриСозданииНаСервере.Var.Свойство.Name=Property
+Region.ОбработчикиСобытийФормы.Name=ReadEventForm
+Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовФормы.Name=ReadEventItemsForm

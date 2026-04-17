@@ -1,8 +1,8 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.Ссылка.Name=Ссылка
-Attribute.СтрокаУникальныйИдентификатор.Name=СтрокаУникальныйИдентификатор
+Attribute.Объект.Name=Object
+Attribute.Ссылка.Name=Ref
+Attribute.СтрокаУникальныйИдентификатор.Name=StringUniqueUUID
 Command.КомандаНайти.Name=FindCommand
 Command.КомандаОК.Name=OKCommand
 Item.ГруппаИДИСсылка.Name=UUIDRefGroup

@@ -1,10 +1,10 @@
 #Translations for: model
 
-Attribute.КомпоновщикНастроек.Name=КомпоновщикНастроек
-Item.Группа1.Name=Группа1
-Item.Группа3.Name=Группа3
-Item.КомпоновщикНастроекПользовательскиеНастройки.Name=КомпоновщикНастроекПользовательскиеНастройки
-Item.НастройкиОтбор.Name=НастройкиОтбор
-Item.ОбычныеНастройки.Name=ОбычныеНастройки
-Item.ФиксированныеНастройки.Name=ФиксированныеНастройки
-Item.ФиксированныеНастройкиОтбор.Name=ФиксированныеНастройкиОтбор
+Attribute.КомпоновщикНастроек.Name=SettingsManager
+Item.Группа1.Name=Group1
+Item.Группа3.Name=Group3
+Item.КомпоновщикНастроекПользовательскиеНастройки.Name=SettingsComposerUserSettings
+Item.НастройкиОтбор.Name=SettingsFilter
+Item.ОбычныеНастройки.Name=Standart settingsSettings
+Item.ФиксированныеНастройки.Name=Fixed settingsSettings
+Item.ФиксированныеНастройкиОтбор.Name=Fixed settingsSettingsFilter

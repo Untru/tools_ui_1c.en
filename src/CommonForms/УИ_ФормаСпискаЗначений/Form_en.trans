@@ -1,14 +1,14 @@
 #Translations for: model
 
-Attribute.ВозвратХранилищаДляКонтейнераЗначения.Name=ВозвратХранилищаДляКонтейнераЗначения
-Attribute.ТаблицаСписка.Name=ТаблицаСписка
-Attribute.ТаблицаСписка.Значение.Name=Значение
-Attribute.ТаблицаСписка.ЗначениеКонтейнер.Name=ЗначениеКонтейнер
-Attribute.ТаблицаСписка.ЗначениеТипЗначения.Name=ЗначениеТипЗначения
-Attribute.ТаблицаСписка.ЗначениеТипЗначенияПредставление.Name=ЗначениеТипЗначенияПредставление
-Attribute.ТаблицаСписка.Картинка.Name=Картинка
-Attribute.ТаблицаСписка.Пометка.Name=Пометка
-Attribute.ТаблицаСписка.Представление.Name=Представление
-Attribute.ТипЗначенийСписка.Name=ТипЗначенийСписка
-Attribute.ЭтоМассив.Name=ЭтоМассив
-Command.Применить.Name=Применить
+Attribute.ВозвратХранилищаДляКонтейнераЗначения.Name=VozvratStorageToSuffixForm
+Attribute.ТаблицаСписка.Name=TableDialog
+Attribute.ТаблицаСписка.Значение.Name=Value
+Attribute.ТаблицаСписка.ЗначениеКонтейнер.Name=ValueGroup
+Attribute.ТаблицаСписка.ЗначениеТипЗначения.Name=ValueTypeForm
+Attribute.ТаблицаСписка.ЗначениеТипЗначенияПредставление.Name=ValueTypeFormPresentation
+Attribute.ТаблицаСписка.Картинка.Name=Picture
+Attribute.ТаблицаСписка.Пометка.Name=Check
+Attribute.ТаблицаСписка.Представление.Name=Presentation
+Attribute.ТипЗначенийСписка.Name=TypeTableDialog
+Attribute.ЭтоМассив.Name=IsArray
+Command.Применить.Name=Get selection

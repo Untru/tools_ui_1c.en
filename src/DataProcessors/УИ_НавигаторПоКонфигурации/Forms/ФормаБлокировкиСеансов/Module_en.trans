@@ -1,5 +1,5 @@
 #Translations for: model
 
 Method.вПолучитьБлокировкуСеансов.Name=vGetSessionsLock
-Method.вПолучитьБлокировкуСеансов.Var.БлокировкаСеансов.Name=БлокировкаСеансов
+Method.вПолучитьБлокировкуСеансов.Var.БлокировкаСеансов.Name=LockForm
 Method.вУстановитьБлокировкуСеансовНаСервере.Name=vSetSessionsLockAtServer

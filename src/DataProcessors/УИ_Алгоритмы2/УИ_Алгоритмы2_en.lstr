@@ -1,5 +1,5 @@
 #Translations for: interface
 
-Form.ФормаСписка.Synonym=Форма списка
-Form.ФормаЭлемента.Synonym=Форма элемента
-Synonym=Алгоритмыбез расширения таблиц базы данных (УИ)
+Form.ФормаСписка.Synonym=Form Dialog
+Form.ФормаЭлемента.Synonym=Item Form
+Synonym=Algoritmybez Update Tables Base Schema (UT)

@@ -1,7 +1,7 @@
 #Translations for: model
 
-Attribute.Объект.Name=Объект
-Attribute.ЦветОсобогоТекста.Name=ЦветОсобогоТекста
+Attribute.Объект.Name=Object
+Attribute.ЦветОсобогоТекста.Name=ColorOsobogoForm
 Command.ВыгрузитьКодОбработчиков.Name=ExportHandlersScript
 Command.Готово.Name=Finish
 Command.ОткрытьФайл.Name=OpenFile
@@ -27,9 +27,9 @@ Item.ПояснениеДекорация.Name=NoteDecoration
 Item.СтраницаЗеленый.Name=GreenPage
 Item.СтраницаКрасный.Name=RedPage
 Item.СтраницыШаг4.Name=Step4Pages
-Parameter.ИмяОбработки.Name=ИмяОбработки
-Parameter.ИмяФайлаВнешнейОбработкиОбработчиковСобытий.Name=ИмяФайлаВнешнейОбработкиОбработчиковСобытий
-Parameter.ИмяФайлаОбмена.Name=ИмяФайлаОбмена
-Parameter.ИмяФайлаПравилОбмена.Name=ИмяФайлаПравилОбмена
-Parameter.ОбработчикиСобытийЧитаемИзФайлаПравилОбмена.Name=ОбработчикиСобытийЧитаемИзФайлаПравилОбмена
-Parameter.РежимОтладкиАлгоритмов.Name=РежимОтладкиАлгоритмов
+Parameter.ИмяОбработки.Name=DataProcessorName
+Parameter.ИмяФайлаВнешнейОбработкиОбработчиковСобытий.Name=EventHandlerExternalDataProcessorFileName
+Parameter.ИмяФайлаОбмена.Name=ExchangeFileName
+Parameter.ИмяФайлаПравилОбмена.Name=ExchangeRulesFileName
+Parameter.ОбработчикиСобытийЧитаемИзФайлаПравилОбмена.Name=ReadEventHandlersFromExchangeRulesFile
+Parameter.РежимОтладкиАлгоритмов.Name=AlgorithmDebugMode

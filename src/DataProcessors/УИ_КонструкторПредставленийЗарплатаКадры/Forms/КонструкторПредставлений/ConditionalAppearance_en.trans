@@ -1,8 +1,8 @@
 #Translations for: model
 
-Items.0.Filter.Items.0.Left.Value=ПараметрыПредставлений.Обязательный
-Items.0.Selection.Items.0.Field.Value=Параметры
-Items.1.Filter.Items.0.Left.Value=ПараметрыПредставлений.Отбор
-Items.1.Selection.Items.0.Field.Value=ПараметрыВидСравнения
-Items.2.Filter.Items.0.Left.Value=Представления.ДоступныОтборы
-Items.2.Selection.Items.0.Field.Value=ПараметрыОтбор
+Items.0.Filter.Items.0.Left.Value=ParametryPredstavleniy.Obyazatelnyy
+Items.0.Selection.Items.0.Field.Value=Parameters
+Items.1.Filter.Items.0.Left.Value=ParametryPredstavleniy.Filter
+Items.1.Selection.Items.0.Field.Value=ParametryVidSravneniya
+Items.2.Filter.Items.0.Left.Value=Expression.DostupnyOtbory
+Items.2.Selection.Items.0.Field.Value=ParametryOtbor

@@ -1,16 +1,16 @@
 #Translations for: interface
 
-Attribute.СтрокаДляСравнения.Title=Строка для сравнения
-Attribute.ТаблицаПараметров.Title=Таблица параметров
-Attribute.ТаблицаПараметров.Действие.Title=Действие
-Attribute.ТаблицаПараметров.Замещать.Title=Замещать
-Attribute.ТаблицаПараметров.Извлечь.Title=Извлечь
-Attribute.ТаблицаПараметров.Наименование.Title=Наименование
-Attribute.ТаблицаПараметров.НовоеЗначениеПараметра.Title=Новое значение
-Attribute.ТаблицаПараметров.НовыйПараметр.Title=Новый
-Attribute.ТаблицаПараметров.ПрежнееЗначениеПараметра.Title=Прежнее значение
-Command.Отменить.Title=Отменить
-Command.Отменить.ToolTip=Отменить
-Command.Сохранить.Title=Сохранить
-Command.Сохранить.ToolTip=Сохранить
-Title=Импорт параметров
+Attribute.СтрокаДляСравнения.Title=String To Type
+Attribute.ТаблицаПараметров.Title=Parameters table
+Attribute.ТаблицаПараметров.Действие.Title=Action
+Attribute.ТаблицаПараметров.Замещать.Title=Replace
+Attribute.ТаблицаПараметров.Извлечь.Title=Extract
+Attribute.ТаблицаПараметров.Наименование.Title=Description
+Attribute.ТаблицаПараметров.НовоеЗначениеПараметра.Title=New Value
+Attribute.ТаблицаПараметров.НовыйПараметр.Title=New
+Attribute.ТаблицаПараметров.ПрежнееЗначениеПараметра.Title=Prezhnee Value
+Command.Отменить.Title=Cancel
+Command.Отменить.ToolTip=Cancel
+Command.Сохранить.Title=Save
+Command.Сохранить.ToolTip=Save
+Title=Import Table

@@ -1,21 +1,21 @@
 #Translations for: model
 
-Attribute.НайденныеОбъекты.Name=НайденныеОбъекты
-Attribute.НайденныеОбъекты.Выбрать.Name=Выбрать
-Attribute.НайденныеОбъекты.Объект.Name=Объект
-Attribute.НайденныеОбъекты.Т_НомерСтроки.Name=Т_НомерСтроки
-Attribute.НайденныеОбъекты.Т_ТЧ.Name=Т_ТЧ
-Attribute.НайденныеОбъекты2.Name=НайденныеОбъекты2
+Attribute.НайденныеОбъекты.Name=FoundObjects
+Attribute.НайденныеОбъекты.Выбрать.Name=Select
+Attribute.НайденныеОбъекты.Объект.Name=Object
+Attribute.НайденныеОбъекты.Т_НомерСтроки.Name=ConfigNumberTrailing
+Attribute.НайденныеОбъекты.Т_ТЧ.Name=ConfigConfigP
+Attribute.НайденныеОбъекты2.Name=FoundObekty2
 Attribute.ОбрабатыватьТабличныеЧасти.Name=ProcessTabularParts
-Attribute.ОбъектОбработки.Name=ОбъектОбработки
-Attribute.ОбъектПоиска.Name=ОбъектПоиска
-Attribute.ПолеПроизвольногоАлгоритма.Name=ПолеПроизвольногоАлгоритма
-Attribute.Родитель.Name=Родитель
-Attribute.ТекстПроизвольногоАлгоритма.Name=ТекстПроизвольногоАлгоритма
-Attribute.ТекущаяНастройка.Name=ТекущаяНастройка
-Attribute.ТекущаяНастройкаПредставление.Name=ТекущаяНастройкаПредставление
-Attribute.ТекущаяСтрока.Name=ТекущаяСтрока
-Attribute.мИспользоватьНастройки.Name=мИспользоватьНастройки
+Attribute.ОбъектОбработки.Name=ObjectData processors
+Attribute.ОбъектПоиска.Name=SearchObject
+Attribute.ПолеПроизвольногоАлгоритма.Name=FieldAlgorithmOption
+Attribute.Родитель.Name=Parent
+Attribute.ТекстПроизвольногоАлгоритма.Name=TextAlgorithmOption
+Attribute.ТекущаяНастройка.Name=CurrentSetting
+Attribute.ТекущаяНастройкаПредставление.Name=CurrentSettingsPresentation
+Attribute.ТекущаяСтрока.Name=CurrentString
+Attribute.мИспользоватьНастройки.Name=mUseSettings
 Command.ВыполнитьКоманду.Handler.Name=ExecuteCommand
 Command.ВыполнитьКоманду.Name=ExecuteCommand
 Command.СохранитьНастройки.Handler.Name=SaveSettings

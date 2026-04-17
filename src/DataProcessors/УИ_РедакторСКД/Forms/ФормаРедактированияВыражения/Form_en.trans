@@ -1,13 +1,13 @@
 #Translations for: model
 
-Attribute.ПолеРедактированияВыражения.Name=ПолеРедактированияВыражения
-Attribute.ПоляСКД.Name=ПоляСКД
-Attribute.ПоляСКД.Картинка.Name=Картинка
-Attribute.ПоляСКД.Поле.Name=Поле
-Attribute.ПоляСКД.ПутьКДанным.Name=ПутьКДанным
-Attribute.ПоляСКД.ТипЗначения.Name=ТипЗначения
-Attribute.ТекстВыражения.Name=ТекстВыражения
-Command.Применить.Name=Применить
-Item.ГруппаДосутныеПоляИМетоды.Name=ГруппаДосутныеПоляИМетоды
-Item.ПоляСКДГруппаПоле.Name=ПоляСКДГруппаПоле
-Item.ФормаОК.Name=ФормаОК
+Attribute.ПолеРедактированияВыражения.Name=FieldLinkForm
+Attribute.ПоляСКД.Name=FieldsCSEditor
+Attribute.ПоляСКД.Картинка.Name=Picture
+Attribute.ПоляСКД.Поле.Name=Field
+Attribute.ПоляСКД.ПутьКДанным.Name=PathSData
+Attribute.ПоляСКД.ТипЗначения.Name=TypeForm
+Attribute.ТекстВыражения.Name=TextForm
+Command.Применить.Name=Get selection
+Item.ГруппаДосутныеПоляИМетоды.Name=GroupDosutnyeFieldsTH
+Item.ПоляСКДГруппаПоле.Name=FieldsCSEditorGroupField
+Item.ФормаОК.Name=FormOK
