@@ -10,6 +10,11 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+		<buildCommand>
+			<name>com.e1c.langtool.v8.dt.resourcestorage.dependentSynchronizationBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
 		<nature>com.e1c.langtool.v8.dt.resourcestorage.dependentProjectNature</nature>
