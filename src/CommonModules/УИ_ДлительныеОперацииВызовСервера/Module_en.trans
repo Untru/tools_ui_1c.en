@@ -1,6 +1,6 @@
 #Translations for: model
 
-Method.ОперацииВыполнены.Name=ОперацииВыполнены
+Method.ОперацииВыполнены.Name=ActionsCompleted
 Method.ОперацииВыполнены.Param.ЗаданияДляОтмены.Name=ЗаданияДляОтмены
 Method.ОперацииВыполнены.Param.ЗаданияДляПроверки.Name=ЗаданияДляПроверки
 Method.ОперацииВыполнены.String.Отменено.Key=Отменено

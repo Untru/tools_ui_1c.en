@@ -1,7 +1,7 @@
 #Translations for: model
 
-Form.ОбластьПоискаДублей.Name=ОбластьПоискаДублей
-Form.ПоискДублей.Name=ПоискДублей
-Form.ПравилаОтбора.Name=ПравилаОтбора
-Form.ПравилаПоиска.Name=ПравилаПоиска
-Name=УИ_ПоискИУдалениеДублей
+Form.ОбластьПоискаДублей.Name=DuplicatesSearchArea
+Form.ПоискДублей.Name=SearchForDuplicates
+Form.ПравилаОтбора.Name=FilterRules
+Form.ПравилаПоиска.Name=SearchRules
+Name=UT_DuplicateObjectDetection

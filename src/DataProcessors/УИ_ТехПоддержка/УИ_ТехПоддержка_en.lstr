@@ -1,11 +1,11 @@
 #Translations for: interface
 
-Command.ВопросРазработчику.Synonym=Вопрос разработчику
+Command.ВопросРазработчику.Synonym=Question to the developer
 Command.ИнформацияДляТехподдержки.Synonym=Информация для техподдержки
 Command.ОчиститьКэшИнструментовНаКлиенте.Synonym=Очистить кэш инструментов на клиенте
-Command.ПроверитьНеобходимостьОбновления.Synonym=Проверить необходимость обновления
-Command.СтраницаРазработки.Synonym=Страница разработки
+Command.ПроверитьНеобходимостьОбновления.Synonym=Check update
+Command.СтраницаРазработки.Synonym=About page
 ExtendedPresentation=Тех поддержка
-Form.ОбновлениеИнструментов.Synonym=Обновление инструментов
-Form.СписокЗадач.Synonym=Список задач
-Synonym=Тех поддержка [УИ]
+Form.ОбновлениеИнструментов.Synonym=Update tools
+Form.СписокЗадач.Synonym=Tasks list
+Synonym=Support of Universal Tools

@@ -1,6 +1,6 @@
 #Translations for: model
 
-Method.ОбновитьСписокЗадачНаСервере.Name=ОбновитьСписокЗадачНаСервере
+Method.ОбновитьСписокЗадачНаСервере.Name=UpdateIssuesListAtServer
 Method.ОбновитьСписокЗадачНаСервере.String.name.Key=name
 Method.ОбновитьСписокЗадачНаСервере.Var.БазовыйАдрес.Name=БазовыйАдрес
 Method.ОбновитьСписокЗадачНаСервере.Var.БазовыйАдрес.String.Word.api.Key=api
@@ -40,7 +40,7 @@ Method.СоздатьНовуюЗадачуНаГитхабе.String.Word.https.
 Method.СоздатьНовуюЗадачуНаГитхабе.String.Word.issues.Key=issues
 Method.СоздатьНовуюЗадачуНаГитхабе.String.Word.new.Key=new
 Method.СоздатьНовуюЗадачуНаГитхабе.String.Word.tools_ui_1c.Key=tools_ui_1c
-Method.СоздатьНовуюЗадачуНаСервере.Name=СоздатьНовуюЗадачуНаСервере
+Method.СоздатьНовуюЗадачуНаСервере.Name=CreateNewIssueAtServer
 Method.СоздатьНовуюЗадачуНаСервере.String.Authorization.Key=Authorization
 Method.СоздатьНовуюЗадачуНаСервере.String.body.Key=body
 Method.СоздатьНовуюЗадачуНаСервере.String.html_url.Key=html_url

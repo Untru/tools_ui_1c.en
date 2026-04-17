@@ -1,10 +1,10 @@
 #Translations for: model
 
-Form.Форма.Name=Форма
-Form.ФормаБлокировкиСеансов.Name=ФормаБлокировкиСеансов
-Form.ФормаВыбораМасштабаОтображения.Name=ФормаВыбораМасштабаОтображения
-Form.ФормаЗапуска1С.Name=ФормаЗапуска1С
-Form.ФормаПользовательИБ.Name=ФормаПользовательИБ
-Form.ФормаСвойств.Name=ФормаСвойств
-Name=УИ_НавигаторПоКонфигурации
+Form.Форма.Name=Form
+Form.ФормаБлокировкиСеансов.Name=SessionLockForm
+Form.ФормаВыбораМасштабаОтображения.Name=DisplayScaleSelectionForm
+Form.ФормаЗапуска1С.Name=Launch1CForm
+Form.ФормаПользовательИБ.Name=InfoBaseUserForm
+Form.ФормаСвойств.Name=PropertiesForm
+Name=UT_ConfigurationNavigator
 Template.МакетСервис.Name=МакетСервис

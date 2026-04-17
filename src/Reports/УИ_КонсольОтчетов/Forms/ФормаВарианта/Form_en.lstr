@@ -5,37 +5,53 @@ Attribute.ЛокальныеВыбранныеПоля.Title=Локальные 
 Attribute.ЛокальныеПараметрыВывода.Title=Локальное условное оформление
 Attribute.ЛокальныйОтбор.Title=Локальный отбор
 Attribute.ЛокальныйПорядок.Title=Локальный порядок
-Item.ЛокальноеУсловноеОформление.Title=Текущий элемент имеет собственное условное оформление (для оформления записей, выводимых в элементе)
-Item.ЛокальныеВыбранныеПоля.Title=Текущий элемент имеет собственные настройки выбранных полей (для детальной настройки элемента)
+Item.ЛокальноеУсловноеОформление.Title=Assign the item with personal conditional appearance to format item records
+Item.ЛокальныеВыбранныеПоля.Title=Assign the item with personal field settings
 Item.ЛокальныеПараметрыВывода.Title=Текущий элемент имеет собственные дополнительные настройки
-Item.ЛокальныйОтбор.Title=Текущий элемент имеет собственный отбор (для фильтрации записей, выводимых в элементе)
-Item.ЛокальныйПорядок.Title=Текущий элемент имеет собственную сортировку (для  упорядочивания записей, выводимых в элементе)
-Item.НадписьЛокальногоОтбора.Title=В текущем элементе отбор не установлен.\nВыберите в дереве структуры отчет для редактирования отбора отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственный отбор, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальногоПорядка.Title=В текущем элементе сортировка не установлена.\nВыберите в дереве структуры отчет для редактирования сортировки отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственную сортировку, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальногоУсловногоОформления.Title=В текущем элементе условное оформление не установлено.\nВыберите в дереве структуры отчет для редактирования условного оформления отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственное условное оформление, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальныхВыбранныхПолей.Title=Выбранные поля для текущего элемента будут автоматически формироваться на основании выбранных полей всего отчета.\nВыберите в дереве структуры элемент - отчет для редактирования его выбранных полей.\nЕсли необходимо, чтобы текущий элемент имел выбранные поля, отличные от выбранных полей отчета, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальныхПараметровВывода.Title=В текущем элементе дополнительные настройки не установлены.\nВыберите в дереве структуры отчет для редактирования дополнительных настроек отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственные дополнительные настройки, установите флажок, расположенный над этим текстом.
-Item.НадписьНедоступногоОтбора.Title=У текущего элемента не может быть установлен отбор.\nВыберите в дереве структуры отчет для редактирования отбора отчета в целом.
-Item.НадписьНедоступногоПорядка.Title=У текущего элемента не может быть установлена сортировка.\nВыберите в дереве структуры отчет для редактирования сортировки отчета в целом.
-Item.НадписьНедоступногоУсловногоОформления.Title=У текущего элемента не может быть установлено условное оформление.\nВыберите в дереве структуры отчет для редактирования условного оформления отчета в целом.
-Item.НадписьНедоступныхВыбранныхПолей.Title=У текущего элемента не могут быть установлены выбранные поля.\nВыберите в дереве структуры элемент - отчет для редактирования его выбранных полей.
-Item.НадписьНедоступныхПараметровВывода.Title=У текущего элемента не могут быть установлены дополнительные настройки.\nВыберите в дереве структуры отчет для редактирования дополнительных настроек отчета в целом.
-Item.НадписьНедоступныхПолейГруппировки.Title=Текущий элемент не может содержать поля группировки.\nВыберите в дереве структуры группировку, для которой требуется просмотреть или изменить состав полей группировки.
-Item.ПереходКВыбраннымПолямОтчета.Title=Нажмите здесь для перехода к выбранным полям отчета.
-Item.ПереходКВыбраннымПолямОтчета1.Title=Нажмите здесь для перехода к выбранным полям отчета.
-Item.ПереходКОтборуОтчета.Title=Нажмите здесь для перехода к отбору отчета.
-Item.ПереходКОтборуОтчета1.Title=Нажмите здесь для перехода к отбору отчета.
-Item.ПереходКПараметрамВыводаОтчета.Title=Нажмите здесь для перехода к дополнительным настройкам отчета.
-Item.ПереходКПараметрамВыводаОтчета1.Title=Нажмите здесь для перехода к дополнительным настройкам отчета.
-Item.ПереходКПорядкуОтчета.Title=Нажмите здесь для перехода к сортировке отчета.
-Item.ПереходКПорядкуОтчета1.Title=Нажмите здесь для перехода к сортировке отчета.
-Item.ПереходКУсловномуОформлениюОтчета.Title=Нажмите здесь для перехода к условному оформлению отчета.
-Item.ПереходКУсловномуОформлениюОтчета1.Title=Нажмите здесь для перехода к условному оформлению отчета.
-Item.СтраницаОтбора.Title=Отбор
-Item.СтраницаПараметровВывода.Title=Дополнительные настройки
-Item.СтраницаПараметровДанных.Title=Параметры
-Item.СтраницаПолейВыбора.Title=Поля
-Item.СтраницаПолейГруппировки.Title=Группируемые поля
-Item.СтраницаПользовательскихПолей.Title=Пользовательские поля
-Item.СтраницаПорядка.Title=Сортировка
-Item.СтраницаУсловногоОформления.Title=Условное оформление
+Item.ЛокальныйОтбор.Title=Assign the item with personal filters to filter item records
+Item.ЛокальныйПорядок.Title=Assign the item with personal sorts to sort item records
+Item.НадписьЛокальногоОтбора.Title=No filter is assigned to the item.
+In the structure tree, select the report and edit report filters.
+To assign the item with a personal filter, select the check box above.
+Item.НадписьЛокальногоПорядка.Title=No sort is assigned to the item.
+In the structure tree, select the report and edit report sorts.
+To assign the item with a personal sort, select the check box above.
+Item.НадписьЛокальногоУсловногоОформления.Title=No conditional appearance is assigned to the item.
+In the structure tree, select the report and edit report conditional appearance.
+To assign the item with a personal conditional appearance, select the check box above.
+Item.НадписьЛокальныхВыбранныхПолей.Title=The item adopts selected fields from the report.
+In the report structure tree, select the item and then select required fields.
+To add custom fields, select the check box above.
+Item.НадписьЛокальныхПараметровВывода.Title=No additional settings are assigned to the item.
+In the structure tree, select the report and edit report additional settings.
+To assign the item with personal additional settings, select the check box above.
+Item.НадписьНедоступногоОтбора.Title=Cannot assign filters to the item.
+In the structure tree, select the report and edit report filters.
+Item.НадписьНедоступногоПорядка.Title=Cannot assign sorts to the item.
+In the structure tree, select the report and edit report sorts.
+Item.НадписьНедоступногоУсловногоОформления.Title=Cannot assign conditional appearance to the item.
+In the structure tree, select the report and edit report conditional appearance.
+Item.НадписьНедоступныхВыбранныхПолей.Title=Cannot add selected fields to the item.
+In the report structure tree, select the item and then select required fields.
+Item.НадписьНедоступныхПараметровВывода.Title=Cannot assign additional settings to the item.
+In the structure tree, select the report and edit additional report settings.
+Item.НадписьНедоступныхПолейГруппировки.Title=The item cannot contain grouping fields.
+Browse the structure tree and select a grouping to view or edit grouping field structure.
+Item.ПереходКВыбраннымПолямОтчета.Title=View selected report fields
+Item.ПереходКВыбраннымПолямОтчета1.Title=View selected report fields
+Item.ПереходКОтборуОтчета.Title=View report filters
+Item.ПереходКОтборуОтчета1.Title=View report filters
+Item.ПереходКПараметрамВыводаОтчета.Title=View additional report settings
+Item.ПереходКПараметрамВыводаОтчета1.Title=View additional report settings
+Item.ПереходКПорядкуОтчета.Title=View report sorts
+Item.ПереходКПорядкуОтчета1.Title=View report sorts
+Item.ПереходКУсловномуОформлениюОтчета.Title=View report conditional appearance
+Item.ПереходКУсловномуОформлениюОтчета1.Title=View report conditional appearance
+Item.СтраницаОтбора.Title=Filter
+Item.СтраницаПараметровВывода.Title=Additional settings
+Item.СтраницаПараметровДанных.Title=Parameters
+Item.СтраницаПолейВыбора.Title=Fields
+Item.СтраницаПолейГруппировки.Title=Group fields
+Item.СтраницаПользовательскихПолей.Title=User-defined fields
+Item.СтраницаПорядка.Title=Sort
+Item.СтраницаУсловногоОформления.Title=Conditional appearance

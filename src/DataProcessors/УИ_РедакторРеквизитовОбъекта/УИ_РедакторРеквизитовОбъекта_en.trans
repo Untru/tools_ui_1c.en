@@ -1,6 +1,6 @@
 #Translations for: model
 
-Form.ФормаОбъекта.Name=ФормаОбъекта
-Form.ФормаРедакторДвижений.Name=ФормаРедакторДвижений
-Form.ФормаРедакторДвиженийДоп.Name=ФормаРедакторДвиженийДоп
-Name=УИ_РедакторРеквизитовОбъекта
+Form.ФормаОбъекта.Name=ObjectForm
+Form.ФормаРедакторДвижений.Name=RecordsEditorForm
+Form.ФормаРедакторДвиженийДоп.Name=RecordsEditorAdditionalForm
+Name=UT_ObjectsAttributesEditor

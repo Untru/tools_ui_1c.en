@@ -1,4 +1,4 @@
 #Translations for: model
 
-Form.ФормаУправляемая.Name=ФормаУправляемая
-Name=УИ_СтруктураХраненияБазыДанных
+Form.ФормаУправляемая.Name=ManagedForm
+Name=UT_DatabaseStorageStructure

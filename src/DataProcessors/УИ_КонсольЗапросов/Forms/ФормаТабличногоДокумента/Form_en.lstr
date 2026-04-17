@@ -2,9 +2,9 @@
 
 Attribute.Документ.Title=Документ
 Attribute.Инициализированна.Title=Инициализированна
-Item.ГруппаДерево.Title=Группа дерево
+Item.ГруппаДерево.Title=Tree group
 Item.ГруппаДерево.ToolTip=Группа дерево
-Item.ГруппаДокумент.Title=Документ
+Item.ГруппаДокумент.Title=Document
 Item.ГруппаДокумент.ToolTip=Группа документ
-Item.КоманднаяПанельДокумента.Title=Командная панель документа
+Item.КоманднаяПанельДокумента.Title=Document command bar
 Item.КоманднаяПанельДокумента.ToolTip=Командная панель документа

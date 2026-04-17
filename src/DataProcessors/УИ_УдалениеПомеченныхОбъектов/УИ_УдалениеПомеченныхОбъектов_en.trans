@@ -1,5 +1,5 @@
 #Translations for: model
 
 Comment=Поиск и удаление объектов, помеченных на удаление
-Form.ОсновнаяФорма.Name=ОсновнаяФорма
-Name=УИ_УдалениеПомеченныхОбъектов
+Form.ОсновнаяФорма.Name=Form
+Name=UT_MarkedObjectsDeletion

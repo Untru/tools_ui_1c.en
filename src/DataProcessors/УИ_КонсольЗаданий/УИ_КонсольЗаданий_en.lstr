@@ -1,11 +1,11 @@
 #Translations for: interface
 
-Explanation=просмотр и настройка регламентных и фоновых заданий
+Explanation=Scheduled and background jobs viewing and configuring
 ExtendedPresentation=Консоль заданий
-Form.ДиалогНастроекСписка.Synonym=Диалог настроек списка
-Form.ДиалогОтбораРегламентногоЗадания.Synonym=Диалог отбора регламентного задания
-Form.ДиалогОтбораФоновогоЗадания.Synonym=Диалог отбора фонового задания
-Form.ДиалогРегламентногоЗадания.Synonym=Диалог регламентного задания
-Form.ДиалогФоновогоЗадания.Synonym=Диалог фонового задания
-Form.Форма.Synonym=Форма
-Synonym=Консоль заданий [УИ]
+Form.ДиалогНастроекСписка.Synonym=List settings dialog
+Form.ДиалогОтбораРегламентногоЗадания.Synonym=Scheduled job filter dialog
+Form.ДиалогОтбораФоновогоЗадания.Synonym=Background job filter dialog
+Form.ДиалогРегламентногоЗадания.Synonym=Scheduled job dialog
+Form.ДиалогФоновогоЗадания.Synonym=Background job dialog
+Form.Форма.Synonym=Form
+Synonym=Jobs console [UT]

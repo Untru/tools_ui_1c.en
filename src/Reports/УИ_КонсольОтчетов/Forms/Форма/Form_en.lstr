@@ -113,132 +113,164 @@ Command.СравнитьСЭталономТабличныйДокумент.Too
 Command.Сформировать.Title=Сформировать
 Command.Сформировать.ToolTip=Сформировать
 Item.ВнешниеНаборыДанныхПредставление.Title=Значение
-Item.ГлавнаяКоманднаяПанель.Title=Главная командная панель
+Item.ГлавнаяКоманднаяПанель.Title=Main command bar
 Item.ГлавнаяКоманднаяПанель.ToolTip=Главная командная панель
-Item.ГруппаВарианта.Title=Настройки
+Item.ГруппаВарианта.Title=Settings
 Item.ГруппаВарианта.ToolTip=Группа варианта
-Item.ГруппаВарианта1.Title=Группа варианта
+Item.ГруппаВарианта1.Title=Group variant1
 Item.ГруппаВарианта1.ToolTip=Группа варианта
-Item.ГруппаВнешниеНаборыДанных.Title=Внешние наборы данных
+Item.ГруппаВнешниеНаборыДанных.Title=External data sets
 Item.ГруппаВременныеТаблицы.Title=Менеджер временных таблиц
-Item.ГруппаЗапросИзСКД.Title=Запрос из СКД
-Item.ГруппаНастроек.Title=Группа настроек
+Item.ГруппаЗапросИзСКД.Title=Open in query console
+Item.ГруппаНастроек.Title=Group settings
 Item.ГруппаНастроек.ToolTip=Группа настроек
-Item.ГруппаОтчетов.Title=Группа отчетов
+Item.ГруппаОтчетов.Title=Group reports
 Item.ГруппаОтчетов.ToolTip=Группа отчетов
-Item.ГруппаОтчетовИНастроек.Title=Группа отчетов и настроек
+Item.ГруппаОтчетовИНастроек.Title=Group settings and reports
 Item.ГруппаОтчетовИНастроек.ToolTip=Группа отчетов и настроек
-Item.ГруппаПользовательскихНастроек.Title=Пользовательские настройки
+Item.ГруппаПользовательскихНастроек.Title=User settings
 Item.ГруппаПользовательскихНастроек.ToolTip=Группа пользовательских настроек
-Item.ГруппаРезультатов.Title=Группа результатов
+Item.ГруппаРезультатов.Title=Group results
 Item.ГруппаРезультатов.ToolTip=Группа результатов
-Item.ГруппаСхемыКомпоновкиДанных.Title=XML схемы компоновки
+Item.ГруппаСхемыКомпоновкиДанных.Title=XML сomposition schema
 Item.ГруппаСхемыКомпоновкиДанных.ToolTip=Группа схемы компоновки данных
 Item.ДеревоОтчетовВременныеТаблицыПредставление.Title=Значение
-Item.КоманднаяПанельДействий.Title=Командная панель действий
+Item.КоманднаяПанельДействий.Title=Actions command bar
 Item.КоманднаяПанельДействий.ToolTip=Командная панель действий
-Item.КоманднаяПанельДействийНадМакетомДляКоллекции.Title=Командная панель действий над макетом для коллекции
+Item.КоманднаяПанельДействийНадМакетомДляКоллекции.Title=Command bar actions of template for collection
 Item.КоманднаяПанельДействийНадМакетомДляКоллекции.ToolTip=Командная панель действий над макетом для коллекции
-Item.КоманднаяПанельДействийНадПанелями.Title=Командная панель действий над панелями
+Item.КоманднаяПанельДействийНадПанелями.Title=Actions on panels command bar
 Item.КоманднаяПанельДействийНадПанелями.ToolTip=Командная панель действий над панелями
-Item.КоманднаяПанельДействийНадТекстомРезультатаКомпоновкиДанныхДляКоллекции.Title=Командная панель действий над текстом результата компоновки данных для коллекции
+Item.КоманднаяПанельДействийНадТекстомРезультатаКомпоновкиДанныхДляКоллекции.Title=Command bar actions on data composition result text for collection
 Item.КоманднаяПанельДействийНадТекстомРезультатаКомпоновкиДанныхДляКоллекции.ToolTip=Командная панель действий над текстом результата компоновки данных для коллекции
-Item.КоманднаяПанельИсполняемыхНастроекXML.Title=Командная панель исполняемых настроек XML
+Item.КоманднаяПанельИсполняемыхНастроекXML.Title=Command bar executed settings XML
 Item.КоманднаяПанельИсполняемыхНастроекXML.ToolTip=Командная панель исполняемых настроек XML
-Item.КоманднаяПанельТекстаРезультатаКомпоновкиДанных.Title=Командная панель текста результата компоновки данных
+Item.КоманднаяПанельТекстаРезультатаКомпоновкиДанных.Title=Command bar data composition result
 Item.КоманднаяПанельТекстаРезультатаКомпоновкиДанных.ToolTip=Командная панель текста результата компоновки данных
-Item.КомандыТабличногоДокумента.Title=Команды табличного документа
+Item.КомандыТабличногоДокумента.Title=Commands spreadsheet document
 Item.КомандыТабличногоДокумента.ToolTip=Команды табличного документа
-Item.ЛокальноеУсловноеОформление.Title=Текущий элемент имеет собственное условное оформление (для оформления записей, выводимых в элементе)
-Item.ЛокальноеУсловноеОформление1.Title=Текущий элемент имеет собственное условное оформление (для оформления записей, выводимых в элементе)
-Item.ЛокальныеВыбранныеПоля.Title=Текущий элемент имеет собственные настройки выбранных полей (для детальной настройки элемента)
-Item.ЛокальныеВыбранныеПоля1.Title=Текущий элемент имеет собственные настройки выбранных полей (для детальной настройки элемента)
-Item.ЛокальныеПараметрыВывода.Title=Текущий элемент имеет собственные дополнительные настройки
-Item.ЛокальныеПараметрыВывода1.Title=Текущий элемент имеет собственные дополнительные настройки
-Item.ЛокальныйОтбор.Title=Текущий элемент имеет собственный отбор (для фильтрации записей, выводимых в элементе)
-Item.ЛокальныйОтбор1.Title=Текущий элемент имеет собственный отбор (для фильтрации записей, выводимых в элементе)
-Item.ЛокальныйПорядок.Title=Текущий элемент имеет собственную сортировку (для  упорядочивания записей, выводимых в элементе)
-Item.ЛокальныйПорядок1.Title=Текущий элемент имеет собственную сортировку (для  упорядочивания записей, выводимых в элементе)
-Item.НадписьЛокальногоОтбора.Title=В текущем элементе отбор не установлен.\nВыберите в дереве структуры отчет для редактирования отбора отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственный отбор, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальногоОтбора1.Title=В текущем элементе отбор не установлен.\nВыберите в дереве структуры отчет для редактирования отбора отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственный отбор, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальногоПорядка.Title=В текущем элементе сортировка не установлена.\nВыберите в дереве структуры отчет для редактирования сортировки отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственную сортировку, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальногоПорядка1.Title=В текущем элементе сортировка не установлена.\nВыберите в дереве структуры отчет для редактирования сортировки отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственную сортировку, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальногоУсловногоОформления.Title=В текущем элементе условное оформление не установлено.\nВыберите в дереве структуры отчет для редактирования условного оформления отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственное условное оформление, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальногоУсловногоОформления1.Title=В текущем элементе условное оформление не установлено.\nВыберите в дереве структуры отчет для редактирования условного оформления отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственное условное оформление, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальныхВыбранныхПолей.Title=Выбранные поля для текущего элемента будут автоматически формироваться на основании выбранных полей всего отчета.\nВыберите в дереве структуры элемент - отчет для редактирования его выбранных полей.\nЕсли необходимо, чтобы текущий элемент имел выбранные поля, отличные от выбранных полей отчета, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальныхВыбранныхПолей1.Title=Выбранные поля для текущего элемента будут автоматически формироваться на основании выбранных полей всего отчета.\nВыберите в дереве структуры элемент - отчет для редактирования его выбранных полей.\nЕсли необходимо, чтобы текущий элемент имел выбранные поля, отличные от выбранных полей отчета, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальныхПараметровВывода.Title=В текущем элементе дополнительные настройки не установлены.\nВыберите в дереве структуры отчет для редактирования дополнительных настроек отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственные дополнительные настройки, установите флажок, расположенный над этим текстом.
-Item.НадписьЛокальныхПараметровВывода1.Title=В текущем элементе дополнительные настройки не установлены.\nВыберите в дереве структуры отчет для редактирования дополнительных настроек отчета в целом.\nЕсли необходимо, чтобы текущий элемент имел собственные дополнительные настройки, установите флажок, расположенный над этим текстом.
-Item.НадписьНедоступногоОтбора.Title=У текущего элемента не может быть установлен отбор.\nВыберите в дереве структуры отчет для редактирования отбора отчета в целом.
-Item.НадписьНедоступногоОтбора1.Title=У текущего элемента не может быть установлен отбор.\nВыберите в дереве структуры отчет для редактирования отбора отчета в целом.
-Item.НадписьНедоступногоПорядка.Title=У текущего элемента не может быть установлена сортировка.\nВыберите в дереве структуры отчет для редактирования сортировки отчета в целом.
-Item.НадписьНедоступногоПорядка1.Title=У текущего элемента не может быть установлена сортировка.\nВыберите в дереве структуры отчет для редактирования сортировки отчета в целом.
-Item.НадписьНедоступногоУсловногоОформления.Title=У текущего элемента не может быть установлено условное оформление.\nВыберите в дереве структуры отчет для редактирования условного оформления отчета в целом.
-Item.НадписьНедоступногоУсловногоОформления1.Title=У текущего элемента не может быть установлено условное оформление.\nВыберите в дереве структуры отчет для редактирования условного оформления отчета в целом.
-Item.НадписьНедоступныхВыбранныхПолей.Title=У текущего элемента не могут быть установлены выбранные поля.\nВыберите в дереве структуры элемент - отчет для редактирования его выбранных полей.
-Item.НадписьНедоступныхВыбранныхПолей1.Title=У текущего элемента не могут быть установлены выбранные поля.\nВыберите в дереве структуры элемент - отчет для редактирования его выбранных полей.
-Item.НадписьНедоступныхПараметровВывода.Title=У текущего элемента не могут быть установлены дополнительные настройки.\nВыберите в дереве структуры отчет для редактирования дополнительных настроек отчета в целом.
-Item.НадписьНедоступныхПараметровВывода1.Title=У текущего элемента не могут быть установлены дополнительные настройки.\nВыберите в дереве структуры отчет для редактирования дополнительных настроек отчета в целом.
-Item.НадписьНедоступныхПолейГруппировки.Title=Текущий элемент не может содержать поля группировки.\nВыберите в дереве структуры группировку, для которой требуется просмотреть или изменить состав полей группировки.
-Item.НадписьНедоступныхПолейГруппировки1.Title=Текущий элемент не может содержать поля группировки.\nВыберите в дереве структуры группировку, для которой требуется просмотреть или изменить состав полей группировки.
-Item.ПанельРезультатов.Title=Панель результатов
+Item.ЛокальноеУсловноеОформление.Title=Assign the item with personal conditional appearance to format item records
+Item.ЛокальноеУсловноеОформление1.Title=Assign the item with personal conditional appearance to format item records
+Item.ЛокальныеВыбранныеПоля.Title=The current item has its own settings for selected fields (for detailed item customization)
+Item.ЛокальныеВыбранныеПоля1.Title=Assign the item with personal field settings
+Item.ЛокальныеПараметрыВывода.Title=Assign the item with personal additional settings
+Item.ЛокальныеПараметрыВывода1.Title=Assign the item with personal additional settings
+Item.ЛокальныйОтбор.Title=Assign the item with personal filters to filter item records
+Item.ЛокальныйОтбор1.Title=Assign the item with personal filters to filter item records
+Item.ЛокальныйПорядок.Title=Assign the item with personal sorts to sort item records
+Item.ЛокальныйПорядок1.Title=Assign the item with personal sorts to sort item records
+Item.НадписьЛокальногоОтбора.Title=No filter is assigned to the item.
+In the structure tree, select the report and edit report filters.
+To assign the item with a personal filter, select the check box above.
+Item.НадписьЛокальногоОтбора1.Title=No filter is assigned to the item.
+In the structure tree, select the report and edit report filters.
+To assign the item with a personal filter, select the check box above.
+Item.НадписьЛокальногоПорядка.Title=No sort is assigned to the item.
+In the structure tree, select the report and edit report sorts.
+To assign the item with a personal sort, select the check box above.
+Item.НадписьЛокальногоПорядка1.Title=No sort is assigned to the item.
+In the structure tree, select the report and edit report sorts.
+To assign the item with a personal sort, select the check box above.
+Item.НадписьЛокальногоУсловногоОформления.Title=No conditional appearance is assigned to the item.
+In the structure tree, select the report and edit report conditional appearance.
+To assign the item with a personal conditional appearance, select the check box above.
+Item.НадписьЛокальногоУсловногоОформления1.Title=No conditional appearance is assigned to the item.
+In the structure tree, select the report and edit report conditional appearance.
+To assign the item with a personal conditional appearance, select the check box above.
+Item.НадписьЛокальныхВыбранныхПолей.Title=The item adopts selected fields from the report.
+In the report structure tree, select the item and then select required fields.
+To add custom fields, select the check box above.
+Item.НадписьЛокальныхВыбранныхПолей1.Title=The item adopts selected fields from the report.
+In the report structure tree, select the item and then select required fields.
+To add custom fields, select the check box above.
+Item.НадписьЛокальныхПараметровВывода.Title=No additional settings are assigned to the item.
+In the structure tree, select the report and edit report additional settings.
+To assign the item with personal additional settings, select the check box above.
+Item.НадписьЛокальныхПараметровВывода1.Title=No additional settings are assigned to the item.
+In the structure tree, select the report and edit report additional settings.
+To assign the item with personal additional settings, select the check box above.
+Item.НадписьНедоступногоОтбора.Title=Cannot assign filters to the item.
+In the structure tree, select the report and edit report filters.
+Item.НадписьНедоступногоОтбора1.Title=Cannot assign filters to the item.
+In the structure tree, select the report and edit report filters.
+Item.НадписьНедоступногоПорядка.Title=Cannot assign sorts to the item.
+In the structure tree, select the report and edit report sorts.
+Item.НадписьНедоступногоПорядка1.Title=Cannot assign sorts to the item.
+In the structure tree, select the report and edit report sorts.
+Item.НадписьНедоступногоУсловногоОформления.Title=Cannot assign conditional appearance to the item.
+In the structure tree, select the report and edit report conditional appearance.
+Item.НадписьНедоступногоУсловногоОформления1.Title=Cannot assign conditional appearance to the item.
+In the structure tree, select the report and edit report conditional appearance.
+Item.НадписьНедоступныхВыбранныхПолей.Title=Cannot add selected fields to the item.
+In the report structure tree, select the item and then select required fields.
+Item.НадписьНедоступныхВыбранныхПолей1.Title=Cannot add selected fields to the item.
+In the report structure tree, select the item and then select required fields.
+Item.НадписьНедоступныхПараметровВывода.Title=Cannot assign additional settings to the item.
+In the structure tree, select the report and edit additional report settings.
+Item.НадписьНедоступныхПараметровВывода1.Title=Cannot assign additional settings to the item.
+In the structure tree, select the report and edit additional report settings.
+Item.НадписьНедоступныхПолейГруппировки.Title=The item cannot contain grouping fields.
+Browse the structure tree and select a grouping to view or edit grouping field structure.
+Item.НадписьНедоступныхПолейГруппировки1.Title=The item cannot contain grouping fields.
+Browse the structure tree and select a grouping to view or edit grouping field structure.
+Item.ПанельРезультатов.Title=Results panel
 Item.ПанельРезультатов.ToolTip=Панель результатов
-Item.ПереходКВыбраннымПолямОтчета.Title=Нажмите здесь для перехода к выбранным полям отчета.
-Item.ПереходКВыбраннымПолямОтчета1.Title=Нажмите здесь для перехода к выбранным полям отчета.
-Item.ПереходКВыбраннымПолямОтчета11.Title=Нажмите здесь для перехода к выбранным полям отчета.
-Item.ПереходКВыбраннымПолямОтчета2.Title=Нажмите здесь для перехода к выбранным полям отчета.
-Item.ПереходКОтборуОтчета.Title=Нажмите здесь для перехода к отбору отчета.
-Item.ПереходКОтборуОтчета1.Title=Нажмите здесь для перехода к отбору отчета.
-Item.ПереходКОтборуОтчета11.Title=Нажмите здесь для перехода к отбору отчета.
-Item.ПереходКОтборуОтчета2.Title=Нажмите здесь для перехода к отбору отчета.
-Item.ПереходКПараметрамВыводаОтчета.Title=Нажмите здесь для перехода к дополнительным настройкам отчета.
-Item.ПереходКПараметрамВыводаОтчета1.Title=Нажмите здесь для перехода к дополнительным настройкам отчета.
-Item.ПереходКПараметрамВыводаОтчета11.Title=Нажмите здесь для перехода к дополнительным настройкам отчета.
-Item.ПереходКПараметрамВыводаОтчета2.Title=Нажмите здесь для перехода к дополнительным настройкам отчета.
-Item.ПереходКПорядкуОтчета.Title=Нажмите здесь для перехода к сортировке отчета.
-Item.ПереходКПорядкуОтчета1.Title=Нажмите здесь для перехода к сортировке отчета.
-Item.ПереходКПорядкуОтчета11.Title=Нажмите здесь для перехода к сортировке отчета.
-Item.ПереходКПорядкуОтчета2.Title=Нажмите здесь для перехода к сортировке отчета.
-Item.ПереходКУсловномуОформлениюОтчета.Title=Нажмите здесь для перехода к условному оформлению отчета.
-Item.ПереходКУсловномуОформлениюОтчета1.Title=Нажмите здесь для перехода к условному оформлению отчета.
-Item.ПереходКУсловномуОформлениюОтчета11.Title=Нажмите здесь для перехода к условному оформлению отчета.
-Item.ПереходКУсловномуОформлениюОтчета2.Title=Нажмите здесь для перехода к условному оформлению отчета.
+Item.ПереходКВыбраннымПолямОтчета.Title=View selected report fields
+Item.ПереходКВыбраннымПолямОтчета1.Title=View selected report fields
+Item.ПереходКВыбраннымПолямОтчета11.Title=View selected report fields
+Item.ПереходКВыбраннымПолямОтчета2.Title=View selected report fields
+Item.ПереходКОтборуОтчета.Title=View report filters
+Item.ПереходКОтборуОтчета1.Title=View report filters
+Item.ПереходКОтборуОтчета11.Title=View report filters
+Item.ПереходКОтборуОтчета2.Title=View report filters
+Item.ПереходКПараметрамВыводаОтчета.Title=View additional report settings
+Item.ПереходКПараметрамВыводаОтчета1.Title=View additional report settings
+Item.ПереходКПараметрамВыводаОтчета11.Title=View additional report settings
+Item.ПереходКПараметрамВыводаОтчета2.Title=View additional report settings
+Item.ПереходКПорядкуОтчета.Title=View report sorts
+Item.ПереходКПорядкуОтчета1.Title=View report sorts
+Item.ПереходКПорядкуОтчета11.Title=View report sorts
+Item.ПереходКПорядкуОтчета2.Title=View report sorts
+Item.ПереходКУсловномуОформлениюОтчета.Title=View report conditional appearance
+Item.ПереходКУсловномуОформлениюОтчета1.Title=View report conditional appearance
+Item.ПереходКУсловномуОформлениюОтчета11.Title=View report conditional appearance
+Item.ПереходКУсловномуОформлениюОтчета2.Title=View report conditional appearance
 Item.СтандартныеКомандыДереваОтчетаКонтекстноеМеню.Title=Стандартные команды дерева отчета контекстное меню
 Item.СтандартныеКомандыДереваОтчетаКонтекстноеМеню.ToolTip=Стандартные команды дерева отчета контекстное меню
-Item.СтандартныеКомандыДереваОтчетов.Title=Стандартные команды дерева отчетов
+Item.СтандартныеКомандыДереваОтчетов.Title=Reports tree standart commands
 Item.СтандартныеКомандыДереваОтчетов.ToolTip=Стандартные команды дерева отчетов
-Item.СтраницаИсполняемыеНастройки.Title=Исполняемые настройки
+Item.СтраницаИсполняемыеНастройки.Title=Page executed settings
 Item.СтраницаИсполняемыеНастройки.ToolTip=Страница исполняемые настройки
-Item.СтраницаИсполняемыеНастройкиXML.Title=Исполняемые настройки XML
+Item.СтраницаИсполняемыеНастройкиXML.Title=Page executed settings XML
 Item.СтраницаИсполняемыеНастройкиXML.ToolTip=Страница исполняемые настройки XML
-Item.СтраницаМакетДляКоллекции.Title=Макет для коллекции XML
+Item.СтраницаМакетДляКоллекции.Title=Page template for collection
 Item.СтраницаМакетДляКоллекции.ToolTip=Страница макет для коллекции
-Item.СтраницаМакетКомпоновкиДанных.Title=Макет для табличного документа XML
+Item.СтраницаМакетКомпоновкиДанных.Title=Page data composition template
 Item.СтраницаМакетКомпоновкиДанных.ToolTip=Страница макет компоновки данных
-Item.СтраницаОтбора.Title=Отбор
-Item.СтраницаОтбора1.Title=Отбор
-Item.СтраницаПараметровВывода.Title=Дополнительные настройки
-Item.СтраницаПараметровВывода1.Title=Дополнительные настройки
-Item.СтраницаПараметровДанных.Title=Параметры
-Item.СтраницаПараметровДанных1.Title=Параметры
-Item.СтраницаПолейВыбора.Title=Поля
-Item.СтраницаПолейВыбора1.Title=Поля
-Item.СтраницаПолейГруппировки.Title=Группируемые поля
-Item.СтраницаПолейГруппировки1.Title=Группируемые поля
-Item.СтраницаПользовательскихПолей.Title=Пользовательские поля
-Item.СтраницаПользовательскихПолей1.Title=Пользовательские поля
-Item.СтраницаПорядка.Title=Сортировка
-Item.СтраницаПорядка1.Title=Сортировка
-Item.СтраницаРезультатКоллекция.Title=Коллекция
+Item.СтраницаОтбора.Title=Filter
+Item.СтраницаОтбора1.Title=Filter page1
+Item.СтраницаПараметровВывода.Title=Output parameters page
+Item.СтраницаПараметровВывода1.Title=Output parameters page1
+Item.СтраницаПараметровДанных.Title=Parameters
+Item.СтраницаПараметровДанных1.Title=Page data parameters1
+Item.СтраницаПолейВыбора.Title=Page selected fields
+Item.СтраницаПолейВыбора1.Title=Page selected fields1
+Item.СтраницаПолейГруппировки.Title=Group fields
+Item.СтраницаПолейГруппировки1.Title=Group fields page1
+Item.СтраницаПользовательскихПолей.Title=User fields
+Item.СтраницаПользовательскихПолей1.Title=Page user fields1
+Item.СтраницаПорядка.Title=Order
+Item.СтраницаПорядка1.Title=Order page1
+Item.СтраницаРезультатКоллекция.Title=Collection
 Item.СтраницаРезультатКоллекция.ToolTip=Страница результат коллекция
-Item.СтраницаРезультатКоллекцияXML.Title=Результат для коллекции XML
+Item.СтраницаРезультатКоллекцияXML.Title=Page result collection XML
 Item.СтраницаРезультатКоллекцияXML.ToolTip=Страница результат коллекция XML
-Item.СтраницаРезультатКомпоновкиДанныхXML.Title=Результат для табличного документаXML
+Item.СтраницаРезультатКомпоновкиДанныхXML.Title=Page data composition result XML
 Item.СтраницаРезультатКомпоновкиДанныхXML.ToolTip=Страница результат компоновки данных XML
-Item.СтраницаРезультатТабличныйДокумент.Title=Табличный документ
+Item.СтраницаРезультатТабличныйДокумент.Title=Spreadsheet document
 Item.СтраницаРезультатТабличныйДокумент.ToolTip=Страница результат табличный документ
-Item.СтраницаУсловногоОформления.Title=Условное оформление
-Item.СтраницаУсловногоОформления1.Title=Условное оформление
-Item.Файл.Title=Файл
+Item.СтраницаУсловногоОформления.Title=Conditional appearance page
+Item.СтраницаУсловногоОформления1.Title=Conditional appearance page1
+Item.Файл.Title=File
 Item.Файл.ToolTip=Файл
 Title=Консоль системы компоновки данных

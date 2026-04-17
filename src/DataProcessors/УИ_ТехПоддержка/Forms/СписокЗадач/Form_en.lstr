@@ -13,7 +13,8 @@ Command.ОбновитьСписокЗадач.Title=Обновить списо
 Command.СоздатьНовуюЗадачу.Title=Создать новую задачу
 Command.СоздатьНовуюЗадачуНаГитхабе.Title=Создать новую задачу на GitHub
 Command.СтраницаРазработки.Title=Страница разработки
-Item.ГруппаНоваяЗадача.Title=Новая задача
-Item.ГруппаСписокЗадач.Title=Список задач
-Item.ГруппаСтраницы.Title=Группа страницы
-Item.ДекорацияПредупреждение.Title=<b>ВАЖНО\!\!\! </>Если вы создаете задачу не через <link https\://github.com/cpr1c/tools_ui_1c/issues>https\://github.com</>, а через эту форму вы <b>НЕ БУДЕТЕ</> <b>получать оповещения</> о ее изменении
+Item.ГруппаНоваяЗадача.Title=New issue
+Item.ГруппаСписокЗадач.Title=Issues List
+Item.ГруппаСтраницы.Title=Pages group
+Item.ДекорацияПредупреждение.Title=<b>IMPORTANT!!!</><b> </>If you create a task not via  <link https://github.com/cpr1c/tools_ui_1c/issues>https://github.com</>, and through this form you <b>WILL</><b> </><b>NOT</><b> </><b> </><b>receive</><b> </><b>notifications</> about its change
+

@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute.ИсходныйОбъект.Name=ИсходныйОбъект
-Attribute.КоличествоНайденных.Name=КоличествоНайденных
-Form.Форма.Name=Форма
-Name=УИ_ПоискСсылокНаОбъект
+Attribute.ИсходныйОбъект.Name=SourceObject
+Attribute.КоличествоНайденных.Name=FoundCount
+Form.Форма.Name=Form
+Name=UT_ObjectReferencesSearch

@@ -1,9 +1,9 @@
 #Translations for: interface
 
-Explanation=Форк стандартной обработки из БСП, в которую добавлены несколько параметров выполнения замены
+Explanation=SSL data processor fork with additional parameters
 ExtendedPresentation=Поиск и удаление дублей
-Form.ОбластьПоискаДублей.Synonym=Область поиска дублей
-Form.ПоискДублей.Synonym=Поиск дублей
-Form.ПравилаОтбора.Synonym=Правила отбора
-Form.ПравилаПоиска.Synonym=Правила поиска
-Synonym=Поиск и удаление дублей [УИ]
+Form.ОбластьПоискаДублей.Synonym=Duplicates search area
+Form.ПоискДублей.Synonym=Search for duplicates
+Form.ПравилаОтбора.Synonym=Filter rules
+Form.ПравилаПоиска.Synonym=Search rules
+Synonym=Duplicate object detection [UT]

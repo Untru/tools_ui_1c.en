@@ -1,5 +1,5 @@
 #Translations for: model
 
-Form.Форма.Name=Форма
-Name=УИ_РедакторJSON
+Form.Форма.Name=Form
+Name=UT_JSONEditor
 Template.jsoneditor.Name=jsoneditor

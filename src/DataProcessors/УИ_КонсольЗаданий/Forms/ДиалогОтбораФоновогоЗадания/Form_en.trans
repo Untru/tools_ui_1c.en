@@ -12,5 +12,5 @@ Attribute.Объект.Name=Объект
 Attribute.Отменено.Name=Отменено
 Attribute.Регламентное.Name=Регламентное
 Command.ОК.Name=ОК
-Item.Общие.Name=Общие
-Item.Состояние.Name=Состояние
+Item.Общие.Name=Common
+Item.Состояние.Name=State

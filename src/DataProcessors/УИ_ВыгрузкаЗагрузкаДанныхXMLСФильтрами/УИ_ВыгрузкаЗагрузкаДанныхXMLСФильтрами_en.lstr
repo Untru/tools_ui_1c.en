@@ -17,12 +17,12 @@ Attribute.ПродолжитьЗагрузкуВСлучаеВозникнове
 Attribute.РежимЗагрузкиПредопределенных.Synonym=Режим загрузки предопределенных
 Attribute.СохраненныеНастройки.Synonym=Сохраненные настройки
 Attribute.ТипВыгрузкиПериодическихРегистров.Synonym=Тип выгрузки периодических регистров
-Explanation=Перенос информации между однородными базами данных
+Explanation=Transfer information between homogeneous infobases
 ExtendedPresentation=Выгрузка и загрузка данных XML с фильтрами
-Form.ВыборИзЗапроса.Synonym=Выбор из запроса
-Form.НастройкиКонсолиЗапросов.Synonym=Настройки консоли запросов
-Form.Форма.Synonym=Форма
-Synonym=Выгрузка и загрузка данных XML с фильтрами [УИ]
+Form.ВыборИзЗапроса.Synonym=Select from query
+Form.НастройкиКонсолиЗапросов.Synonym=Query console settings
+Form.Форма.Synonym=Form
+Synonym=Export and import XML data with filters [UT]
 TabularSection.ДополнительныеОбъектыДляВыгрузки.Attribute.ИмяОбъектаДляЗапроса.Synonym=Имя объекта для запроса
 TabularSection.ДополнительныеОбъектыДляВыгрузки.Attribute.Объект.Synonym=Объект
 TabularSection.ДополнительныеОбъектыДляВыгрузки.Synonym=Дополнительные объекты для выгрузки

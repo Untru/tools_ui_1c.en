@@ -2,7 +2,7 @@
 
 Explanation=позволяет низкоуровневое редактирование ссылочных объектов. Поддерживает редактирование движений документа.
 ExtendedPresentation=Редактор реквизитов объекта базы данных
-Form.ФормаОбъекта.Synonym=Форма объекта
-Form.ФормаРедакторДвижений.Synonym=Форма редактор движений
-Form.ФормаРедакторДвиженийДоп.Synonym=Форма редактор движений доп
-Synonym=Редактор реквизитов объекта базы данных [УИ]
+Form.ФормаОбъекта.Synonym=Object form
+Form.ФормаРедакторДвижений.Synonym=Records editor form
+Form.ФормаРедакторДвиженийДоп.Synonym=Records editor additional form
+Synonym=Objects attributes editor [UT]

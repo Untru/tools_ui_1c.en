@@ -1,10 +1,10 @@
 #Translations for: model
 
-Command.ВопросРазработчику.Name=ВопросРазработчику
+Command.ВопросРазработчику.Name=QuestionToDeveloper
 Command.ИнформацияДляТехподдержки.Name=ИнформацияДляТехподдержки
 Command.ОчиститьКэшИнструментовНаКлиенте.Name=ОчиститьКэшИнструментовНаКлиенте
-Command.ПроверитьНеобходимостьОбновления.Name=ПроверитьНеобходимостьОбновления
-Command.СтраницаРазработки.Name=СтраницаРазработки
-Form.ОбновлениеИнструментов.Name=ОбновлениеИнструментов
-Form.СписокЗадач.Name=СписокЗадач
-Name=УИ_ТехПоддержка
+Command.ПроверитьНеобходимостьОбновления.Name=CheckUpdate
+Command.СтраницаРазработки.Name=AboutPage
+Form.ОбновлениеИнструментов.Name=UpdateTools
+Form.СписокЗадач.Name=TasksList
+Name=UT_Support

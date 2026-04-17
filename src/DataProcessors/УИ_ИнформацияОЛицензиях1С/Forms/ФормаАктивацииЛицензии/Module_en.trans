@@ -1,6 +1,6 @@
 #Translations for: model
 
-Method.АктивироватьНаСервере.Name=АктивироватьНаСервере
+Method.АктивироватьНаСервере.Name=ActivateAtServer
 Method.АктивироватьНаСервере.String.Word.activate.Key=activate
 Method.АктивироватьНаСервере.String.Word.apartment.Key=apartment
 Method.АктивироватьНаСервере.String.Word.building.Key=building

@@ -2,5 +2,5 @@
 
 Explanation=позволяет редактировать значения констант в режиме таблицы
 ExtendedPresentation=Редактор констант
-Form.Константы.Synonym=Константы
-Synonym=Редактор констант [УИ]
+Form.Константы.Synonym=Constants List
+Synonym=Constants Editor [UT]

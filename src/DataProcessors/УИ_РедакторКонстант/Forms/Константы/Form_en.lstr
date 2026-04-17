@@ -16,4 +16,4 @@ Command.Записать.ToolTip=Записать
 Command.Перечитать.Title=Перечитать
 Item.ГруппаДополнительнаяИнформацияТекущейКонстанты.Title=Группа1
 Item.ГруппаПараметрыЗаписи.CollapsedRepresentationTitle=Параметры записи
-Item.ГруппаПараметрыЗаписи.Title=Параметры записи
+Item.ГруппаПараметрыЗаписи.Title=Group write parametrs

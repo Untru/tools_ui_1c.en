@@ -5,4 +5,4 @@ Attribute.ОбластиПоискаДублей.Name=ОбластиПоиска
 Attribute.ОбластьПоУмолчанию.Name=ОбластьПоУмолчанию
 Attribute.Объект.Name=Объект
 Command.Выбрать.Name=Выбрать
-Item.ОбластиПоискаДублейПредставление.Name=ОбластиПоискаДублейПредставление
+Item.ОбластиПоискаДублейПредставление.Name=DuplicatesSearchAreasPresentation

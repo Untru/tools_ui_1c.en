@@ -2,6 +2,6 @@
 
 Explanation=Позволяет в удобной форме редактировать строки JSON. Содержит подсветку синтаксиса JSON, редактирование в виде дерева, некоторые автоподстановки
 ExtendedPresentation=Редактор JSON
-Form.Форма.Synonym=Форма
-Synonym=Редактор JSON [УИ]
+Form.Форма.Synonym=Form
+Synonym=JSON Editor [UT]
 Template.jsoneditor.Synonym=Jsoneditor

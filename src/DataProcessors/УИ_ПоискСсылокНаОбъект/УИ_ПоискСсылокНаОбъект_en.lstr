@@ -1,8 +1,8 @@
 #Translations for: interface
 
-Attribute.ИсходныйОбъект.Synonym=Исходный объект
-Attribute.КоличествоНайденных.Synonym=Количество найденных
-Explanation=\ аналог стандартной обработки из меню "Все функции".
+Attribute.ИсходныйОбъект.Synonym=Source object
+Attribute.КоличествоНайденных.Synonym=Found count
+Explanation=An analog of standard data processor from the "Functions for technician" menu item.
 ExtendedPresentation=Поиск ссылок на объект
-Form.Форма.Synonym=Форма
-Synonym=Поиск ссылок на объект [УИ]
+Form.Форма.Synonym=Form
+Synonym=Object references search [UT]

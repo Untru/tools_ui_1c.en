@@ -2,5 +2,5 @@
 
 Attribute.Объект.Name=Объект
 Attribute.Текст.Name=Текст
-Item.ГруппаКоманднаяПанельВнизу.Name=ГруппаКоманднаяПанельВнизу
-Item.КнопкаЗакрыть.Name=КнопкаЗакрыть
+Item.ГруппаКоманднаяПанельВнизу.Name=BottomCommandBarGroup
+Item.КнопкаЗакрыть.Name=CloseButton

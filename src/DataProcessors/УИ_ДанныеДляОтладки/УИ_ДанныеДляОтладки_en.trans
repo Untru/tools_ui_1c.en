@@ -1,5 +1,5 @@
 #Translations for: model
 
-Command.ДанныеДляОтладки.Name=ДанныеДляОтладки
-Form.Форма.Name=Форма
-Name=УИ_ДанныеДляОтладки
+Command.ДанныеДляОтладки.Name=DebugData
+Form.Форма.Name=Form
+Name=UT_DebugData

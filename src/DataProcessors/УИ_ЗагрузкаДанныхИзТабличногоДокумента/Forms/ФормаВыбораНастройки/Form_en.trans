@@ -11,5 +11,5 @@ Command.Отмена.Handler.Name=ОтменаНажатие
 Command.Отмена.Name=Отмена
 Command.Удалить.Handler.Name=УдалитьНажатие
 Command.Удалить.Name=Удалить
-Item.ГруппаКнопки.Name=ГруппаКнопки
-Item.ГруппаПоля.Name=ГруппаПоля
+Item.ГруппаКнопки.Name=ButtonsGroup
+Item.ГруппаПоля.Name=FieldsGroup
