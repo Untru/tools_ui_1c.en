@@ -1,5 +1,5 @@
 #Translations for: model
 
 Description=@strict-types
-Method.ПрименитьНастройки.String.ЗначениеРеквизита.Key=ZnachenieRekvizita
+Method.ПрименитьНастройки.String.ЗначениеРеквизита.Key=ApplySettings
 Region.ОбработчикиКомандФормы.Name=ReadCommandsForm

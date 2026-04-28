@@ -2,19 +2,19 @@
 
 Method.ВидыКонтейнераЗначения.Comment.Доступен\ только\ для\ клиента.Description=Available Only To Client
 Method.ВидыКонтейнераЗначения.Name=MetadataSuffixForm
-Method.ВидыКонтейнераЗначения.String.ВычислитьВыражение.Key=VychislitVyrazhenie
+Method.ВидыКонтейнераЗначения.String.ВычислитьВыражение.Key=TypesContainerValue
 Method.ВидыКонтейнераЗначения.String.ВычислитьПоРодительскойСтроке.Key=VychislitPoRoditelskoyStroke
-Method.ВидыКонтейнераЗначения.String.ХранилищеДанныхФормы.Key=KhranilishcheDannykhFormy
+Method.ВидыКонтейнераЗначения.String.ХранилищеДанныхФормы.Key=TypesContainerValue
 Method.ВидыКонтейнераЗначения.Var.Виды.Name=Metadata
 Method.ВыражениеПриИзмененииНаServerе.Name=ExpressionOnChangeToServer
 Method.ВычислитьВыражение.Comment.@skip-check\ server-execution-safe-mode.Description=@skip-check server-execution-safe-mode
-Method.ВычислитьВыражение.Comment.УстановитьБезопасныйРежим(Истина);.Description=UstanovitBezopasnyyRezhim(Istina);
+Method.ВычислитьВыражение.Comment.УстановитьБезопасныйРежим(Истина);.Description=CalculateExpression
 Method.ВычислитьВыражение.Name=EvalExpression
 Method.ВычислитьВыражение.Param.Форма.Name=Form
 Method.ВычислитьВыражение.Var.Значение.Name=Value
 Method.ДеревоЗначенияВыбор.String.Word.обработке.Key=key
 Method.ДеревоЗначенияВыбор.String.Word.при.Key=creating
-Method.ДеревоЗначенияВыбор.String.ДеревоЗначенияЗначениеЕстьОшибка.Key=DerevoZnacheniyaZnachenieEstOshibka
+Method.ДеревоЗначенияВыбор.String.ДеревоЗначенияЗначениеЕстьОшибка.Key=TreeValueSelect
 Method.ДеревоЗначенияВыбор.Var.ДанныеСтроки.Name=DataTrailing
 Method.ДеревоЗначенияПередРазворачиванием.Var.СтрокаДерева.Name=StringStandart
 Method.ЗаполнитьПотомковСтроки.Name=Fill in dependent objectsPotomkovTrailing
@@ -52,9 +52,9 @@ Method.ПоказатьЗначениеВОтдельномОкне.Var.Стро
 Method.ПоказатьЗначениеВОтдельномОкне.Var.ТекущиеДанные.Name=CurrentData
 Method.ПоказатьЗначениеВОтдельномОкне.Var.ХранилищеДляПараметровФормы.Name=StorageToTableForm
 Method.ПриСозданииНаServerе.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
-Method.ПриСозданииНаServerе.String.КонтейнерЗначения.Key=KonteynerZnacheniya
+Method.ПриСозданииНаServerе.String.КонтейнерЗначения.Key=OnCreateOnServerE
 Method.ПриСозданииНаServerе.Var.ЗначениеКонтейнера.Name=ValueSuffix
-Method.УстановитьЗначениеВСтрокуДерева.Comment.СтрокаДерева\.ЗначениеТипЗначенияПредставление\ \=\ "Step\ Rights\ Form";\nStrokaDereva\.ZnacheniePredstavlenie\ \=\ "Dont\ udalos\ Set\ vychislennoe\ Value\ In\ Attribute\ Form\.";.Description=StrokaDereva.ZnachenieTipZnacheniyaPredstavlenie \= "Step Rights Form";\nStrokaDereva.ZnacheniePredstavlenie \= "Dont udalos Set vychislennoe Value In Attribute Form.";
+Method.УстановитьЗначениеВСтрокуДерева.Comment.СтрокаДерева\.ЗначениеТипЗначенияПредставление\ \=SetValueInStringTree
 Method.УстановитьЗначениеВСтрокуДерева.Name=SetValueInRowStandart
 Method.УстановитьЗначениеВСтрокуДерева.Param.Значение.Name=Value
 Method.УстановитьЗначениеВСтрокуДерева.Param.Очистить.Name=Clear
@@ -68,20 +68,20 @@ Method.УстановитьЗначениеВСтрокуДерева.Param.Ус
 Method.УстановитьЗначениеВСтрокуДерева.Param.Форма.Name=Form
 Method.УстановитьЗначениеВСтрокуДерева.Var.ВидыКонтейнераЗначения.Name=MetadataSuffixForm
 Method.УстановитьЗначениеВСтрокуДерева.Var.СтрокаРодитель.Name=StringParent
-Method.УстановитьЗначениеКорневойСтроки.Comment.ОписаниеТипаЗначения\ \=\ UI_TipyPlatformyKlientServer\.OpisanieTipaPlatformyPoTipu(TipZnch(Value));\nEsli\ OpisanieTipaZnacheniya\ \=\ Neopredeleno\ Togda\nUI_ObshchegoNaznacheniyaKlientServer\.MessageToUser("Dont\ udalos\ Get\ Description\ Type\ Form\.");\nZnachenie\ \=\ Neopredeleno;\nVozvrat;\nKonetsEsli;.Description=OpisanieTipaZnacheniya \= UI_TipyPlatformyKlientServer.OpisanieTipaPlatformyPoTipu(TipZnch(Value));\nEsli OpisanieTipaZnacheniya \= Neopredeleno Togda\nUI_ObshchegoNaznacheniyaKlientServer.MessageToUser("Dont udalos Get Description Type Form.");\nZnachenie \= Neopredeleno;\nVozvrat;\nKonetsEsli;
+Method.УстановитьЗначениеКорневойСтроки.Comment.ОписаниеТипаЗначения\ \=SetValueRootString
 Method.УстановитьЗначениеКорневойСтроки.Name=SetValueRootTrailing
 Method.УстановитьЗначениеКорневойСтроки.Param.Значение.Name=Value
 Method.УстановитьЗначениеКорневойСтроки.Param.Форма.Name=Form
 Method.УстановитьЗначениеКорневойСтроки.Var.КорневаяСтрока.Name=KornevayaString
 Method.УстановитьЗначениеКорневойСтроки.Var.ЭлементыДерева.Name=ItemsStandart
 Method.УстановитьУсловноеОформлениеДерева.Name=SetConditionalAppearanceStandart
-Method.УстановитьУсловноеОформлениеДерева.String.ДеревоЗначения.Key=DerevoZnacheniya
+Method.УстановитьУсловноеОформлениеДерева.String.ДеревоЗначения.Key=SetConditionalAppearanceTree
 Region.ОписаниеПеременных.Name=DescriptionVariables
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.Name=ReadEventForm
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.Name=ReadEventItemsShapkiForm
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиСобытийЭлементовТаблицыФормыДеревоЗначения.Name=ReadEventItemsTableFormTreeForm
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиСобытийЭлементовТаблицыФормыДеревоЗначения.ОбработчикиКомандФормы.Name=ReadCommandsForm
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиСобытийЭлементовТаблицыФормыДеревоЗначения.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=SluzhebnyeProceduresTFunctions
-Var.УИ_ИдентификаторСтрокиДляРазворачивания.Description=Number, Neopredeleno
-Var.УИ_ИдентификаторСтрокиДляРазворачивания.Name=UTUUIDTrailingToRazvorachivaniya
+Var.УИ_ИдентификаторСтрокиДляРазворачивания.Description=UAnd_IdentifierStringForUnfolding
+Var.УИ_ИдентификаторСтрокиДляРазворачивания.Name=UAnd_IdentifierStringForUnfolding
 Var.УИ_ХранилищеДанныхФормы.Name=UTStorageSchemaForm

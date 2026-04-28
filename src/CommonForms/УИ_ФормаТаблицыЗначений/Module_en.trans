@@ -1,17 +1,17 @@
 #Translations for: model
 
 Method.КомандаОК.String.СтрокаВнутр.Key=StrokaVnutr
-Method.КомандаОК.String.ТаблицаЗначений.Key=TablitsaZnacheniy
+Method.КомандаОК.String.ТаблицаЗначений.Key=CommandAboutTo
 Method.КомандаОК.Var.Результат.Name=Result
-Method.ПриСозданииНаServerе.Comment.Если\ не\ Колонка\.ТипЗначения\.СодержитТип(пТипТаблицаЗначений)\ Тогда.Description=If Dont Column.TipZnacheniya.SoderzhitTip(pTipTablitsaZnacheniy) Togda
-Method.ПриСозданииНаServerе.Comment.Если\ не\ Колонка\.ТипЗначения\.СодержитТип(пТипТаблицаЗначений)\ Тогда\nРеквизитыКДобавлению\.Добавить(новый\ РеквизитФормы(Колонка\.Имя,\ Колонка\.ТипЗначения,\ "ТаблицаДанных",\ Колонка\.Заголовок,\ ложь));\nКонецЕсли;.Description=If Dont Column.TipZnacheniya.SoderzhitTip(pTipTablitsaZnacheniy) Togda\nRekvizityKDobavleniyu.Add(New RekvizitFormy(Column.Name, Column.TipZnacheniya, "TablitsaDannykh", Column.Title, lozh));\nKonetsEsli;
+Method.ПриСозданииНаServerе.Comment.Если\ не\ Колонка\.ТипЗначения\.СодержитТип(пТипТаблицаЗначений)\ Тогда.Description=OnCreateOnServerE
+Method.ПриСозданииНаServerе.Comment.Если\ не\ Колонка\.ТипЗначения\.СодержитТип(пТипТаблицаЗначений)\ Тогда\nРеквизитыКДобавлению\.Добавить(новый\ РеквизитФормы(Колонка\.Имя,\ Колонка\.ТипЗначения,\ "ТаблицаДанных",\ Колонка\.Заголовок,\ ложь));\nКонецЕсли;.Description=OnCreateOnServerE
 Method.ПриСозданииНаServerе.Comment.КонецЕсли;.Description=KonetsEsli;
-Method.ПриСозданииНаServerе.String.Word.ТаблицаДанных.Key=TablitsaDannykh
-Method.ПриСозданииНаServerе.String.ТаблицаДанных.Key=TablitsaDannykh
+Method.ПриСозданииНаServerе.String.Word.ТаблицаДанных.Key=OnCreateOnServerE
+Method.ПриСозданииНаServerе.String.ТаблицаДанных.Key=OnCreateOnServerE
 Method.ПриСозданииНаServerе.Var.Значение.Name=Value
 Method.ПриСозданииНаServerе.Var.Колонка.Name=Column
 Method.ПриСозданииНаServerе.Var.РеквизитыКДобавлению.Name=AttributesSDobavleniyu
-Method.ПриСозданииНаServerе.Var.РеквизитыКУдалению.Name=AttributesSUdaleniyu
+Method.ПриСозданииНаServerе.Var.РеквизитыКУдалению.Name=OnCreateOnServerE
 Method.ПриСозданииНаServerе.Var.ТипЗначенияРеквизита.Name=TypeFormAttribute
 Method.ПриСозданииНаServerе.Var.ТипМВ.Name=TypemIn
 Method.ПриСозданииНаServerе.Var.ТипТЗ.Name=TypeConfigR

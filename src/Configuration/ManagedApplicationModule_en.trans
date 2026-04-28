@@ -2,5 +2,5 @@
 
 Method.УИ_ПриНачалеРаботыСистемы.Description=@skip-warning
 Method.УИ_ПриНачалеРаботыСистемы.Name=UTOnStartOptionSistemy
-Var.УИ_ПараметрыПриложения.Description=Storage globalnykh Variables.\nParametryPrilozheniya - Type - Storage Variables, gde\:\n* Key - String - Name peremennoy In Format "ImyaBiblioteki.ImyaPeremennoy";\n* Value - Arbitrary - Value peremennoy.\nInitsializatsiya (To primere SoobshcheniyaDlyaZhurnalaRegistratsii)\:\nImyaParametra \= "StandartnyePodsistemy.SoobshcheniyaDlyaZhurnalaRegistratsii";\nEsli ParametryPrilozheniya[ParameterName] \= Neopredeleno Togda\nParametryPrilozheniya.Insert(ParameterName, New SpisokZnacheniy);\nKonetsEsli;\nIspolzovanie (To primere SoobshcheniyaDlyaZhurnalaRegistratsii)\:\nParametryPrilozheniya["StandartnyePodsistemy.SoobshcheniyaDlyaZhurnalaRegistratsii"].Add(...);\nParametryPrilozheniya["StandartnyePodsistemy.SoobshcheniyaDlyaZhurnalaRegistratsii"] \= ...;
+Var.УИ_ПараметрыПриложения.Description=UAnd_ParametersApplication
 Var.УИ_ПараметрыПриложения.Name=UTParametersApplication

@@ -19,11 +19,11 @@ Method.КомандаНайтиНаServerе.Var.ЗапросПоиска.Name=Qu
 Method.КомандаНайтиНаServerе.Var.Менеджер.Name=Manager
 Method.КомандаНайтиНаServerе.Var.ТекстЗапроса.Name=ArbitraryQueryText
 Method.КомандаНайтиНаServerе.Var.маЗапросПоиска.Name=maQueryRules
-Method.КомандаОК.Var.ВозвращаемоеЗначение.Name=VozvrashchaemoeValue
+Method.КомандаОК.Var.ВозвращаемоеЗначение.Name=CommandAboutTo
 Method.КомандаОК.Var.Значение.Name=Value
 Method.СсылкаПриИзменении.Comment.@skip-warning.Description=@skip-warning
 Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.@skip-warning.Description=@skip-warning
-Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.СтандартнаяОбработка\ \=\ Lozh;.Description=StandartnayaObrabotka \= Lozh;
+Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.СтандартнаяОбработка\ \=UniqueIdentifierEndInputText
 Method.УникальныйИдентификаторОкончаниеВводаТекста.String.Word.Некорректный.Key=UUID
 Method.УникальныйИдентификаторОкончаниеВводаТекста.String.Word.уникальный.Key=is
 Method.УникальныйИдентификаторОкончаниеВводаТекста.Var.ъ.Name=

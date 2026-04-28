@@ -5,4 +5,4 @@ Attribute.КолонкаЗапроса.Name=ColumnText
 Attribute.ТекстВставки.Name=TextVstavki
 Command.Вставить.Name=Insert
 Item.ВидКолонки.ChoiceList.0.Value.Value=UID
-Item.ВидКолонки.ChoiceList.1.Value.Value=DataSozdaniya
+Item.ВидКолонки.ChoiceList.1.Value.Value=TypeColumn

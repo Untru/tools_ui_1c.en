@@ -2,7 +2,7 @@
 
 Attribute.АдресХранилища.Name=DestinationStorage
 Attribute.ВнешнийФайл.Name=ExternalFile
-Attribute.ВыбраныйТип.Name=VybranyyType
+Attribute.ВыбраныйТип.Name=SelectedType
 Attribute.ДоступныеТипы.Name=AvailableKey
 Attribute.НаименованиеПараметра.Name=DescriptionValue
 Attribute.Объект.Name=Object
@@ -17,7 +17,7 @@ Command.УстановитьНаименованиеПараметра.Name=SetP
 Item.ВыбраныйТип.ChoiceList.0.Value.Value=DostupnyeTipy
 Item.ВыбраныйТип.ChoiceList.1.Value.Value=VneshniyFayl
 Item.ВыбраныйТип.ChoiceList.2.Value.Value=Collection
-Item.ВыбраныйТип.ChoiceList.3.Value.Value=OpredelyaemyyTip
+Item.ВыбраныйТип.ChoiceList.3.Value.Value=SelectedType
 Item.ГруппаКоллекция.Name=GroupCollection
 Item.ГруппаКоллекция1.Name=GroupCollection1
 Item.ГруппаНаименованиеПараметра.Name=GroupParameterName
@@ -25,7 +25,7 @@ Item.ГруппаОпределяемыйТип.Name=GroupDefinedType
 Item.ТипКоллекция.ChoiceList.0.Value.Value=Array
 Item.ТипКоллекция.ChoiceList.1.Value.Value=Structure
 Item.ТипКоллекция.ChoiceList.2.Value.Value=Type
-Item.ТипКоллекция.ChoiceList.3.Value.Value=TablitsaZnacheniy
+Item.ТипКоллекция.ChoiceList.3.Value.Value=TypeCollection
 Item.УстановитьНаименование.Name=SetParameterName
 Item.грДоступныеТипы.Name=GroupAvailableTypes
 Parameter.ИмяПараметра.Name=ParameterName

@@ -1,18 +1,18 @@
 #Translations for: model
 
 Method.ЗагрузитьФайл.Name=ImportFile
-Method.ЗагрузитьФайл.Param.ВыполняемоеОповещение.Name=VypolnyaemoeNotification
+Method.ЗагрузитьФайл.Param.ВыполняемоеОповещение.Name=LoadFile
 Method.ЗагрузитьФайл.Param.Интерактивно.Name=Interactively
 Method.ЗагрузитьФайл.Param.РасположениеФайла.Name=FileLog
-Method.ЗагрузитьФайл.String.ВыполняемоеОповещение.Key=VypolnyaemoeOpoveshchenie
+Method.ЗагрузитьФайл.String.ВыполняемоеОповещение.Key=LoadFile
 Method.ЗагрузитьФайл.Var.ДополнительныеПараметры.Name=AdditionalParameters
 Method.ЗагрузитьФайлЗавершение.Name=ImportFileEnd
 Method.ЗагрузитьФайлЗавершение.Param.ДополнительныеПараметры.Name=AdditionalParameters
-Method.ЗагрузитьФайлЗавершение.Param.ОписаниеПомещенногоФайла.Name=DescriptionPomeshchennogoLog
+Method.ЗагрузитьФайлЗавершение.Param.ОписаниеПомещенногоФайла.Name=LoadFileCompletion
 Method.СохранитьФайл.Name=SaveFile
 Method.СохранитьФайл.Param.АдресФайлаВХранилище.Name=DestinationLogInStorage
 Method.СохранитьФайл.Param.Интерактивно.Name=Interactively
-Method.СохранитьФайл.Param.ОписаниеОповещения.Name=DescriptionOpoveshcheniya
+Method.СохранитьФайл.Param.ОписаниеОповещения.Name=SaveFile
 Method.СохранитьФайл.Param.РасположениеФайла.Name=FileLog
 Method.СохранитьФайлЗавершение.Comment.Заглушка.Description=Zaglushka
 Method.СохранитьФайлЗавершение.Description=@skip-warning

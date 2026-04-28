@@ -1,7 +1,7 @@
 #Translations for: model
 
 Description=@strict-types
-Method.ЗначениеВСтрокуXML.Description=Preobrazuet (serializuet) lyuboe Value In Page XML-Row.\nPreobrazovany In mogut byt Only te Objects, To kotorykh In sintaks-pomoshchnike ukazano, chto oni serializuyutsya.\n Sm. takzhe ConfigurationMetadataDescriptionAdress.
+Method.ЗначениеВСтрокуXML.Description=ValueInStringXML
 Method.ЗначениеВСтрокуXML.Name=ValueFromXMLString
 Method.ЗначениеВСтрокуXML.Param.Значение.Description=Value, kotoroe neobkhodimo serializovat In Page XML-Row.
 Method.ЗначениеВСтрокуXML.Param.Значение.Name=Value
@@ -9,7 +9,7 @@ Method.ЗначениеВСтрокуXML.Return.Description=Page XML-String.
 Method.ЗначениеВСтрокуXML.String.Word.в.Key=in
 Method.ЗначениеВСтрокуXML.String.Word.веб.Key=veb
 Method.ЗначениеВСтрокуXML.String.Word.клиенте.Key=client
-Method.ЗначениеИзСтрокиXML.Description=Vypolnyaet Json (deserializatsiyu) Page XML-Trailing In Value.\n Sm. takzhe ValueFromXMLString.
+Method.ЗначениеИзСтрокиXML.Description=ValueFromStringXML
 Method.ЗначениеИзСтрокиXML.Name=ConfigurationMetadataDescriptionAdress
 Method.ЗначениеИзСтрокиXML.Param.СтрокаXML.Description=Page XML-String, C serializovannym obektom..
 Method.ЗначениеИзСтрокиXML.Param.СтрокаXML.Name=StringXML
@@ -18,7 +18,7 @@ Method.ЗначениеИзСтрокиXML.String.Word.в.Key=in
 Method.ЗначениеИзСтрокиXML.String.Word.веб.Key=veb
 Method.ЗначениеИзСтрокиXML.String.Word.клиенте.Key=client
 Method.ПриСозданииНаServerе.Comment.@skip-check\ property-return-type\ -\ Произвольное\ значение.Description=@Skip-Check Property-Return-Type - Proizvolnoe Value
-Method.ПрименитьЗначение.String.ЗначениеРеквизита.Key=ZnachenieRekvizita
+Method.ПрименитьЗначение.String.ЗначениеРеквизита.Key=ApplyValue
 Method.ПрименитьЗначение.Var.ПолученноеЗначение.Name=PoluchennoeValue
 Region.ОбработчикиСобытийФормы.Name=ReadEventForm
 Region.ОбработчикиСобытийФормы.ОбработчикиКомандФормы.Name=ReadCommandsForm

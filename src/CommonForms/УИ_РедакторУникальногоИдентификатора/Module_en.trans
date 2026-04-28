@@ -20,13 +20,13 @@ Method.КомандаНайтиНаServerе.Var.МаЗапросПоиска.Nam
 Method.КомандаНайтиНаServerе.Var.Менеджер.Name=Manager
 Method.КомандаНайтиНаServerе.Var.ТекстЗапроса.Name=ArbitraryQueryText
 Method.КомандаОК.Comment.@skip-check\ empty-except-statement.Description=@skip-check empty-except-statement
-Method.КомандаОК.String.Word.некорректный.Key=nekorrektnyy
+Method.КомандаОК.String.Word.некорректный.Key=CommandAboutTo
 Method.КомандаОК.String.Word.уникальный.Key=is
 Method.КомандаОК.Var.ВыбранноеЗначение.Name=VybrannoeValue
 Method.ПриСозданииНаServerе.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
 Method.СсылкаПриИзменении.Comment.@skip-warning.Description=@skip-warning
 Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.@skip-warning.Description=@skip-warning
-Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.СтандартнаяОбработка\ \=\ Lozh;.Description=StandartnayaObrabotka \= Lozh;
+Method.УникальныйИдентификаторОкончаниеВводаТекста.Comment.СтандартнаяОбработка\ \=UniqueIdentifierEndInputText
 Method.УникальныйИдентификаторОкончаниеВводаТекста.String.Word.Некорректный.Key=UUID
 Method.УникальныйИдентификаторОкончаниеВводаТекста.String.Word.уникальный.Key=is
 Method.УникальныйИдентификаторОкончаниеВводаТекста.Var.ъ.Name=

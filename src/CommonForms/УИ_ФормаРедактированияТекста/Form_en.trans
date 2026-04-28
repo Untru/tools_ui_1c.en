@@ -4,5 +4,5 @@ Attribute.Текст.Name=Text
 Command.ОК.Name=Ok
 Item._Выполнить.Name=Execute
 Item._ТекстКонтекстноеМеню.Name=TextKontekstnoeMenyu
-Item._ТекстРасширеннаяПодсказка.Name=TextRasshirennayaAlgorithms
+Item._ТекстРасширеннаяПодсказка.Name=_TextExtendedTooltip
 Item.КоманднаяПанельФормы.Name=FormCommandBar

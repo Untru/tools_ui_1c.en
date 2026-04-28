@@ -1,9 +1,9 @@
 #Translations for: model
 
 Named.События.Key=error
-Named.СобытияПослеДобавленияСтроки.Key=SobytiyaPosleDobavleniyaStroki
+Named.СобытияПослеДобавленияСтроки.Key=EventAfterAddString
 Named.Строка.Key=Line
-Named.СтрокаВыражение.Key=StrokaVyrazhenie
+Named.СтрокаВыражение.Key=StringExpression
 Named.Шапка.Key=Shapka
 Row.1.Cell.4.Parameter=ImportMode
 Row.10.Cell.0.Parameter=Check

@@ -5,7 +5,7 @@ Method.АктивизироватьТекущийЭлемент.Param.Идент
 Method.АктивизироватьТекущийЭлемент.Param.ИмяЭлемента.Name=NameName
 Method.АктивизироватьТекущийЭлемент.Var.ТекущийПрототип.Name=CurrentPrototip
 Method.ДобавитьЭлементУправления.Name=AddItemItems
-Method.ДобавитьЭлементУправления.Param.Перемещение.Name=Peremeshchenie
+Method.ДобавитьЭлементУправления.Param.Перемещение.Name=AddItemManagement
 Method.ДобавитьЭлементУправления.Param.Связать.Name=Svyazat
 Method.ДобавитьЭлементУправления.Param.СпециальныеСвойства.Name=SpetsialnyeProperties
 Method.ДобавитьЭлементУправления.Param.ТиповыеСвойства.Name=TipovyeProperties
@@ -27,7 +27,7 @@ Method.ОткрытьПрототип.Param.РодительскаяФорма.N
 Method.ОткрытьПрототип.Param.ТекущиеДанные.Name=CurrentData
 Method.ОткрытьПрототип.Var.ТекущийПрототип.Name=CurrentPrototip
 Method.ПереместитьЭлементУправления.Name=MoveItemItems
-Method.ПереместитьЭлементУправления.Param.ДанныеПеремещения.Name=DataPeremeshcheniya
+Method.ПереместитьЭлементУправления.Param.ДанныеПеремещения.Name=MoveItemManagement
 Method.ПереместитьЭлементУправления.Var.ТекущийПрототип.Name=CurrentPrototip
 Method.ПолучитьТекущийПрототип.Name=GetCurrentPrototip
 Method.ПолучитьТекущийПрототип.Param.РодительскаяФорма.Name=RoditelskayaForm
@@ -50,5 +50,5 @@ Method.УдалитьЭлементУправления.Param.ЭтоКоманд
 Method.УдалитьЭлементУправления.Var.ТекущийПрототип.Name=CurrentPrototip
 Region.ОписаниеПеременных.Name=DescriptionVariables
 Region.ОписаниеПеременных.СлужебныеПроцедурыИФункции.Name=SluzhebnyeProceduresTFunctions
-Region.ОписаниеПеременных.СлужебныеПроцедурыИФункции.СлужебныйПрограммныйИнтерфейс.Name=InternalProgrammnyyInterface
+Region.ОписаниеПеременных.СлужебныеПроцедурыИФункции.СлужебныйПрограммныйИнтерфейс.Name=DescriptionVariables
 Var.Прототипы.Name=Prototipy

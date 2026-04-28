@@ -1,8 +1,8 @@
 #Translations for: model
 
 Method.ПриСозданииНаServerе.String.ВидимостьПометки.Key=VidimostPometki
-Method.ПриСозданииНаServerе.String.ВидимостьПредставления.Key=VidimostPredstavleniya
-Method.ПриСозданииНаServerе.String.ВозвращатьТолькоВыбранныеЗначения.Key=VozvrashchatTolkoVybrannyeZnacheniya
+Method.ПриСозданииНаServerе.String.ВидимостьПредставления.Key=OnCreateOnServerE
+Method.ПриСозданииНаServerе.String.ВозвращатьТолькоВыбранныеЗначения.Key=OnCreateOnServerE
 Method.ПриСозданииНаServerе.String.РежимПодбора.Key=RezhimPodbora
 Method.ПриСозданииНаServerе.String.ТипЭлементов.Key=TipElementov
 Method.ПриСозданииНаServerе.Var.РежимПодбора.Name=ModePodbora

@@ -8,4 +8,4 @@ Command.ПерейтиПоСсылке.Name=GotoByRef
 Command.СкопироватьВБуфер.Name=CopyInBuffer
 Item.ГруппаКоманднаяПанельСсылкиСправа.Name=GroupCommandBarReferencesSpaces
 Item.КопированиеСсылки.Name=KopirovanieReferences
-Item.СсылкаДляКопирования.Name=RefToKopirovaniya
+Item.СсылкаДляКопирования.Name=RefForCopy

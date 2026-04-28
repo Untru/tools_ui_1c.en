@@ -27,7 +27,7 @@ Method.вПослеЗапускаПриложения.Param.КодВозврат
 Method.вСтрНайти.Name=vStrFind
 Method.вСтрНайти.Param.НаправлениеПоиска.Name=NapravlenieRules
 Method.вСтрНайти.Param.НачальнаяПозиция.Name=NachalnayaPozitsiya
-Method.вСтрНайти.Param.НомерВхождения.Name=NumberVkhozhdeniya
+Method.вСтрНайти.Param.НомерВхождения.Name=VStrFind
 Method.вСтрНайти.Param.Подстрока.Name=Substring
 Method.вСтрНайти.Param.Строка.Name=String
 Method.вСтрШаблон.Name=vStrTemplate

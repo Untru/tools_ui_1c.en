@@ -1,6 +1,6 @@
 #Translations for: model
 
-Method.АлгоритмВыполняетсяНаClientе.Name=AlgorithmVypolnyaetsyaToClient
+Method.АлгоритмВыполняетсяНаClientе.Name=AlgorithmExecutingOnClientE
 Method.АлгоритмВыполняетсяНаClientе.Param.Алгоритм.Name=Algorithm
 Method.ВыполнитьАлгоритм.Var.Алгоритм.Name=Algorithm
 Method.ВыполнитьАлгоритм.Var.МассивАлгоритмов.Name=ArrayMode

@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute._БыстрыйВызовServerа.Name=BystryyServerCall
+Attribute._БыстрыйВызовServerа.Name=_FastCallServerA
 Attribute._ЗадаватьВопросПриЗакрытии.Name=RequestDataOnClose
 Attribute._ЗаписьВРежимеЗагрузки.Name=ObjectsInExchangeImport
 Attribute._ЗначениеДляЗаполнения.Name=ValueToFill
@@ -13,7 +13,7 @@ Attribute._ТабРегистры.ВидРегистра.Name=TypeName
 Attribute._ТабРегистры.ЕстьЗаписи.Name=HasRecords
 Attribute._ТабРегистры.ЕстьРеквизитФормы.Name=HasAttributeForm
 Attribute._ТабРегистры.Записать.Name=Write
-Attribute._ТабРегистры.Изменен.Name=Izmenen
+Attribute._ТабРегистры.Изменен.Name=_TabRegisters
 Attribute._ТабРегистры.Имя.Name=Name
 Attribute._ТабРегистры.ПолноеИмя.Name=PanelName
 Attribute._ТабРегистры.Представление.Name=Presentation

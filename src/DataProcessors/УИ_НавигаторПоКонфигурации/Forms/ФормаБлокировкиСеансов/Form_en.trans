@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute.КодРазрешения.Name=CodeRazresheniya
+Attribute.КодРазрешения.Name=CodePermissions
 Attribute.Конец.Name=End
 Attribute.Начало.Name=Begin
 Attribute.Объект.Name=Object

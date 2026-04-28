@@ -1,7 +1,7 @@
 #Translations for: model
 
 Description=Copyright (c) 2025 Ilya Fedorov\nSPDX-License-Identifier\: MIT\nhttps\://github.com/iljyxa/SharedQueryDesignerHRM
-Method.ИсполняемыйТекстЗапросаПредставления.Name=IspolnyaemyyTextTextExpression
+Method.ИсполняемыйТекстЗапросаПредставления.Name=ExecutableTextQueryPresentation
 Method.ИсполняемыйТекстЗапросаПредставления.Param.ТекстЗапросаПредставления.Name=TextTextExpression
 Method.ИсполняемыйТекстЗапросаПредставления.Var.МодульЗарплатаКадрыОбщиеНаборыДанных.Name=ModuleZarplataKadryCommonDataSchema
 Method.ИсполняемыйТекстЗапросаПредставления.Var.МодульОбщегоНазначения.Name=ModuleCommonName
@@ -9,12 +9,12 @@ Method.ОбработкаОбъект.Description=Object Panel Data processors
 Method.ОбработкаОбъект.Name=ModeObject
 Method.ОбработкаОбъект.Return.Description=Mode Object
 Method.ПреобразоватьДляВставкиВКод.Var.ТекстЗапроса.Name=ArbitraryQueryText
-Method.ПреобразоватьДляВставкиВКод.Var.ТекстовыйДокумент.Name=TekstovyyDocument
+Method.ПреобразоватьДляВставкиВКод.Var.ТекстовыйДокумент.Name=ConvertForInsertsInCode
 Method.СкопироватьВБуферОбмена.Comment.+\ УИ\nАсинх\ Процедура\ СкопироватьВБуферОбмена(Команда).Description=+ UT\nAsinkh Procedure SkopirovatVBuferObmena(Command)
-Method.СкопироватьВБуферОбмена.Comment.+\ УИ\nЭлементБуфераОбмена\ \=\ New\ ElementBuferaObmena(StandartnyyFormatDannykhBuferaObmena\.Text,\ DannyeDlyaPomeshcheniyaVBufer);\nZhdat\ SredstvaBuferaObmena\.PomestitDannyeAsinkh(ElementBuferaObmena);.Description=+ UT\nElementBuferaObmena \= New ElementBuferaObmena(StandartnyyFormatDannykhBuferaObmena.Text, DannyeDlyaPomeshcheniyaVBufer);\nZhdat SredstvaBuferaObmena.PomestitDannyeAsinkh(ElementBuferaObmena);
+Method.СкопироватьВБуферОбмена.Comment.+\ УИ\nЭлементБуфераОбмена\ \=CopyInBufferExchange
 Method.СкопироватьВБуферОбмена.Comment.-\ УИ.Description=- UT
 Method.СкопироватьВБуферОбмена.Var.ДанныеДляПомещенияВБуфер.Name=DataToPutInBuffer
-Method.СтраницыПриСменеСтраницы.Comment.+\ УИ\n+\ ОбработкаОшибок\.ПодробноеПредставлениеОшибки(ИнформацияОбОшибке()));.Description=+ UT\n+ ObrabotkaOshibok.PodrobnoePredstavlenieOshibki(InformatsiyaObOshibke()));
+Method.СтраницыПриСменеСтраницы.Comment.+\ УИ\n+\ ОбработкаОшибок\.ПодробноеПредставлениеОшибки(ИнформацияОбОшибке()));.Description=PageOnShiftPage
 Method.СтраницыПриСменеСтраницы.Comment.-\ УИ.Description=- UT
 Method.СтраницыПриСменеСтраницы.Var.ТекстЗапроса.Name=ArbitraryQueryText
 Method.ТекстЗапросаДляВставкиВКод.Name=TextTextToVstavkiInCode
@@ -26,5 +26,5 @@ Region.ОписаниеПеременных.ОбработчикиСобытий
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.Name=ReadEventItemsShapkiForm
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.Name=ReadCommandsForm
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=SluzhebnyeProceduresTFunctions
-Var.ОбработкаОбъект.Description=VneshnyayaObrabotka.KonstruktorPredstavleniyZarplataKadry
+Var.ОбработкаОбъект.Description=DataprocessorObject
 Var.ОбработкаОбъект.Name=ModeObject

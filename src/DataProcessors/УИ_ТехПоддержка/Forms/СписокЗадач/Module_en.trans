@@ -19,7 +19,7 @@ Method.ОбновитьСписокЗадачНаServerе.Var.НоваяЗада
 Method.ОбновитьСписокЗадачНаServerе.Var.НоваяЗадача.String.state.Key=state
 Method.ОбновитьСписокЗадачНаServerе.Var.НоваяЗадача.String.title.Key=title
 Method.ОбновитьСписокЗадачНаServerе.Var.НомерСтраницы.Name=NumberPages
-Method.ОбновитьСписокЗадачНаServerе.Var.ОтветственныйЗадача.Name=OtvetstvennyyIssue
+Method.ОбновитьСписокЗадачНаServerе.Var.ОтветственныйЗадача.Name=UpdateListTasksOnServerE
 Method.ОбновитьСписокЗадачНаServerе.Var.ОтветственныйЗадача.String.assignee.Key=assignee
 Method.ОбновитьСписокЗадачНаServerе.Var.СписокЗадачРепозитория.Name=TasksListRepozitoriya
 Method.ОбновитьСписокЗадачНаServerе.Var.СписокЗадачРепозитория.String.Word.page.Key=page

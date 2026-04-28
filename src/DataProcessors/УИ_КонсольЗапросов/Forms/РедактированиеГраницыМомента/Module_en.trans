@@ -1,14 +1,14 @@
 #Translations for: model
 
-Method.КомандаОК.Var.ВозвращаемоеЗначение.Name=VozvrashchaemoeValue
+Method.КомандаОК.Var.ВозвращаемоеЗначение.Name=CommandAboutTo
 Method.ПолучитьДатуСсылки.Comment.@skip-warning.Description=@skip-warning
 Method.ПолучитьДатуСсылки.Name=GetRefDate
 Method.ПолучитьДатуСсылки.Param.Ссылка.Name=Ref
 Method.ПолучитьДатуСсылки.Var.Выборка.Name=Selection
 Method.ПолучитьДатуСсылки.Var.ТаблицаБазы.Name=TableBase
-Method.ПолучитьПредставлениеГраницы.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=Dublirovanie Console, konechno, no izbezhim obrashchenie To Files on server. In module Form Has Container_GetPresentation.
+Method.ПолучитьПредставлениеГраницы.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=GetPresentationBorders
 Method.ПолучитьПредставлениеГраницы.Name=GetBoundaryPresentation
-Method.ПолучитьПредставлениеМомента.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=Dublirovanie Console, konechno, no izbezhim obrashchenie To Files on server. In module Form Has Container_GetPresentation.
+Method.ПолучитьПредставлениеМомента.Comment.Дублирование\ кода,\ конечно,\ но\ избежим\ обращение\ на\ сервер\.\ В\ модуле\ объекта\ есть\ Контейнер_ПолучитьПредставление\..Description=GetPresentationMoment
 Method.ПолучитьПредставлениеМомента.Name=GetPointInTimePresentation
 Method.ПриСозданииНаServerе.Var.Заголовок.String.Word.Момент.Key=Moment
 Method.ПриСозданииНаServerе.Var.Заголовок.String.Word.времени.Key=boundary

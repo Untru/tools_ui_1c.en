@@ -3,8 +3,8 @@
 Comment.ОБРАБОТЧИКИ\ КОМАНД\ ФОРМЫ.Description=Read Commands Form
 Comment.СЛУЖЕБНЫЕ\ ПРОЦЕДУРЫ\ И\ ФУНКЦИИ.Description=SLUZhEBNYE Procedures T Functions
 Description=Read Event Form
-Method.ЗаписатьИзмененияУзла.Description=Proizvodit Objects izmenennykh Schema T zakryvaet Handlers.
-Method.ЗаписатьИзмененияУзла.String.ИзменениеДанныхУзлаОбмена.Key=IzmenenieDannykhUzlaObmena
+Method.ЗаписатьИзмененияУзла.Description=WriteChangesNode
+Method.ЗаписатьИзмененияУзла.String.ИзменениеДанныхУзлаОбмена.Key=WriteChangesNode
 Method.ЗаписатьНомераСообщений.Name=WriteMessageNumbers
 Method.ЗаписатьНомераСообщений.Var.Данные.Name=Data
 Method.ПриСозданииНаServerе.Comment.Возврат\ при\ получении\ формы\ для\ анализа\..Description=Vozvrat On poluchenii Form To analiza.

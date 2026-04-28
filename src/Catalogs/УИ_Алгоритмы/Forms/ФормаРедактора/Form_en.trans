@@ -1,6 +1,6 @@
 #Translations for: model
 
-Attribute.КомпановщикНастроек.Name=KompanovshchikManager
+Attribute.КомпановщикНастроек.Name=LinkerSettings
 Attribute.ТабличныйДокумент.Name=SpreadsheetDocument
 Attribute.ТекстHTML.Name=TextHTML
 Parameter.Алгоритм.Name=Algorithm

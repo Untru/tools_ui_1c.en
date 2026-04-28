@@ -1,10 +1,10 @@
 #Translations for: model
 
-Region.ПрограммныйИнтерфейс.Comment.Код\ процедур\ и\ функций.Description=Code protsedur T funktsiy
+Region.ПрограммныйИнтерфейс.Comment.Код\ процедур\ и\ функций.Description=ProgramInterface
 Region.ПрограммныйИнтерфейс.Name=API
-Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.Comment.Код\ процедур\ и\ функций.Description=Code protsedur T funktsiy
+Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.Comment.Код\ процедур\ и\ функций.Description=ProgramInterface
 Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.Name=EventHandlers
-Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.СлужебныйПрограммныйИнтерфейс.Comment.Код\ процедур\ и\ функций.Description=Code protsedur T funktsiy
-Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.СлужебныйПрограммныйИнтерфейс.Name=InternalProgrammnyyInterface
-Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.СлужебныйПрограммныйИнтерфейс.СлужебныеПроцедурыИФункции.Comment.Код\ процедур\ и\ функций.Description=Code protsedur T funktsiy
+Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.СлужебныйПрограммныйИнтерфейс.Comment.Код\ процедур\ и\ функций.Description=ProgramInterface
+Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.СлужебныйПрограммныйИнтерфейс.Name=ProgramInterface
+Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.СлужебныйПрограммныйИнтерфейс.СлужебныеПроцедурыИФункции.Comment.Код\ процедур\ и\ функций.Description=ProgramInterface
 Region.ПрограммныйИнтерфейс.ОбработчикиСобытий.СлужебныйПрограммныйИнтерфейс.СлужебныеПроцедурыИФункции.Name=SluzhebnyeProceduresTFunctions

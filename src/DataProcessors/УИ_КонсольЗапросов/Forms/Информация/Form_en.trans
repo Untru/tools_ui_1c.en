@@ -2,7 +2,7 @@
 
 Attribute.Информация.Name=Information
 Attribute.ИнформацияФорматированная.Name=InformationFormatted
-Attribute.КодДляКопирования.Name=CodeToKopirovaniya
+Attribute.КодДляКопирования.Name=CodeForCopy
 Attribute.Объект.Name=Object
 Item.ГруппаКартинки.Name=PicturesGroup
 Item.ГруппаНижняяПанель.Name=BottomPanelGroup

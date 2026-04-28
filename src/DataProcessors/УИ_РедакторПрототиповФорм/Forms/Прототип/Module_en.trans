@@ -2,7 +2,7 @@
 
 Method.АктивизироватьТекущийЭлементУправления.Name=AktivizirovatCurrentItemItems
 Method.АктивизироватьТекущийЭлементУправления.Param.ИмяЭлемента.Name=NameName
-Method.АктивизироватьТекущийЭлементУправления.Var.ИскомыйЭлемент.Name=IskomyyItem
+Method.АктивизироватьТекущийЭлементУправления.Var.ИскомыйЭлемент.Name=ActivateCurrentItemManagement
 Method.ВычислитьЦвет.Comment.TODO\:.Description=TODO\:
 Method.ВычислитьЦвет.Comment.TODO\:\ ошибки\ при\ загрузке\ прототипа\ из\ открытой\ формы\nРезультат\ \=\ Eval(Value);.Description=TODO\: Flag On Data prototipa From otkrytoy Form\nRezultat \= Eval(Value);
 Method.ВычислитьЦвет.Name=EvalColor
@@ -18,8 +18,8 @@ Method.ЗагрузитьКартинку.Param.ИмяРеквизита.Name=Na
 Method.ЗагрузитьКартинку.Var.ПараметрыЗагрузкиКартинки.Name=ParametersImportPictures
 Method.ЗагрузитьКартинкуЗавершение.Name=ImportPictureEnd
 Method.ЗагрузитьКартинкуЗавершение.Param.ДополнительныеПараметры.Name=AdditionalParameters
-Method.ЗагрузитьКартинкуЗавершение.Param.ОписаниеПомещенногоФайла.Name=DescriptionPomeshchennogoLog
-Method.ЗагрузитьКартинкуПродолжение.Comment.ОписаниеОповещенияОЗавершении\ \=\ New\ OpisanieOpoveshcheniya("ZagruzitKartinkuZavershenie",\ EtotObekt,\ DopolnitelnyeParametry);\nNachatPomeshchenieFayla(OpisanieOpoveshcheniyaOZavershenii,\ ,\ ,\ ,\ VybrannyeFayly[0]);.Description=OpisanieOpoveshcheniyaOZavershenii \= New OpisanieOpoveshcheniya("ZagruzitKartinkuZavershenie", EtotObekt, DopolnitelnyeParametry);\nNachatPomeshchenieFayla(OpisanieOpoveshcheniyaOZavershenii, , , , VybrannyeFayly[0]);
+Method.ЗагрузитьКартинкуЗавершение.Param.ОписаниеПомещенногоФайла.Name=LoadPictureCompletion
+Method.ЗагрузитьКартинкуПродолжение.Comment.ОписаниеОповещенияОЗавершении\ \=LoadPictureContinuation
 Method.ЗагрузитьКартинкуПродолжение.Name=ImportPictureHandler
 Method.ЗагрузитьКартинкуПродолжение.Param.ВыбранныеФайлы.Name=SelectedFiles
 Method.ЗагрузитьКартинкуПродолжение.Param.ДополнительныеПараметры.Name=AdditionalParameters
@@ -33,7 +33,7 @@ Method.ИзменитьСвойствоЭлементаУправленияНаS
 Method.ИзменитьСвойствоЭлементаУправленияНаServerе.Param.ИмяЭлемента.Name=NameName
 Method.ИзменитьСвойствоЭлементаУправленияНаServerе.Param.Свойство.Name=Property
 Method.ИзменитьСвойствоЭлементаУправленияНаServerе.Param.ЭтоФорма.Name=IsForm
-Method.ИзменитьСвойствоЭлементаУправленияНаServerе.Var.ИскомыйЭлемент.Name=IskomyyItem
+Method.ИзменитьСвойствоЭлементаУправленияНаServerе.Var.ИскомыйЭлемент.Name=ChangePropertyItemManagementOnServerE
 Method.НайтиРеквизитПоИмени.Name=FindAttributeByName
 Method.НайтиРеквизитПоИмени.Param.ИскомоеИмя.Name=IskomoeName
 Method.НайтиРеквизитПоИмени.Param.Путь.Name=Path
@@ -41,13 +41,13 @@ Method.НайтиРеквизитПоИмени.Var.ВсеРеквизиты.Nam
 Method.НайтиРеквизитПоИмени.Var.Результат.Name=Result
 Method.НайтиРеквизитПоИмени.Var.Реквизит.Name=Attribute
 Method.НарисоватьЭлементУправления.Name=NarisovatItemItems
-Method.НарисоватьЭлементУправления.Param.Перемещение.Name=Peremeshchenie
+Method.НарисоватьЭлементУправления.Param.Перемещение.Name=DrawItemManagement
 Method.НарисоватьЭлементУправления.Param.Связать.Name=Svyazat
 Method.НарисоватьЭлементУправления.Param.СпециальныеСвойства.Name=SpetsialnyeProperties
 Method.НарисоватьЭлементУправления.Param.Тип.Name=Type
 Method.НарисоватьЭлементУправления.Param.ТиповыеСвойства.Name=TipovyeProperties
 Method.НарисоватьЭлементУправленияНаServerе.Name=NarisovatItemItemsToServer
-Method.НарисоватьЭлементУправленияНаServerе.Param.Перемещение.Name=Peremeshchenie
+Method.НарисоватьЭлементУправленияНаServerе.Param.Перемещение.Name=DrawItemManagementOnServerE
 Method.НарисоватьЭлементУправленияНаServerе.Param.Связать.Name=Svyazat
 Method.НарисоватьЭлементУправленияНаServerе.Param.СпециальныеСвойства.Name=SpetsialnyeProperties
 Method.НарисоватьЭлементУправленияНаServerе.Param.Тип.Name=Type
@@ -56,20 +56,20 @@ Method.НарисоватьЭлементУправленияНаServerе.Var.Н
 Method.НарисоватьЭлементУправленияНаServerе.Var.Пара.Name=Para
 Method.НарисоватьЭлементУправленияНаServerе.Var.РодительЭлемента.Name=ParentName
 Method.НарисоватьЭлементУправленияНаServerе.Var.Элемент.Name=Item
-Method.ОбработатьКоманду.Comment.Сообщить(Команда\.Имя);\nЭтотОбъект\.ФорматированнаяСтрока1\ \=\ New\ FormattedString("Tovar\ ",\ New\ FormattedString("Televizor",\ ,\nWebTsveta\.Page,\ ,\ "SsylkaNaTovar"),\ "\ Missing\ To\ sklade");\nPodklyuchitObrabotchikOzhidaniya("Collection",\ 1,\ Istina);.Description=Message(Command.Name);\nEtotObekt.FormatirovannayaStroka1 \= New FormattedString("Tovar ", New FormattedString("Televizor", ,\nWebTsveta.Page, , "SsylkaNaTovar"), " Missing To sklade");\nPodklyuchitObrabotchikOzhidaniya("Collection", 1, Istina);
+Method.ОбработатьКоманду.Comment.Сообщить(Команда\.Имя);\nЭтотОбъект\.ФорматированнаяСтрока1\ \=ProcessCommand
 Method.ОбработатьКоманду.Name=ProcessCommon
 Method.ОбработатьКоманду.Param.Команда.Name=Command
-Method.ОбработатьНажатие.Comment.СтандартнаяОбработка\ \=\ Lozh;\nZagruzitKartinku(Item\.Name);.Description=StandartnayaObrabotka \= Lozh;\nZagruzitKartinku(Item.Name);
+Method.ОбработатьНажатие.Comment.СтандартнаяОбработка\ \=ProcessPressing
 Method.ОбработатьНажатие.Name=ProcessNazhatie
 Method.ОбработатьНажатие.Param.СтандартнаяОбработка.Name=StandartnayaMode
 Method.ОбработатьНажатие.Param.Элемент.Name=Item
 Method.ПереместитьЭлементУправления.Name=MoveItemItems
-Method.ПереместитьЭлементУправления.Param.ДанныеПеремещения.Name=DataPeremeshcheniya
+Method.ПереместитьЭлементУправления.Param.ДанныеПеремещения.Name=MoveItemManagement
 Method.ПереместитьЭлементУправленияНаServerе.Name=MoveItemItemsToServer
-Method.ПереместитьЭлементУправленияНаServerе.Param.ДанныеПеремещения.Name=DataPeremeshcheniya
-Method.ПереместитьЭлементУправленияНаServerе.Var.ПеремещаемыйЭлемент.Name=PeremeshchaemyyItem
+Method.ПереместитьЭлементУправленияНаServerе.Param.ДанныеПеремещения.Name=MoveItemManagementOnServerE
+Method.ПереместитьЭлементУправленияНаServerе.Var.ПеремещаемыйЭлемент.Name=MoveItemManagementOnServerE
 Method.ПереместитьЭлементУправленияНаServerе.Var.РодительскийЭлемент.Name=RoditelskiyItem
-Method.ПереместитьЭлементУправленияНаServerе.Var.ЭлементМестоположения.Name=ItemMestopolozheniya
+Method.ПереместитьЭлементУправленияНаServerе.Var.ЭлементМестоположения.Name=MoveItemManagementOnServerE
 Method.Прогресс.Name=Collection
 Method.СоздатьИзменитьРеквизит.Name=CreateChangeAttribute
 Method.СоздатьИзменитьРеквизит.Param.СпециальныеСвойства.Name=SpetsialnyeProperties
@@ -77,7 +77,7 @@ Method.СоздатьИзменитьРеквизитНаServerе.Name=CreateCha
 Method.СоздатьИзменитьРеквизитНаServerе.Param.СпециальныеСвойства.Name=SpetsialnyeProperties
 Method.СоздатьИзменитьРеквизитНаServerе.String.Число.Key=Number
 Method.СоздатьИзменитьРеквизитНаServerе.Var.ДобавляемыеРеквизиты.Name=DobavlyaemyeAttributes
-Method.СоздатьИзменитьРеквизитНаServerе.Var.ИскомыйРеквизит.Name=IskomyyAttribute
+Method.СоздатьИзменитьРеквизитНаServerе.Var.ИскомыйРеквизит.Name=CreateChangeAttributeOnServerE
 Method.СоздатьИзменитьРеквизитНаServerе.Var.КД.Name=SEditor
 Method.СоздатьИзменитьРеквизитНаServerе.Var.КС.Name=SC
 Method.СоздатьИзменитьРеквизитНаServerе.Var.КЧ.Name=SP
@@ -99,12 +99,12 @@ Method.СтеретьЭлементУправленияНаServerе.Param.Имя
 Method.СтеретьЭлементУправленияНаServerе.Param.ЭтоКолонка.Name=IsColumn
 Method.СтеретьЭлементУправленияНаServerе.Param.ЭтоКоманда.Name=IsCommand
 Method.СтеретьЭлементУправленияНаServerе.Var.ИскомаяКоманда.Name=IskomayaCommand
-Method.СтеретьЭлементУправленияНаServerе.Var.ИскомыйЭлемент.Name=IskomyyItem
+Method.СтеретьЭлементУправленияНаServerе.Var.ИскомыйЭлемент.Name=EraseItemManagementOnServerE
 Method.СтеретьЭлементУправленияНаServerе.Var.Результат.Name=Result
 Method.СтеретьЭлементУправленияНаServerе.Var.УдаляемыеРеквизиты.Name=UdalyaemyeAttributes
 Method.УстановитьИзменитьСвойство.Name=SetChangeProperty
 Method.УстановитьИзменитьСвойство.Param.Значение.Name=Value
-Method.УстановитьИзменитьСвойство.Param.ИскомыйЭлемент.Name=IskomyyItem
+Method.УстановитьИзменитьСвойство.Param.ИскомыйЭлемент.Name=SetChangeProperty
 Method.УстановитьИзменитьСвойство.Param.Свойство.Name=Property
 Method.УстановитьИзменитьСвойство.Var.Цвет.Name=Color
 Method.ЭмулироватьПрогресс.Name=EmulirovatCollection

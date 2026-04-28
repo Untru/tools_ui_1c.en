@@ -19,7 +19,7 @@ Attribute.Объект.ТаблицаПравилВыгрузки.Отбор.Nam
 Attribute.Объект.ТаблицаПравилВыгрузки.СсылкаНаУзелОбмена.Name=RefToNodeEncoding
 Attribute.Объект.ТаблицаПравилВыгрузки.ЭтоГруппа.Name=IsGroup
 Attribute.ПериодВыгрузки.Name=PeriodTable
-Attribute.ПравилаЗагружены.Name=SearchZagruzheny
+Attribute.ПравилаЗагружены.Name=RulesLoaded
 Attribute.ПравилаОбмена.Name=SearchEncoding
 Attribute.ПредставлениеПериодаВыгрузки.Name=PresentationValueTable
 Attribute.ПрямаяВыгрузка.Name=DirectExport

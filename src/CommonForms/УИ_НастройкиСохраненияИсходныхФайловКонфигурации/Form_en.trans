@@ -22,4 +22,4 @@ Item.ГруппаБазаServerная.Name=GroupInfobaseServernaya
 Item.ГруппаБазаФайловая.Name=GroupInfobaseFile
 Item.ГруппаПользователь.Name=GroupUsername
 Item.ГруппаПользовательПароль.Name=GroupUsernamePassword
-Item.ГруппаСтраницыРаположенияБазы.Name=GroupPagesRapolozheniyaBase
+Item.ГруппаСтраницыРаположенияБазы.Name=GroupPageLocationsDatabase

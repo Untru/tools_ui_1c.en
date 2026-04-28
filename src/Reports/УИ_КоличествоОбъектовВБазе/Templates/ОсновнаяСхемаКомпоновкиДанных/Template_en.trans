@@ -15,4 +15,4 @@ Parameter.НачалоПериода.Name=BeginValue
 Parameter.Период.Name=Period
 Variant.КоличествоОбъектовВБазе.Name=ProcessedWritingInBase
 Variant.КоличествоОбъектовВБазе.Settings.OutputParameters.Items.0.Values.0.Value=Page
-Variant.КоличествоОбъектовВБазеУпрощенная.Name=ProcessedWritingInBaseUproshchennaya
+Variant.КоличествоОбъектовВБазеУпрощенная.Name=CountObjectsInDatabaseSimplified

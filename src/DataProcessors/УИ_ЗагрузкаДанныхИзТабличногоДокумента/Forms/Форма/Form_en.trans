@@ -1,7 +1,7 @@
 #Translations for: model
 
 Attribute.Объект.Name=Object
-Attribute.ПромежуточныйРеквизит.Name=PromezhutochnyyAttribute
+Attribute.ПромежуточныйРеквизит.Name=IntermediateAttribute
 Attribute.СпискиВыбораСвязиПоВладельцу.Name=FormScaleFormByList
 Attribute.СпискиВыбораСвязиПоВладельцу.ИмяРеквизита.Name=NameAttribute
 Attribute.СпискиВыбораСвязиПоВладельцу.СписокВыбора.Name=TasksScale
@@ -9,7 +9,7 @@ Attribute.СписокСохраненныхНастроек.Name=TasksStorageMa
 Attribute.СписокСохраненныхНастроек.Значение.Name=Value
 Attribute.СписокСохраненныхНастроек.Пометка.Name=Check
 Attribute.СписокСохраненныхНастроек.Представление.Name=Presentation
-Attribute.ТаблицаЗагружаемыхРеквизитов.Name=TableZagruzhaemykhAttributes
+Attribute.ТаблицаЗагружаемыхРеквизитов.Name=TableDownloadableAttributes
 Attribute.ТаблицаЗагружаемыхРеквизитов.Выражение.Name=Expression
 Attribute.ТаблицаЗагружаемыхРеквизитов.ДоступныеТипы.Name=AvailableKey
 Attribute.ТаблицаЗагружаемыхРеквизитов.ЗначениеПоУмолчанию.Name=ValueByDefault
@@ -85,5 +85,5 @@ Item.ДекорацияПустоеМесто.Name=BlankDecoration
 Item.ТабДокумент.Name=SpreadsheetDocument
 Item.ТаблицаЗагружаемыхРеквизитовРежимЗагрузки.ChoiceList.0.Value.Value=Iskat
 Item.ТаблицаЗагружаемыхРеквизитовРежимЗагрузки.ChoiceList.1.Value.Value=Ustanavlivat
-Item.ТаблицаЗагружаемыхРеквизитовРежимЗагрузки.ChoiceList.2.Value.Value=Vychislyat
+Item.ТаблицаЗагружаемыхРеквизитовРежимЗагрузки.ChoiceList.2.Value.Value=TableDownloadableAttributesModeLoading
 Item.ТипОбъекта.Name=ObjectType

@@ -3,7 +3,7 @@
 Attribute._РежимРаботы.Name=ModeOption
 Attribute.АутентификацияОС.Name=AuthenticationDC
 Attribute.АутентификацияСтандартная.Name=AuthenticationStandartnaya
-Attribute.ЗащитаОтОпасныхДействий.Name=ZashchitaFromOpasnykhActions
+Attribute.ЗащитаОтОпасныхДействий.Name=ProtectionFromDangerousActions
 Attribute.Идентификатор.Name=UUID
 Attribute.ИдентификаторПользователяИБ.Name=UUIDUserTI
 Attribute.Имя.Name=Name

@@ -28,5 +28,5 @@ Item.ТипБухгалтерскогоОстатка.ChoiceList.0.Value.Value=O
 Item.ТипБухгалтерскогоОстатка.ChoiceList.1.Value.Value=Debet
 Item.ТипБухгалтерскогоОстатка.ChoiceList.2.Value.Value=Kredit
 Item.ТипОстатка.ChoiceList.0.Value.Value=Objects
-Item.ТипОстатка.ChoiceList.1.Value.Value=NachalnyyOstatok
-Item.ТипОстатка.ChoiceList.2.Value.Value=KonechnyyOstatok
+Item.ТипОстатка.ChoiceList.1.Value.Value=TypeBalance
+Item.ТипОстатка.ChoiceList.2.Value.Value=TypeBalance

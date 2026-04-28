@@ -1,8 +1,8 @@
 #Translations for: model
 
 Method.ПриСозданииНаServerе.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
-Method.ПриСозданииНаServerе.String.СтруктураДляИзменения.Key=StrukturaDlyaIzmeneniya
-Method.ПриСозданииНаServerе.String.ХранилищеКонтейнераЗначения.Key=KhranilishcheKonteyneraZnacheniya
+Method.ПриСозданииНаServerе.String.СтруктураДляИзменения.Key=OnCreateOnServerE
+Method.ПриСозданииНаServerе.String.ХранилищеКонтейнераЗначения.Key=OnCreateOnServerE
 Method.ПриСозданииНаServerе.Var.СоответствиеИсточник.Name=TypeData
 Method.ПриСозданииНаServerе.Var.ХранилищеКонтейнтейнера.Name=StorageKonteynteynera
 Method.ПрочитатьСоответствиеВТаблицу.Name=ReadTypeInTable

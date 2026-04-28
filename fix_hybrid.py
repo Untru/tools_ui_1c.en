@@ -488,9 +488,8 @@ def get_translator():
 
 def translate_word_google(word: str, cache: dict) -> str | None:
     """Translate a single word via Google Translate with caching."""
-    cache_key = f"g:{word}"
-    if cache_key in cache:
-        return cache[cache_key]
+    if word in cache:
+        return cache[word]
 
     global _api_calls
     try:
@@ -501,7 +500,7 @@ def translate_word_google(word: str, cache: dict) -> str | None:
             time.sleep(0.3)
         if result:
             clean = result.split()[0].strip('.,;:!?')
-            cache[cache_key] = clean
+            cache[word] = clean
             return clean
     except Exception as e:
         if _api_calls % 50 == 0:

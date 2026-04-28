@@ -2,9 +2,9 @@
 
 Method.ПриСозданииНаServerе.Var.ВидКолонки.String.УИД.Key=UID
 Method.СформироватьТекстВставки.Name=GenerateTextVstavki
-Method.СформироватьТекстВставки.String.ДатаСоздания.Key=DataSozdaniya
+Method.СформироватьТекстВставки.String.ДатаСоздания.Key=GenerateTextInserts
 Method.СформироватьТекстВставки.String.УИД.Key=UID
-Method.СформироватьТекстВставки.Var.ТекстВставки.String.Word.__ДатаСоздания_.Key=__DataSozdaniya_
+Method.СформироватьТекстВставки.Var.ТекстВставки.String.Word.__ДатаСоздания_.Key=GenerateTextInserts
 Method.СформироватьТекстВставки.Var.ТекстВставки.String.Word.__УИД_.Key=__UID_
 Region.ОбработчикиСобытийФормы.Name=ReadEventForm
 Region.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.Name=ReadEventItemsShapkiForm

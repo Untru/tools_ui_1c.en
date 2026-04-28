@@ -2,7 +2,7 @@
 
 Attribute.ИспользоватьПриОткрытии.Name=UseOnOpen
 Attribute.Объект.Name=Object
-Attribute.СоздавалиНовуюСтроку.Name=SozdavaliNewRow
+Attribute.СоздавалиНовуюСтроку.Name=CreatedNewString
 Attribute.СписокНастроек.Name=TasksManager
 Attribute.СписокНастроек.Значение.Name=Value
 Attribute.СписокНастроек.Пометка.Name=Check

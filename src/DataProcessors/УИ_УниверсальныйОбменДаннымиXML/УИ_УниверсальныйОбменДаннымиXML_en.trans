@@ -63,7 +63,7 @@ Attribute.ПарольИнформационнойБазыДляПодключе
 Attribute.ПользовательИнформационнойБазыДляПодключения.Name=InfobaseConnectionUsername
 Attribute.ПостроительОтчета.Name=ReportBuilder
 Attribute.РежимОбмена.Name=ExchangeMode
-Attribute.РежимОтладкиАлгоритмов.Comment=0 - Debug Managed, 1 - protsedurnyy Server standartnyy, 2 - protsedurnyy Server C Parameters Form, 3 - neposredstvennaya Insert Console In Stream
+Attribute.РежимОтладкиАлгоритмов.Comment=ModeDebuggingAlgorithms
 Attribute.РежимОтладкиАлгоритмов.Name=AlgorithmDebugMode
 Attribute.СохраненныеНастройки.Name=SavedSettings
 Attribute.ТаблицаНастройкиПараметров.Name=ParametersSettingsTable

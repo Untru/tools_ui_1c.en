@@ -1,7 +1,7 @@
 #Translations for: model
 
 Method.ПриСозданииНаServerе.Comment.@skip-check\ unknown-form-parameter-access.Description=@skip-check unknown-form-parameter-access
-Method.ПриСозданииНаServerе.String.ХранилищеКонтейнераЗначения.Key=KhranilishcheKonteyneraZnacheniya
+Method.ПриСозданииНаServerе.String.ХранилищеКонтейнераЗначения.Key=OnCreateOnServerE
 Method.ПриСозданииНаServerе.Var.ХранилищеКонтейнераЗначения.Name=StorageSuffixForm
 Method.СсылкаНачалоВыбора.Var.ДоступныеНаборы.Name=AvailableData
 Method.СсылкаНачалоВыбора.Var.ПараметрыОбработчика.Name=ParametersString
@@ -10,5 +10,5 @@ Region.ОписаниеПеременных.Name=DescriptionVariables
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.Name=ReadEventForm
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.Name=ReadEventItemsShapkiForm
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.Name=ReadCommandsForm
-Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Comment.Код\ процедур\ и\ функций.Description=Code protsedur T funktsiy
+Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Comment.Код\ процедур\ и\ функций.Description=DescriptionVariables
 Region.ОписаниеПеременных.ОбработчикиСобытийФормы.ОбработчикиСобытийЭлементовШапкиФормы.ОбработчикиКомандФормы.СлужебныеПроцедурыИФункции.Name=SluzhebnyeProceduresTFunctions

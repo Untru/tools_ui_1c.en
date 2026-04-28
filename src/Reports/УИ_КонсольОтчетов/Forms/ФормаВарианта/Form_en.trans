@@ -3,8 +3,8 @@
 Attribute.ЛокальноеУсловноеОформление.Name=LokalnoeConditionalAppearance
 Attribute.ЛокальныеВыбранныеПоля.Name=LokalnyeSelectedFields
 Attribute.ЛокальныеПараметрыВывода.Name=LokalnyeParametersOutput
-Attribute.ЛокальныйОтбор.Name=LokalnyyFilter
-Attribute.ЛокальныйПорядок.Name=LokalnyyOrder
+Attribute.ЛокальныйОтбор.Name=LocalFilter
+Attribute.ЛокальныйПорядок.Name=LocalOrder
 Attribute.Отчет.Name=Report
 Item.ДоступныеПоляВыбора.Name=SelectionAvailableFields
 Item.ДоступныеПоляГруппировки.Name=GroupFieldsAvailableFields

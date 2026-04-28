@@ -1,7 +1,7 @@
 #Translations for: model
 
 Method.ИзменитьПараметр.Name=EditParameter
-Method.ИзменитьПараметр.Param.ВходящееЗначение.Name=VkhodyashcheeValue
+Method.ИзменитьПараметр.Param.ВходящееЗначение.Name=ChangeParameter
 Method.ИзменитьПараметр.Param.Ключ.Name=Key
 Method.ИзменитьПараметр.Var.ПараметрыХранилища.Name=ParametersStorage
 Method.ПереименоватьПараметр.Name=RenameParameter
@@ -17,4 +17,4 @@ Method.ПолучитьПараметры.Var.ПараметрыХранилищ
 Method.УдалитьПараметр.Name=RemoveParameter
 Method.УдалитьПараметр.Param.Ключ.Name=Key
 Method.УдалитьПараметр.Var.ПараметрыХранилища.Name=ParametersStorage
-Region.СлужебныйПрограммныйИнтерфейс.Name=InternalProgrammnyyInterface
+Region.СлужебныйПрограммныйИнтерфейс.Name=ServiceProgramInterface

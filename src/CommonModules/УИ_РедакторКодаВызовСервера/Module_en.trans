@@ -14,7 +14,7 @@ Method.ДанныеАлгоритмаВСервисе.Var.МассивПути.N
 Method.ДанныеАлгоритмаВСервисе.Var.СтруктураСсылки.Name=StructureReferences
 Method.ДанныеБиблиотекиОбщегоМакета.Description=Data Address Common Template.
 Method.ДанныеБиблиотекиОбщегоМакета.Name=DataLibraryGeneralLayout
-Method.ДанныеБиблиотекиОбщегоМакета.Param.ДляИзвлеченияНаClientе.Name=ToIzvlecheniyaToClient
+Method.ДанныеБиблиотекиОбщегоМакета.Param.ДляИзвлеченияНаClientе.Name=DataLibrariesCommonTemplate
 Method.ДанныеБиблиотекиОбщегоМакета.Param.ИдентификаторФормы.Name=UUIDForm
 Method.ДанныеБиблиотекиОбщегоМакета.Param.ИмяМакета.Description=Name Template
 Method.ДанныеБиблиотекиОбщегоМакета.Param.ИмяМакета.Name=NameTemplate
@@ -41,7 +41,7 @@ Method.СсылкаНаКодВСервисеПослеЗагрузки.Return.D
 Method.СсылкаНаКодВСервисеПослеЗагрузки.String.Word.Не.Key=Exchange
 Method.СсылкаНаКодВСервисеПослеЗагрузки.String.Word.алгоритм.Key=algorithm
 Method.СсылкаНаКодВСервисеПослеЗагрузки.String.Word.в.Key=in
-Method.СсылкаНаКодВСервисеПослеЗагрузки.String.Word.загрузить.Key=zagruzit
+Method.СсылкаНаКодВСервисеПослеЗагрузки.String.Word.загрузить.Key=RefOnCodeInServiceAfterLoading
 Method.СсылкаНаКодВСервисеПослеЗагрузки.String.Word.удалось.Key=read
 Method.СсылкаНаКодВСервисеПослеЗагрузки.Var.РезультатОтправки.Name=ResultOtpravki
 Region.ПрограммныйИнтерфейс.Name=API

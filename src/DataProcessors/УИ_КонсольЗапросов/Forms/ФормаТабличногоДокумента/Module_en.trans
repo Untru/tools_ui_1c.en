@@ -22,13 +22,13 @@ Method.ПолучитьРазмерыКолонок.Param.тзРазмерыДа
 Method.ПолучитьРазмерыКолонок.Var.Колонка.Name=Column
 Method.ПолучитьРазмерыКолонок.Var.маРазмерыКолонок.Name=maTableDocument
 Method.ПолучитьРазмерыКолонок.Var.тз1к.Name=tz1k
-Method.ПолучитьРазмерыКолонок.Var.чМинимальныйРазмерКолонки.Name=PMinimalnyyFileName
+Method.ПолучитьРазмерыКолонок.Var.чМинимальныйРазмерКолонки.Name=GetDimensionsColumns
 Method.ПолучитьРазмерыКолонок.Var.чОтброс.Name=POtbros
-Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.AutoОтступ\ \=\ 4;.Description=OblastZapolneniya.AvtoOtstup \= 4;
-Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.ГоризонтальноеПоложение\ \=\ GorizontalnoePolozhenie\.Tsentr;.Description=OblastZapolneniya.GorizontalnoePolozhenie \= GorizontalnoePolozhenie.Tsentr;
-Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.Шрифт\ \=\ ShriftShapki;.Description=OblastZapolneniya.Font \= ShriftShapki;
+Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.AutoОтступ\ \=GenerateDocument
+Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.ГоризонтальноеПоложение\ \=GenerateDocument
+Method.СформироватьДокумент.Comment.ОбластьЗаполнения\.Шрифт\ \=GenerateDocument
 Method.СформироватьДокумент.Comment.ЦветЛинииШапки\ \=\ TsvetaStilya\.TsvetLiniiOtcheta;.Description=TsvetLiniiShapki \= TsvetaStilya.TsvetLiniiOtcheta;
-Method.СформироватьДокумент.Comment.ШрифтШапки\ \=\ ShriftyStilya\.shriftshNovyy\ Font(,\ 8,\ Lozh);.Description=ShriftShapki \= ShriftyStilya.shriftshNovyy Font(, 8, Lozh);
+Method.СформироватьДокумент.Comment.ШрифтШапки\ \=GenerateDocument
 Method.СформироватьДокумент.Comment.заголовок\ группировки\ 1.Description=Title Pages 1
 Method.СформироватьДокумент.Comment.заголовок\ группировки\ 2.Description=Title Pages 2
 Method.СформироватьДокумент.Comment.строка\ данных.Description=String Schema
